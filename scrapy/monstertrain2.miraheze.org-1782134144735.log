@@ -1,0 +1,752 @@
+content_main.js:4707 This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316
+/**
+ * Monster Train 2 Wiki 浏览器爬虫
+ *
+ * 用法:
+ *   1. 打开 https://monstertrain2.miraheze.org (确保已通过 Cloudflare 验证)
+ *   2. F12 打开开发者工具 → Console
+ *   3. 粘贴此脚本并运行
+ *   4. 调用以下任一函数:
+ *
+ *   // 按分类爬取
+ *   await crawlCategory('Enemies')
+ *   await crawlCategory('Banner_units')
+ *   await crawlCategory('Artifacts')
+ *
+ *   // 按列表页爬取 (从页面中提取链接)
+ *   await crawlFromListPage('Enemies')
+ *
+ *   // 爬取后自动下载 JSON 文件
+ *   await crawlAndDownload('Enemies', 'enemies.json')
+ */
+
+const API = 'https://monstertrain2.miraheze.org/w/api.php';
+
+// ============================================================
+// 1. 按分类爬取 (使用 MediaWiki categorymembers API)
+// ============================================================
+
+async function crawlCategory(categoryName, delay = 500) {
+    const pages = [];
+    let cmcontinue = null;
+
+    console.log(`[crawlCategory] Fetching Category:${categoryName}...`);
+
+    do {
+        let url = `${API}?action=query&list=categorymembers&cmtitle=Category:${encodeURIComponent(categoryName)}&cmlimit=500&format=json`;
+        if (cmcontinue) url += `&cmcontinue=${encodeURIComponent(cmcontinue)}`;
+
+        const resp = await fetch(url);
+        const data = await resp.json();
+
+        if (!data.query) {
+            console.error('API error:', data);
+            break;
+        }
+
+        for (const m of data.query.categorymembers) {
+            if (m.ns === 0) {  // ns=0 = 主命名空间 (排除 Category:, Template: 等)
+                pages.push(m.title);
+            }
+        }
+
+        cmcontinue = data.continue?.cmcontinue;
+        console.log(`  ... got ${pages.length} pages so far`);
+    } while (cmcontinue);
+
+    console.log(`[crawlCategory] Found ${pages.length} pages in Category:${categoryName}`);
+    return pages;
+}
+
+// ============================================================
+// 2. 从列表页提取所有 wiki 链接
+// ============================================================
+
+async function extractLinksFromPage(pageTitle) {
+    console.log(`[extractLinks] Fetching page: ${pageTitle}`);
+    const htmlUrl = `${API}?action=parse&page=${encodeURIComponent(pageTitle)}&prop=text&format=json`;
+    const resp = await fetch(htmlUrl);
+    const data = await resp.json();
+
+    if (!data.parse) {
+        console.error('Failed to parse page:', data);
+        return [];
+    }
+
+    const html = data.parse.text['*'];
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+
+    // 提取所有指向主命名空间的内部链接
+    const links = new Set();
+    for (const a of doc.querySelectorAll('a[href^="/wiki/"]')) {
+        const href = a.getAttribute('href');
+        // 排除特殊页面和文件页面
+        if (href && !href.includes(':') && !href.includes('?') && !href.includes('#')) {
+            const title = decodeURIComponent(href.replace('/wiki/', '')).replace(/_/g, ' ');
+            links.add(title);
+        }
+    }
+
+    console.log(`[extractLinks] Found ${links.size} unique wiki links on "${pageTitle}"`);
+    return [...links];
+}
+
+// ============================================================
+// 3. 批量获取原始 wikitext
+// ============================================================
+
+async function fetchWikitext(title) {
+    const url = `${API}?action=parse&page=${encodeURIComponent(title)}&prop=wikitext&format=json`;
+    const resp = await fetch(url);
+    const data = await resp.json();
+    return data.parse?.wikitext?.['*'] || '';
+}
+
+async function fetchAllWikitext(titles, delay = 300, onProgress = null) {
+    const results = {};
+    let count = 0;
+
+    for (const title of titles) {
+        try {
+            results[title] = await fetchWikitext(title);
+            count++;
+            if (onProgress) {
+                onProgress(count, titles.length, title);
+            } else {
+                console.log(`  [${count}/${titles.length}] ${title}`);
+            }
+        } catch (e) {
+            console.error(`  FAILED: ${title} - ${e.message}`);
+            results[title] = null;
+        }
+        await new Promise(r => setTimeout(r, delay));
+    }
+
+    return results;
+}
+
+// ============================================================
+// 4. 一键爬取 + 下载
+// ============================================================
+
+async function crawlAndDownload(categoryOrPage, filename = null) {
+    // 检测是分类名还是页面名
+    let titles;
+
+    // 先尝试作为分类
+    titles = await crawlCategory(categoryOrPage);
+    if (titles.length === 0) {
+        // 回退：作为列表页提取链接
+        console.log(` Category:${categoryOrPage} 为空, 尝试作为列表页...`);
+        titles = await extractLinksFromPage(categoryOrPage);
+    }
+
+    if (titles.length === 0) {
+        console.error('No pages found!');
+        return;
+    }
+
+    console.log(`\n开始爬取 ${titles.length} 个页面...`);
+    const data = await fetchAllWikitext(titles);
+
+    downloadJSON(data, filename || `${categoryOrPage}_wikitext.json`);
+    console.log(`\n完成! 共 ${Object.keys(data).length} 个页面`);
+    return data;
+}
+
+// ============================================================
+// 5. 从列表页一键爬取
+// ============================================================
+
+async function crawlFromListPage(pageTitle, filename = null) {
+    const titles = await extractLinksFromPage(pageTitle);
+    if (titles.length === 0) {
+        console.error(`No links found on "${pageTitle}"`);
+        return;
+    }
+
+    console.log(`\n开始爬取 ${titles.length} 个页面...`);
+    const data = await fetchAllWikitext(titles);
+    downloadJSON(data, filename || `${pageTitle}_data.json`);
+    console.log(`\n完成!`);
+    return data;
+}
+
+// ============================================================
+// 6. 工具函数
+// ============================================================
+
+function downloadJSON(data, filename) {
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+    console.log(`  [download] Saved as ${filename}`);
+}
+
+// 列出 wiki 上所有分类
+async function listAllCategories(prefix = '') {
+    const categories = [];
+    let apcontinue = null;
+
+    do {
+        let url = `${API}?action=query&list=allcategories&aclimit=500&format=json`;
+        if (prefix) url += `&acprefix=${encodeURIComponent(prefix)}`;
+        if (apcontinue) url += `&apcontinue=${encodeURIComponent(apcontinue)}`;
+
+        const resp = await fetch(url);
+        const data = await resp.json();
+        categories.push(...(data.query?.allcategories || []).map(c => c['*']));
+        apcontinue = data.continue?.apcontinue;
+    } while (apcontinue);
+
+    console.log('All categories:');
+    categories.forEach(c => console.log(`  - ${c}`));
+    return categories;
+}
+
+// 列出某分类下的页面 (只看标题不下载)
+async function listCategoryMembers(categoryName) {
+    const pages = await crawlCategory(categoryName);
+    console.log(`\nPages in Category:${categoryName}:`);
+    pages.forEach(p => console.log(`  - ${p}`));
+    return pages;
+}
+
+console.log('%c Monster Train 2 Wiki Crawler Ready %c v1.0',
+    'background:#c8a96e;color:#000;padding:4px 8px;font-size:14px',
+    'color:#888');
+console.log('');
+console.log('可用命令:');
+console.log('  await listAllCategories()          - 列出所有分类');
+console.log('  await listCategoryMembers("分类名") - 查看分类下的页面');
+console.log('  await crawlAndDownload("分类名")    - 一键爬取+下载');
+console.log('  await crawlFromListPage("页面名")   - 从列表页提取链接并爬取');
+console.log('');
+console.log('示例:');
+console.log('  await listAllCategories()');
+console.log('  await listCategoryMembers("Enemies")');
+console.log('  await crawlAndDownload("Enemies", "mt2_enemies.json")');
+
+VM541:221  Monster Train 2 Wiki Crawler Ready  v1.0
+VM541:224 
+VM541:225 可用命令:
+VM541:226   await listAllCategories()          - 列出所有分类
+VM541:227   await listCategoryMembers("分类名") - 查看分类下的页面
+VM541:228   await crawlAndDownload("分类名")    - 一键爬取+下载
+VM541:229   await crawlFromListPage("页面名")   - 从列表页提取链接并爬取
+VM541:230 
+VM541:231 示例:
+VM541:232   await listAllCategories()
+VM541:233   await listCategoryMembers("Enemies")
+VM541:234   await crawlAndDownload("Enemies", "mt2_enemies.json")
+undefined
+await listAllCategories()
+VM541:208 All categories:
+VM541:209   - 0-cost cards
+VM541:209   - 1-capacity units
+VM541:209   - 1-cost cards
+VM541:209   - 2-capacity units
+VM541:209   - 2-cost cards
+VM541:209   - 3-capacity units
+VM541:209   - 3-cost cards
+VM541:209   - 4-capacity units
+VM541:209   - 4-cost cards
+VM541:209   - 5-capacity units
+VM541:209   - 6-capacity units
+VM541:209   - 6-cost cards
+VM541:209   - 8-cost cards
+VM541:209   - Ability Pyre Hearts
+VM541:209   - Ability artifacts
+VM541:209   - Ability cards
+VM541:209   - Action cards
+VM541:209   - Action enemies
+VM541:209   - Additional stack artifacts
+VM541:209   - Additional trigger artifacts
+VM541:209   - Advance cards
+VM541:209   - Amplifier artifacts
+VM541:209   - Angel units
+VM541:209   - Animus units
+VM541:209   - Area of effect artifacts
+VM541:209   - Area of effect cards
+VM541:209   - Area of effect enemies
+VM541:209   - Armor artifacts
+VM541:209   - Armor cards
+VM541:209   - Armor enemies
+VM541:209   - Armored cards
+VM541:209   - Artifact events
+VM541:209   - Artifacts
+VM541:209   - Artifacts by clan
+VM541:209   - Artifacts by effect
+VM541:209   - Artificer cards
+VM541:209   - Ascend artifacts
+VM541:209   - Ascend cards
+VM541:209   - Ascension enemies
+VM541:209   - Assistant units
+VM541:209   - Attack artifacts
+VM541:209   - Attack cards
+VM541:209   - Attack enemies
+VM541:209   - Attackers
+VM541:209   - Attuned cards
+VM541:209   - Automaton units
+VM541:209   - Avarice artifacts
+VM541:209   - Avarice cards
+VM541:209   - Awoken artifacts
+VM541:209   - Awoken cards
+VM541:209   - Awoken equipment
+VM541:209   - Awoken rooms
+VM541:209   - Awoken spells
+VM541:209   - Awoken units
+VM541:209   - Banished artifacts
+VM541:209   - Banished cards
+VM541:209   - Banished cutscenes
+VM541:209   - Banished equipment
+VM541:209   - Banished rooms
+VM541:209   - Banished spells
+VM541:209   - Banished units
+VM541:209   - Banner units
+VM541:209   - Blight artifacts
+VM541:209   - Blight events
+VM541:209   - Blights
+VM541:209   - Boss enemies
+VM541:209   - Bosses
+VM541:209   - Box units
+VM541:209   - Buff removal cards
+VM541:209   - Buffet cards
+VM541:209   - Buffet enemies
+VM541:209   - Buffs
+VM541:209   - Burnout artifacts
+VM541:209   - Burnout cards
+VM541:209   - Burst artifacts
+VM541:209   - Burst cards
+VM541:209   - Burst enemies
+VM541:209   - Capacity artifacts
+VM541:209   - Capacity cards
+VM541:209   - Card-adding cards
+VM541:209   - Card Nav Templates
+VM541:209   - Card Pile Bonus artifacts
+VM541:209   - Card Pile Bonus cards
+VM541:209   - Card draft artifacts
+VM541:209   - Card draw artifacts
+VM541:209   - Card draw cards
+VM541:209   - Card events
+VM541:209   - Card generation artifacts
+VM541:209   - Card generation cards
+VM541:209   - Cards
+VM541:209   - Cards by acquisition
+VM541:209   - Cards by clan
+VM541:209   - Cards by cost
+VM541:209   - Cards by effect
+VM541:209   - Cards by effects
+VM541:209   - Cards by rarity
+VM541:209   - Cards by type
+VM541:209   - Celebrate cards
+VM541:209   - Celestial Alcove artifacts
+VM541:209   - Celestial Alcove cards
+VM541:209   - Champion units
+VM541:209   - Channeler units
+VM541:209   - Charged Echo artifacts
+VM541:209   - Charged Echo cards
+VM541:209   - Clanless
+VM541:209   - Clanless artifacts
+VM541:209   - Clanless cards
+VM541:209   - Clanless equipment
+VM541:209   - Clanless rooms
+VM541:209   - Clanless spells
+VM541:209   - Clanless units
+VM541:209   - Clerics
+VM541:209   - Coins artifacts
+VM541:209   - Coins cards
+VM541:209   - Common Awoken cards
+VM541:209   - Common Banished cards
+VM541:209   - Common Clanless cards
+VM541:209   - Common Hellhorned cards
+VM541:209   - Common Lazarus League cards
+VM541:209   - Common Luna Coven cards
+VM541:209   - Common Melting Remnant cards
+VM541:209   - Common Pyreborne cards
+VM541:209   - Common Railforged cards
+VM541:209   - Common Stygian Guard cards
+VM541:209   - Common Umbra cards
+VM541:209   - Common Umbra spells
+VM541:209   - Common Underlegion cards
+VM541:209   - Common Wurmkin cards
+VM541:209   - Common cards
+VM541:209   - Conduit artifacts
+VM541:209   - Conduit cards
+VM541:209   - Construct units
+VM541:209   - Consume artifacts
+VM541:209   - Consume cards
+VM541:209   - Consume return cards
+VM541:209   - Cooldown reduction artifacts
+VM541:209   - Cooldown reduction cards
+VM541:209   - Copy artifacts
+VM541:209   - Copy cards
+VM541:209   - Corruption enemies
+VM541:209   - Craft cards
+VM541:209   - Cultist units
+VM541:209   - Cultivate cards
+VM541:209   - Cutscenes
+VM541:209   - Cutscenes by location
+VM541:209   - Cutscenes by series
+VM541:209   - DOTR DLC
+VM541:209   - Damage Shield artifacts
+VM541:209   - Damage Shield cards
+VM541:209   - Damage Shield enemies
+VM541:209   - Damage artifacts
+VM541:209   - Damage cards
+VM541:209   - Damage shield cards
+VM541:209   - Dante units
+VM541:209   - Dazed artifacts
+VM541:209   - Dazed cards
+VM541:209   - Dazed enemies
+VM541:209   - Debuff removal cards
+VM541:209   - Debuffs
+VM541:209   - Decay artifacts
+VM541:209   - Decay cards
+VM541:209   - Delete Candidate
+VM541:209   - Demon Imp units
+VM541:209   - Demon units
+VM541:209   - Deployable cards
+VM541:209   - Deployment artifacts
+VM541:209   - Descend cards
+VM541:209   - Discard artifacts
+VM541:209   - Discard cards
+VM541:209   - Distinct cards
+VM541:209   - Dog units
+VM541:209   - Dragon's Hoard artifacts
+VM541:209   - Dragon's Hoard cards
+VM541:209   - Dragon units
+VM541:209   - Draw artifacts
+VM541:209   - Draw cards
+VM541:209   - Eaten artifacts
+VM541:209   - Eaten cards
+VM541:209   - Eaten enemies
+VM541:209   - Egg units
+VM541:209   - Ember artifacts
+VM541:209   - Ember cards
+VM541:209   - Emberdrain cards
+VM541:209   - Emberdrain enemies
+VM541:209   - Enchant cards
+VM541:209   - Enchant enemies
+VM541:209   - Enchanters
+VM541:209   - End of Turn cards
+VM541:209   - End of battle artifacts
+VM541:209   - End of turn artifacts
+VM541:209   - Endless artifacts
+VM541:209   - Endless cards
+VM541:209   - Enemies
+VM541:209   - Enemies by effect
+VM541:209   - Enemies by ring
+VM541:209   - Enemies by type
+VM541:209   - Enemies in Ring 1
+VM541:209   - Enemies in Ring 2
+VM541:209   - Enemy-generated cards
+VM541:209   - Ephemeral cards
+VM541:209   - Equipment
+VM541:209   - Equipment artifacts
+VM541:209   - Equipment cards
+VM541:209   - Equipped artifacts
+VM541:209   - Equipped cards
+VM541:209   - Etch cards
+VM541:209   - Events
+VM541:209   - Events by effect
+VM541:209   - Explosive cards
+VM541:209   - Extinguish artifacts
+VM541:209   - Extinguish cards
+VM541:209   - Extinguish enemies
+VM541:209   - Extract artifacts
+VM541:209   - Extract cards
+VM541:209   - Fae units
+VM541:209   - Fate Link enemies
+VM541:209   - Fen units
+VM541:209   - Floor artifacts
+VM541:209   - Forge artifacts
+VM541:209   - Forge cards
+VM541:209   - Fragile cards
+VM541:209   - Frostbite artifacts
+VM541:209   - Frostbite cards
+VM541:209   - Frozen artifacts
+VM541:209   - Frozen cards
+VM541:209   - Fuel cards
+VM541:209   - Full Moon artifacts
+VM541:209   - Full Moon cards
+VM541:209   - Gamemode
+VM541:209   - Gathering at the Pyre cutscenes
+VM541:209   - Gorge artifacts
+VM541:209   - Gorge cards
+VM541:209   - Gorge enemies
+VM541:209   - Graft artifacts
+VM541:209   - Graft cards
+VM541:209   - Harvest artifacts
+VM541:209   - Harvest cards
+VM541:209   - Harvest enemies
+VM541:209   - Haste enemies
+VM541:209   - Healing artifacts
+VM541:209   - Healing cards
+VM541:209   - Health artifacts
+VM541:209   - Health cards
+VM541:209   - Health enemies
+VM541:209   - Heavies
+VM541:209   - Hellhorned artifacts
+VM541:209   - Hellhorned cards
+VM541:209   - Hellhorned equipment
+VM541:209   - Hellhorned rooms
+VM541:209   - Hellhorned spells
+VM541:209   - Hellhorned units
+VM541:209   - Hollow units
+VM541:209   - Hordes
+VM541:209   - Host units
+VM541:209   - Hunger cards
+VM541:209   - Hymnist units
+VM541:209   - Icon Templates
+VM541:209   - Immediate attack cards
+VM541:209   - Immobile cards
+VM541:209   - Immobile enemies
+VM541:209   - Imp units
+VM541:209   - Incant artifacts
+VM541:209   - Incant cards
+VM541:209   - Incant enemies
+VM541:209   - Inert cards
+VM541:209   - Infested enemies
+VM541:209   - Infobox Templates
+VM541:209   - Infused artifacts
+VM541:209   - Infused cards
+VM541:209   - Inspire cards
+VM541:209   - Junkers
+VM541:209   - Kin units
+VM541:209   - Lazarus League artifacts
+VM541:209   - Lazarus League cards
+VM541:209   - Lazarus League cutscenes
+VM541:209   - Lazarus League equipment
+VM541:209   - Lazarus League rooms
+VM541:209   - Lazarus League spells
+VM541:209   - Lazarus League units
+VM541:209   - Lifesteal artifacts
+VM541:209   - Lifesteal cards
+VM541:209   - Lifesteal enemies
+VM541:209   - Loop enemies
+VM541:209   - Lore
+VM541:209   - Luna Coven artifacts
+VM541:209   - Luna Coven cards
+VM541:209   - Luna Coven cutscenes
+VM541:209   - Luna Coven equipment
+VM541:209   - Luna Coven rooms
+VM541:209   - Luna Coven spells
+VM541:209   - Luna Coven units
+VM541:209   - Machine units
+VM541:209   - Mage units
+VM541:209   - Mageblade artifacts
+VM541:209   - Mageblade cards
+VM541:209   - Mages
+VM541:209   - Magic Power artifacts
+VM541:209   - Magic Power cards
+VM541:209   - Magic power artifacts
+VM541:209   - Main Story cutscenes
+VM541:209   - Melee weakness cards
+VM541:209   - Melee weakness enemies
+VM541:209   - Melting Remnant artifacts
+VM541:209   - Melting Remnant cards
+VM541:209   - Melting Remnant equipment
+VM541:209   - Melting Remnant rooms
+VM541:209   - Melting Remnant spells
+VM541:209   - Melting Remnant units
+VM541:209   - Minor Pyreborne artifacts
+VM541:209   - Mix artifacts
+VM541:209   - Mix cards
+VM541:209   - Modifier cards
+VM541:209   - Monstrosity units
+VM541:209   - Moon artifacts
+VM541:209   - Moon cards
+VM541:209   - Mooncycle artifacts
+VM541:209   - Mooncycle cards
+VM541:209   - Morsel artifacts
+VM541:209   - Morsel cards
+VM541:209   - Morsel units
+VM541:209   - Multi-hit cards
+VM541:209   - Multistrike artifacts
+VM541:209   - Multistrike cards
+VM541:209   - Multistrike enemies
+VM541:209   - Mute artifacts
+VM541:209   - Mute cards
+VM541:209   - Nav Templates
+VM541:209   - New Moon artifacts
+VM541:209   - New Moon cards
+VM541:209   - Offering cards
+VM541:209   - Outdated page
+VM541:209   - Pages using Tabber parser tag
+VM541:209   - Pages with broken file links
+VM541:209   - Patches
+VM541:209   - Permanent scaling artifacts
+VM541:209   - Permanent scaling cards
+VM541:209   - Persistent cards
+VM541:209   - Phase cards
+VM541:209   - Piercing artifacts
+VM541:209   - Piercing cards
+VM541:209   - Propagate artifacts
+VM541:209   - Propagate cards
+VM541:209   - Purge artifacts
+VM541:209   - Purge cards
+VM541:209   - Pyre Hearts
+VM541:209   - Pyre attack artifacts
+VM541:209   - Pyre damage artifacts
+VM541:209   - Pyre damage cards
+VM541:209   - Pyre damage enemies
+VM541:209   - Pyre health artifacts
+VM541:209   - Pyre health cards
+VM541:209   - Pyre health events
+VM541:209   - Pyreborne artifacts
+VM541:209   - Pyreborne cards
+VM541:209   - Pyreborne cutscenes
+VM541:209   - Pyreborne equipment
+VM541:209   - Pyreborne rooms
+VM541:209   - Pyreborne spells
+VM541:209   - Pyreborne units
+VM541:209   - Pyrebound cards
+VM541:209   - Pyregel artifacts
+VM541:209   - Pyregel cards
+VM541:209   - Quick cards
+VM541:209   - Rage artifacts
+VM541:209   - Rage cards
+VM541:209   - Rage enemies
+VM541:209   - Railforged artifacts
+VM541:209   - Railforged cards
+VM541:209   - Railforged equipment
+VM541:209   - Railforged rooms
+VM541:209   - Railforged spells
+VM541:209   - Railforged units
+VM541:209   - Railspike
+VM541:209   - Rally cards
+VM541:209   - Random artifacts
+VM541:209   - Random cards
+VM541:209   - Rare Awoken cards
+VM541:209   - Rare Banished cards
+VM541:209   - Rare Clanless cards
+VM541:209   - Rare Hellhorned cards
+VM541:209   - Rare Lazarus League cards
+VM541:209   - Rare Luna Coven cards
+VM541:209   - Rare Melting Remnant cards
+VM541:209   - Rare Pyreborne cards
+VM541:209   - Rare Railforged cards
+VM541:209   - Rare Stygian Guard cards
+VM541:209   - Rare Umbra cards
+VM541:209   - Rare Underlegion cards
+VM541:209   - Rare Wurmkin cards
+VM541:209   - Rare cards
+VM541:209   - Reanimate cards
+VM541:209   - Reanimate enemies
+VM541:209   - Reanimated artifacts
+VM541:209   - Reanimated cards
+VM541:209   - Reap artifacts
+VM541:209   - Reap cards
+VM541:209   - Recover enemies
+VM541:209   - Refined cards
+VM541:209   - Reform cards
+VM541:209   - Regen artifacts
+VM541:209   - Regen cards
+VM541:209   - Regen enemies
+VM541:209   - Rejuvenate cards
+VM541:209   - Relentless enemies
+VM541:209   - Removed content
+VM541:209   - Reserve cards
+VM541:209   - Resolve cards
+VM541:209   - Resolve enemies
+VM541:209   - Restore cards
+VM541:209   - Retreat cards
+VM541:209   - Revenge artifacts
+VM541:209   - Revenge cards
+VM541:209   - Revenge enemies
+VM541:209   - Ring 1 Enemies
+VM541:209   - Ring 1 enemies
+VM541:209   - Ring 2 enemies
+VM541:209   - Ring 3 enemies
+VM541:209   - Ring 4 enemies
+VM541:209   - Ring 5 enemies
+VM541:209   - Ring 6 enemies
+VM541:209   - Ring 7 enemies
+VM541:209   - Ring 8 enemies
+VM541:209   - Ring 9 enemies
+VM541:209   - Room artifacts
+VM541:209   - Rooms
+VM541:209   - Rooted artifacts
+VM541:209   - Rooted cards
+VM541:209   - Sacrifice cards
+VM541:209   - Sap cards
+VM541:209   - Sap enemies
+VM541:209   - Scaling artifacts
+VM541:209   - Scaling cards
+VM541:209   - Scourge artifacts
+VM541:209   - Scourge enemies
+VM541:209   - Scourges
+VM541:209   - Selene units
+VM541:209   - Shard cards
+VM541:209   - Shell artifacts
+VM541:209   - Shell cards
+VM541:209   - Shieldguard enemies
+VM541:209   - Shieldguards
+VM541:209   - Shift artifacts
+VM541:209   - Shift cards
+VM541:209   - Shift enemies
+VM541:209   - Shroom units
+VM541:209   - Shroud units
+VM541:209   - Silence cards
+VM541:209   - Silence enemies
+VM541:209   - Silent units
+VM541:209   - Siphon cards
+VM541:209   - Siphon enemies
+VM541:209   - Siren units
+VM541:209   - Slay artifacts
+VM541:209   - Slay cards
+VM541:209   - Slay enemies
+VM541:209   - Smelt artifacts
+VM541:209   - Smelt cards
+VM541:209   - Sniper enemies
+VM541:209   - Soul cards
+VM541:209   - Spawn cards
+VM541:209   - Spell Shield enemies
+VM541:209   - Spell Weakness artifacts
+VM541:209   - Spell Weakness cards
+VM541:209   - Spell artifacts
+VM541:209   - Spell shield enemies
+VM541:209   - Spells
+VM541:209   - Spikes artifacts
+VM541:209   - Spikes cards
+VM541:209   - Spikes enemies
+VM541:209   - Start of turn artifacts
+VM541:209   - Starter cards
+VM541:209   - Stasis cards
+VM541:209   - Status Effects
+VM541:209   - Stealth artifacts
+VM541:209   - Stealth cards
+VM541:209   - Stealth enemies
+VM541:209   - Steelguard cards
+VM541:209   - Steward units
+VM541:209   - Sting artifacts
+VM541:209   - Strike artifacts
+VM541:209   - Strike cards
+VM541:209   - Strike enemies
+VM541:209   - Stygian Guard artifacts
+VM541:209   - Stygian Guard cards
+VM541:209   - Stygian Guard equipment
+VM541:209   - Stygian Guard rooms
+VM541:209   - Stygian Guard spells
+VM541:209   - Stygian Guard units
+VM541:209   - Stygian spells
+VM541:209   - Summon artifacts
+VM541:209   - Summon cards
+VM541:209   - Summon enemies
+VM541:209   - Summon units
+VM541:209   - Summoner cards
+VM541:209   - Sweep cards
+VM541:209   - Sweep enemies
+VM541:209   - Templates
+VM541:209   - The Barracks cutscenes
+VM541:209   - The Distant Cliffs cutscenes
+VM541:209   - The Tipsy Imp cutscenes
+(500) ['0-cost cards', '1-capacity units', '1-cost cards', '2-capacity units', '2-cost cards', '3-capacity units', '3-cost cards', '4-capacity units', '4-cost cards', '5-capacity units', '6-capacity units', '6-cost cards', '8-cost cards', 'Ability Pyre Hearts', 'Ability artifacts', 'Ability cards', 'Action cards', 'Action enemies', 'Additional stack artifacts', 'Additional trigger artifacts', 'Advance cards', 'Amplifier artifacts', 'Angel units', 'Animus units', 'Area of effect artifacts', 'Area of effect cards', 'Area of effect enemies', 'Armor artifacts', 'Armor cards', 'Armor enemies', 'Armored cards', 'Artifact events', 'Artifacts', 'Artifacts by clan', 'Artifacts by effect', 'Artificer cards', 'Ascend artifacts', 'Ascend cards', 'Ascension enemies', 'Assistant units', 'Attack artifacts', 'Attack cards', 'Attack enemies', 'Attackers', 'Attuned cards', 'Automaton units', 'Avarice artifacts', 'Avarice cards', 'Awoken artifacts', 'Awoken cards', 'Awoken equipment', 'Awoken rooms', 'Awoken spells', 'Awoken units', 'Banished artifacts', 'Banished cards', 'Banished cutscenes', 'Banished equipment', 'Banished rooms', 'Banished spells', 'Banished units', 'Banner units', 'Blight artifacts', 'Blight events', 'Blights', 'Boss enemies', 'Bosses', 'Box units', 'Buff removal cards', 'Buffet cards', 'Buffet enemies', 'Buffs', 'Burnout artifacts', 'Burnout cards', 'Burst artifacts', 'Burst cards', 'Burst enemies', 'Capacity artifacts', 'Capacity cards', 'Card-adding cards', 'Card Nav Templates', 'Card Pile Bonus artifacts', 'Card Pile Bonus cards', 'Card draft artifacts', 'Card draw artifacts', 'Card draw cards', 'Card events', 'Card generation artifacts', 'Card generation cards', 'Cards', 'Cards by acquisition', 'Cards by clan', 'Cards by cost', 'Cards by effect', 'Cards by effects', 'Cards by rarity', 'Cards by type', 'Celebrate cards', 'Celestial Alcove artifacts', 'Celestial Alcove cards', …]

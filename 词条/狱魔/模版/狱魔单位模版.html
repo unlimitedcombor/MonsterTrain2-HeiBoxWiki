@@ -1,0 +1,281 @@
+<div class="mt2-card">
+    <!-- 卡牌头部 -->
+    <div class="mt2-card-header">
+        <div class="mt2-card-title">卡牌名称</div>
+        <div class="mt2-card-rarity mt2-rarity-Common">普通</div>
+    </div>
+
+    <!-- 卡牌图片 -->
+    <div class="mt2-card-image">
+        <img src="卡图.png" alt="卡牌名称">
+    </div>
+
+    <!-- 基础属性行 -->
+    <div class="mt2-card-attributes">    
+        <div class="mt2-attr">
+            <span class="mt2-attr-label">类型</span>
+            <span class="mt2-attr-value">无</span>
+        </div>
+        <div class="mt2-attr">
+            <span class="mt2-attr-label">费用</span>
+            <span class="mt2-attr-value mt2-ember"><img src="https://cdn.max-c.com/wiki/2742830/Ember.png?v=1" class="mt2-icon"> 0</span>
+        </div>
+        <div class="mt2-attr">
+            <span class="mt2-attr-label">容量</span>
+            <span class="mt2-attr-value mt2-capacity"><img src="https://cdn.max-c.com/wiki/2742830/Capacity.png?v=1" class="mt2-icon"> 0</span>
+        </div>
+        <div class="mt2-attr">
+            <span class="mt2-attr-label">战旗单位</span>
+            <span class="mt2-attr-value">是</span>
+        </div>
+    </div>
+
+    <!-- 战斗属性 -->
+    <div class="mt2-card-stats">
+        <div class="mt2-stat">
+            <img src="https://cdn.max-c.com/wiki/2742830/Attack.png?v=1" class="mt2-stat-icon">
+            <div class="mt2-stat-num">0</div>
+            <div class="mt2-stat-label">攻击力</div>
+        </div>
+        <div class="mt2-stat-divider"></div>
+        <div class="mt2-stat">
+            <img src="https://cdn.max-c.com/wiki/2742830/Health.png?v=1" class="mt2-stat-icon">
+            <div class="mt2-stat-num">0</div>
+            <div class="mt2-stat-label">生命值</div>
+        </div>
+    </div>
+
+    <!-- 能力 -->
+    
+    <div class="mt2-card-ability">
+        <span class="mt2-ability-text">
+            无
+        </span>
+    </div>
+    
+
+
+
+    <!-- 风味文字 -->
+    
+    <div class="mt2-card-flavor">
+        <i>"风味文字"</i>
+    </div>
+    
+
+    <!-- 画师 -->
+    
+    <div class="mt2-card-artist">
+        画师: 画师名</div>
+    
+</div>
+
+<style>
+    /* === 怪物火车2 - 卡牌名片 样式 === */
+
+    .mt2-card img { display: inline !important; vertical-align: middle !important; } .mt2-card {
+        width: 100%;
+        max-width: 400px;
+        background: linear-gradient(180deg, #1a1020 0%, #0d0d1a 100%);
+        border: 2px solid #ff3600;
+        border-radius: 8px;
+        overflow: hidden;
+        font-family: "Microsoft YaHei", sans-serif;
+        color: #e0d5c0;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+        margin: 10px auto;
+    }
+
+    /* 头部 */
+    .mt2-card-header {
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;padding: 8px 14px;
+        background: linear-gradient(180deg, #2a1a30, #1a1020);
+        border-bottom: 1px solid #3a2a40;
+    }
+
+    .mt2-card-title {
+        font-size: 18px;
+        font-weight: bold;
+        color: #f0e0c0;
+        text-shadow: 0 0 8px rgba(255,54,0,0.3);
+    }
+
+    /* 稀有度标签 */
+    .mt2-card-rarity {
+        margin-left: auto;
+        font-size: 11px;
+        padding: 2px 10px;
+        border-radius: 3px;
+        font-weight: bold;
+        letter-spacing: 1px;
+    }
+    .mt2-rarity-Common { background: #4a5a4a; color: #b0c0b0; }
+    .mt2-rarity-Uncommon { background: #1a3050; color: #60a0f0; }
+    .mt2-rarity-Rare { background: #2a1040; color: #c080f0; }
+    .mt2-rarity-Champion { background: #4a1a1a; color: #f06040; }
+
+    /* 图片 */
+    .mt2-card-image {
+        text-align: center;
+        padding: 12px 0;
+        background: radial-gradient(ellipse, #1a1a30 0%, #0d0d1a 100%);
+    }
+    .mt2-card-image img { display: block !important; margin: 0 auto !important; max-height: 280px; } 
+
+    /* 属性行 */
+    .mt2-card-attributes {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 6px 8px;
+        background: rgba(0,0,0,0.3);
+        border-top: 1px solid #2a1a30;
+        gap: 4px;
+    }
+
+    .mt2-attr {
+        flex: 1 1 auto;
+        min-width: 60px;
+        text-align: center;
+        padding: 4px 6px;
+    }
+
+    .mt2-attr-label {
+        display: block;
+        font-size: 10px;
+        color: #8a4030;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    .mt2-attr-value {
+        display: block;
+        font-size: 14px;
+        color: #e0d5c0;
+        font-weight: bold;
+    }
+
+    .mt2-ember {
+        color: #f0a030;
+    }
+
+    .mt2-capacity {
+        color: #8a4030;
+    }
+
+    /* 战斗属性 */
+    .mt2-card-stats {
+        display: flex;
+        align-items: center;
+        padding: 14px 10px;
+        background: rgba(0,0,0,0.2);
+        border-top: 1px solid #2a1a30;
+    }
+
+    .mt2-stat {
+        flex: 1;
+        text-align: center;
+    }
+
+    .mt2-stat-icon {
+        width: 28px;
+        height: 28px;
+        margin-bottom: 2px;
+    }
+
+    .mt2-icon {
+        width: 15px;
+        height: 15px;
+        vertical-align: middle;
+        margin-right: 2px;
+    }
+
+    .mt2-stat-num {
+        font-size: 28px;
+        font-weight: bold;
+        color: #f0e0c0;
+        line-height: 1.2;
+    }
+
+    .mt2-stat-label {
+        font-size: 10px;
+        color: #8a4030;
+        letter-spacing: 1px;
+    }
+
+    .mt2-stat-divider {
+        width: 1px;
+        height: 50px;
+        background: linear-gradient(0deg, transparent, #ff3600, transparent);
+    }
+
+    /* 能力 */
+    .mt2-card-ability {
+        display: flex;
+        align-items: center;
+        padding: 10px 14px;
+        background: rgba(255,54,0,0.08);
+        border-top: 1px solid #2a1a30;
+        border-left: 3px solid #ff3600;
+    }
+
+    .mt2-ability-label {
+        font-size: 13px;
+        color: #ff3600;
+        font-weight: bold;
+        margin-right: 6px;
+        flex-shrink: 0;
+        line-height: 1.8;
+    }
+
+    .mt2-ability-text {
+        font-size: 13px;
+        color: #d0c8b0;
+        line-height: 1.8;
+    }
+
+    /* 风味文字 */
+    .mt2-card-flavor {
+        padding: 10px 14px;
+        font-size: 12px;
+        color: #6a3020;
+        text-align: center;
+        font-style: italic;
+        border-top: 1px solid #1a1a2a;
+    }
+
+    /* 画师 */
+    .mt2-card-artist {
+        padding: 6px 14px;
+        font-size: 10px;
+        color: #909090;
+        text-align: right;
+        border-top: 1px solid #1a1a2a;
+    }
+
+    a {
+        color: inherit !important;
+    }
+</style>
+<script>
+    function changeRarity(newRarity) {
+        const rarityElement = document.querySelector('.mt2-card-rarity');
+        const oldRarity = rarityElement.innerText;
+
+        const rarityMap = {
+            "普通": "mt2-rarity-Common",
+            "高级": "mt2-rarity-Uncommon",
+            "稀有": "mt2-rarity-Rare",
+            "初始卡": "mt2-rarity-Champion",
+        };
+
+        if (rarityMap[oldRarity]) {
+            rarityElement.classList.remove(rarityMap[oldRarity]);
+        }
+        rarityElement.classList.add(rarityMap[newRarity]);
+        rarityElement.innerText = newRarity;
+    }
+
+    changeRarity('稀有');
+</script>

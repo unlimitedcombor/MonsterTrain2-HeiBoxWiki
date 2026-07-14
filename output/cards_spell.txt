@@ -1,0 +1,2623 @@
+{{怪物火车2-法术
+|name=A Fatal Melting
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_AFatalMelting.png
+|clan=Melting Remnant
+|cost=2
+|rarity=Uncommon
+|effect=Deal damage to enemy units equal to '''3x''' the number of friendly unit deaths this battle.
+|flavor=Charged with both the extension of life and the acceleration of melting, the Reformed tend to large flames at each Votive House, allowing for Waxers to congregate and melt more quickly than they would on their own.
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-法术
+|name=Acid Shower
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_AcidShower.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Unstable&#124;10}} and deal '''1''' damage to enemy units.
+|flavor="If water gets in your eyes, rinse them out immediately with acid."<br>—OHELL Safety Regulations and Guidelines
+|artist=Michaela Nienaber
+}}
+
+{{怪物火车2-法术
+|name=Adaptive Mutation
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_AdaptiveMutation.png
+|clan=Awoken
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Restore a friendly unit to full health then swap {{Attack}} and {{Health}}.
+|flavor=After the soul within has succumbed to the will of the Wildwood, a Hollow is free to evolve into something more suitable for its eventual purpose, growing new vines or sloughing them off as necessary.
+|artist=Evan Yoviasis
+}}
+
+{{怪物火车2-法术
+|name=Alchemy
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Alchemy.png
+|clan=Pyreborne
+|cost=3
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Gain {{DragonsHoard&#124;2}}.
+|flavor="A clever dragon can convince all others that they can make air into gold."<br>—The Rules of Fhyra, Rule #53
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Alloy of the Ancients
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_AlloyOfTheAncients1_2.png
+|clan=Hellhorned
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Armor&#124;30}}.
+|flavor=An alloy of unknown components said to come from the ancient Umbra. Some demons choose to drink it while others just pour it over themselves, letting the alloy create a natural defense.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Ancient Synergy
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_AncientSynergy.png
+|clan=Stygian Guard
+|cost=3
+|rarity=Rare
+|effect=Deal damage to the front enemy unit equal  to '''2x''' the number of spells in your deck, three times.
+|flavor=When mages channel the energy of the Titan, it is often released uncontrollably and violently at first. It takes many years of studying to control the flow, and while I've studied with the Stygian for a long time, the power still escapes me.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Antumbra Assault
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_AntumbraAssault.png
+|clan=[[Umbra]]
+|cost=1
+|rarity=Common
+|effect=Deal '''5''' damage.<br>{{IconLink&#124;Slay}}: Add '''2''' uncommon or rare Morsel units to your hand.
+|flavor=As the first line of defense in the Crucible, Morsels will rocket towards an intruder, often sacrificing themselves in the process. If they succeed in their defense, they live to mine another day.
+|artist=Ali Hosseinkhan
+}}
+
+{{怪物火车2-法术
+|name=Awoken's Rail Spike
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_AwokensRailSpike.png
+|clan=Awoken
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Draw '''X''' and apply {{Ember&#124;-1}} to those cards.<br>Cannot draw additional cards this turn.
+|flavor=Though reluctant at first to allow the Rail to come through the Wildwood, the Edge Priory eventually agreed with me to let it pass and uphold the Covenant with Seraph.
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-法术
+|name=Battering Ram
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BatteringRam.png
+|clan=[[Hellhorned]]
+|cost=3
+|rarity=Uncommon
+|effect=Deal damage to the front enemy unit equal to '''4x''' {{IconLink&#124;Armor}} on friendly units.
+|flavor=Working with the Railbeaters, I was able to devise a series of interlocking shields that turn the Hellhorned into a mobile battering ram.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Beacon's Light
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Beacon'sLight.png
+|clan=Clanless
+|cost=3
+|rarity=Rare
+|effect=Apply {{IconLink&#124;Dazed&#124;1}} to enemy units on all floors.
+|flavor=The Beacon's light swallows up every shape and shadow. Those foolish enough to meet its gaze will leave with their senses seared away.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Begone
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Begone.png
+|clan=Banished
+|cost=2
+|rarity=Uncommon
+|effect='''[[Retreat]]''' the front enemy unit. Apply {{IconLink&#124;Melee Weakness&#124;1}} to enemy units.
+|flavor="Will you stop your preaching?!" cried Fel. With a single flutter of her wings, she sent a dozen angels tumbling to the ground.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Benediction
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Benediction.png
+|clan=Banished
+|cost=3
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Valor&#124;2}} and {{IconLink&#124;Damage Shield&#124;1}} to friendly units.
+|flavor="I am now the Judge of Souls and I find you all lacking." said Seraph. "Do not worry, I will rectify your flaws."
+|artist=Samuel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Blazing Bolts
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BlazingBolts.png
+|clan=[[Umbra]]
+|cost=3
+|rarity=Rare
+|effect='''Purge'''.<br>Deal '''60''' damage to the front enemy unit. Add a stronger version of this card to your discard.
+|flavor=Constructed bolts I gifted to the Umbra to dig deeper into the stone. When Morsels cannot break through it, these white-hot steel bolts should get the job done.
+|artist=Jordan Thomas
+}}
+
+{{怪物火车2-法术
+|name=Bloody Moon
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BloodyMoon.png
+|clan=[[Luna Coven]]
+|cost={{Ember&#124;2}}
+|rarity=Common
+|effect=Deal '''25''' damage.<br>{{IconLink&#124;Slay}}: Gain {{Ember&#124;2}}.
+|flavor="When Seraph came to destroy our home, the moon shone red. At the sight, Lady Ekka grieved the souls that would fall in the upcoming battle."<br>—Ardania the Forbidden
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Brain Transfer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BrainTransfer.png
+|clan=Lazarus League
+|cost=2
+|rarity=Rare
+|effect='''[[Sacrifice]]'''.<br>Transfer {{Attack}} and all '''[[Buff]]''' and '''[[Debuff]]''' effects to front friendly unit.
+|flavor="While a body can still be usable if preserved correctly, brain matter must be transferred to a host within hours."<br>—from Dr. Orechi's notebook
+|artist=Hannah Lim
+}}
+
+{{怪物火车2-法术
+|name=Bramble Lash
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BrambleLash.png
+|clan=[[Awoken]]
+|cost=2
+|rarity=Uncommon
+|effect=Deal damage to the front enemy unit equal to '''10x''' {{IconLink&#124;Spikes}} on friendly units.
+|flavor=A single, concentrated influx of Wildwood sap can enlarge the thorns of an Awoken for a short time. Through some ill-advised experiments, I've discovered that several simultaneous injections can have devastating effects.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Branding Rite
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BrandingRite.png
+|clan=[[Hellhorned]]
+|cost=2
+|rarity=Uncommon
+|effect='''[[Piercing]]'''.<br>Deal '''3''' damage. Apply {{IconLink&#124;Armor&#124;20}}.
+|flavor=The focused application of heat on a Hellhorned hide will force it to calcify and provide a natural defense. Though I can tell you that the smell is truly...unique.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Calcified Ember
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CalcifiedEmber.png
+|clan=Clanless
+|cost=3
+|rarity=N/A
+|effect='''Purge'''.
+|flavor=Most Ember, a byproduct of the energy within the Pyre, was encased in stone and ice when Hell froze. This made it inaccessible, and unusable, by our train.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Cannibalize
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Cannibalize.png
+|clan=Umbra
+|cost=1
+|rarity=Uncommon
+|effect='''[[Sacrifice]]'''.<br>Add '''3''' uncommon or rare Morsel units to your hand.
+|flavor=Despite being a hive-minded creature, the Umbra Shroud still falls victim to the petty squabbles observed in the other clans. It's unclear how this hive-minded creature can argue with itself, but the ensuing scuffles can be deadly and something I've learned to detect and avoid.
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-法术
+|name=Cave In
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CaveIn.png
+|clan=[[Umbra]]
+|cost=2
+|rarity=Uncommon
+|effect='''[[Descend]]''' all units.
+|flavor=I've only seen the aftermath, but when a level of the Crucible collapses, very few Morsels survive. The Umbra don't even care to check for survivors, choosing instead to spawn new Morsels.
+|artist=Cameron Archer
+}}
+
+{{怪物火车2-法术
+|name=Celestial Storm
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CelestialStorm.png
+|clan=Luna Coven
+|cost=3
+|rarity=Common
+|effect=Deal '''10''' damage to enemy units.<br>{{IconLink&#124;Full Moon}}: '''[[Attuned]]'''.
+|flavor="Lady Ekka fell silent as she called upon her ancient ally: the sky. Seraph's army had underestimated her might."<br>—Ardania the Forbidden
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Challenge
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Challenge.png
+|clan=Banished
+|cost=1
+|rarity=Common
+|effect='''[[Advance]]'''. Apply {{IconLink&#124;Melee Weakness&#124;1}}.
+|flavor="The new recruit stood on the bodies of her fallen enemies and pointed towards the Walls. Although she spoke no words, the challenge to Heaven was clear."<br>—Tome of the Lost Path
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Channelsong
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Channelsong.png
+|clan=[[Awoken]]
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Draw a unit and apply {{Attack&#124;+20}}, {{Health&#124;+20}}, and {{Ember&#124;0}}.
+|flavor=The Channelers of the Wildwood prefer to keep their involvement in its growth to a minimum. However, their intervention is sometimes required to achieve more "aggressive" expansion.
+|artist=Anita Tung
+}}
+
+{{怪物火车2-法术
+|name=Chime of Despair
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ChimeOfDespair.png
+|clan=Clanless
+|cost=1
+|effect='''Purge'''.
+|flavor=''Before being turned by Dominion those lost souls claimed to first hear the faint sound of a bell.''
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-法术
+|name=Cleave
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Cleave.png
+|clan=Banished
+|cost=2
+|rarity=Common
+|effect=Deal damage to enemy units equal to {{Attack}} of the front friendly unit.
+|flavor="Although my brother taught me that strength is in dominion, the Banished proved that true might is in our unity."
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-法术
+|name=Contagious
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Contagious.png
+|clan=Underlegion
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Enemy units '''[[Propagate]] 4'''. Add a copy of this card to your discard pile.
+|flavor=The Angels once had an outpost where the roots of the Wild Woods met the sands of Limbo. That is, until the Fatal Elm decided it had had enough of their presence and released its spores.
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-法术
+|name=Cosmic Bolt
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CosmicBolt.png
+|clan=Luna Coven
+|cost=2
+|rarity=Uncommon
+|effect='''[[Attuned]]'''.<br>Deal '''35''' damage.
+|flavor=A flash was all the warning Seraph got.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Coven's Spike
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CovensSpike.png
+|clan=Luna Coven
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply '''3X''' {{IconLink&#124;Conduit}}.
+|flavor="I wove Ekka's sash around the shard of our shattered moon and drove it into the Rail. With that, Hell would be our home now."<br>—Arduhn, Head Guard of the Silent
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Cover of Night
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CoverOfNight.png
+|clan=Luna Coven
+|cost={{Ember&#124;1}}
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>'''[[Phase]]''' to {{IconLink&#124;New Moon}}. Apply {{Attack&#124;+5}} and {{IconLink&#124;Stealth&#124;1}} to friendly units.
+|flavor=''Seraph's soldier turned, having heard a sound behind him. He froze. There, perched atop a moon cliff, was a creature, unlike any demon or angel he had ever seen.''
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Crushing Demise
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CrushingDemise.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Uncommon
+|effect=Kill a random non-boss enemy unit.<br>Kill a random friendly unit.
+|flavor=A hazard of guttering at a Votive House is the melding together of various Waxers into a massive, uncontrollable boulder that will kill anything in its path.
+|artist=Cameron Archer
+}}
+
+{{怪物火车2-法术
+|name=Crypt Builder
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CryptBuilder.png
+|clan=Stygian Guard
+|cost=3
+|rarity=Common
+|effect='''[[Offering]]'''. '''[[Attuned]]'''.<br>'''[[Retreat]]''' the front enemy unit and deal '''80''' damage.
+|flavor=Massive hammers were used to seal the Titan in its crypt. Requiring the strength of multiple Guards to swing true, these tools have not been moved since their last use.
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Crystalline Seeds
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CrystallineSeeds.png
+|clan=Stygian Guard
+|cost=0
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Frostbite&#124;8}} to enemy units.
+|flavor=I've been able to capture shards of ice from the now-frozen sea and distill them into seed crystals, making the instantaneous freezing of objects even easier.
+|artist=John Lee
+}}
+
+{{怪物火车2-法术
+|name=Curse of Entropy
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CurseOfEntropy.png
+|clan=Clanless
+|cost=0
+|effect='''[[Ephemeral]]'''.<br>Apply {{IconLink&#124;Sap&#124;4}} to friendly units on all floors.<br>'''[[Reserve]]''': Your Pyre takes '''3''' damage.
+|flavor=The Titans, within their nature, each worked towards their own twisted form of peace. For Entropy, eternal peace can only be achieved through the stasis of all things.
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-法术
+|name=Cycle of Life
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CycleOfLife.png
+|clan=Awoken
+|cost=3
+|rarity=Rare
+|effect=Apply {{Health&#124;+10}} and {{IconLink&#124;Spikes&#124;8}}.
+|flavor=When a soul is trapped by vines, the Wildwood gives it new life. And when the soul is released after the vines wilt away, that life is returned to the Wildwood and the others trapped within it.
+|artist=Evan Yoviasis
+}}
+
+{{怪物火车2-法术
+|name=Dante's Candle
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DantesCandle.png
+|clan=Clanless
+|cost=1
+|rarity=Rare
+|effect='''Unpurgeable'''.<br>'''[[Reserve]]''': Your Pyre takes '''3''' damage.
+|flavor=I've seen Dante roam beyond the walls of the Outpost, collecting souls to store and burn when he most needs them.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Dante's Inferno
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DantesInferno.png
+|clan=Clanless
+|cost=2
+|rarity=Rare
+|effect='''[[Piercing]]'''. '''[[Consume]]'''.<br>Deal damage to enemy units on all floors equal to '''10x''' the number of '''[[Dante's Candle]]''' cards in your deck.
+|flavor=Little is known of Dante, but what I've seen of his magic puts fear in my heart. I am just glad he is on our side, for now.
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Dark Deal
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DarkDeal.png
+|clan=Hellhorned
+|cost=0
+|rarity=Rare
+|effect=Deal '''5''' damage. Apply {{IconLink&#124;Rage&#124;7}}.
+|flavor=Even the residents of Hell serve something darker and more ancient than themselves. They make deals with the Shroud of the Crucible for metals they can find nowhere else.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Deadly Plunge
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DeadlyPlunge.png
+|clan=Banished
+|cost=2
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Deal damage to the front enemy equal to '''3x''' this friendly unit's {{Health}} and {{IconLink&#124;Armor}}.
+|flavor="When all seemed lost, Commander Fel descended on our enemies with a divine strike."<br>—Tome of the Lost Path
+|artist=Mary Ngai-Virgo
+}}
+
+{{怪物火车2-法术
+|name=Deadly Variant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DeadlyVariant.png
+|clan=Underlegion
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Decay}} equal to '''5x''' {{IconLink&#124;Sap}}.
+|flavor=The angel tried to escape the frenzy of the battle but it was too late. The Fatal Elm had its spores in him. Soon, they would eat away at him and transform his body until he was more fungus than flesh.
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Deadweight
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Deadweight.png
+|clan=Clanless
+|cost=N/A
+|rarity=N/A
+|effect='''Unplayable'''.<br>'''Unpurgeable.'''
+|flavor=A chunk of the Pyre now devoid of any power. It just takes up space and is a bit of an eyesore. I've been unable to remove it from the train due to its enormous size and weight.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Deathroar
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Deathroar.png
+|clan=Pyreborne
+|cost=3
+|rarity=Rare
+|effect=Transfer all {{IconLink&#124;Pyregel}} on this floor to a unit then deal '''5''' damage five times.
+|flavor=''Lady Gilda turned away from the conversation. Her bodyguard, Vagar, was a loyal dragon but his breath was terrible.''
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Deep Offering
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DeepOffering1_2.png
+|clan=[[Stygian Guard]]
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Discard your hand. Draw '''5'''.
+|flavor=From what I can tell, the resting place of the Unnamed spans the length of the Styx Sea. So, the Stygian have created shrines all over the seafloor to offer sustenance and other treasures to the sleeping Titan.
+|artist=John Lee
+}}
+
+{{怪物火车2-法术
+|name=Demonize
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Demonize.png
+|clan=Banished
+|cost=3
+|rarity=Uncommon
+|effect='''[[Descend]]'''. Apply {{IconLink&#124;Melee Weakness&#124;2}}.
+|flavor="Should I ever return to Heaven, will my brethren still consider me one of their own?"<br>—Talos
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-法术
+|name=Devilish Details
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD DevilishDetails1.2.png
+|clan=Pyreborne
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Gain {{DragonsHoard&#124;3}}. Your Pyre takes '''8''' damage.
+|flavor=Nothing is off the market, not even the Pyre itself.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Dig Deep
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DigDeep.png
+|clan=Underlegion
+|cost=2
+|rarity=Uncommon
+|effect='''[[Spawn]] 1'''. For every '''10''' cards in your deck '''Spawn 1''' more.
+|flavor="Come sit with us in the shade. Don't worry, we won't hurt you."
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Discordant Toll
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DiscordantToll.png
+|clan=Clanless
+|cost=1
+|effect='''Purge'''.<br>'''[[Reserve]]''': Your Pyre takes '''3''' damage.
+|flavor=As Dominion arrived upon Heaven its acolytes began to ring the bells, their hands bloodied until they could ring no more.
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-法术
+|name=Divinity
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Divinity.png
+|clan=[[Banished]]
+|cost=3
+|rarity=Common
+|effect=Apply {{IconLink&#124;Valor&#124;10}}.
+|flavor="Fel bathed her warriors with an unfamiliar light. Heaven's Light, usually harsh and blinding, became soft. Her warriors sensed it, perhaps Heaven's Light had found a new steward."
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-法术
+|name=Dominion's Eye
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DominionsEye.png
+|clan=Clanless
+|cost=1
+|rarity=N/A
+|effect='''[[Unpurgeable]]'''.<br>Non-Scourge and non-Blight cards in hand cost {{Ember&#124;+1}}.
+|flavor=When I first saw Dominion's effect on my fellow angels, I thought I had fallen into a nightmare. For their bodies were no longer their own, torn apart and reassembled by monster limbs.
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-法术
+|name=Dragon's Breath
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DragonsBreath.png
+|clan=Pyreborne
+|cost=3
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Pyregel&#124;10}} and deal '''10''' damage to enemy units.
+|flavor=As Keeper of Hell's Heart, Fhyra was a tenacious guardian. Those who tried to enter the caves beneath the last circle and steal her treasure would meet a fire hotter than Heaven's might.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Drain
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Drain.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Sap&#124;3}}.<br>Discard a card at random.
+|flavor=While the Guard claims that the Titan still sleeps, it seems to show a base level awareness when it is near another soul, helping its kin and hurting everyone else. I've yet to be subjected to either, so I can't say which I am considered.
+|artist=Adam Lee
+}}
+
+{{怪物火车2-法术
+|name=Dripfall
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Dripfall.png
+|clan=[[Melting Remnant]]
+|cost=1
+|rarity=Common
+|effect='''[[Descend]]'''. Apply {{IconLink&#124;Dazed&#124;1}}.
+|flavor=''While Wax Drips are beneficial for those who refuse to melt, getting caught in the downfall can have violent consequences. Consequently, I've decided only to study them from a safe distance.''
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-法术
+|name=Duality
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Duality.png
+|clan=Luna Coven
+|cost=1
+|rarity=Rare
+|effect='''[[Attuned]]'''.<br>Deal '''10''' damage to an enemy unit or restore '''10''' health to a friendly unit.
+|flavor="Silent or Selene, magic user or fighter, we are each a part the whole."<br>—The Ritual Tome
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Eager Conscript
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EagerConscript.png
+|clan=Underlegion
+|cost=1
+|rarity=Common
+|effect='''[[Spawn]]''' '''1'''.
+|flavor=You never fight just one shroomfolk. Beneath Hell's topsoil is an army that can decay the mightiest of oaks.
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-法术
+|name=Eagleheart
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Eagleheart.png
+|clan=[[Banished]]
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>'''[[Advance]]'''. Apply {{IconLink&#124;Valor&#124;5}} to a friendly unit, then it attacks immediately.
+|flavor="And as she was lifted in the air, Fel felt the will of her soldiers give her strength." —Tome of the Lost Path
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Eclipse Chamber
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EclipseChamber.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;New Moon}} effects are always active. Silent units gain {{Attack&#124;+15}} on {{IconLink&#124;Resolve}}.
+|flavor="The angels found us waiting for them. I brought up my shield. The coven priestesses would be protected. If they failed to bring the eclipse, we were doomed."<br>—Ardania the Forbidden
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Ember Cache
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EmberCache.png
+|clan=[[Umbra]]
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Add '''3''' '''[[Excavated Ember]]''' cards to your discard pile.
+|flavor=I created fortified steel boxes to house the dormant Ember mined in the Crucible, increasing its effectiveness through pressure and time.
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Energy Siphon
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EnergySiphon.png
+|clan=Stygian Guard
+|cost=0
+|rarity=Common
+|effect=Apply {{IconLink&#124;Spell Weakness&#124;1}}.
+|flavor=Lodestones require direct operation to absorb the energy gained from any living beings around them. Through mechanisms I've not been able to understand, the energy retrieved is many times the source's power.
+|artist=John Lee
+}}
+
+{{怪物火车2-法术
+|name=Enflame
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Enflame.png
+|clan=Hellhorned
+|cost=2
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Rage&#124;6}} and {{IconLink&#124;Armor&#124;10}}.
+|flavor=Deep within the Scorched Plains, Hellhorned Demons can sometimes be seen performing a "magma-walk" - a bizarre coming-of-age ritual involving full submersion into lava and a focused trek across the Plain. It's unbelievable that any Demons survive the ritual, but those that do are stronger for it.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Engraft
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Engraft.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|effect=Restore '''1''' health.<br>Gain {{Ember&#124;1}}. Draw '''+1''' next turn.
+|flavor=When in a dangerous situation, the Awoken sometimes cannot afford the time it takes to regrow limbs. While less effective, they will splice together severed appendages in favor of speed, but in my experience the binding does not last long.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Engulfed in Smoke
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EngulfedInSmoke.png
+|clan=[[Melting Remnant]]
+|cost=2
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Stealth&#124;2}} to friendly units.
+|flavor=In the dangerous depths of Hell, it's important to have the means for quick concealment. If needed, I've found that wicks bundled together will burn slowly and create large quantities of smoke.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Ensnare
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Ensnare.png
+|clan=Awoken
+|cost=0
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Rooted&#124;1}}.<br>Draw '''+1''' next turn.
+|flavor=The Wildwood of Hell encases those that linger too long underneath its draping canopy. These living trees scare me more than I care to admit.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Entropic Crystals
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EntropicCrystals.png
+|clan=Clanless
+|cost=2
+|rarity=N/A
+|effect='''[[Unpurgeable]]'''.<br>'''[[Reserve]]''': Spells in your deck cost {{Ember&#124;+1}}.
+|flavor=I've seen angels who were once my friends stumble from the weight of Entropy's possession: crystal shards that grow beneath the skin and pierce the body once full control has been established.
+|artist=Hung Bui
+}}
+
+{{怪物火车2-法术
+|name=Excavated Ember
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ExcavatedEmber.png
+|clan=Clanless
+|cost=0
+|rarity=Common
+|effect=[[Consume]].<br>Gain '''2'''[[file:Ember.png&#124;15x15px]]. Draw '''1'''.
+|flavor=''Even the pressures of time can reverse the effects of calcified Ember. It only takes a worthy soul to carry the load, but one much worthier than myself.''
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Excavation Eruption
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ExcavationEruption.png
+|clan=[[Umbra]]
+|cost=3
+|rarity=Uncommon
+|effect=Deal '''25''' damage to a random enemy unit, three times.<br>{{IconLink&#124;Slay}}: Gain {{Ember&#124;2}}.
+|flavor=With little regard for their own lives, these Morsels seem to explode carelessly in the mines, paying no mind to the possible consequences of their actions. I've seen this backfire on more than one occasion...
+|artist=John Lee
+}}
+
+{{怪物火车2-法术
+|name=Explosive Reaction
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ExplosiveReaction.png
+|clan=Lazarus League
+|cost=2
+|rarity=Common
+|effect=Apply {{IconLink&#124;Unstable&#124;25}}.<br>Deal '''5''' damage.
+|flavor="My contraption taps into the celestial core of angels and makes them... well, let's just say they put on a good light show."<br>—from Dr. Orechi's notebook
+|artist=Michaela Nienaber
+}}
+
+{{怪物火车2-法术
+|name=Fae's Blessing
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FaesBlessing.png
+|clan=[[Luna Coven]]
+|cost={{Ember&#124;1}}
+|rarity=Common
+|effect=Restore '''5''' health. Healing over max health applies {{IconLink&#124;Armor}} instead.
+|flavor="Arduhn stretched out his hand towards the fae, who touched him in return. And so a pact was made. The fae would assist the coven so they could return home."
+|artist=Hung Bui
+}}
+
+{{怪物火车2-法术
+|name=Fanning the Flame
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FanningTheFlame.png
+|clan=Pyreborne
+|cost=1
+|rarity=Uncommon
+|effect='''[[Explosive]]'''.<br>Deal '''3''' damage to a random enemy unit.<br>{{IconLink&#124;Slay}}: Increase damage by '''3''' permanently.
+|flavor="Fan the flames of war. It's good for business."<br>—The Rules of Fhyra, Rule #19
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Faulty Body
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FaultyBody.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Fragile}} and {{IconLink&#124;Spikes&#124;40}} to a friendly unit.
+|flavor="Poor Baron, he found a way to strengthen his love's frail body but, just as beryllium is strong yet fragile, so too became Inga."<br>—from Dr. Orechi's notebook
+|artist=Mikhail Cang<br>Genevieve Bega
+}}
+
+{{怪物火车2-法术
+|name=Feast
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Feast.png
+|clan=[[Umbra]]
+|cost=0
+|rarity=Uncommon
+|effect=Trigger feeding on friendly units with {{IconLink&#124;Eaten}}.
+|flavor=Gorgers patrol the mines to collect errant Morsels, consuming them to return them back to the Shroud. They take great pleasure in their purpose, often consuming more Morsels than necessary.
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-法术
+|name=Fertile Ground
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FertileGround.png
+|clan=Underlegion
+|cost=2
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>'''[[Spawn]] 1'''. '''Spawn 1''' more for each card in your consume pile.
+|flavor="Poor soldier. We'll put him back together," whispered the fungi beneath the battlefield. "Your body will be a perfect place for us to grow."
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-法术
+|name=Firestarter
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Firestarter.png
+|clan=Pyreborne
+|cost=1
+|rarity=Common
+|effect=Deal '''1''' damage and apply {{IconLink&#124;Pyregel&#124;2}}.
+|flavor=An incendiary mixture developed by the Pyreborne to add a little spark to battle.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Flash Freeze
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FlashFreeze.png
+|clan=[[Stygian Guard]]
+|cost=1
+|rarity=Common
+|effect=Deal '''3''' damage. Apply {{IconLink&#124;Frostbite&#124;8}}.
+|flavor=After the freezing of Hell, the Stygian Sea's weather became much more erratic. Instant freezes are now frequent occurrences, much to the dismay of anyone unlucky enough to be caught in their icy grasp.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Flicker
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Flicker.png
+|clan=Pyreborne
+|cost=0
+|rarity=Common
+|effect=Deal '''1''' damage to enemy units.
+|flavor="A small flicker can still burn."<br>—The Rules of Fhyra, Rule #37
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Focused Growth
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FocusedGrowth.png
+|clan=Awoken
+|cost=2
+|rarity=Uncommon
+|effect=Restore '''20''' health, twice.<br>Draw '''+2''' next turn.
+|flavor=I've observed from those of the Wildwood that with great concentration comes great healing. The Awoken can channel their will into sprouting spores on the surface of their form to heal broken parts of their vined bodies.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Forever Consumed
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ForeverConsumed.png
+|clan=Umbra
+|cost=X
+|rarity=Rare
+|effect=Deal '''80X''' damage to the front enemy unit.
+|flavor=Of a collective mind, the massive Umbra Shroud can wreak devastating damage upon the unfortunate soul who has been targeted by its wrath. On the one occasion I was witness to such an event, I was unable to return to the Crucible for months, afraid of the slightest chance it could happen to me.
+|artist=Cameron Archer
+}}
+
+{{怪物火车2-法术
+|name=Forevermore Serum
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ForevermoreSerum.png
+|clan=Lazarus League
+|cost=1
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Reanimate&#124;1}}.
+|flavor="The serum was meant to get rid of my wrinkles but ended up doing so much more."<br>—from Dr. Orechi's notebook
+|artist=Ishmael E. Hoover
+}}
+
+{{怪物火车2-法术
+|name=Forgone Power
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ForgonePower.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Common
+|effect=Apply {{IconLink&#124;Frostbite&#124;8}} to the front enemy unit.<br>Discard a card at random.
+|flavor=The Martyr speaks of the power a name has over the soul, that the Titan released its name for the good of Heaven, Hell, and Humans. Perhaps the same practice observed by the Stygian Guard is an evolution of this and grants them some minimal power as well.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Frenzied Swarm
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FrenziedSwarm.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Dazed&#124;1}} to enemy units. Discard your hand.
+|flavor=When generous offerings are made to the Titan, groups of Winged often attempt to take the treasures for themselves. This makes them perfect prey for the swarms of Sirens waiting in the shadows.
+|artist=''TBD''
+}}
+
+{{怪物火车2-法术
+|name=Frozen Lance
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FrozenLance.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Common
+|effect=Deal '''10''' damage to the front enemy unit.
+|flavor=An ancient relic of a time before the Covenant. When I first came to the Stygian Sea, every resident of the Ring carried one to aid in their defense of the reigning Titan. There still lies some magic within the surrounding ice.
+|artist=Jordan Thomas
+}}
+
+{{怪物火车2-法术
+|name=Funguy in a Suit
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FunguyInASuit.png
+|clan=Underlegion
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>'''[[Spawn]] 3'''. Apply {{IconLink&#124;Armor}} to '''Funguy''' equal to '''4x''' {{IconLink&#124;Troop}}.
+|flavor="I'll be the arm!" said one mushroom. "And I'll be the head!" said another. A small voice spoke from the bottom of the armor, 'Why do I have do be down here?"
+|artist=Herrick Ong
+}}
+
+{{怪物火车2-法术
+|name=Furnace Tap
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FurnaceTap.png
+|clan=[[Umbra]]
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Multistrike&#124;1}} and {{IconLink&#124;Emberdrain&#124;4}}.
+|flavor=Much to my dismay, the Umbra are able to withstand the heat output from the furnaces on the Boneshaker, allowing them to commune with its power and use it for themselves - at the cost of energy to the train.
+|artist=Cameron Archer
+}}
+
+{{怪物火车2-法术
+|name=Gem Trove
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_GemTrove.png
+|clan=[[Umbra]]
+|cost={{Ember&#124;3}}
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Damage Shield&#124;1}} to friendly units. Add '''3''' uncommon or rare [[Morsel]] units to your hand.
+|flavor=It is said that the Crucible was formed when the Pyre first ignited, molding and melting the nearby ground to create endless, winding caverns. The Umbra have done their best to direct me through these tunnels, but the maze of caves has still been enough to trap me for days at a time.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Gifts for a Guard
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD GiftsForAGuard.png
+|clan=[[Stygian Guard]]
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Draw '''3''' damage spells and apply '''[[Consume]]''', '''+30 [[Magic Power]]''', and {{Ember&#124;0}}.
+|flavor=''Induction into the Guard is considered each Stygian's last step before becoming a fully mature member of the Sea. They are asked to give up all possessions and only carry the tools of their creed. A different life than I would prefer to lead, but most likely much more honorable.''
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Glimmer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Glimmer.png
+|clan=[[Awoken]]
+|cost=1
+|rarity=Common
+|effect=Restore '''3''' health to friendly units and deal '''3''' damage to enemy units.
+|flavor=If struck by a surge of electricity, a Sapwood will crystallize into glass. The sap within will become preserved as a supercharged healing solvent. But I can't seem to break the glass without losing much of this sap in the process.
+|artist=Cameron Archer
+}}
+
+{{怪物火车2-法术
+|name=Glittering Draught
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_GlitteringDraught.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Restore '''20''' health and apply {{IconLink&#124;Conduit&#124;4}}.
+|flavor="Once done, this draught will transform sunlight into moonlight and heal a fae of any wound."<br>—The Ritual Tome
+|artist=Hung Bui
+}}
+
+{{怪物火车2-法术
+|name=Glow Up
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_GlowUp.png
+|clan=Underlegion
+|cost=1
+|rarity=Common
+|effect='''[[Advance]]'''. '''[[Propagate]] 2'''.
+|flavor=The lantern knight giggled. A spa stay and a makeover was exactly what he needed to lift his spirits.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Golden Touch
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_GoldenTouch.png
+|clan=Pyreborne
+|cost=2
+|rarity=Common
+|effect=Deal '''5''' damage.<br>{{IconLink&#124;Slay}}: Gain {{DragonsHoard&#124;1}}.
+|flavor="If you have to pay taxes, make sure you bury the tax demon."<br>—The Rules of Fhyra, Rule #12
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Gooey Flask
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_GooeyFlask.png
+|clan=Underlegion
+|cost=1
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Sap&#124;2}} to enemy units.
+|flavor=The shroomfolk harvest the sap of the Fatal Elm when the leaves are at their most putrid. Once boiled, the sap becomes a tasty syrup that makes you want to curl up beneath a root and sleep.
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Gravity
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Gravity.png
+|clan=Luna Coven
+|cost=1
+|rarity=Common
+|effect=Deal '''5''' damage.<br>{{IconLink&#124;New Moon}}: '''[[Descend]]'''.<br>{{IconLink&#124;Full Moon}}: '''[[Ascend]]'''.
+|flavor="Seraph had defeated us and left us with no choice. If we could no longer rise above Heaven and Hell, we would have to fall."<br>—Ardania the Forbidden
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Greed
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Greed.png
+|clan=Pyreborne
+|cost=1
+|rarity=Uncommon
+|effect=Deal '''20''' damage to all units.<br>{{IconLink&#124;Slay}}: Gain {{Gold&#124;10}}
+|flavor=''Leave the gold for the dragons or else they'll add you to their treasure pile.''
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Grovel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Grovel.png
+|clan=[[Umbra]]
+|cost=2
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Damage Shield&#124;1}}. Add '''2''' uncommon or rare Morsel units to your hand.
+|flavor=Some errant Morsels, in an effort to please the Wardens, will offer their valuable jewels to try and get in their good graces. This behavior has been noted for future bribes that occur within the Boneshaker.
+|artist=Cameron Archer
+}}
+
+{{怪物火车2-法术
+|name=Grow Room
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_GrowRoom.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|effect=All units '''[[Propagate]]''' 1 at the end of combat.
+|flavor="Do you think they'll be angry that we're in here?" whispered a small crimini. "If they are," began his brother, "We'll take care of them."
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Guardian's Amulet
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_GuardiansAmulet.png
+|clan=[[Stygian Guard]]
+|cost=3
+|rarity=Uncommon
+|effect='''[[Offering]]'''.<br>Apply {{IconLink&#124;Sap&#124;2}} to enemy units.
+|flavor=Given only to the most respected of Guardians, these amulets were used both to identify and to protect the keepers of the Titan Monuments. As the only Stygian allowed to interact directly with the Titan, these Guardians wore the amulets to shield themselves from the Titan's immense power.
+|artist=Adam Lee
+}}
+
+{{怪物火车2-法术
+|name=Hallowed Drippings
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HallowedDrippings.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Burnout&#124;5}} and {{Attack&#124;+5}} to friendly {{IconLink&#124;Burnout}} units.
+|flavor=Those of the Melting Remnant who want to continue living must attend a Votive House to receive a Blessing of Wax. But on some rare occasions, the Reformed will grant a soul some of the sacred wax for use outside the House.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Hallowed Halls
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HallowedHalls1_2.png
+|clan=[[Melting Remnant]]
+|cost=3
+|rarity=Rare
+|effect=Kill friendly units.<br>'''[[Reform]]''' random units to this floor until it exceeds its {{Capacity}}.
+|flavor=''Wurmkin stoneform speaks of passageways deep below those controlled by the Wickless, further even than the caverns of the Reformed. These halls of stone sleep in the dark, their floors covered in the wicks of lost Waxers. Should Wax ever fall from the Ring above, and flame come to the wicks that lay there, a soul is said to live again for a brief moment of time. In my darkest nightmares, I rest in these wicked halls forever flickering between life and death.''
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-法术
+|name=Harness the Titan
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HarnessTheTitan.png
+|clan=[[Stygian Guard]]
+|cost=1
+|rarity=Rare
+|effect=Apply '''+10 [[Magic Power]]''' to spells in hand.
+|flavor="When the Titan whose name has been sealed is released again, the Sea shall be illuminated with its awesome power." - Tethys Titansbane's account of the Titan's return to our defense.
+|artist=Jordan Thomas
+}}
+
+{{怪物火车2-法术
+|name=Heavenfall
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Heavenfall.png
+|clan=Luna Coven
+|cost=4
+|rarity=Rare
+|effect=Deal '''80''' damage to enemy units.<br>{{IconLink&#124;Full Moon}}: Deal damage on all floors instead.
+|flavor="If I must fall, may I at least grant you time to escape."<br>—last words of Ardania, forbidden younger sister of Arduhn and Ekka
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-法术
+|name=Heavensward
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Heavensward.png
+|clan=Banished
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>'''[[Ascend]]''' friendly units, then '''[[Advance]]''' the highest {{Health}} friendly unit on the new floor.
+|flavor="And as we follow the Rail into battle to reclaim Heaven from the Titans, the spirit of the fallen will be carried by those who yearn for freedom. For we that have been tried in the furnace of expulsion will form a single, tremendous force that will bring peace to all!" —final chapter of the Tome of the Lost Path
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-法术
+|name=Helical Crystalis
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HelicalCrystalis.png
+|clan=[[Stygian Guard]]
+|cost=2
+|rarity=Common
+|effect=Deal '''35''' damage to the front enemy unit, twice.
+|flavor=Physical combat has never been a strong suit of the Stygian Guard. Thankfully, their control of the energy coming from the Unnamed has made them deadly protectors of the inner Rings of Hell.
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-法术
+|name=Heroic Dive
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HeroicDive.png
+|clan=Banished
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>'''[[Descend]]''' then '''[[Advance]]''' a friendly unit. Deal damage to the front enemy unit equal to '''2x''' this unit's {{Health}} and {{IconLink&#124;Armor}}.
+|flavor=I flew past arrows until I found Talos defending the southern gate. The sight of her wounds pushed me forward. I called upon my strength. I was almost there, she only had to hold on!
+|artist=Mary Ngai-Virgo
+}}
+
+{{怪物火车2-法术
+|name=Hexscalation
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Hexscalation1_2.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|effect='''[[Ascend]]'''. Apply {{IconLink&#124;Spell Weakness&#124;2}}.
+|flavor="Draw the runes on the ground and wait for your enemy to arrive. They will be welcomed by a nasty surprise."<br>—The Ritual Tome
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-法术
+|name=Hidden Passage
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HiddenPassage.png
+|clan=Hellhorned
+|cost=1
+|rarity=Common
+|effect='''[[Ascend]]'''.
+|flavor=Not all routes through the Boneshaker are immediately recognizable. I sealed many of them off to all but those who are willing to tear through steel and squeeze through the shreds.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Hoarfrost Effigy
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HoarfrostEffigy.png
+|clan=[[Stygian Guard]]
+|cost=3
+|rarity=Rare
+|effect=Transfer all {{IconLink&#124;Frostbite}} on this floor to a unit, then double the amount of {{IconLink&#124;Frostbite}}.
+|flavor=Even before the freeze, the granite monuments of the Titan dotting the sea were cold structures. Now they've become permanently frozen fixtures of the seascape, ominous presences easily recognizable by their sharp profiles.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Horn Break
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HornBreak.png
+|clan=Hellhorned
+|cost=1
+|rarity=Common
+|effect='''[[Piercing]]'''.<br>Deal '''8''' damage, twice.
+|flavor=A defeated opponent's horns are broken as a ritualistic act of dominance. The horns are then collected by the victor as a trophy.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Horrify
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Horrify.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect='''[[Retreat]]'''. Apply {{IconLink&#124;Dazed&#124;1}}.
+|flavor="Stay back! Stay back, you monster!" cried the assistant. "I'm not a monster. I'm Grael!" he cried. "Don't you recognize me?!"
+|artist=Hannah Lim
+}}
+
+{{怪物火车2-法术
+|name=Ice Tornado
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_IceTornado.png
+|clan=Stygian Guard
+|cost=3
+|rarity=Uncommon
+|effect='''[[Permafrost]]'''.<br>Deal '''30''' damage to a random enemy unit, three times.
+|flavor=The brutal ecosystem of the Stygian Sea has evolved into a favorable place for tornadoes to destroy anything standing above the surface of the water. Thankfully for the Guard, their gills allow them to take refuge beneath the waves.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Ice and Pyre
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_IceAndPyre.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Rare
+|effect='''[[Pyrebound]]'''. '''[[Attuned]]'''.<br>Deal '''90''' damage to the front enemy unit.
+|flavor=Having only limited control over the elements, the Stygian have learned to harness the energy of the Pyre and freeze it for even greater impact. Unfortunately, we've only been able to perfect this defense within a limited range.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Icestorm
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Icestorm.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|effect=Deal '''1''' damage to a random enemy unit, five times.
+|flavor=When Hell was frozen, the Stygian Sea was cursed with an eternal storm, making my travel across it near impossible. Fortunately, I was later saved by the Guard, but the invaders of Hell were not so lucky.
+|artist=John Lee
+}}
+
+{{怪物火车2-法术
+|name=Immortal Trade
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ImmortalTrade.png
+|clan=[[Umbra]]
+|cost={{Ember&#124;0}}
+|rarity=Common
+|effect=Apply {{IconLink&#124;Lifesteal&#124;4}} and {{IconLink&#124;Emberdrain&#124;2}} to a friendly unit.
+|flavor=''An unfortunate outcome of our invention, Void consumption has become an addictive practice amongst the Umbra. When that no longer satiates their hunger, the entire replacement of self with these Void shards becomes the only way to gain any satisfaction.''
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Imp-in-a-Box
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ImpInABox.png
+|clan=[[Hellhorned]]
+|cost=0
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Add '''2''' random [[:Category:Imp units&#124;Imp units]] to your hand.
+|flavor=''Whoever thought to put imps in a confined space had clearly never interacted with the little devils. That didn't stop me from keeping a few boxes. Though, every once in a while, one finally does get out.''
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Imp-olate
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ImpOlate1_2.png
+|clan=[[Hellhorned]]
+|cost=1
+|rarity=Rare
+|effect=Deal damage to the front enemy unit equal to '''25x''' the number of [[Imp]] units in your deck.
+|flavor="Imps die for their horns to grow large. Demons die for their horns to grow sharp." -excerpt from Hell's Horns by Grrrg Onehorn, discussing the cyclical life of a Hellhorned and how their horns mature.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Imp-portant Work
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ImpPortantWork.png
+|clan=Hellhorned
+|cost=0
+|rarity=Uncommon
+|effect='''[[Sacrifice]] [[Imp]]'''.<br>Gain {{Ember&#124;1}}. Draw '''1'''.
+|flavor="Some Imps learn much about Horned. It is only through dying that Imps can teach Horned." -excerpt from Hell's Horns by Grrrg Onehorn on the posthumous transfer of knowledge in Hellhorned society.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Imp-pressive
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ImpPressive.png
+|clan=Hellhorned
+|cost=1
+|rarity=Uncommon
+|effect='''[[Attuned]]'''. '''[[Sacrifice]] [[Imp]]'''.<br>Deal '''50''' damage to the front enemy unit.
+|flavor="Some Imps eat Pyre. While Pyre tasty, Pyre not endless. Hungry imps then eaten by Pyre. And life continues." -excerpt from Hell's Horns by Grrrg Onehorn on Pyre-eating etiquette.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Inequivalent Exchange
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_InequivalentExchange.png
+|clan=Pyreborne
+|cost=1
+|rarity=Uncommon
+|effect=Deal damage equal to '''25x''' your {{DragonsHoard}}, then lose {{DragonsHoard&#124;1}}.
+|flavor="Here's your change," said a voice. These words were the Angel's only warning before a barrage of coins flew straight towards him.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Infectory
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Infectory.png
+|clan=Underlegion
+|cost=1
+|rarity=Common
+|effect='''[[Spawn]] 1''' when a unit without {{IconLink&#124;Troop}} dies.
+|flavor="Thanks for the ride!" cried the funguy as they leapt from the demon's torso. The angel gurgled in horror.
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-法术
+|name=Inferno
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Inferno.png
+|clan=Hellhorned
+|cost=3
+|rarity=Uncommon
+|effect='''[[Piercing]]'''.<br>Deal '''120''' damage to all units.
+|flavor=The Scorched Plains are known for frequent firestorms that can rain down at any moment, striking anyone unlucky enough to be caught below. This has made my travels through it particularly short.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Inhale
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Inhale.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|effect=Deal '''10''' damage.<br>{{IconLink&#124;Slay}}: '''[[Spawn]] 2'''.
+|flavor=Even the smallest shroomfolk have found ways to defend themselves. Some, when inhaled, consume the lungs of their victims from the inside out.
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-法术
+|name=Insatiable Hunger
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_InsatiableHunger.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect=Friendly units gain {{IconLink&#124;Lifesteal&#124;2}}.
+|flavor="Some return from the Reanimation Lab with a peculiar hunger that consumes their minds. My assistant Hugo implores that we stop and that our efforts are forbidden."<br>—from Dr. Orechi's notebooks
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Intent on Death
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_IntentOnDeath.png
+|clan=[[Melting Remnant]]
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Trigger a unit's {{IconLink&#124;Extinguish}} ability without killing it.
+|flavor=Votive Houses can become crowded and melting away is a long process. To avoid the wait, I've seen some Waxers increase the intensity of their flame through extreme focus, though they typically lose consciousness briefly after doing it.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Invigorating Solution
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_InvigoratingSolution.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Draw '''+3''' next turn.
+|flavor=After their first visit aboard my train, the Edge Priory concocted a solution of Wildwood sap and condensed train steam to coax more performance from the Boneshaker's engines.
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=It's Alive!
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ItsAlive1_2.png
+|clan=Lazarus League
+|cost=1
+|rarity=Common
+|effect='''[[Advance]]'''. Apply {{IconLink&#124;Lifesteal&#124;1}} and {{Attack&#124;+7}}.
+|flavor="When I awoke, I did not remember anything of my previous life. It was as if I had been born anew! And this time, I had a few extra special 'upgrades,' if you will."<br>—Hugo, assistant to Dr. Orechi
+|artist=Merilliza Chan
+}}
+
+{{怪物火车2-法术
+|name=Just Cause
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_JustCause.png
+|clan=Banished
+|cost=1
+|rarity=Common
+|effect='''[[Advance]]'''. Apply {{IconLink&#124;Valor&#124;2}}.
+|flavor="Put away that toy, sister. You've never been able to fight me."<br>"Maybe before I couldn't. But now, I must."
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Kindle
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Kindle.png
+|clan=Umbra
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Gain {{Ember&#124;2X}}.
+|flavor=The Umbra Shroud mines the depths of the Crucible, creating more vents to the surface above. These allow the ember below to burn ever more fiercely, and when applied to the Boneshaker, the same technique has allowed us to increase our fuel efficiency for short amounts of time.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Last Stand
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_LastStand.png
+|clan=[[Hellhorned]]
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Double the amount of {{IconLink&#124;Rage}} on friendly units.
+|flavor=It's impossible for the Hellhorned to regain their standing after their horns have been broken, but that doesn't mean they can't fight back against their aggressor to salvage what remains of their reputation.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Lava Flow
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_LavaFlow.png
+|clan=Pyreborne
+|cost=0
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Pyregel&#124;4}} to enemy units.
+|flavor=When Hell froze, so did the mighty lava river beneath the Pyreborne caves. Once the Pyreborne melted the celestial ice, they restored the river to its ancient might.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Liquid Courage
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_LiquidCourage.png
+|clan=Banished
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Damage Shield&#124;1}} and {{IconLink&#124;Valor&#124;4}}.
+|flavor=Sunlight with a sprinkle of courage in a bottle.
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-法术
+|name=Lunacy
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Lunacy.png
+|clan=Luna Coven
+|cost=X
+|rarity=Uncommon
+|effect='''[[Phase]]''' '''X''' times. Apply '''1X''' {{IconLink&#124;Conduit}}.
+|flavor="Some believed that the Selene control the moon and her phases. What lunacy. The moon cannot be forced to do what she does not wish. Time, on the other hand, can be manipulated."<br>—The Ritual Tome
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-法术
+|name=Make It Rain
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MakeItRain.png
+|clan=Pyreborne
+|cost=1
+|rarity=Uncommon
+|effect=Deal '''5''' damage to enemy units. Spend {{Gold&#124;5}} and repeat this card's effect, up to three more times.
+|flavor=''Although it goes against the instincts of every dragon in Hell, sometimes you have to loosen the purse strings to win the battle.''
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-法术
+|name=Making of a Morsel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MakingOfAMorsel.png
+|clan=Umbra
+|cost=1
+|rarity=Common
+|effect=Add a '''[[Morsel Miner]]''' to your hand.
+|flavor=''Only the most trusted of Morsels are allowed to mine the most precious of metals. Even fewer are allowed to forge the valuable creations of the Umbra Shroud. So, to be allowed into these sacred forges was an honor indeed.''
+|artist=Lisa Heidhoff
+}}
+
+{{怪物火车2-法术
+|name=March of Shields
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MarchOfShields.png
+|clan=Hellhorned
+|cost=1
+|rarity=Uncommon
+|effect='''[[Advance]]'''. Apply {{IconLink&#124;Armor&#124;12}}.
+|flavor=Only the bravest, or dumbest, Hellhorned are chosen to bear a shield and hold the line. They are trained to take the brunt of most attacks through an intense regimen of magma-walking that kills more often than not.
+|artist=Anita Tung
+}}
+
+{{怪物火车2-法术
+|name=Memento Mori
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MementoMori.png
+|clan=[[Melting Remnant]]
+|cost=3
+|rarity=Uncommon
+|effect=Deal damage to the front enemy unit equal to '''10x''' the number of friendly unit deaths this battle.
+|flavor=In memory, a Waxer is never truly dead. Through a process we developed together, their faces are embossed on deadly weapons and serve as a reminder of what once was and what will be.
+|artist=Andres Olvera
+}}
+
+{{怪物火车2-法术
+|name=Minds Of Their Own
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/[[file:MindsOfTheirOwn.png&#124;thumb]]
+|clan=Lazarus League
+|cost=3
+|rarity=Rare
+|effect=Equipped friendly units attack immediately.
+|flavor=A scraping sound, like a dead fish being dragged across a plank, caused Hugo to turn. He froze. The hand he had just collected was gone!
+|artist=Merilliza Chan
+}}
+
+{{怪物火车2-法术
+|name=Mine Collapse
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MineCollapse.png
+|clan=Umbra
+|cost=X
+|rarity=Common
+|effect=Deal '''3X''' damage to a unit.<br>{{IconLink&#124;Slay}}: Gain {{Ember&#124;2}}.
+|flavor=While Morsels seem to be quick workers in their mine, they do not appear to be the most intelligent and have been the cause of many easily avoided accidents. I can only hope this will not be the case aboard the train.
+|artist=Andres Olvera
+}}
+
+{{怪物火车2-法术
+|name=Mix-a-Lot
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Mix_a_Lot.png
+|clan=Lazarus League
+|cost=3
+|rarity=Rare
+|effect='''[[Mix]] 5''' times, randomly selecting each infusion.
+|flavor="By the time I realized what her experiments were doing to her, it was too late. Inga's sanity was as small and weak as a flicker of light in an endless night."<br>—from Dr. Orechi's notebook
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Mixology
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Mixology.png
+|clan=Lazarus League
+|cost=2
+|rarity=Uncommon
+|effect='''[[Mix]]''' twice.
+|flavor="I must admit, I do find myself sometimes getting a little whimsical with my concoctions. Just look at my Hair-Lifting Blueberry Fizzes!"<br>—from Dr. Orechi's notebook
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Molded
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Molded.png
+|clan=[[Melting Remnant]]
+|cost=1
+|rarity=Common
+|effect='''[[Reform]]''' a unit.
+|flavor=Once a Waxer has melted away, only the wick remains. Should these Waxers choose to return to their previous forms, the Reformed will pour new wax into the original molds to revive the remaining wicks' soul.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Moon Ritual
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MoonRitual.png
+|clan=Luna Coven
+|cost=0
+|rarity=Common
+|effect='''[[Phase]]'''. Apply {{IconLink&#124;Conduit&#124;1}} to a friendly unit.
+|flavor="Each new moon phase calls for a new ritual with your fellow fae."<br>—The Ritual Tome
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-法术
+|name=Moonbeam
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Moonbeam.png
+|clan=Luna Coven
+|cost=X
+|rarity=Uncommon
+|effect=Deal '''20''' damage to the front enemy unit '''X''' times.
+|flavor="As our beloved moon fell, our home had one last gift to give our coven. When it shattered, all the magic we had stored inside struck Seraph."<br>—Ardania, fallen guard to Lady Ekka
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Moonrise
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Moonrise.png
+|clan=Luna Coven
+|cost={{Ember&#124;0}}
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Gain {{Ember&#124;1}}. '''[[Phase]]''' to {{IconLink&#124;Full Moon}}.
+|flavor="I wove the cloth across my wrists and waited on the moon to rise. As I saw it peak over the horizon, my powers grew."<br>—The Ritual Tome
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Mortal Entrapment
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MortalEntrapment.png
+|clan=Melting Remnant
+|cost=3
+|rarity=Uncommon
+|effect='''[[Attuned]]'''.<br>Deal '''25''' damage and apply {{IconLink&#124;Dazed&#124;3}} to an already damaged unit.
+|flavor=While molds are used in the resurrection of Waxen, the invasion of Hell has forced the Waxen to repurpose these molds for a more deadly effect. They are now positioned to trap unsuspecting targets who've already been injured, making them easier to encase in the hot wax.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Mulch
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Mulch.png
+|clan=Underlegion
+|cost=0
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Draw '''+1''' next turn. For every '''15''' cards in your deck, draw '''1''' more.
+|flavor=We grow in the shadow of Death.<br>—old Underlegion saying
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Mushroom Cloud
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MushroomCloud.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>'''[[Sacrifice]] 1 [[Funguy]]'''. Deal '''10''' damage and apply {{IconLink&#124;Decay&#124;10}} to enemy units.
+|flavor="PORCINI GO BOOM!"
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-法术
+|name=Mushy Room
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MushyRoom.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Sap&#124;3}} to enemy units at the end of combat.
+|flavor="Do you think they'll make a wonderful perfume once the fungus is done with them?"<br>—Madame Lionsmane
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Offering Token
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_OfferingToken.png
+|clan=[[Stygian Guard]]
+|cost=0
+|rarity=Common
+|effect=Draw '''1'''. Discard '''1'''.
+|flavor=Making offerings to the Unnamed Titan has become a religious experience among the Stygian Guard. These offerings are made with such frequency that I helped to create tokens to represent a Guard's offering to the Titan and simplify the process.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Onehorn's Tome
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_OnehornsTome.png
+|clan=[[Hellhorned]]
+|cost=4
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Fragile}} and {{IconLink&#124;Multistrike&#124;1}} to a friendly unit.
+|flavor="Hell's Horns, History of the Hellhorned", by Grrrg Onehorn. The terrible handwriting of the imp scribes has made this tome an excruciating read and something I don't plan on returning to soon.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Packed Morsels
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PackedMorsels.png
+|clan=[[Umbra]]
+|cost=0
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Add '''3''' uncommon or rare [[Morsel]] units to your hand.
+|flavor=''Through an unusual course of events, I've found that bottling many Morsels together allows them to be easily transported to quickly provide labor where it's needed. It also had the added benefit of soothing the little creatures.''
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Pandemic
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Pandemic.png
+|clan=Underlegion
+|cost=2
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Decay&#124;8}} and {{IconLink&#124;Sap&#124;2}}. Add a copy of this card to your discard pile.
+|flavor="I know she's our enemy, but I just can't help myself, I'm in love!" said the angel. "You too?! I feel as if I've been infected with love!" hissed his captain.
+|artist=Herrick Ong
+}}
+
+{{怪物火车2-法术
+|name=Pay Off
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PayOff.png
+|clan=Pyreborne
+|cost=2
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Restore '''2''' Pyre health for each {{DragonsHoard}}.
+|flavor="So, you'll do it?" said Fenix.<br>"For a price," replied the angel.<br>"Though I have to say, I thought you were on the side of Hell."<br>Fenix paused. "I'm on my own side," he said.
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-法术
+|name=Perils of Production
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PerilsOfProduction.png
+|clan=[[Umbra]]
+|cost=0
+|rarity=Common
+|effect=Apply {{IconLink&#124;Rage&#124;3}} and {{IconLink&#124;Emberdrain&#124;2}} to a friendly unit.<br>Gain {{Ember&#124;3}}.
+|flavor=''To power the Constructs of the Crucible, the Umbra Shroud feeds them excavated fuel. If fed mined Ember, the furnaces go into overdrive, working doubly hard at the cost of even more Ember. This discovery was crucial in the construction of the furnaces within the Boneshaker.''
+|artist=Cameron Archer
+}}
+
+{{怪物火车2-法术
+|name=Planetarium
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Planetarium.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|effect=Grant friendly units {{IconLink&#124;Conduit&#124;5}}.
+|flavor=The home of the Astrologers and where they pore over star charts and judge who was born under a auspicious moon.
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-法术
+|name=Plink
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Plink.png
+|clan=Umbra
+|cost=1
+|rarity=Common
+|effect=Deal '''2''' damage to a random enemy unit, twice.<br>{{IconLink&#124;Slay}}: Add a common or uncommon Morsel unit to your hand.
+|flavor=The Primordium does not speak through words but through floods of feeling. The bounds of its mind seem endless. It's no wonder that the ultimate split of the Primordium created a varying number of personalities, not the least of which are my friendly Morsels.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Pox
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Pox.png
+|clan=Underlegion
+|cost=2
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Deal '''20''' damage and apply {{IconLink&#124;Decay&#124;10}} to all units.
+|flavor=The soldiers moved with uncertain steps towards the Fatal Elm. "Pray to your gods," came a whisper from beneath the mulch. Spore clouds erupted. "For you are to receive the Mushroom's Kiss.
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-法术
+|name=Preserve
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Preserve.png
+|clan=Stygian Guard
+|cost=0
+|rarity=Uncommon
+|effect='''[[Permafrost]]'''.<br>Apply '''[[Frozen]]''' to a card in your hand.
+|flavor=Many precious artifacts of Hell were frozen when the Pyre was destroyed. Thankfully, this did not diminish their power, but only rendered their energy dormant until I am able to release them from their icy prison.
+|artist=Lisa Heidhoff
+}}
+
+{{怪物火车2-法术
+|name=Preserved Thorns
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PreservedThorns.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Add '''3 [[Sting]]''' spells to your hand.
+|flavor=Through my research, I've learned that Wildwood sap can extend the efficacy of thorns. This has led to my preservation of thorns in sap for later use.
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Prism Retrieval
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PrismRetrieval.png
+|clan=[[Umbra]]
+|cost=X
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Draw a unit and apply {{Attack&#124;+5X}} and {{Ember&#124;-X}}.
+|flavor=Prism stones have the unique ability to refract both light and space, providing protection and creating matter from nothing. I've been able to reverse engineer this power to transport objects and beings across small distances.
+|artist=Jordan Thomas
+}}
+
+{{怪物火车2-法术
+|name=Prismal Dust
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PrismalDust.png
+|clan=Umbra
+|cost=X
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Apply '''1X''' {{IconLink&#124;Damage Shield}}.
+|flavor=''The dust gathered from mining Prism stones can be collected to create a similar, though less effective, defensive support around the owner.''
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Proliferate
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Proliferate.png
+|clan=Underlegion
+|cost=1
+|rarity=Common
+|effect='''[[Consume]]'''.<br>'''[[Propagate]] 2''' on all units.
+|flavor=Within moments, the shroomfolk had devoured the demon's hand and began consuming their way toward his head.
+|artist=Ron Kee
+}}
+
+{{怪物火车2-法术
+|name=Pseudoscience
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Pseudoscience.png
+|clan=Lazarus League
+|cost=1
+|rarity=Common
+|effect=Randomly apply either {{IconLink&#124;Lifesteal&#124;2}}, {{IconLink&#124;Reanimate&#124;1}} or {{IconLink&#124;Spikes&#124;6}}.
+|flavor="I'm not sure how it works but I do know that, for some reason, shaking a bottle and making baby noises at my specimens makes them heal faster."
+|artist=Michaela Nienaber
+}}
+
+{{怪物火车2-法术
+|name=Purifying Cleanse
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PurifyingCleanse.png
+|clan=Melting Remnant
+|cost=0
+|rarity=Common
+|effect=Restore '''15''' health and apply {{IconLink&#124;Burnout&#124;3}} to a friendly unit.
+|flavor=Before entering a wax drip and applying new wax, a process I've been told is called "guttering", Waxers are asked to cleanse themselves of any blemishes and impurities to keep the wax as clean as possible.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Pyre Light
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PyreLight.png
+|clan=Clanless
+|cost=1
+|rarity=Common
+|effect='''Purge'''. '''[[Ephemeral]]'''.<br>Apply {{Attack&#124;+10}} to the Pyre. The Pyre then attacks immediately.
+|flavor=The Pyre clearly has a mind of its own, as anyone who has been near it will tell you. Perhaps it's the latent mind of the former Titan it once was. Thankfully, it still seems to be on Hell's side.
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-法术
+|name=Pyre Shards
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PyreShards.png
+|clan=[[Awoken]]
+|cost=1
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Spikes&#124;10}}.
+|flavor=To protect the Pyre should it ever feel threatened, I enhanced it to change its shape into something sharper that would damage the attacker. If broken off, these shards can be ingested by the Awoken to achieve the same effect.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Pyre-Gro
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PyreGro.png
+|clan=[[Awoken]]
+|cost=0
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Draw '''-2''' next turn.<br>{{Ember&#124;+1}} per turn for the rest of battle.
+|flavor=The Sentient once told me that the Wildwood was created when Pyre shards were scattered throughout the soil, fertilizing it with an otherworldly energy. Repeating that process now has a similar, though reduced, effect.
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Pyreball
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Pyreball.png
+|clan=Pyreborne
+|cost=2
+|rarity=Common
+|effect='''[[Explosive]]'''.<br>Deal '''20''' damage.
+|flavor="Do you think the angels will be able to fly around it?" asked Fenix. "I would like to see them try," replied Lady Gilda.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Pyreborne Brainspike
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PyreborneBrainspike.png
+|clan=Pyreborne
+|cost=X
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Reduce '''[[Cooldown]]''' by '''X'''. Apply '''2X''' {{IconLink&#124;Avarice}}.
+|flavor="And in your minds, I will hide the true location of my Hoard. However, only those willing to use my key will find it."<br>—The Rules of Fhyra, Rule #20
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Pyrecask
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Pyrecask.png
+|clan=Pyreborne
+|cost=1
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Pyregel&#124;10}}.
+|flavor=A barrel full of Pyregel is perfect, not just for dousing enemies. It is also a wonderful option to bring to a potluck.
+|artist=Mikhail Cang
+}}
+
+{{怪物火车2-法术
+|name=Pyreclasm
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Pyreclasm.png
+|clan=Pyreborne
+|cost=4
+|rarity=Rare
+|effect='''[[Attuned]]'''. '''[[Explosive]]'''.<br>Deal '''150''' damage.
+|flavor="And when you have followed my commandments and led a life devoted to gold, then your spirit will experience an explosive transformation."<br>—The Rules of Fhyra, Rule #1071
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-法术
+|name=Rage Serum
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RageSerum.png
+|clan=Hellhorned
+|cost=0
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Rage&#124;5}}.
+|flavor=Some Hellhorned grind the horns they've won and steep a potion for additional strength. It is a foul substance that I've had the distinct misfortune to try, but the Hellhorned can't seem to get enough.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Razorsharp Edge
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RazorsharpEdge.png
+|clan=Awoken
+|cost=1
+|rarity=Common
+|effect=Apply {{Attack&#124;+12}} and {{Health&#124;-2}}.
+|flavor=Dried out vines can deal more deadly blows, but they risk shattering more easily than their hydrated counterparts. My efforts at strengthening these embrittled appendages have proven fruitless.
+|artist=Gary Laib
+}}
+
+{{怪物火车2-法术
+|name=Reinforce
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Reinforce.png
+|clan=Hellhorned
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Double the amount of {{IconLink&#124;Armor}} on a unit.
+|flavor=Armor forged by Hellhorned steelworkers is among the sturdiest defense known to Hell. It is not, however, known to be particularly comfortable, so the Hellhorned wear it only when absolutely necessary.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Replicator Ray
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ReplicatorRay.png
+|clan=Lazarus League
+|cost=3
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Remove equipment from a friendly unit. Copy the unit.
+|flavor="I found that I was burning, sometimes quite literally, through assistants faster than I liked. I made this little contraption to turn one assistant into two!"<br>—Dr. Orechi
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Resin Removal
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ResinRemoval1_2.png
+|clan=[[Melting Remnant]]
+|cost=2
+|rarity=Uncommon
+|effect=Remove all '''[[Debuff]]''' effects from friendly units and all '''[[Buff]]''' effects from enemy units.
+|flavor=When wax hardens into resin, it is possible to chip away the crystallized exterior to expose the soft wax underneath. The process does not come without risks, though.
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-法术
+|name=Resonant Ruin
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ResonantRuin.png
+|clan=Clanless
+|cost=1
+|effect='''Purge'''.<br>'''[[Reserve]]''': Your Pyre takes '''5''' damage.
+|flavor=Do you not hear the sound? It tolls for you, and the sweet embrace of madness.
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-法术
+|name=Restoration Detonation
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RestorationDetonation.png
+|clan=Awoken
+|cost=1
+|rarity=Common
+|effect=Restore '''15''' health to a friendly unit. Deal damage to the front enemy unit equal to '''5x''' the amount healed.
+|flavor=Though usually avoided because of its potentially deadly outcome, an Awoken's ability to impale themselves with thorns allows them to become a walking nest of spores. Upon bursting, the spores provide additional life with the extra benefit of damage to those nearby.
+|artist=Evan Yoviasis
+}}
+
+{{怪物火车2-法术
+|name=Restore
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Restore.png
+|clan=Awoken
+|cost=1
+|rarity=Common
+|effect=Restore '''4''' health. Apply {{IconLink&#124;Regen&#124;2}}.
+|flavor=One of the many strengths of the Channelers of the Wildwood is their ability to heal their fellow Awoken. Upon our completion of the Rail, they agreed to extend this practice to other Hellborne in need.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Restoring Retreat
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RestoringRetreat.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|effect=Restore '''10''' health.<br>'''[[Descend]]'''.
+|flavor=After inhabiting the Boneshaker for some time, the Awoken vines have implanted themselves throughout the train. This allows them, and our enemies, to travel great distances in a short amount of time, recharging in the process.
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-法术
+|name=Retch
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Retch.png
+|clan=Umbra
+|cost=0
+|rarity=Rare
+|effect=Return eaten units to your hand.
+|flavor=Even the Shroud knows little restraint, sometimes consuming Morsels when, as far as I can tell, no hunger remains. This compulsion, unfortunately, can lead to… "involuntary expulsion."
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-法术
+|name=Rising Rage
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RisingRage.png
+|clan=Banished
+|cost=1
+|rarity=Common
+|effect='''[[Ascend]]''' then '''[[Advance]]'''.
+|flavor=A simmering fury bubbled in the angel's throat. "You clipped my wings," they cried, their voice echoing against Heaven's high walls, "but now I fly higher than ever before!"
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Risky Operation
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RiskyOperation.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect=Reduce friendly unit to '''1''' health. Apply {{Attack&#124;+10}} and {{IconLink&#124;Lifesteal&#124;2}}.
+|flavor="Fascinating! The subject barely survived but look how strong they are!"<br>—from Dr. Orechi's notebook
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Ritual Tome
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RitualTome.png
+|clan=Luna Coven
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Titanskin&#124;2}} to a friendly unit.
+|flavor="May all fae, noble or not, write their spells in this tome. For each voice belongs to the coven's chorus."<br>—The Ritual Tome
+|artist=Hung Bui
+}}
+
+{{怪物火车2-法术
+|name=Ritual of Battle
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RitualOfBattle.png
+|clan=[[Hellhorned]]
+|cost=3
+|rarity=Common
+|effect=Apply {{IconLink&#124;Rage&#124;12}}.
+|flavor=I have learned that the Hellhorned can gain temporary strength through the self-infliction of pain. I find the ritual savage, but it proves to be even more effective when performed over the remains of their opponents.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Rot
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Rot.png
+|clan=Underlegion
+|cost=3
+|rarity=Common
+|effect=Deal '''15''' damage. Apply {{IconLink&#124;Decay&#124;15}}.
+|flavor=''When he drew his hand back from the tree's roots, he found spores had settled on his skin like dust. First, he felt warm, then hot. Until his limb was engulfed in the unbearable pain of rotting alive.''
+|artist=Ron Kee
+}}
+
+{{怪物火车2-法术
+|name=Sacred Wicks
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SacredWicks.png
+|clan=[[Melting Remnant]]
+|cost=0
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>'''[[Reform]]''' '''2''' random units.
+|flavor=While a soul of the Melting Remnant can be reformed in waxen molds, they are not truly reborn until they are given a new wick. The Reformed treat the practice of this ritual as highly sacred and secretive and I've been able to record little of its specifics.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-法术
+|name=Sacrificial Resurrection
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SacrificialResurrection.png
+|clan=Melting Remnant
+|cost=0
+|rarity=Rare
+|effect='''[[Consume]]''' cards in hand. Add a '''[[Draff]]''' unit to your hand and apply {{Attack&#124;+10}} for each card consumed.
+|flavor=When new wax is unavailable to reform a fallen Waxer, the more selfless Reformed choose to donate a portion of their own form to the resurrection.
+|artist=Anita Tung
+}}
+
+{{怪物火车2-法术
+|name=Sanctuary
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Sanctuary.png
+|clan=Banished
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Damage Shield&#124;2}} to friendly units.
+|flavor="The Outpost would become a sanctuary for all those threatened by Heaven—be they Angel or Demon—and a place of safety from the plague that had consumed the Empyrial Palace."<br>—Tome of the Lost Path
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Savage Shackles
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SavageShackles.png
+|clan=Clanless
+|cost=1
+|rarity=N/A
+|effect='''[[Unpurgeable]]'''.<br>'''[[Deployable]]'''.<br>Units in hand cost {{Ember&#124;+1}}.
+|flavor=To my knowledge, the effects of Savagery are more on the mind than on the body. A bloodlust consumes once peaceful angels and turns them into murderous monsters.
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-法术
+|name=Scrap for Parts
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ScrapForParts.png
+|clan=Lazarus League
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''. '''[[Sacrifice]]'''.<br>Draw a unit and apply {{Attack&#124;+40}} and {{Ember&#124;0}}.
+|flavor="All these under-performing technicians are still good for something."<br>—Dr. Orechi
+|artist=Michaela Nienaber
+}}
+
+{{怪物火车2-法术
+|name=Secret Ingredient
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SecretIngredient.png
+|clan=Lazarus League
+|cost=1
+|effect='''[[Mix]]'''.
+|flavor=Not all ingredients in this concoction are rare, fragile, or even illegal. Sometimes all you need is a bit of salt to make a potion all the more potent.
+|artist=Michaela Nienaber
+}}
+
+{{怪物火车2-法术
+|name=Selfless Sacrifice
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SelflessSacrifice.png
+|clan=Banished
+|cost=2
+|rarity=Common
+|effect='''[[Consume]]'''.<br>'''[[Advance]]'''. Apply {{IconLink&#124;Damage Shield&#124;2}}.
+|flavor="When you have no more weapons in your arsenal, all you can offer is yourself."<br>—Banished motto
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Shadesplitter
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Shadesplitter.png
+|clan=Umbra
+|cost=1
+|rarity=Common
+|effect=Add a common or uncommon Morsel unit to your hand.
+|flavor=While the Umbra Shroud cannot do any physical labor on its own, it can create Antumbra Morsels to follow simple instructions and extract the full value of the Crucible. The splitting of the Shroud is like nothing I've ever seen before, and, frankly, prefer not to see again.
+|artist=Cameron Archer
+}}
+
+{{怪物火车2-法术
+|name=Sharpen
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Sharpen.png
+|clan=[[Awoken]]
+|cost=2
+|rarity=Common
+|effect=Apply {{Attack&#124;+6}} and {{IconLink&#124;Spikes&#124;6}}.
+|flavor=I've found discarded Hollow armor serves as a perfect tool to sharpen dull weapons.
+|artist=Gary Laib
+}}
+
+{{怪物火车2-法术
+|name=Shroud Mitosis
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ShroudMitosis.png
+|clan=Umbra
+|cost=1
+|rarity=Rare
+|effect=Create '''3''' copies of a friendly [[Morsel]] unit.
+|flavor=I thought that only the Umbra could split themselves off into more Morsels, but it seems that the Antumbra can create even more copies of themselves. I guess that's why there's a saying about a Morsel in a dark mine...
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Shroud Spike
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ShroudSpike.png
+|clan=Umbra
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]].'''<br>Trigger feeding on a friendly [[Morsel]] unit '''2X''' times.
+|flavor=The Umbra Shroud was the first clan to agree with me that the Rail was crucial to the survival of Hell. This alliance proved my proposed Covenant's importance to the other clans.
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-法术
+|name=Silver Ink
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SilverInk.png
+|clan=Luna Coven
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply '''[[Attuned]]''' and '''+3 [[Magic Power]]''' to spells in your hand.
+|flavor="Take stardust and mix it with oil. Cast a blessing. Only the fae shall read your words written in this ink."<br>—The Ritual Tome
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Silver Strike
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SilverStrike.png
+|clan=Luna Coven
+|cost=1
+|rarity=Common
+|effect=Deal '''25''' damage to the front enemy unit.<br>{{IconLink&#124;Full Moon}}: Deal damage twice instead.
+|flavor="Our defeat was certain but Lady Ekka urged us to continue until the full moon. Then, she explained, she might be able to alter our fates."<br>—Ardania the Forbidden
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Small Gift Box
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SmallGiftBox.png
+|clan=Clanless
+|cost=0
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Add all '''3''' contained spell cards to your hand.
+|flavor=A gift box with a large card saying: "It isn't the trip, it is the journey. It isn't the gift, it is the container."-Reese P. Taculum
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Smelted Treasure
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Smelted_Treasure.png
+|clan=Pyreborne
+|cost=1
+|rarity=Rare
+|effect=Spend {{Gold&#124;50}}. Apply {{IconLink&#124;Armor&#124;50}} to a friendly unit.
+|flavor="And Fhyra's great, beloved greed demanded more from gold. The ancient dragons of the Pyre set forth to learn greater uses for their coin. It was the young whelp, Em Ber, who mixed gold with Pyregel." —Tales of Fire and Gold
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-法术
+|name=Soldier of Fortune
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SoldierOfFortune.png
+|clan=Pyreborne
+|cost=0
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Draw a unit. If you have {{Gold&#124;30}}, spend it to apply {{Attack&#124;+30}}, {{IconLink&#124;Avarice&#124;15}}, and {{IconLink&#124;Armor&#124;15}}.
+|flavor="A soldier who goes to war without the promise of pay is a fool with a sword."<br>—The Rules of Fhyra, Rule #22
+|artist=Nicole Anna Alfonso
+}}
+
+{{怪物火车2-法术
+|name=Space Prism
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpacePrism.png
+|clan=[[Umbra]]
+|cost={{Ember&#124;0}}
+|rarity=Common
+|effect='''[[Consume]]'''.<br>{{Capacity&#124;+1}} on this floor.
+|flavor=''In addition to their ability to refract light for defensive use, Prism Stones can bend the space around them, creating something out of nothing.''
+|artist=John Lee
+}}
+
+{{怪物火车2-法术
+|name=Spawning Pods
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpawningPods.png
+|clan=[[Underlegion]]
+|cost=2
+|rarity=Common
+|effect='''[[Consume]]'''.<br>'''[[Spawn]]''' '''4'''.
+|flavor="Finally! We're free!" cried the first young mushroom. "What do you want to do first?" asked the second. "I don't know, is there any mulch to eat?" answered the third.
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-法术
+|name=Spike of the Banished
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpikeOfTheBanished1_2.png
+|clan=Banished
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply '''4X''' {{IconLink&#124;Valor}}.
+|flavor="Talos asked me if I was certain. Once the Spike was in the Rail, we would forever be tied to the clans of Hell. I nodded. This is what Herzal would have wanted."<br>—Tome of the Lost Path
+|artist=Mary Ngai-Virgo
+}}
+
+{{怪物火车2-法术
+|name=Spike of the Hellhorned
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpikeOfTheHellhorned1_2.png
+|clan=Hellhorned
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply '''4X''' {{IconLink&#124;Rage}} and '''4X''' {{IconLink&#124;Armor}}.
+|flavor=In an act of unity unheard of in Hellhorned culture, Grrrg the Railbeater snapped his own horn to seal the Rail in their Ring, bringing the Hellhorned into our Covenant. Grrrg the Railbeater was thereafter known as Grrrg Onehorn.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Spike of the League
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpikeOfTheLeague.png
+|clan=Lazarus League
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br> Apply {{IconLink&#124;Reanimate&#124;1X}}.
+|flavor=Once, Dr. Orechi was someone who would bristle at the thought of his creations being used for war. He sighed and drove his spike into the Rail. Times had changed.
+|artist=Mikhail Cang
+}}
+
+{{怪物火车2-法术
+|name=Spike of the Legion
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpikeOfTheLegion.png
+|clan=Underlegion
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>'''[[Propagate]] 2X'''.
+|flavor=Whenever anyone tried to build the Rail through the Underlegion's realm, they found the iron overcome by spores and fungi.
+|artist=Hung Bui
+}}
+
+{{怪物火车2-法术
+|name=Spike of the Stygian
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpikeOfTheStygian.png
+|clan=[[Stygian Guard]]
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Sap&#124;1X}} and {{IconLink&#124;Frostbite&#124;5X}}.
+|flavor=The Stygian Guard was formed with our Rail of the Covenant, created by Tethys to protect the sealed Unnamed Titan. The Guard was wary of our Covenant from the beginning, worried that it would make the Pyre vulnerable to outside attacks. Unfortunately, they were correct.
+|artist=Jordan Thomas
+}}
+
+{{怪物火车2-法术
+|name=Sporetouch
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Sporetouch.png
+|clan=Underlegion
+|cost=1
+|rarity=Common
+|effect=Apply {{IconLink&#124;Decay&#124;2}}.
+|flavor=Before the angel could react, Madame Lionsmane gave a flick of her fan and sent a cloud of toxic fumes that dissolved his skin and his eyes.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Spreading Spores
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpreadingSpores.png
+|clan=Awoken
+|cost=1
+|rarity=Rare
+|effect=Restore '''3''' health. Apply {{IconLink&#124;Regen&#124;3}} and {{IconLink&#124;Spikes&#124;3}}. Add a copy of this card to your discard pile.
+|flavor=When thorns find their mark, they release spores into the air to incapacitate unsuspecting victims. These poor souls soon transform into Awoken and feed the vines that first spread the spores. On the embarrassingly frequent occasions that I'm stung by these thorns, I remove them before any real damage occurs.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Starstruck
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Starstruck.png
+|clan=Luna Coven
+|cost=1
+|rarity=Common
+|effect=Deal '''5''' damage.<br>{{IconLink&#124;Full Moon}}: Apply {{IconLink&#124;Dazed&#124;1}}.
+|flavor="Seraph is at our temple gates! Stars, won't you protect us?"
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Steel Enhancer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SteelEnhancer.png
+|clan=[[Awoken]]
+|cost=0
+|rarity=Common
+|effect=Apply {{Attack&#124;+4}} and {{Health&#124;+4}}.
+|flavor=I've used Wildwood sap as a mild steel polish as well, providing combat benefits to the Awoken that receive my treatment.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Sting
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Sting.png
+|clan=[[Awoken]]
+|cost=0
+|rarity=Common
+|effect=Deal '''12''' damage to the front enemy unit.<br>Draw '''+1''' next turn.
+|flavor=Some trees drop acorns to seed new life - the Awoken shoot thorns. To protect myself, I wore thick leather armor on my first visit to the Wildwood. I can't say it helped much...
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Subsuming Blade
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SubsumingBlade.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Uncommon
+|effect='''[[Piercing]]'''.<br>Deal '''5''' damage.<br>{{IconLink&#124;Slay}}: Increase damage by '''3''' permanently.
+|flavor=This blade grows larger with each use, slowly accumulating more wax and becoming more dangerous. Reluctantly, I created it with the Wickless when Hell was invaded to defend against the advancing Winged.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Superheated
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Superheated.png
+|clan=Pyreborne
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Double the amount of {{IconLink&#124;Pyregel}} on a unit.
+|flavor="Beneath the Pyreborne's caves flows a river of Pyregel that runs so hot, it erodes the very stone itself. Watch where you step, you might get a superheated surprise."<br>—Dante's Travel Guide
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Surgical Strike
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SurgicalStrike.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect='''[[Piercing]]'''.<br>Deal '''4''' damage.<br>{{IconLink&#124;Slay}}: Add a copy of this card with '''[[Ephemeral]]''' to your hand.
+|flavor="I've found that the scalpel is mightier than the sword. It can cut with more deadly precision."<br>—from Dr. Orechi's notebook
+|artist=Seika Nakai
+}}
+
+{{怪物火车2-法术
+|name=The Great Decay
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_The_Great_Decay.png
+|clan=Underlegion
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]].'''<br>Apply '''[[Consume]]''' and {{Ember&#124;-1}} to all spells in your deck.
+|flavor="Spore to mycelium, mushroom to mulch, the Great Decay is the cycle that rules our lives. To go against the Decay is to go against life."—Traditional epitaph found on the graves of the Underlegion
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-法术
+|name=Tidal Turning
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_TidalTurning.png
+|clan=Luna Coven
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Restore '''10''' health to friendly units. Healing over max health applies {{IconLink&#124;Armor}} instead.
+|flavor=Moonlit shores attract millions of tiny fae to bathe in the moonlight. As the night deepens, the Selene dance, guided by the water's glow.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Tiresome Climb
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_TiresomeClimb.png
+|clan=Hellhorned
+|cost=2
+|rarity=Uncommon
+|effect='''[[Ascend]]'''. Apply {{IconLink&#124;Dazed&#124;2}}.
+|flavor=Alongside the few remaining Hellhorned scholars, I designed the Boneshaker to change its shape at will, creating hallways that stretch to near infinity for the Winged who choose to walk them.
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-法术
+|name=Titan's Gratitude
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_TitansGratitude.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Common
+|effect='''[[Attuned]]'''.<br>Deal '''60''' damage to the front enemy unit. Discard a card at random.
+|flavor=From what Tethys has told me, the Unnamed below is not dead, but it is also not quite alive. The Stygian take responsibility for its well-being by providing sustenance, in return for occasional protection in the form of expelled energy.
+|artist=Jordan Thomas
+}}
+
+{{怪物火车2-法术
+|name=Titanstooth
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Titanstooth.png
+|clan=[[Stygian Guard]]
+|cost=3
+|rarity=Uncommon
+|effect='''[[Offering]]'''.<br>Deal '''5''' damage to enemy units and apply {{IconLink&#124;Frostbite&#124;10}}.
+|flavor=Ceremonial spears are given to the Stygian Guard to aid them in their protection of the Unnamed's resting place. Originally just part of tradition, these spears have recently become essential in our defense of Hell.
+|artist=Jordan Thomas
+}}
+
+{{怪物火车2-法术
+|name=Tome of Contracts
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_TomeOfContracts.png
+|clan=[[Pyreborne]]
+|cost={{Ember&#124;1}}
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Reduce a unit's '''[[Cooldown]]''' Timer by '''1''' to a minimum of 1.
+|flavor="All dragons must sign their name in the ledger and give half their yearly coin to my temple. If they break their contract, refer to the second Rule."<br>—The Rules of Fhyra, Rule #1
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Tome of Evergrowth
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_TomeOfEvergrowth.png
+|clan=Underlegion
+|cost={{Ember&#124;1}}
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Ability&#124;png=AbilityActive}}: Evergrowth to a friendly unit.<br> {{AbilityBox&#124;Evergrowth&#124;1&#124;Apply {{IconLink&#124;Regen&#124;3}} and {{IconLink&#124;Sap&#124;3}}.}}
+|flavor=''The archives of the Wild Woods and the Hell Oak from which Underlegion are spawned.''
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-法术
+|name=Tome of Horrors
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_TomeOfHorrors.png
+|clan=Lazarus League
+|cost=3
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Unstable&#124;50}} and {{IconLink&#124;Reanimate&#124;1}}.
+|flavor="My assistant gifted me this journal so I could take meticulous notes of my experiments. He might have also said 'writing would help process my feelings.' I didn't pay much attention."<br>—Dr. Orechi
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-法术
+|name=Tome of the Lost Path
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_TomeOfTheLostPath.png
+|clan=Banished
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Ability&#124;png=AbilityActive}}: '''Flight''' to a friendly unit. {{AbilityBox&#124;Flight&#124;2&#124;Move to a targeted location on any floor.}}
+|flavor="If one day I fall, I hope that this record will remind future fighters of the sacrifices Finna made to them."<br>—Tome of the Lost Path
+|artist=Mary Ngai-Virgo
+}}
+
+{{怪物火车2-法术
+|name=Umbra Stone
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_UmbraStone.png
+|clan=[[Umbra]]
+|cost=2
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Trample}}.
+|flavor=As a single mind, the Umbra had no need for written text. But when I finally discovered them, they created a language to converse with me and the other lowly residents of Hell.
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-法术
+|name=Unleash the Wildwood
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_UnleashTheWildwood.png
+|clan=Awoken
+|cost=1
+|rarity=Rare
+|effect=Restore friendly units to full health.
+|flavor=The vines of the Wildwood stockpile harvested energy to use during unexpected droughts. When these stores are tapped into, the energy provides a surge of new life and power to the host.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Unnamed Tome
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_UnnamedTome.png
+|clan=[[Stygian Guard]]
+|cost=0
+|rarity=Uncommon
+|effect='''[[Permafrost]]'''. '''[[Consume]]'''.<br>Apply {{IconLink&#124;Mute&#124;3}} to enemy units.
+|flavor=When the Titan was finally put to rest, the Stygian Guard was formed. Tethys and I wrote this tome to record the existence of the Unnamed Titan and prophesize its return.
+|artist=Jordan Thomas
+}}
+
+{{怪物火车2-法术
+|name=Urchin Spines
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_UrchinSpines.png
+|clan=Stygian Guard
+|cost=0
+|rarity=Uncommon
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Spell Weakness&#124;2}} to enemy units.
+|flavor=Electrified urchins swarm around the openings of the Titan's seafloor resting place. Their spines shock any predators, providing a natural defense in the dangerous depths of the sea. Unbeknownst to Tethys, I collected some of these specimens for my studies.
+|artist=Ali Hosseinkhan
+}}
+
+{{怪物火车2-法术
+|name=Vengeful Shard
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_VengefulShard.png
+|clan=Clanless
+|cost=1
+|rarity=N/A
+|effect='''[[Unpurgeable]]'''.<br>'''[[Reserve]]''': Your Pyre takes '''1''' damage.
+|flavor=When Hell was frozen, the Pyre itself was largely extinguished. The remains that I was unable to collect have been scattered throughout Hell, with Seraph controlling most of them. Some have been corrupted entirely, lashing out at their previous host if they come into too close of contact.
+|artist=Zihao Luo
+}}
+
+{{怪物火车2-法术
+|name=Vent
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Vent1_2.png
+|clan=[[Hellhorned]]
+|cost=X
+|rarity=Common
+|effect=Deal '''5X''' damage to enemy units.
+|flavor=The Boneshaker is of my own design. Fueled by the last shards of the Pyre, the train is robust and dependable. One of its lesser-known features is the ability to unleash pressurized steam on invaders.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Vine Grasp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_VineGrasp.png
+|clan=[[Awoken]]
+|cost=0
+|rarity=Common
+|effect='''[[Advance]]'''. Deal '''3''' damage.
+|flavor=Vined Awoken have been known to lash out to control their enemies. While not an enemy, I too have been lashed and it is a less than pleasant experience.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Void Binding
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_VoidBinding.png
+|clan=Umbra
+|cost=1
+|rarity=Uncommon
+|effect=Apply {{IconLink&#124;Damage Shield&#124;2}}, {{IconLink&#124;Rage&#124;6}}, and {{IconLink&#124;Emberdrain&#124;3}}.
+|flavor=When Void shards were first found, they were considered to be of little value. So, they were collected and dumped to the depths of the Crucible. Later, the Umbra and I found that the shards can mimic the effects of any nearby gems, making them incredibly useful tools if bound directly to the body.
+|artist=Lisa Heidhoff
+}}
+
+{{怪物火车2-法术
+|name=Waxen Spike
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_WaxenSpike.png
+|clan=[[Melting Remnant]]
+|cost=X
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{Attack&#124;+4X}} and {{IconLink&#124;Burnout&#124;4}} to friendly units.
+|flavor=The alliance of the Rings of Hell also created an alliance between the Reformed and the Wickless Remains, bringing together the separate groups under Flicker. To seal their pact, they created a Railspike from their collective wax and drove it into our Rail.
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-法术
+|name=Weaponized Prosthetic
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_WeaponizedProsthetic.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect=Remove equipment from a unit. Apply {{Attack&#124;+30}}.
+|flavor="Look, Mom! Isn't my new arm cool?"
+|artist=Ishmael E. Hoover
+}}
+
+{{怪物火车2-法术
+|name=Wicked Blaze
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_WickedBlaze.png
+|clan=[[Melting Remnant]]
+|cost=2
+|rarity=Uncommon
+|effect='''[[Reform]]''' a unit and apply {{Attack&#124;+10}}.
+|flavor=Though not entirely under their control, the burning of a Waxer's wick can accelerate with a great deal of focus and help from other Waxers. The resulting melting wax is then collected and donated to reform one of their kin.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Wicklash
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Wicklash.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Common
+|effect=Apply {{Attack&#124;+10}} and {{IconLink&#124;Burnout&#124;2}} to a friendly unit.
+|flavor=Those who truly cannot wait for their wax to melt can fasten additional wicks to their bodies, ensuring they burn with a brief, but beautiful, light.
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-法术
+|name=Wickless Recruitment
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_WicklessRecruitment.png
+|clan=[[Melting Remnant]]
+|cost=0
+|rarity=Rare
+|effect=Remove all {{IconLink&#124;Burnout}} and '''[[Debuff]]''' effects on a unit.
+|flavor=''Initiation into the Wickless Remains is a rite performed in the underbelly of the Waxen Arches, involving the sacrifice of a Waxer's wick to forever tie them to their hellish homeland. Even after the many I've witnessed, the ritual still gives me pause.''
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-法术
+|name=Wildwood Sap
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_WildwoodSap1_2.png
+|clan=[[Awoken]]
+|cost=1
+|rarity=Common
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Regen&#124;4}} and {{Health&#124;+4}}.
+|flavor=When sap from Wildwood trees is consumed, it imparts the healing power of their reproductive spores. I also quite enjoy its floral sweetness.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Wildwood Tome
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_WildwoodTome.png
+|clan=Awoken
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Quick}}.
+|flavor=An ancient text of the Channelers of the Edge Priory, this tome outlines its creation. Sadly, the language is closely guarded by the Priory and I've had little luck in translating it.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Witchweave
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Witchweave.png
+|clan=Luna Coven
+|cost=0
+|rarity=Common
+|effect=Deal '''1''' damage to an enemy unit or restore {{Health&#124;1}} to a friendly unit.
+|flavor=As the fighting continued outside the temple walls, Lady Ekka prepared her strike. "May the moon's light and darkness unite," she whispered.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-法术
+|name=Wracking Pain
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_WrackingPain.png
+|clan=Underlegion
+|cost=1
+|rarity=Rare
+|effect=Deal damage equal to '''3x''' the '''[[Debuff]]''' stacks on this unit.
+|flavor="The pain... What an amazing olfactory note for my latest scent."<br>—Madame Lionsmane
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-法术
+|name=Wyngh's Radiance
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_WynghsRadiance.png
+|clan=Banished
+|cost=X
+|rarity=Rare
+|effect='''[[Advance]]'''. Apply '''1X''' {{IconLink&#124;Melee Weakness}}.
+|flavor="With an aching heart, Lieutenant Talos lifted her old friend's spear and prayed to Wyngh for protection. She felt a familiar warmth fill her heart. Perhaps it was her friend, not Wyngh, who answered."
+|artist=Aubrey Kim
+}}

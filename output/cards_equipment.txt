@@ -1,0 +1,428 @@
+{{怪物火车2-装备
+|name=Bloodthirsty Blade
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BloodthirstyBlade.png
+|clan=[[Clanless]]
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Slay}}: This equipment gains {{Attack&#124;+1}} permanently.
+|flavor=Pulled from the embers of the Pyre, legend tells that one day a leader bearing this sword will lead Hell and Heaven to peace.
+|artist=Merilliza Chan
+}}
+
+{{怪物火车2-装备
+|name=Combustion Suit
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CombustionSuit.png
+|clan=Lazarus League
+|cost=1
+|rarity=Rare
+|effect={{IconLink&#124;Strike}}: Apply {{IconLink&#124;Unstable&#124;5}} to enemy units.
+|flavor="Per code LLH 2019.11, assistants must wear this suit at all times when applying the Destabilization Spray. The mixture tends to unbalance their minds."<br>—OHELL Safety Regulations and Guidelines
+|artist=Hannah Lim
+}}
+
+{{怪物火车2-装备
+|name=Cursed Dragonstaff
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CursedDragonstaff.png
+|clan=Pyreborne
+|cost=2
+|rarity=Uncommon
+|effect={{IconLink&#124;Incant}}: Deal '''1''' damage to enemy units.
+|flavor="An eye for an eye makes for a cursed eye, better to leave them blind."<br>—The Rules of Fhyra, Rule #16
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-装备
+|name=Cursed Twinblade
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_CursedTwinblade.png
+|clan=Banished
+|cost=2
+|rarity=Rare
+|effect={{IconLink&#124;Multistrike&#124;1}}. {{IconLink&#124;Strike}}: {{Attack&#124;-1}}.
+|flavor="She told me the blades would kill me. I laughed and took the weapon. I was living on borrowed time anyway."<br>—Finna the Doomed
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-装备
+|name=Double-Edged Arms
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_DoubleEdgedArms.png
+|clan=Lazarus League
+|cost=1
+|rarity=Rare
+|effect={{IconLink&#124;Multistrike&#124;1}}.
+|flavor=Inspired by the Hell Lobster's own appendages, these pincers can grip, cut, and twist the most stubborn of materials.
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-装备
+|name=Dusk Mantle
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Dusk Mantle.png
+|clan=[[Luna Coven]]
+|cost=1
+|rarity=Rare
+|effect={{IconLink&#124;New Moon}}: {{IconLink&#124;Titanskin&#124;5}}.
+|flavor="When the divine moonlight wanes, do not fear. For the Silent will don their mantles and defend us against all those who crawl from the Void."—torn page from The Ritual Tome
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-装备
+|name=Equalizing Rings
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EqualizingRings.png
+|clan=[[Clanless]]
+|cost=0
+|rarity=Rare
+|effect=This unit's {{Attack}} is equal to its max health.
+|flavor=Two gold rings that might have once belonged to a couple who loved each other with a deep, true love. Along the edge, there is a faint inscription and the words 'for my beloved' can be read.
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-装备
+|name=Everlasting Light
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EverlastingLight.png
+|clan=[[Banished]]
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Strike}}: Apply {{IconLink&#124;Valor&#124;2}} to friendly units.
+|flavor="I gripped my spear, knowing they would take it away from me. They blamed it for my success in the arena. In the end, I gave it to Talos. May it serve her as well as it did I."<br>—Finna the Doomed
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-装备
+|name=Exile's Diadem
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Exiles Diadem.png
+|clan=Clanless
+|cost=1
+|rarity=Uncommon
+|effect={{Capacity&#124;-2}}. Cannot reduce {{Capacity}} below 1.
+|flavor="My father's eyes widened when they fell on the crown with the missing Shardsoul. His skin grew pale. His breath quickened. And that is when I realized he remembered more than he let on."—Tales of the Inferno
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-装备
+|name=Fortified Pauldrons
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Fortified Pauldrons.png
+|clan=Hellhorned
+|cost=0
+|rarity=Common
+|effect={{IconLink&#124;Armor&#124;6}}.<br>{{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Armor&#124;6}}.
+|flavor=Leather is a common material among the Hellhorned, so I've lined my garb with the material for protection. Given the stench, I'm sure the source of it is better left a mystery.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-装备
+|name=Frostpiercer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Frostpiercer1_2.png
+|clan=Stygian Guard
+|cost=2
+|rarity=Rare
+|effect={{IconLink&#124;Strike}}: Apply {{IconLink&#124;Frostbite}} equal to half the damage dealt.
+|flavor="When my father's friends returned from the Void, so too did this spear appear along the banks of the Stygian Sea. And while the Guard rejoiced at the return of their sacred spear, I could not help but worry. Why would the sea return the spear now?"—Tales of the Inferno
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-装备
+|name=Glass Cannon
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_GlassCannon.png
+|clan=Clanless
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Fragile}}.
+|flavor=As powerful as this weapon is, it is just as fragile. Handle with care.
+|artist=Rithyra Bin
+}}
+
+{{怪物火车2-装备
+|name=Heph's Hammer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HephsHammer.png
+|clan=Clanless
+|cost=1
+|rarity=Rare
+|effect={{IconLink&#124;Slay}}: {{Capacity&#124;+1}} on this floor.
+|flavor=What was once Herzal's hammer, it has now passed down to his daughter Heph. Over the years, it forged the Rail and the trains that ride it, yet it shows no signs of wear.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-装备
+|name=Iron-tongue
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Iron Tongue.png
+|clan=Clanless
+|cost=2
+|rarity=Uncommon
+|effect={{IconLink&#124;Sweep}}.<br>This unit's {{Attack}} is set to '''30''' and cannot be changed.
+|flavor="I used to think my father was naive for believing peace was possible. Until one day I stumbled upon a weapon in the dunes of Limbo that had both angelic and demonic markings."—Tales of the Inferno
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-装备
+|name=Lava Armor
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_LavaArmor.png
+|clan=Pyreborne
+|cost=1
+|rarity=Common
+|effect={{IconLink&#124;Revenge}}: Apply {{IconLink&#124;Pyregel&#124;3}} to the attacker.
+|flavor="Fenix does love to dote on me, but I have to say, my favorite gift was the patent for this armor of his that uses lava to protect the wearer. It's his most profitable creation yet!"<br>—Lady Gilda
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-装备
+|name=Loamcoat
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Loamcoat.png
+|clan=Underlegion
+|cost=2
+|rarity=Common
+|effect={{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Regen&#124;1}}. '''[[Propagate]] 2'''.
+|flavor=The dapperling special ops unit knows the importance of good soil to a shroom's performance. They went one step further and found a way to bring soil to the battlefield.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-装备
+|name=Luna Cyclestaff
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_LunaCyclestaff.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Mooncycle}}: This equipment gains {{Attack&#124;+1}} permanently.
+|flavor="Under a full moon, take the staff made of the lunar shard and cast a circle. Watch the sands of Limbo flow towards you. A moon will be made for your coven to call home."<br>—The Ritual Tome
+|artist=Hung Bui
+}}
+
+{{怪物火车2-装备
+|name=Meat Shield
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MeatShield.png
+|clan=[[Clanless]]
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Resolve}}: Restore '''10''' health.
+|flavor=A small plate made for the Bone Dog during a birthday 'paint your own ceramics' party.
+|artist=Hannah Lim
+}}
+
+{{怪物火车2-装备
+|name=Mind Cage
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MindCage.png
+|clan=Pyreborne
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Resolve}}: Reduce '''[[Cooldown]]''' by '''1'''.
+|flavor="All dragons who turn their thoughts towards pointless pastimes such as art, music, or poetry will submit to the mindcage until they reform."<br>—The Rules of Fhyra, Rule #3
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-装备
+|name=Mitosis Cap
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MitosisCap.png
+|clan=Underlegion
+|cost=0
+|rarity=Rare
+|effect={{IconLink&#124;Celebrate}}: Gain a permanent copy of this unit. Cannot be equipped to [[Champion]] or {{IconLink&#124;Cardless}} units.
+|flavor=Death is an opportunity to make a new, better version of yourself. This is a lesson many have known for as long as the roots of the Fatal Elm are deep.
+|artist=Herrick Ong
+}}
+
+{{怪物火车2-装备
+|name=Moonlit Glaive
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_MoonlitGlaive.png
+|clan=Luna Coven
+|cost=2
+|rarity=Uncommon
+|effect={{IconLink&#124;Mageblade&#124;3}}.
+|flavor=At the end of the Plenilune, the priestess return all weapons to the Silent. For now that the blades have been blessed by an Empress Moon, they have no place in her temple.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-装备
+|name=Oldgrowth
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Oldgrowth.png
+|clan=Awoken
+|cost=1
+|rarity=Rare
+|effect={{IconLink&#124;Rejuvenate}}: Gain '''10''' max health.<br>'''+10''' max health.
+|flavor=Where the Hollow leave behind their husks, there are vines that refuse to die. They grow and grow, forestalling their inevitable decay. The Channelers say this is because "She" still lives. Few know what they could mean and even fewer find comfort in their words.
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-装备
+|name=Organ Harvester
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_OrganHarvester.png
+|clan=Lazarus League
+|cost=2
+|rarity=Uncommon
+|effect={{IconLink&#124;Slay}}: Gain {{IconLink&#124;Reanimate&#124;1}}.
+|flavor="My experiments tend to take a toll on the bodies of my assistants. I made this contraption so I could collect new parts with more efficiency."<br>—from Dr. Orechi's notebook
+|artist=Seika Nakai
+}}
+
+{{怪物火车2-装备
+|name=Overgrowth Carapace
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_OvergrowthCarapace.png
+|clan=[[Clanless]]
+|cost=2
+|rarity=Rare
+|effect={{IconLink&#124;Resolve}}: Gain {{Capacity&#124;+1}}, {{Attack&#124;+20}}, and {{Health&#124;+20}} if there is {{Capacity}} available.
+|flavor=Don't think too hard about what is in this supplement. Just know that it will certainly make you FEEL stronger.
+|artist=Merilliza Chan
+}}
+
+{{怪物火车2-装备
+|name=Penitent's Bloodsuit
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/Bloodsuit.png
+|clan=Banished
+|cost=0
+|rarity=Common
+|effect={{IconLink&#124;Shift}}: Take '''30''' damage. Can be equipped on enemy units.
+|flavor="I regarded the Bloodsuit and felt myself shudder. This instrument of pain had left a mark on many angels in Heaven, it was time we used it for our own purposes." —Finna the Doomed
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-装备
+|name=Penitent's Deathsuit
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PenitentsDeathsuit.png
+|clan=Banished
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Shift}}: Gain {{IconLink&#124;Melee Weakness&#124;1}}. Can be equipped on enemy units.
+|flavor="No angel could survive this device. And I was the monster who created it. Perhaps I truly was more a demon now."<br>—Finna the Doomed
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-装备
+|name=Potion Kit
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PotionKit.png
+|clan=Lazarus League
+|cost=1
+|rarity=Common
+|effect={{AbilityBox&#124;Brew&#124;3&#124;'''[[Mix]]'''.}}
+|flavor="An essential collection of tools that every lab technician needs: powdered Titan bone, a beaker, a faulty burner, and chili, of course."<br>—OHELL Safety Regulations and Guidelines
+|artist=Herrick Ong
+}}
+
+{{怪物火车2-装备
+|name=Resin Blades
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Resin Blades.png
+|clan=Melting Remnant
+|cost=2
+|rarity=Rare
+|effect={{IconLink&#124;Burnout&#124;1}}.<br>{{IconLink&#124;Multistrike&#124;1}}.<br>Return to hand when equipped unit is destroyed.
+|flavor=It is because of blades such as these that the Reformed lament the process of molding the remains of their brethren into new weapons. They understand that each time the steel reforms itself, the trapped soul within the wax is struggling to be free.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-装备
+|name=Scissor Hands
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ScissorHands.png
+|clan=Lazarus League
+|cost=0
+|rarity=Common
+|effect=None
+|flavor="Well, at least making confetti will be easy."
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-装备
+|name=Shield of Wyngh
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ShieldOfWyngh.png
+|clan=Banished
+|cost=2
+|rarity=Uncommon
+|effect={{IconLink&#124;Revenge}}: Deal damage to the attacker equal to this unit's {{Health}}.
+|flavor=If the Windblades are the piercing gust of a storm, then the Shield of Wyngh is the gale that deflects any attacker.
+|artist=Aubrey Kim
+}}
+
+{{怪物火车2-装备
+|name=Soulsmelter
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Soulsmelter.png
+|clan=Pyreborne
+|cost={{Ember&#124;3}}
+|rarity=Uncommon
+|effect={{IconLink&#124;Siphon}}:<br> Gain '''1''' {{IconLink&#124;Soul}}.<br>{{IconLink&#124;Celebrate}}:<br>Gain {{DragonsHoard&#124;1}} for every '''4''' {{IconLink&#124;Soul}}.
+|flavor=A creation by the Pyreborned smelters and infused with a blessing by Fhyra, this staff consumed the souls of the bearer's enemies and transformed them into gold.
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-装备
+|name=Spiky Skin
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpikySkin.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Revenge}}: Gain {{IconLink&#124;Spikes&#124;3}}.
+|flavor="I took a sample from a demon's flesh whose skin was as strong as steel and combined it with a bristle brush. Voila! My sharpest creation!"<br>—from Dr. Orechi's notebook
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-装备
+|name=Stasis Crystal
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Stasis Crystal.png
+|clan=[[Clanless]]
+|cost=2
+|rarity=Rare
+|effect={{IconLink&#124;Stasis}}.<br>{{IconLink&#124;Resolve}}: Gain {{Attack&#124;+20}}, and {{Health&#124;+20}} while under {{IconLink&#124;Stasis}}.<br>{{AbilityBox&#124;Emerge&#124;1&#124;Remove {{IconLink&#124;Stasis}}. Starts battle on cooldown. Removes ability on use.}}
+|flavor="I am happy the Exiles escaped and all, but...how? Have the Shardsouls been weakened by the corruption? If so, who knows what else might escape..."—Tales of the Inferno
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-装备
+|name=Stoic Platemail
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_StoicPlatemail.png
+|clan=[[Clanless]]
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Silence}}. {{IconLink&#124;Armor&#124;60}}.
+|flavor=A suit of armor tailor-made for warriors whose bark is louder than their bite.
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-装备
+|name=Swiftsteel Dagger
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SwiftsteelDagger.png
+|clan=[[Clanless]]
+|cost=1
+|rarity=Uncommon
+|effect={{IconLink&#124;Quick}}.
+|flavor=Angels and Hellborne used all kinds of armaments, but only the Angels made them to be this sleek.
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-装备
+|name=Twisted Back
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_TwistedBack.png
+|clan=Lazarus League
+|cost=1
+|rarity=Common
+|effect={{IconLink&#124;Trample}}.<br>{{IconLink&#124;Strike}}: Gain {{IconLink&#124;Rage&#124;2}}.
+|flavor="I've been Dr. Orechi's intern for years now. When will i get an actual job offer?!"
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-装备
+|name=Vampire's Tooth
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_VampiresTooth.png
+|clan=Lazarus League
+|cost=1
+|rarity=Common
+|effect={{IconLink&#124;Lifesteal&#124;1}}.<br>{{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Lifesteal&#124;1}}.
+|flavor="The name is a little tongue-in-cheek, my Assistant wanted eternal life so I made her an implant that would let her, let's say, 'drink the life force' of others"<br>—from Dr. Orechi's notebook
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-装备
+|name=Void Armament
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_VoidArmament.png
+|clan=Clanless
+|cost=3
+|rarity=Rare
+|effect={{IconLink&#124;Multistrike&#124;1}}. {{IconLink&#124;Extinguish}}: Purge this unit from your deck.
+|flavor=When Void shards were first found, they were considered to be of little value. No one expected that they could be pulled together in a weapon that doubled any attack's force.
+|artist=William Smith
+}}
+
+{{怪物火车2-装备
+|name=Windblade
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Windblade.png
+|clan=Banished
+|cost=1
+|rarity=Common
+|effect={{IconLink&#124;Shift}}: Gain {{IconLink&#124;Valor&#124;1}}.<br>{{IconLink&#124;Resolve}}: Trigger {{IconLink&#124;Shift}}.
+|flavor=None can escape the Windblade's path, whose blade turns a breeze into a slice and a gust into a cut. For who can dodge the very air they breathe?
+|artist=Aubrey Kim
+}}

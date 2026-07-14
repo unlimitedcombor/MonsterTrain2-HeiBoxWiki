@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "d:\\文档\\GitHub\\怪物火车2小黑盒百科\\logs\\.c2b4b23879cfeb9c8103e58f68a3c2e6c292cf28-audit.json",
+    "files": [
+        {
+            "date": 1784028987413,
+            "name": "d:\\文档\\GitHub\\怪物火车2小黑盒百科\\logs\\mcp-puppeteer-2026-07-14.log",
+            "hash": "63f44e165178a7b6ea2a635c7ca54b826495391ff949cffeb4f7a7a80dc6b646"
+        }
+    ],
+    "hashType": "sha256"
+}

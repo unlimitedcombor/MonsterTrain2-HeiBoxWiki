@@ -1,0 +1,275 @@
+<!-- 怪物火车2 - 敌方单位 -->
+<!-- 用于: 所有敌方单位 -->
+
+<div class="mt2-enemy">
+    <!-- 头部 -->
+    <div class="mt2-enemy-header">
+        <div class="mt2-enemy-title">Death's Dancer</div>
+        <div class="mt2-enemy-tag">敌方</div>
+    </div>
+
+    <!-- 图片 -->
+    <div class="mt2-enemy-image">
+        <img src="res/preview_card.png" alt="Death's Dancer">
+    </div>
+
+    <!-- 属性 -->
+    
+    <div class="mt2-enemy-stats-section">
+        <div class="mt2-section-header">属性</div>
+        <div class="mt2-enemy-stats-row">
+            <div class="mt2-enemy-stat">
+                <div class="mt2-enemy-stat-header">基础</div>
+                <div class="mt2-enemy-stat-values">
+                    <span class="mt2-stat-atk"><img src="res/ui/Attack.png" class="mt2-stat-icon-small"> 5</span>
+                    <span class="mt2-stat-hp"><img src="res/ui/Health.png" class="mt2-stat-icon-small"> 2</span>
+                </div>
+            </div>
+            <div class="mt2-enemy-stat">
+                <div class="mt2-enemy-stat-header">契约 8</div>
+                <div class="mt2-enemy-stat-values">
+                    <span class="mt2-stat-atk"><img src="res/ui/Attack.png" class="mt2-stat-icon-small"> 6</span>
+                    <span class="mt2-stat-hp"><img src="res/ui/Health.png" class="mt2-stat-icon-small"> 2</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <!-- 能力 -->
+    
+    <div class="mt2-enemy-section">
+        <div class="mt2-section-header">能力</div>
+        <div class="mt2-enemy-ability">Shift: Apply +4 Attack</div>
+    </div>
+    
+
+    <!-- 出现位置 -->
+    <div class="mt2-enemy-section">
+        <div class="mt2-section-header">出现位置</div>
+        <div class="mt2-ring-list">
+            
+            <div class="mt2-ring-item">
+                <span class="mt2-ring-label">环 1</span>
+                <span class="mt2-ring-value">Mark of Invasion</span>
+            </div>
+            
+            
+            <div class="mt2-ring-item">
+                <span class="mt2-ring-label">环 2</span>
+                <span class="mt2-ring-value">Flagellant's March</span>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+    <!-- 祝福来源 -->
+    
+    <div class="mt2-enemy-section mt2-titan-section">
+        <div class="mt2-section-header">祝福来源</div>
+        <div class="mt2-titan-value">Savagery</div>
+    </div>
+    
+
+    <!-- 风味文字 -->
+    
+    <div class="mt2-enemy-flavor">
+        <i>"Dance is a poem..."</i>
+    </div>
+    
+
+    <!-- 画师 -->
+    
+    <div class="mt2-enemy-artist">
+        画师: Loy Bouttamy
+    </div>
+    
+</div>
+
+<style>
+    /* === 怪物火车2 - 敌方单位 样式 === */
+
+    .mt2-enemy {
+        width: 100%;
+        max-width: 420px;
+        background: linear-gradient(180deg, #1a0a0a 0%, #0d0d1a 100%);
+        border: 2px solid #a04030;
+        border-radius: 8px;
+        overflow: hidden;
+        font-family: "Microsoft YaHei", sans-serif;
+        color: #e0c0c0;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+        margin: 10px auto;
+    }
+
+    /* 头部 */
+    .mt2-enemy-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px 14px;
+        background: linear-gradient(180deg, #2a1010, #1a0a0a);
+        border-bottom: 1px solid #3a1818;
+    }
+
+    .mt2-enemy-title {
+        font-size: 18px;
+        font-weight: bold;
+        color: #f0c0a0;
+    }
+
+    .mt2-enemy-tag {
+        font-size: 11px;
+        padding: 2px 10px;
+        border-radius: 3px;
+        background: #4a1a1a;
+        color: #f06040;
+        font-weight: bold;
+    }
+
+    /* 图片 */
+    .mt2-enemy-image {
+        text-align: center;
+        padding: 12px 0;
+        background: radial-gradient(ellipse, #1a1020 0%, #0d0d1a 100%);
+    }
+    .mt2-enemy-image img {
+        max-height: 240px;
+        margin: 0 !important;
+    }
+
+    /* 通用 section */
+    .mt2-enemy-section,
+    .mt2-enemy-stats-section {
+        border-top: 1px solid #2a1015;
+    }
+
+    .mt2-section-header {
+        font-size: 12px;
+        font-weight: bold;
+        color: #c08060;
+        padding: 8px 14px 4px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+
+    /* 属性 */
+    .mt2-enemy-stats-row {
+        display: flex;
+        padding: 4px 10px 10px;
+        gap: 8px;
+    }
+
+    .mt2-enemy-stat {
+        flex: 1;
+        text-align: center;
+        background: rgba(0,0,0,0.3);
+        border-radius: 4px;
+        padding: 6px 4px;
+    }
+
+    .mt2-enemy-stat-header {
+        font-size: 10px;
+        color: #8a6a5a;
+        margin-bottom: 4px;
+    }
+
+    .mt2-enemy-stat-values {
+        display: flex;
+        justify-content: center;
+        gap: 12px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .mt2-stat-atk { color: #f08060; }
+    .mt2-stat-hp { color: #f06060; }
+
+    /* 能力 */
+    .mt2-enemy-ability {
+        padding: 4px 14px 10px;
+        font-size: 13px;
+        color: #d0b0a0;
+    }
+
+    /* 出现位置 */
+    .mt2-ring-list {
+        padding: 4px 14px 10px;
+    }
+
+    .mt2-ring-item {
+        display: flex;
+        padding: 4px 0;
+        border-bottom: 1px dotted #2a1510;
+    }
+    .mt2-ring-item:last-child {
+        border-bottom: none;
+    }
+
+    .mt2-ring-label {
+        min-width: 50px;
+        font-size: 12px;
+        font-weight: bold;
+        color: #c08060;
+    }
+
+    .mt2-ring-value {
+        font-size: 12px;
+        color: #c0a090;
+        line-height: 1.6;
+    }
+
+    /* 祝福来源 */
+    .mt2-titan-section {
+        border-left: 3px solid #8050a0;
+    }
+
+    .mt2-titan-value {
+        padding: 4px 14px 10px;
+        font-size: 13px;
+        color: #c0a0d0;
+    }
+
+    /* 风味 */
+    .mt2-enemy-flavor {
+        padding: 10px 14px;
+        font-size: 12px;
+        color: #8a6a5a;
+        text-align: center;
+        font-style: italic;
+        border-top: 1px solid #1a1015;
+    }
+
+    /* 画师 */
+    .mt2-enemy-artist {
+        padding: 6px 14px;
+        font-size: 10px;
+        color: #4a3020;
+        text-align: right;
+        border-top: 1px solid #1a1015;
+    }
+
+    a {
+        color: inherit !important;
+    }
+
+    .mt2-icon {
+        width: 15px;
+        height: 15px;
+        vertical-align: middle;
+        margin-right: 2px;
+    }
+
+    .mt2-stat-icon-small {
+        width: 18px;
+        height: 18px;
+        vertical-align: middle;
+        margin-right: 2px;
+    }
+</style>

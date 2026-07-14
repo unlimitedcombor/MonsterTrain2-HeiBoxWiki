@@ -1,0 +1,4435 @@
+[
+  {
+    "name": "Fel",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": "{{IconLink|Multistrike|1}}."
+  },
+  {
+    "name": "Talos",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": "{{AbilityBox|Flight|2|Move to a targeted location on any floor.}}"
+  },
+  {
+    "name": "Just Cause",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Advance]]'''. Apply {{IconLink|Valor|2}}."
+  },
+  {
+    "name": "Inspire (spell)",
+    "type": "unit",
+    "clan": "[[Banished]]",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "",
+    "ability": ""
+  },
+  {
+    "name": "Upbeat Warbler",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Hymnist",
+    "ability": "{{IconLink|Enchant}}: Grant {{IconLink|Quick}}."
+  },
+  {
+    "name": "Lead Songbird",
+    "type": "unit",
+    "clan": "[[Banished]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Hymnist",
+    "ability": "{{IconLink|Valor}} on friendly units adds {{Attack|+1}} per stack."
+  },
+  {
+    "name": "Punk Shredder",
+    "type": "unit",
+    "clan": "[[Banished]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Hymnist",
+    "ability": "{{IconLink|Enchant}}: Grant {{IconLink|Trample}}."
+  },
+  {
+    "name": "Avenger",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Angel",
+    "ability": "{{IconLink|Revenge}}: Apply {{IconLink|Melee Weakness|1}} to the attacker."
+  },
+  {
+    "name": "Battle Dancer",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Angel",
+    "ability": "{{IconLink|Shift}}: Gain {{IconLink|Valor|3}}."
+  },
+  {
+    "name": "Demonic Fledgling",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Angel",
+    "ability": "{{IconLink|Strike}}: Gain {{IconLink|Valor|1}}. {{IconLink|Shift}}: Gain {{IconLink|Rage|2}}."
+  },
+  {
+    "name": "Firebrand",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Angel",
+    "ability": "{{IconLink|Revenge}}: Gain {{IconLink|Valor|2}}."
+  },
+  {
+    "name": "Steadfast Crusader",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Angel",
+    "ability": "{{AbilityBox|Slam|2|'''[[Advance]]'''. Deal damage to the front enemy unit equal to this unit's current {{Health}} and {{IconLink|Armor}}.}}"
+  },
+  {
+    "name": "Swordmaiden",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Angel",
+    "ability": "{{IconLink|Summon}}: Draw an equipment card from your deck. {{IconLink|Artificer}}: Gain {{IconLink|Valor|8}}."
+  },
+  {
+    "name": "Deathmetal Hymnist",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "4",
+    "rarity": "Rare",
+    "subtype": "Hymnist",
+    "ability": "{{IconLink|Enchant}}: Grant {{IconLink|Multistrike|1}}."
+  },
+  {
+    "name": "Death's Dancer",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Angel",
+    "ability": "{{IconLink|Shift}}: Apply {{Attack|+4}} to friendly units."
+  },
+  {
+    "name": "Divine Dancer",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Angel",
+    "ability": "{{IconLink|Shift}}: Apply {{IconLink|Armor|5}} to friendly units."
+  },
+  {
+    "name": "Hostguard",
+    "type": "unit",
+    "clan": "Banished",
+    "cost": "3",
+    "rarity": "Rare",
+    "subtype": "Angel",
+    "ability": "{{AbilityBox|Heavenly Slam|3|Move to a targeted location on any floor. Deal damage to the front enemy unit equal to this unit's {{Health}} and {{IconLink|Armor}}.}}"
+  },
+  {
+    "name": "Challenge",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Advance]]'''. Apply {{IconLink|Melee Weakness|1}}."
+  },
+  {
+    "name": "Cleave",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "Deal damage to enemy units equal to {{Attack}} of the front friendly unit."
+  },
+  {
+    "name": "Divinity",
+    "type": "spell",
+    "clan": "[[Banished]]",
+    "cost": "3",
+    "rarity": "Common",
+    "effect": "Apply {{IconLink|Valor|10}}."
+  },
+  {
+    "name": "Rising Rage",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Ascend]]''' then '''[[Advance]]'''."
+  },
+  {
+    "name": "Selfless Sacrifice",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>'''[[Advance]]'''. Apply {{IconLink|Damage Shield|2}}."
+  },
+  {
+    "name": "Begone",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Retreat]]''' the front enemy unit. Apply {{IconLink|Melee Weakness|1}} to enemy units."
+  },
+  {
+    "name": "Benediction",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Valor|2}} and {{IconLink|Damage Shield|1}} to friendly units."
+  },
+  {
+    "name": "Deadly Plunge",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Deal damage to the front enemy equal to '''3x''' this friendly unit's {{Health}} and {{IconLink|Armor}}."
+  },
+  {
+    "name": "Demonize",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "'''[[Descend]]'''. Apply {{IconLink|Melee Weakness|2}}."
+  },
+  {
+    "name": "Heroic Dive",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>'''[[Descend]]''' then '''[[Advance]]''' a friendly unit. Deal damage to the front enemy unit equal to '''2x''' this unit's {{Health}} and {{IconLink|Armor}}."
+  },
+  {
+    "name": "Liquid Courage",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Damage Shield|1}} and {{IconLink|Valor|4}}."
+  },
+  {
+    "name": "Eagleheart",
+    "type": "spell",
+    "clan": "[[Banished]]",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>'''[[Advance]]'''. Apply {{IconLink|Valor|5}} to a friendly unit, then it attacks immediately."
+  },
+  {
+    "name": "Heavensward",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>'''[[Ascend]]''' friendly units, then '''[[Advance]]''' the highest {{Health}} friendly unit on the new floor."
+  },
+  {
+    "name": "Sanctuary",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Damage Shield|2}} to friendly units."
+  },
+  {
+    "name": "Spike of the Banished",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply '''4X''' {{IconLink|Valor}}."
+  },
+  {
+    "name": "Tome of the Lost Path",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Ability|png=AbilityActive}}: '''Flight''' to a friendly unit. {{AbilityBox|Flight|2|Move to a targeted location on any floor.}}"
+  },
+  {
+    "name": "Wyngh's Radiance",
+    "type": "spell",
+    "clan": "Banished",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Advance]]'''. Apply '''1X''' {{IconLink|Melee Weakness}}."
+  },
+  {
+    "name": "Penitent's Bloodsuit",
+    "type": "equipment",
+    "clan": "Banished",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "{{IconLink|Shift}}: Take '''30''' damage. Can be equipped on enemy units."
+  },
+  {
+    "name": "Windblade",
+    "type": "equipment",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "{{IconLink|Shift}}: Gain {{IconLink|Valor|1}}.<br>{{IconLink|Resolve}}: Trigger {{IconLink|Shift}}."
+  },
+  {
+    "name": "Everlasting Light",
+    "type": "equipment",
+    "clan": "[[Banished]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Strike}}: Apply {{IconLink|Valor|2}} to friendly units."
+  },
+  {
+    "name": "Penitent's Deathsuit",
+    "type": "equipment",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Shift}}: Gain {{IconLink|Melee Weakness|1}}. Can be equipped on enemy units."
+  },
+  {
+    "name": "Shield of Wyngh",
+    "type": "equipment",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Revenge}}: Deal damage to the attacker equal to this unit's {{Health}}."
+  },
+  {
+    "name": "Cursed Twinblade",
+    "type": "equipment",
+    "clan": "Banished",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Multistrike|1}}. {{IconLink|Strike}}: {{Attack|-1}}."
+  },
+  {
+    "name": "Imprisoned Zephyr",
+    "type": "room",
+    "clan": "Banished",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "Friendly units '''[[Advance]]''' on {{IconLink|Strike}}."
+  },
+  {
+    "name": "Bloodsoaked Arena",
+    "type": "room",
+    "clan": "Banished",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Friendly units gain {{IconLink|Valor|6}} on {{IconLink|Slay}}."
+  },
+  {
+    "name": "Lord Fenix",
+    "type": "unit",
+    "clan": "Pyreborne",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": "{{AbilityBox|Fenix Fire|3|Deal damage equal to this unit's attack. <br> Apply {{IconLink|Pyregel|4}} to enemy units.}}"
+  },
+  {
+    "name": "Lady Gilda",
+    "type": "unit",
+    "clan": "Pyreborne",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Firestarter",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Deal '''1''' damage and apply {{IconLink|Pyregel|2}}."
+  },
+  {
+    "name": "Bloated Whelp",
+    "type": "unit",
+    "clan": "Pyreborn",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Whelp",
+    "ability": "{{AbilityBox|Indigestion|1|'''[[Sacrifice]]'''. Deal '''1''' damage to enemy units.}}"
+  },
+  {
+    "name": "Snotty Whelp",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Whelp",
+    "ability": "{{AbilityBox|Gellysneeze|2|Deal '''1''' damage then apply {{IconLink|Pyregel|12}} to the front enemy unit.}}"
+  },
+  {
+    "name": "Stuck Up Whelp",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Whelp",
+    "ability": "{{AbilityBox|Expensive Taste|3|Apply {{IconLink|Avarice|2}} to friendly units.}}"
+  },
+  {
+    "name": "Wealthy Whelp",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "{{Ember|1}}",
+    "rarity": "Uncommon",
+    "subtype": "Whelp",
+    "ability": "{{AbilityBox|Moneymaker|2|Gain {{Gold|5}} for each {{DragonsHoard}}.}}"
+  },
+  {
+    "name": "Gildmonger",
+    "type": "unit",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Dragon",
+    "ability": "{{IconLink|Extinguish}}: Gain {{DragonsHoard|1}}."
+  },
+  {
+    "name": "Hot Head",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "{{Ember|2}}",
+    "rarity": "Uncommon",
+    "subtype": "Dragon",
+    "ability": "{{AbilityBox|Fire Breathing|2|Deal damage equal to this unit's attack to enemy units, twice.}}"
+  },
+  {
+    "name": "Greed Dragon",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Dragon",
+    "ability": "{{IconLink|Summon}}: {{Attack|+10}} and {{Health|+10}} for each {{DragonsHoard}}."
+  },
+  {
+    "name": "Magma Cultist",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Dragon",
+    "ability": "{{IconLink|Incant}}: Apply {{IconLink|Pyregel|1}} to enemy units."
+  },
+  {
+    "name": "Magma Mauler",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Dragon",
+    "ability": "{{IconLink|Strike}}: Apply {{IconLink|Pyregel|8}}."
+  },
+  {
+    "name": "Miser",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "{{Ember|1}}",
+    "rarity": "Uncommon",
+    "subtype": "Dragon",
+    "ability": "{{IconLink|Avarice|10}}."
+  },
+  {
+    "name": "Goldtooth",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Dragon",
+    "ability": "{{IconLink|Avarice|5}}.<br>{{Attack|+15}} per {{Gold|100}} you started the turn with."
+  },
+  {
+    "name": "Pyreblooded",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Dragon",
+    "ability": "{{AbilityBox|Empower|3|Gain {{Attack}} equal to {{IconLink|Pyregel}} stacks on all units.}}"
+  },
+  {
+    "name": "Zealot",
+    "type": "unit",
+    "clan": "[[Pyreborne]]",
+    "cost": "3",
+    "rarity": "Rare",
+    "subtype": "Dragon",
+    "ability": "{{IconLink|Sweep}}.<br>{{IconLink|Action}}: Apply {{IconLink|Pyregel|5}} to enemy units."
+  },
+  {
+    "name": "Flicker",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "Deal '''1''' damage to enemy units."
+  },
+  {
+    "name": "Lava Flow",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Pyregel|4}} to enemy units."
+  },
+  {
+    "name": "Pyrecask",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Pyregel|10}}."
+  },
+  {
+    "name": "Golden Touch",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "Deal '''5''' damage.<br>{{IconLink|Slay}}: Gain {{DragonsHoard|1}}."
+  },
+  {
+    "name": "Pyreball",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "'''[[Explosive]]'''.<br>Deal '''20''' damage."
+  },
+  {
+    "name": "Alchemy",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "3",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Gain {{DragonsHoard|2}}."
+  },
+  {
+    "name": "Pyreborne Brainspike",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "X",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Reduce '''[[Cooldown]]''' by '''X'''. Apply '''2X''' {{IconLink|Avarice}}."
+  },
+  {
+    "name": "Fanning the Flame",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Explosive]]'''.<br>Deal '''3''' damage to a random enemy unit.<br>{{IconLink|Slay}}: Increase damage by '''3''' permanently."
+  },
+  {
+    "name": "Greed",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Deal '''20''' damage to all units.<br>{{IconLink|Slay}}: Gain {{Gold|10}}"
+  },
+  {
+    "name": "Inequivalent Exchange",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Deal damage equal to '''25x''' your {{DragonsHoard}}, then lose {{DragonsHoard|1}}."
+  },
+  {
+    "name": "Make It Rain",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Deal '''5''' damage to enemy units. Spend {{Gold|5}} and repeat this card's effect, up to three more times."
+  },
+  {
+    "name": "Pay Off",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Restore '''2''' Pyre health for each {{DragonsHoard}}."
+  },
+  {
+    "name": "Dragon's Breath",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Pyregel|10}} and deal '''10''' damage to enemy units."
+  },
+  {
+    "name": "Soldier of Fortune",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "0",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Draw a unit. If you have {{Gold|30}}, spend it to apply {{Attack|+30}}, {{IconLink|Avarice|15}}, and {{IconLink|Armor|15}}."
+  },
+  {
+    "name": "Devilish Details",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Gain {{DragonsHoard|3}}. Your Pyre takes '''8''' damage."
+  },
+  {
+    "name": "Smelted Treasure",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Spend {{Gold|50}}. Apply {{IconLink|Armor|50}} to a friendly unit."
+  },
+  {
+    "name": "Tome of Contracts",
+    "type": "spell",
+    "clan": "[[Pyreborne]]",
+    "cost": "{{Ember|1}}",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Reduce a unit's '''[[Cooldown]]''' Timer by '''1''' to a minimum of 1."
+  },
+  {
+    "name": "Deathroar",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Transfer all {{IconLink|Pyregel}} on this floor to a unit then deal '''5''' damage five times."
+  },
+  {
+    "name": "Superheated",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Double the amount of {{IconLink|Pyregel}} on a unit."
+  },
+  {
+    "name": "Pyreclasm",
+    "type": "spell",
+    "clan": "Pyreborne",
+    "cost": "4",
+    "rarity": "Rare",
+    "effect": "'''[[Attuned]]'''. '''[[Explosive]]'''.<br>Deal '''150''' damage."
+  },
+  {
+    "name": "Lava Armor",
+    "type": "equipment",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "{{IconLink|Revenge}}: Apply {{IconLink|Pyregel|3}} to the attacker."
+  },
+  {
+    "name": "Mind Cage",
+    "type": "equipment",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Resolve}}: Reduce '''[[Cooldown]]''' by '''1'''."
+  },
+  {
+    "name": "Soulsmelter",
+    "type": "equipment",
+    "clan": "Pyreborne",
+    "cost": "{{Ember|3}}",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Siphon}}:<br> Gain '''1''' {{IconLink|Soul}}.<br>{{IconLink|Celebrate}}:<br>Gain {{DragonsHoard|1}} for every '''4''' {{IconLink|Soul}}."
+  },
+  {
+    "name": "Cursed Dragonstaff",
+    "type": "equipment",
+    "clan": "Pyreborne",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Incant}}: Deal '''1''' damage to enemy units."
+  },
+  {
+    "name": "Sacrificial Chamber",
+    "type": "room",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Gain {{Gold|10}} when a unit dies."
+  },
+  {
+    "name": "Hellfurnace",
+    "type": "room",
+    "clan": "Pyreborne",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "When a unit gains '''Pyregel''', it gains '''+3''' stacks."
+  },
+  {
+    "name": "Ekka",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Arduhn",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": "{{IconLink|Mageblade|2}}."
+  },
+  {
+    "name": "Witchweave",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "Deal '''1''' damage to an enemy unit or restore {{Health|1}} to a friendly unit."
+  },
+  {
+    "name": "Moon Ritual",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "'''[[Phase]]'''. Apply {{IconLink|Conduit|1}} to a friendly unit."
+  },
+  {
+    "name": "Meddler",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Fae",
+    "ability": "{{IconLink|Summon}}: '''[[Phase]]'''. {{AbilityBox|Moonipulate|2|'''[[Phase]]'''.}}"
+  },
+  {
+    "name": "Moon Pixie",
+    "type": "unit",
+    "clan": "[[Luna Coven]]",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Fae",
+    "ability": "{{IconLink|Conduit|3}}. {{IconLink|Enchant}}: Grant {{IconLink|Conduit|3}}."
+  },
+  {
+    "name": "Aurora Weaver",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Selene",
+    "ability": "{{IconLink|Mooncycle}}: Gain {{IconLink|Conduit|1}}."
+  },
+  {
+    "name": "Mooncaller",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Selene",
+    "ability": "{{IconLink|Mooncycle}} triggers an additional time."
+  },
+  {
+    "name": "Astrologer",
+    "type": "unit",
+    "clan": "[[Luna Coven]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Selene",
+    "ability": "{{IconLink|Mooncycle}}: {{Attack|+5}}."
+  },
+  {
+    "name": "Lunar Priestess",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Selene",
+    "ability": "{{IconLink|Resolve}}: Add a '''[[Moon Ritual]]''' spell with '''[[Ephemeral]]''' to your hand."
+  },
+  {
+    "name": "Nightingale",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Silent",
+    "ability": "{{IconLink|Stealth|2}}. {{IconLink|New Moon}}: {{IconLink|Multistrike|2}}."
+  },
+  {
+    "name": "Selene Acolyte",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Selene",
+    "ability": "{{IconLink|Mageblade|2}}.<br>{{IconLink|Full Moon}}: {{IconLink|Sweep}}."
+  },
+  {
+    "name": "Shadeguard",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Silent",
+    "ability": "{{IconLink|Resolve}}: If it is {{IconLink|New Moon}}, gain {{Attack|+10}} and {{Health|+15}}."
+  },
+  {
+    "name": "Silent Sentinel",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Silent",
+    "ability": "{{AbilityBox|Spell Slam|3|Restore to full health. Apply {{IconLink|Spell Weakness|1}} to enemy units.}}"
+  },
+  {
+    "name": "Ethereal Seelie",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Fae",
+    "ability": "{{IconLink|Conduit|5}}. <br> Apply '''+1''' stack of {{IconLink|Conduit}} each time it is applied."
+  },
+  {
+    "name": "Moonguard",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Silent",
+    "ability": "{{IconLink|Mageblade|3}}. {{IconLink|New Moon}}: {{IconLink|Mageblade|3}}."
+  },
+  {
+    "name": "Scrivener",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Selene",
+    "ability": "{{AbilityBox|Spellweave|2|Draw a non-starter spell and apply {{Ember|-1}}.}}"
+  },
+  {
+    "name": "Bloody Moon",
+    "type": "spell",
+    "clan": "[[Luna Coven]]",
+    "cost": "{{Ember|2}}",
+    "rarity": "Common",
+    "effect": "Deal '''25''' damage.<br>{{IconLink|Slay}}: Gain {{Ember|2}}."
+  },
+  {
+    "name": "Celestial Storm",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "3",
+    "rarity": "Common",
+    "effect": "Deal '''10''' damage to enemy units.<br>{{IconLink|Full Moon}}: '''[[Attuned]]'''."
+  },
+  {
+    "name": "Fae's Blessing",
+    "type": "spell",
+    "clan": "[[Luna Coven]]",
+    "cost": "{{Ember|1}}",
+    "rarity": "Common",
+    "effect": "Restore '''5''' health. Healing over max health applies {{IconLink|Armor}} instead."
+  },
+  {
+    "name": "Gravity",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Deal '''5''' damage.<br>{{IconLink|New Moon}}: '''[[Descend]]'''.<br>{{IconLink|Full Moon}}: '''[[Ascend]]'''."
+  },
+  {
+    "name": "Silver Strike",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Deal '''25''' damage to the front enemy unit.<br>{{IconLink|Full Moon}}: Deal damage twice instead."
+  },
+  {
+    "name": "Starstruck",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Deal '''5''' damage.<br>{{IconLink|Full Moon}}: Apply {{IconLink|Dazed|1}}."
+  },
+  {
+    "name": "Cosmic Bolt",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Attuned]]'''.<br>Deal '''35''' damage."
+  },
+  {
+    "name": "Cover of Night",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "{{Ember|1}}",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>'''[[Phase]]''' to {{IconLink|New Moon}}. Apply {{Attack|+5}} and {{IconLink|Stealth|1}} to friendly units."
+  },
+  {
+    "name": "Glittering Draught",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Restore '''20''' health and apply {{IconLink|Conduit|4}}."
+  },
+  {
+    "name": "Hexscalation",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Ascend]]'''. Apply {{IconLink|Spell Weakness|2}}."
+  },
+  {
+    "name": "Lunacy",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "X",
+    "rarity": "Uncommon",
+    "effect": "'''[[Phase]]''' '''X''' times. Apply '''1X''' {{IconLink|Conduit}}."
+  },
+  {
+    "name": "Moonbeam",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "X",
+    "rarity": "Uncommon",
+    "effect": "Deal '''20''' damage to the front enemy unit '''X''' times."
+  },
+  {
+    "name": "Moonrise",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "{{Ember|0}}",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Gain {{Ember|1}}. '''[[Phase]]''' to {{IconLink|Full Moon}}."
+  },
+  {
+    "name": "Coven's Spike",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply '''3X''' {{IconLink|Conduit}}."
+  },
+  {
+    "name": "Duality",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Attuned]]'''.<br>Deal '''10''' damage to an enemy unit or restore '''10''' health to a friendly unit."
+  },
+  {
+    "name": "Heavenfall",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "4",
+    "rarity": "Rare",
+    "effect": "Deal '''80''' damage to enemy units.<br>{{IconLink|Full Moon}}: Deal damage on all floors instead."
+  },
+  {
+    "name": "Ritual Tome",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Titanskin|2}} to a friendly unit."
+  },
+  {
+    "name": "Silver Ink",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply '''[[Attuned]]''' and '''+3 [[Magic Power]]''' to spells in your hand."
+  },
+  {
+    "name": "Stardust Invocation",
+    "type": "unit",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "",
+    "ability": ""
+  },
+  {
+    "name": "Tidal Turning",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Restore '''10''' health to friendly units. Healing over max health applies {{IconLink|Armor}} instead."
+  },
+  {
+    "name": "Dusk Mantle",
+    "type": "equipment",
+    "clan": "[[Luna Coven]]",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "{{IconLink|New Moon}}: {{IconLink|Titanskin|5}}."
+  },
+  {
+    "name": "Luna Cyclestaff",
+    "type": "equipment",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Mooncycle}}: This equipment gains {{Attack|+1}} permanently."
+  },
+  {
+    "name": "Moonlit Glaive",
+    "type": "equipment",
+    "clan": "Luna Coven",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Mageblade|3}}."
+  },
+  {
+    "name": "Eclipse Chamber",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|New Moon}} effects are always active. Silent units gain {{Attack|+15}} on {{IconLink|Resolve}}."
+  },
+  {
+    "name": "Planetarium",
+    "type": "spell",
+    "clan": "Luna Coven",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Grant friendly units {{IconLink|Conduit|5}}."
+  },
+  {
+    "name": "Bolete the Guillotine",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Madame Lionsmane",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Eager Conscript",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Spawn]]''' '''1'''."
+  },
+  {
+    "name": "Sporetouch",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Apply {{IconLink|Decay|2}}."
+  },
+  {
+    "name": "Funguy",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "N/A",
+    "rarity": "N/A",
+    "subtype": "Shroom",
+    "ability": ""
+  },
+  {
+    "name": "Green Recruit",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "0",
+    "rarity": "Common",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Extinguish}}: '''[[Spawn]]''' '''4'''."
+  },
+  {
+    "name": "Cheery Deathcap",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Summon}}: Apply {{IconLink|Decay|7}} to enemy units."
+  },
+  {
+    "name": "Truffles",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "{{AbilityBox|Fetch|2|Add a random [[Equipment]] with '''[[Ephemeral]]''' to your hand and apply {{Ember|-1}}.}}"
+  },
+  {
+    "name": "Waxcap",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Summon}}: Apply {{IconLink|Sap|3}} to enemy units."
+  },
+  {
+    "name": "Amorous Enoki",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Rally}}: Apply {{IconLink|Regen|1}} and {{Health|+1}} to friendly units."
+  },
+  {
+    "name": "Cluster Colonel",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Armor|10}}.<br>{{IconLink|Resolve}}: '''[[Spawn]] 4'''."
+  },
+  {
+    "name": "Morel Mistress",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Etch}}: Apply {{IconLink|Decay|8}} to enemy units."
+  },
+  {
+    "name": "Prickly Puffball",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Revenge}}: Apply {{IconLink|Decay|5}} to the attacker."
+  },
+  {
+    "name": "Spore Launcher",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Rally}}: Apply {{IconLink|Decay|2}} to enemy units."
+  },
+  {
+    "name": "Squad Leader",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroom",
+    "ability": "Grant {{IconLink|Trample}} to [[Funguy]]. {{IconLink|Troop}} adds {{Attack|+2}} per stack."
+  },
+  {
+    "name": "Balmabello",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "3",
+    "rarity": "Rare",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Regen|6}}. {{IconLink|Spikes|6}}.<br>{{IconLink|Extinguish}}: Apply this unit's '''[[Buff]]''' stacks to friendly units."
+  },
+  {
+    "name": "Deathcapped Prophet",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Rally}}: Draw '''+1''' next turn."
+  },
+  {
+    "name": "Enchantrelle",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "3",
+    "rarity": "Rare",
+    "subtype": "Shroom",
+    "ability": "{{IconLink|Rally}}: Apply {{IconLink|Sap|1}} to enemy units."
+  },
+  {
+    "name": "Glow Up",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Advance]]'''. '''[[Propagate]] 2'''."
+  },
+  {
+    "name": "Gooey Flask",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Sap|2}} to enemy units."
+  },
+  {
+    "name": "Proliferate",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>'''[[Propagate]] 2''' on all units."
+  },
+  {
+    "name": "Spawning Pods",
+    "type": "spell",
+    "clan": "[[Underlegion]]",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>'''[[Spawn]]''' '''4'''."
+  },
+  {
+    "name": "Rot",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "3",
+    "rarity": "Common",
+    "effect": "Deal '''15''' damage. Apply {{IconLink|Decay|15}}."
+  },
+  {
+    "name": "Dig Deep",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Spawn]] 1'''. For every '''10''' cards in your deck '''Spawn 1''' more."
+  },
+  {
+    "name": "Fertile Ground",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>'''[[Spawn]] 1'''. '''Spawn 1''' more for each card in your consume pile."
+  },
+  {
+    "name": "Inhale",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Deal '''10''' damage.<br>{{IconLink|Slay}}: '''[[Spawn]] 2'''."
+  },
+  {
+    "name": "Mulch",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Draw '''+1''' next turn. For every '''15''' cards in your deck, draw '''1''' more."
+  },
+  {
+    "name": "Mushroom Cloud",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>'''[[Sacrifice]] 1 [[Funguy]]'''. Deal '''10''' damage and apply {{IconLink|Decay|10}} to enemy units."
+  },
+  {
+    "name": "Pandemic",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Decay|8}} and {{IconLink|Sap|2}}. Add a copy of this card to your discard pile."
+  },
+  {
+    "name": "Pox",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Deal '''20''' damage and apply {{IconLink|Decay|10}} to all units."
+  },
+  {
+    "name": "Contagious",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Enemy units '''[[Propagate]] 4'''. Add a copy of this card to your discard pile."
+  },
+  {
+    "name": "Deadly Variant",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Decay}} equal to '''5x''' {{IconLink|Sap}}."
+  },
+  {
+    "name": "Funguy in a Suit",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>'''[[Spawn]] 3'''. Apply {{IconLink|Armor}} to '''Funguy''' equal to '''4x''' {{IconLink|Troop}}."
+  },
+  {
+    "name": "Spike of the Legion",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>'''[[Propagate]] 2X'''."
+  },
+  {
+    "name": "The Great Decay",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]].'''<br>Apply '''[[Consume]]''' and {{Ember|-1}} to all spells in your deck."
+  },
+  {
+    "name": "Tome of Evergrowth",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "{{Ember|1}}",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Ability|png=AbilityActive}}: Evergrowth to a friendly unit.<br> {{AbilityBox|Evergrowth|1|Apply {{IconLink|Regen|3}} and {{IconLink|Sap|3}}.}}"
+  },
+  {
+    "name": "Unearth Treasure",
+    "type": "unit",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "",
+    "ability": ""
+  },
+  {
+    "name": "Wracking Pain",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Deal damage equal to '''3x''' the '''[[Debuff]]''' stacks on this unit."
+  },
+  {
+    "name": "Loamcoat",
+    "type": "equipment",
+    "clan": "Underlegion",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "{{IconLink|Resolve}}: Gain {{IconLink|Regen|1}}. '''[[Propagate]] 2'''."
+  },
+  {
+    "name": "Mitosis Cap",
+    "type": "equipment",
+    "clan": "Underlegion",
+    "cost": "0",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Celebrate}}: Gain a permanent copy of this unit. Cannot be equipped to [[Champion]] or {{IconLink|Cardless}} units."
+  },
+  {
+    "name": "Grow Room",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "All units '''[[Propagate]]''' 1 at the end of combat."
+  },
+  {
+    "name": "Infectory",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Spawn]] 1''' when a unit without {{IconLink|Troop}} dies."
+  },
+  {
+    "name": "Mushy Room",
+    "type": "spell",
+    "clan": "Underlegion",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Sap|3}} to enemy units at the end of combat."
+  },
+  {
+    "name": "Orechi",
+    "type": "unit",
+    "clan": "[[Lazarus League]]",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Baron Grael",
+    "type": "unit",
+    "clan": "[[Lazarus League]]",
+    "cost": "{{Ember|0}}",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Secret Ingredient",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "",
+    "effect": "'''[[Mix]]'''."
+  },
+  {
+    "name": "Erratic Assistant",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "0",
+    "rarity": "Common",
+    "subtype": "Assistant",
+    "ability": "{{IconLink|Graft}}: [[Scissor Hands]]."
+  },
+  {
+    "name": "Overworked Assistant",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "0",
+    "rarity": "Common",
+    "subtype": "Assistant",
+    "ability": "{{IconLink|Reanimate|1}}.<br>{{IconLink|Incant}}: Gain {{IconLink|Unstable|4}}."
+  },
+  {
+    "name": "Sanguine Assistant",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Assistant",
+    "ability": "{{IconLink|Graft}}: [[Vampire's Tooth]]."
+  },
+  {
+    "name": "Twisted Assistant",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Assistant",
+    "ability": "{{IconLink|Graft}}: [[Twisted Back]]."
+  },
+  {
+    "name": "Pufferflesh",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Assistant",
+    "ability": "{{IconLink|Graft}}: [[Spiky Skin]]."
+  },
+  {
+    "name": "Hulking Mass",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Monstrosity",
+    "ability": "{{IconLink|Armor|40}}.<br>{{IconLink|Reanimated}}: Gain {{IconLink|Armor|40}}."
+  },
+  {
+    "name": "Makeshift Golem",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Monstrosity",
+    "ability": "{{IconLink|Armor|12}}.<br>{{IconLink|Extinguish}}: Apply {{IconLink|Armor|12}} to friendly units."
+  },
+  {
+    "name": "Meathook",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Monstrosity",
+    "ability": "{{AbilityBox|Hookhand|2|'''[[Advance]]'''. Apply {{IconLink|Dazed|1}}.}}"
+  },
+  {
+    "name": "Pincushion",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Monstrosity",
+    "ability": "{{IconLink|Equipped}}: {{Attack|+3}} and {{Health|+3}} permanently."
+  },
+  {
+    "name": "Plague Doctor",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Assistant",
+    "ability": "{{IconLink|Strike}}: Apply {{IconLink|Unstable}} equal to the damage dealt."
+  },
+  {
+    "name": "Test Subject Alpha",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "subtype": "Monstrosity",
+    "ability": "{{IconLink|Quick}}. {{IconLink|Sweep}}."
+  },
+  {
+    "name": "Double-Edged Bearer",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Assistant",
+    "ability": "{{IconLink|Graft}}: [[Double-Edged Arms]]."
+  },
+  {
+    "name": "Hydra Armed Horror",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Monstrosity",
+    "ability": "{{IconLink|Equipped}}: The equipment is removed. Gain {{IconLink|Multistrike|1}}."
+  },
+  {
+    "name": "Nine-Lived Nightmare",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Monstrosity",
+    "ability": "{{IconLink|Reanimate|8}}."
+  },
+  {
+    "name": "Reforming Ooze",
+    "type": "unit",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Monstrosity",
+    "ability": "{{IconLink|Reanimate|1}}.<br>{{IconLink|Reanimated}}: {{Attack|+6}} permanently."
+  },
+  {
+    "name": "Explosive Reaction",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "Apply {{IconLink|Unstable|25}}.<br>Deal '''5''' damage."
+  },
+  {
+    "name": "Forevermore Serum",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Reanimate|1}}."
+  },
+  {
+    "name": "It's Alive!",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Advance]]'''. Apply {{IconLink|Lifesteal|1}} and {{Attack|+7}}."
+  },
+  {
+    "name": "Pseudoscience",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Randomly apply either {{IconLink|Lifesteal|2}}, {{IconLink|Reanimate|1}} or {{IconLink|Spikes|6}}."
+  },
+  {
+    "name": "Acid Shower",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Unstable|10}} and deal '''1''' damage to enemy units."
+  },
+  {
+    "name": "Faulty Body",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Fragile}} and {{IconLink|Spikes|40}} to a friendly unit."
+  },
+  {
+    "name": "Horrify",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Retreat]]'''. Apply {{IconLink|Dazed|1}}."
+  },
+  {
+    "name": "Insatiable Hunger",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Friendly units gain {{IconLink|Lifesteal|2}}."
+  },
+  {
+    "name": "Mixology",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Mix]]''' twice."
+  },
+  {
+    "name": "Risky Operation",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Reduce friendly unit to '''1''' health. Apply {{Attack|+10}} and {{IconLink|Lifesteal|2}}."
+  },
+  {
+    "name": "Replicator Ray",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Remove equipment from a friendly unit. Copy the unit."
+  },
+  {
+    "name": "Surgical Strike",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Piercing]]'''.<br>Deal '''4''' damage.<br>{{IconLink|Slay}}: Add a copy of this card with '''[[Ephemeral]]''' to your hand."
+  },
+  {
+    "name": "Weaponized Prosthetic",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Remove equipment from a unit. Apply {{Attack|+30}}."
+  },
+  {
+    "name": "Brain Transfer",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Sacrifice]]'''.<br>Transfer {{Attack}} and all '''[[Buff]]''' and '''[[Debuff]]''' effects to front friendly unit."
+  },
+  {
+    "name": "Minds Of Their Own",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Equipped friendly units attack immediately."
+  },
+  {
+    "name": "Mix-a-Lot",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Mix]] 5''' times, randomly selecting each infusion."
+  },
+  {
+    "name": "Scrap for Parts",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''. '''[[Sacrifice]]'''.<br>Draw a unit and apply {{Attack|+40}} and {{Ember|0}}."
+  },
+  {
+    "name": "Spike of the League",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br> Apply {{IconLink|Reanimate|1X}}."
+  },
+  {
+    "name": "Tome of Horrors",
+    "type": "spell",
+    "clan": "Lazarus League",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Unstable|50}} and {{IconLink|Reanimate|1}}."
+  },
+  {
+    "name": "Combustion Suit",
+    "type": "equipment",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Strike}}: Apply {{IconLink|Unstable|5}} to enemy units."
+  },
+  {
+    "name": "Double-Edged Arms",
+    "type": "equipment",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Multistrike|1}}."
+  },
+  {
+    "name": "Organ Harvester",
+    "type": "equipment",
+    "clan": "Lazarus League",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Slay}}: Gain {{IconLink|Reanimate|1}}."
+  },
+  {
+    "name": "Potion Kit",
+    "type": "equipment",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "{{AbilityBox|Brew|3|'''[[Mix]]'''.}}"
+  },
+  {
+    "name": "Scissor Hands",
+    "type": "equipment",
+    "clan": "Lazarus League",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "None"
+  },
+  {
+    "name": "Spiky Skin",
+    "type": "equipment",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Revenge}}: Gain {{IconLink|Spikes|3}}."
+  },
+  {
+    "name": "Twisted Back",
+    "type": "equipment",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "{{IconLink|Trample}}.<br>{{IconLink|Strike}}: Gain {{IconLink|Rage|2}}."
+  },
+  {
+    "name": "Vampire's Tooth",
+    "type": "equipment",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "{{IconLink|Lifesteal|1}}.<br>{{IconLink|Resolve}}: Gain {{IconLink|Lifesteal|1}}."
+  },
+  {
+    "name": "Electricity Chamber",
+    "type": "room",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Friendly units gain {{IconLink|Spikes|8}} on {{IconLink|Summon}} and {{IconLink|Reanimate}}."
+  },
+  {
+    "name": "Reanimation Lab",
+    "type": "room",
+    "clan": "Lazarus League",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Friendly units gain {{Attack|+7}} and {{Health|+7}} on {{IconLink|Summon}} and {{IconLink|Reanimate}}."
+  },
+  {
+    "name": "Hornbreaker Prince",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Shardtail Queen",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Torch",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "",
+    "ability": ""
+  },
+  {
+    "name": "Queen's Impling",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "{{Ember|1}}",
+    "rarity": "Common",
+    "subtype": "Imp",
+    "ability": "{{IconLink|Summon}}: Deal '''16''' damage to the front enemy unit."
+  },
+  {
+    "name": "Fledgling Imp",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Imp",
+    "ability": "{{IconLink|Summon}}: Apply {{IconLink|Rage|5}} to friendly units."
+  },
+  {
+    "name": "Molting Imp",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Imp",
+    "ability": "{{IconLink|Summon}}: Deal '''10''' damage to enemy units."
+  },
+  {
+    "name": "Welder Helper",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Imp",
+    "ability": "{{IconLink|Summon}}: Apply '''[[Armor]] 20''' to the front friendly unit."
+  },
+  {
+    "name": "Impish Scholar",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Imp",
+    "ability": "{{IconLink|Summon}}: Return a random consumed spell to your hand."
+  },
+  {
+    "name": "Pyre Chomper",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Imp",
+    "ability": "{{IconLink|Summon}}: Gain {{Ember|4}}."
+  },
+  {
+    "name": "Alpha Fiend",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Demon",
+    "ability": "{{IconLink|Strike}}: {{Attack|+15}}."
+  },
+  {
+    "name": "Branded Warrior",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Demon",
+    "ability": "{{IconLink|Rage|5}}.<br>{{IconLink|Slay}}: Apply {{IconLink|Rage|5}} to friendly units."
+  },
+  {
+    "name": "Demon Fiend",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "4",
+    "rarity": "Uncommon",
+    "subtype": "Demon",
+    "ability": "{{IconLink|Trample}}."
+  },
+  {
+    "name": "Horned Warrior",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Demon",
+    "ability": "{{IconLink|Multistrike|1}}."
+  },
+  {
+    "name": "Railbeater",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Demon",
+    "ability": "{{IconLink|Armor|30}}.<br>{{IconLink|Strike}}: Apply {{IconLink|Melee Weakness|1}}."
+  },
+  {
+    "name": "Steelworker",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Demon",
+    "ability": "{{IconLink|Resolve}}: Apply {{IconLink|Armor|6}} to friendly units."
+  },
+  {
+    "name": "Transcendimp",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "{{Ember|2}}",
+    "rarity": "Rare",
+    "subtype": "Imp",
+    "ability": "When played, repeat all {{IconLink|Summon}} effects triggered so far this battle."
+  },
+  {
+    "name": "Apex Imp",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Demon Imp",
+    "ability": "{{IconLink|Armored}}: Gain {{IconLink|Rage}} equal to gained {{IconLink|Armor}}.<br>{{IconLink|Summon}}: Gain {{IconLink|Armor|5}}."
+  },
+  {
+    "name": "Consumer of Crowns",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "4",
+    "rarity": "Rare",
+    "subtype": "Demon",
+    "ability": "{{AbilityBox|Warlord's Tithe|0|[[Sacrifice]] [[Imp]]. Attack immediately.}}"
+  },
+  {
+    "name": "Deranged Brute",
+    "type": "unit",
+    "clan": "Hellhorned",
+    "cost": "{{Ember|1}}",
+    "rarity": "Rare",
+    "subtype": "Demon",
+    "ability": "{{IconLink|Rage}} on friendly units adds {{Attack|+3}} per stack."
+  },
+  {
+    "name": "Vent",
+    "type": "spell",
+    "clan": "[[Hellhorned]]",
+    "cost": "X",
+    "rarity": "Common",
+    "effect": "Deal '''5X''' damage to enemy units."
+  },
+  {
+    "name": "Hidden Passage",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Ascend]]'''."
+  },
+  {
+    "name": "Horn Break",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Piercing]]'''.<br>Deal '''8''' damage, twice."
+  },
+  {
+    "name": "Ritual of Battle",
+    "type": "spell",
+    "clan": "[[Hellhorned]]",
+    "cost": "3",
+    "rarity": "Common",
+    "effect": "Apply {{IconLink|Rage|12}}."
+  },
+  {
+    "name": "Imp-in-a-Box",
+    "type": "spell",
+    "clan": "[[Hellhorned]]",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Add '''2''' random [[:Category:Imp units|Imp units]] to your hand."
+  },
+  {
+    "name": "Imp-portant Work",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Sacrifice]] [[Imp]]'''.<br>Gain {{Ember|1}}. Draw '''1'''."
+  },
+  {
+    "name": "Rage Serum",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Rage|5}}."
+  },
+  {
+    "name": "Imp-pressive",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Attuned]]'''. '''[[Sacrifice]] [[Imp]]'''.<br>Deal '''50''' damage to the front enemy unit."
+  },
+  {
+    "name": "March of Shields",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Advance]]'''. Apply {{IconLink|Armor|12}}."
+  },
+  {
+    "name": "Branding Rite",
+    "type": "spell",
+    "clan": "[[Hellhorned]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Piercing]]'''.<br>Deal '''3''' damage. Apply {{IconLink|Armor|20}}."
+  },
+  {
+    "name": "Enflame",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Rage|6}} and {{IconLink|Armor|10}}."
+  },
+  {
+    "name": "Tiresome Climb",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Ascend]]'''. Apply {{IconLink|Dazed|2}}."
+  },
+  {
+    "name": "Battering Ram",
+    "type": "spell",
+    "clan": "[[Hellhorned]]",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "Deal damage to the front enemy unit equal to '''4x''' {{IconLink|Armor}} on friendly units."
+  },
+  {
+    "name": "Inferno",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "'''[[Piercing]]'''.<br>Deal '''120''' damage to all units."
+  },
+  {
+    "name": "Spike of the Hellhorned",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply '''4X''' {{IconLink|Rage}} and '''4X''' {{IconLink|Armor}}."
+  },
+  {
+    "name": "Dark Deal",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "0",
+    "rarity": "Rare",
+    "effect": "Deal '''5''' damage. Apply {{IconLink|Rage|7}}."
+  },
+  {
+    "name": "Alloy of the Ancients",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Armor|30}}."
+  },
+  {
+    "name": "Imp-olate",
+    "type": "spell",
+    "clan": "[[Hellhorned]]",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Deal damage to the front enemy unit equal to '''25x''' the number of [[Imp]] units in your deck."
+  },
+  {
+    "name": "Last Stand",
+    "type": "spell",
+    "clan": "[[Hellhorned]]",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Double the amount of {{IconLink|Rage}} on friendly units."
+  },
+  {
+    "name": "Reinforce",
+    "type": "spell",
+    "clan": "Hellhorned",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Double the amount of {{IconLink|Armor}} on a unit."
+  },
+  {
+    "name": "Onehorn's Tome",
+    "type": "spell",
+    "clan": "[[Hellhorned]]",
+    "cost": "4",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Fragile}} and {{IconLink|Multistrike|1}} to a friendly unit."
+  },
+  {
+    "name": "Fortified Pauldrons",
+    "type": "equipment",
+    "clan": "Hellhorned",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "{{IconLink|Armor|6}}.<br>{{IconLink|Resolve}}: Gain {{IconLink|Armor|6}}."
+  },
+  {
+    "name": "Rage Room",
+    "type": "room",
+    "clan": "Hellhorned",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Friendly units gain {{IconLink|Rage|2}} on {{IconLink|Strike}} and {{IconLink|Revenge}}."
+  },
+  {
+    "name": "The Sentient",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Wyldenten",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Restore",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Restore '''4''' health. Apply {{IconLink|Regen|2}}."
+  },
+  {
+    "name": "Rootseeds",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "",
+    "ability": ""
+  },
+  {
+    "name": "Edge Prior",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Channeler",
+    "ability": "Healing and {{IconLink|Regen}} spells cost {{Ember|-1}} on this floor."
+  },
+  {
+    "name": "Wildwood Custodian",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Channeler",
+    "ability": "Draw +1 each turn."
+  },
+  {
+    "name": "Animus of Speed",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Animus",
+    "ability": "{{IconLink|Quick}}.<br>{{AbilityBox|Swiftshot|2|Attack any enemy immediately.}}"
+  },
+  {
+    "name": "Animus of Will",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Animus",
+    "ability": "{{IconLink|Multistrike|2}}."
+  },
+  {
+    "name": "Awoken Hollow",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Hollow",
+    "ability": "{{IconLink|Summon}}: Gain 60 max {{Health}}.<br>{{IconLink|Rejuvenate}}: '''[[Cultivate]] 3'''."
+  },
+  {
+    "name": "Husk Hermit",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Animus",
+    "ability": "{{IconLink|Sweep}}.<br>{{IconLink|Revenge}}: {{Attack|+3}}."
+  },
+  {
+    "name": "Shattered Shell",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Animus",
+    "ability": "{{IconLink|Sweep}}.<br>{{IconLink|Slay}}: {{Attack|+3}}."
+  },
+  {
+    "name": "Thorned Hollow",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Hollow",
+    "ability": "{{IconLink|Summon}}: Gain 60 max {{Health}}.<br>{{IconLink|Rejuvenate}}: Gain {{IconLink|Spikes|4}}."
+  },
+  {
+    "name": "Shard Channeler",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Channeler",
+    "ability": "{{IconLink|Spikes}} on friendly units deal '''+1''' damage per stack."
+  },
+  {
+    "name": "Steelsinger",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "3",
+    "rarity": "Rare",
+    "subtype": "Hollow",
+    "ability": "{{IconLink|Summon}}: Gain 80 max {{Health}}.<br>{{IconLink|Rejuvenate}}: {{Attack|+3}} permanently."
+  },
+  {
+    "name": "Vinemother",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Hollow",
+    "ability": "{{IconLink|End of Turn|png=EndOfTurn}}: '''[[Sting]]''' spells in your deck gain '''+4 [[Magic Power]]'''.<br>{{AbilityBox|Vinewrath|2|Add 2 [[Sting]] spells to hand.}}"
+  },
+  {
+    "name": "Wilting Sapwood",
+    "type": "unit",
+    "clan": "Awoken",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Hollow",
+    "ability": "{{IconLink|Revenge}}: Gain {{Ember|1}}."
+  },
+  {
+    "name": "Steel Enhancer",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "Apply {{Attack|+4}} and {{Health|+4}}."
+  },
+  {
+    "name": "Sting",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "Deal '''12''' damage to the front enemy unit.<br>Draw '''+1''' next turn."
+  },
+  {
+    "name": "Vine Grasp",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "'''[[Advance]]'''. Deal '''3''' damage."
+  },
+  {
+    "name": "Glimmer",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Restore '''3''' health to friendly units and deal '''3''' damage to enemy units."
+  },
+  {
+    "name": "Razorsharp Edge",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Apply {{Attack|+12}} and {{Health|-2}}."
+  },
+  {
+    "name": "Restoration Detonation",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Restore '''15''' health to a friendly unit. Deal damage to the front enemy unit equal to '''5x''' the amount healed."
+  },
+  {
+    "name": "Wildwood Sap",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Regen|4}} and {{Health|+4}}."
+  },
+  {
+    "name": "Sharpen",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "Apply {{Attack|+6}} and {{IconLink|Spikes|6}}."
+  },
+  {
+    "name": "Ensnare",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Rooted|1}}.<br>Draw '''+1''' next turn."
+  },
+  {
+    "name": "Pyre-Gro",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Draw '''-2''' next turn.<br>{{Ember|+1}} per turn for the rest of battle."
+  },
+  {
+    "name": "Engraft",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Restore '''1''' health.<br>Gain {{Ember|1}}. Draw '''+1''' next turn."
+  },
+  {
+    "name": "Invigorating Solution",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Draw '''+3''' next turn."
+  },
+  {
+    "name": "Preserved Thorns",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Add '''3 [[Sting]]''' spells to your hand."
+  },
+  {
+    "name": "Pyre Shards",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Spikes|10}}."
+  },
+  {
+    "name": "Bramble Lash",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "Deal damage to the front enemy unit equal to '''10x''' {{IconLink|Spikes}} on friendly units."
+  },
+  {
+    "name": "Focused Growth",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "Restore '''20''' health, twice.<br>Draw '''+2''' next turn."
+  },
+  {
+    "name": "Restoring Retreat",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Restore '''10''' health.<br>'''[[Descend]]'''."
+  },
+  {
+    "name": "Awoken's Rail Spike",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Draw '''X''' and apply {{Ember|-1}} to those cards.<br>Cannot draw additional cards this turn."
+  },
+  {
+    "name": "Channelsong",
+    "type": "spell",
+    "clan": "[[Awoken]]",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Draw a unit and apply {{Attack|+20}}, {{Health|+20}}, and {{Ember|0}}."
+  },
+  {
+    "name": "Unleash the Wildwood",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Restore friendly units to full health."
+  },
+  {
+    "name": "Wildwood Tome",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Quick}}."
+  },
+  {
+    "name": "Adaptive Mutation",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Restore a friendly unit to full health then swap {{Attack}} and {{Health}}."
+  },
+  {
+    "name": "Spreading Spores",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Restore '''3''' health. Apply {{IconLink|Regen|3}} and {{IconLink|Spikes|3}}. Add a copy of this card to your discard pile."
+  },
+  {
+    "name": "Cycle of Life",
+    "type": "spell",
+    "clan": "Awoken",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Apply {{Health|+10}} and {{IconLink|Spikes|8}}."
+  },
+  {
+    "name": "Oldgrowth",
+    "type": "equipment",
+    "clan": "Awoken",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Rejuvenate}}: Gain '''10''' max health.<br>'''+10''' max health."
+  },
+  {
+    "name": "Awakening Thicket",
+    "type": "room",
+    "clan": "Awoken",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "Friendly units have '''+20''' max health and restore '''10''' health on {{IconLink|Resolve}}."
+  },
+  {
+    "name": "Tethys Titansbane",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Solgard the Martyr",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": "{{IconLink|Incant}}: Gain {{IconLink|Shard|1}}."
+  },
+  {
+    "name": "Frozen Lance",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Deal '''10''' damage to the front enemy unit."
+  },
+  {
+    "name": "Forgone Power",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Apply {{IconLink|Frostbite|8}} to the front enemy unit.<br>Discard a card at random."
+  },
+  {
+    "name": "Cuttlehex",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "0",
+    "rarity": "Common",
+    "subtype": "Mage",
+    "ability": "{{AbilityBox|Freeze Ray|2|Apply [[Frozen]] to a card in hand.}}"
+  },
+  {
+    "name": "Molluscmage",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Mage",
+    "ability": "{{IconLink|Conduit|10}}."
+  },
+  {
+    "name": "Glacial Seal",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Totem",
+    "ability": "{{IconLink|Incant}}: Apply {{IconLink|Frostbite|2}} to enemy units."
+  },
+  {
+    "name": "Guardian Stone",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Totem",
+    "ability": "{{IconLink|Incant}}: Apply {{IconLink|Armor|1}} to friendly units."
+  },
+  {
+    "name": "Coldcaelia",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Siren",
+    "ability": "{{IconLink|Sweep}}.<br>{{IconLink|Strike}}: Apply {{IconLink|Frostbite|6}}."
+  },
+  {
+    "name": "Guard of the Unnamed",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Siren",
+    "ability": "{{IconLink|Incant}}: Gain {{IconLink|Armor|3}}."
+  },
+  {
+    "name": "Icy Cilophyte",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Siren",
+    "ability": "{{IconLink|Sweep}}.<br>{{IconLink|Strike}}: Apply {{IconLink|Spell Weakness|1}}."
+  },
+  {
+    "name": "Nameless Siren",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Siren",
+    "ability": "{{IconLink|Incant}}: Gain {{IconLink|Rage|3}}."
+  },
+  {
+    "name": "Siren of the Sea",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Siren",
+    "ability": "{{IconLink|Incant}}: {{Attack|+3}} and {{Health|+3}}."
+  },
+  {
+    "name": "Titan Sentry",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Siren",
+    "ability": "{{IconLink|Revenge}}: Apply {{IconLink|Frostbite|3}} to enemy units."
+  },
+  {
+    "name": "Eel Gorgon",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Mage",
+    "ability": "{{IconLink|Incant}}: Gain {{IconLink|Multistrike|1}}.<br>{{IconLink|Resolve}}: Remove all status effects."
+  },
+  {
+    "name": "Lodestone Totem",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "3",
+    "rarity": "Rare",
+    "subtype": "Totem",
+    "ability": "{{IconLink|Incant}}: Apply {{IconLink|Sap|1}} to enemy units."
+  },
+  {
+    "name": "Offering Monument",
+    "type": "unit",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Totem",
+    "ability": "{{IconLink|Incant}}: Draw '''+1''' next turn."
+  },
+  {
+    "name": "Energy Siphon",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "Apply {{IconLink|Spell Weakness|1}}."
+  },
+  {
+    "name": "Offering Token",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "Draw '''1'''. Discard '''1'''."
+  },
+  {
+    "name": "Flash Freeze",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Deal '''3''' damage. Apply {{IconLink|Frostbite|8}}."
+  },
+  {
+    "name": "Titan's Gratitude",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Attuned]]'''.<br>Deal '''60''' damage to the front enemy unit. Discard a card at random."
+  },
+  {
+    "name": "Helical Crystalis",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "2",
+    "rarity": "Common",
+    "effect": "Deal '''35''' damage to the front enemy unit, twice."
+  },
+  {
+    "name": "Crypt Builder",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "3",
+    "rarity": "Common",
+    "effect": "'''[[Offering]]'''. '''[[Attuned]]'''.<br>'''[[Retreat]]''' the front enemy unit and deal '''80''' damage."
+  },
+  {
+    "name": "Crystalline Seeds",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Frostbite|8}} to enemy units."
+  },
+  {
+    "name": "Preserve",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Permafrost]]'''.<br>Apply '''[[Frozen]]''' to a card in your hand."
+  },
+  {
+    "name": "Unnamed Tome",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Permafrost]]'''. '''[[Consume]]'''.<br>Apply {{IconLink|Mute|3}} to enemy units."
+  },
+  {
+    "name": "Urchin Spines",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Spell Weakness|2}} to enemy units."
+  },
+  {
+    "name": "Drain",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Sap|3}}.<br>Discard a card at random."
+  },
+  {
+    "name": "Frenzied Swarm",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Dazed|1}} to enemy units. Discard your hand."
+  },
+  {
+    "name": "Icestorm",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Deal '''1''' damage to a random enemy unit, five times."
+  },
+  {
+    "name": "Guardian's Amulet",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "'''[[Offering]]'''.<br>Apply {{IconLink|Sap|2}} to enemy units."
+  },
+  {
+    "name": "Ice Tornado",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "'''[[Permafrost]]'''.<br>Deal '''30''' damage to a random enemy unit, three times."
+  },
+  {
+    "name": "Titanstooth",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "'''[[Offering]]'''.<br>Deal '''5''' damage to enemy units and apply {{IconLink|Frostbite|10}}."
+  },
+  {
+    "name": "Spike of the Stygian",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Sap|1X}} and {{IconLink|Frostbite|5X}}."
+  },
+  {
+    "name": "Harness the Titan",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Apply '''+10 [[Magic Power]]''' to spells in hand."
+  },
+  {
+    "name": "Ice and Pyre",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Pyrebound]]'''. '''[[Attuned]]'''.<br>Deal '''90''' damage to the front enemy unit."
+  },
+  {
+    "name": "Deep Offering",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Discard your hand. Draw '''5'''."
+  },
+  {
+    "name": "Ancient Synergy",
+    "type": "spell",
+    "clan": "Stygian Guard",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Deal damage to the front enemy unit equal  to '''2x''' the number of spells in your deck, three times."
+  },
+  {
+    "name": "Gifts for a Guard",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Draw '''3''' damage spells and apply '''[[Consume]]''', '''+30 [[Magic Power]]''', and {{Ember|0}}."
+  },
+  {
+    "name": "Hoarfrost Effigy",
+    "type": "spell",
+    "clan": "[[Stygian Guard]]",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Transfer all {{IconLink|Frostbite}} on this floor to a unit, then double the amount of {{IconLink|Frostbite}}."
+  },
+  {
+    "name": "Frostpiercer",
+    "type": "equipment",
+    "clan": "Stygian Guard",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Strike}}: Apply {{IconLink|Frostbite}} equal to half the damage dealt."
+  },
+  {
+    "name": "Siren's Song",
+    "type": "room",
+    "clan": "Stygian Guard",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Pyrebound]].'''<br>At the start of combat, '''[[Ascend]]''' non-boss enemy units on this floor and apply {{IconLink|Dazed|3}}."
+  },
+  {
+    "name": "Penumbra",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Primordium",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": "{{IconLink|Buffet|3}}. </br> {{IconLink|Eaten}}: Add this unit's {{Attack}} and {{Health}} to the eater."
+  },
+  {
+    "name": "Shadesplitter",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Add a common or uncommon Morsel unit to your hand."
+  },
+  {
+    "name": "Plink",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Deal '''2''' damage to a random enemy unit, twice.<br>{{IconLink|Slay}}: Add a common or uncommon Morsel unit to your hand."
+  },
+  {
+    "name": "Rubble Morsel",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Common",
+    "subtype": "Morsel",
+    "ability": "{{IconLink|Eaten}}: Gain {{Ember|1}}. Eater gains {{Attack|+3}} and {{Health|+3}}."
+  },
+  {
+    "name": "Morsel Jeweler",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "subtype": "Morsel",
+    "ability": "{{IconLink|Eaten}}: Eater gains {{Health|+6}} and {{IconLink|Damage Shield|1}}."
+  },
+  {
+    "name": "Magma Morsel",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "subtype": "Morsel",
+    "ability": "{{IconLink|Eaten}}: Eater gains {{Attack|+9}}."
+  },
+  {
+    "name": "Morsel Excavator",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "subtype": "Morsel",
+    "ability": "{{IconLink|Eaten}}: Eater gains {{Attack|+6}} and {{IconLink|Lifesteal|1}}."
+  },
+  {
+    "name": "Antumbra Morsel",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "subtype": "Morsel",
+    "ability": "{{IconLink|Eaten}}: Eater gains {{Health|+9}}."
+  },
+  {
+    "name": "Morsel Miner",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Rare",
+    "subtype": "Morsel",
+    "ability": "{{IconLink|Eaten}}: Eater gains {{Attack|+9}} and {{Health|+9}}."
+  },
+  {
+    "name": "Ember Forge",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Construct",
+    "ability": "{{Ember|+2}} per turn."
+  },
+  {
+    "name": "Alloyed Construct",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Construct",
+    "ability": "{{IconLink|Inert}}. {{IconLink|Multistrike|1}}. {{IconLink|Fuel|2}}.<br>{{IconLink|Gorge}}: Gain {{IconLink|Fuel|1}}."
+  },
+  {
+    "name": "Crucible Collector",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroud",
+    "ability": "{{IconLink|Gorge}}: Gain {{IconLink|Lifesteal|1}}."
+  },
+  {
+    "name": "Crucible Warden",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Shroud",
+    "ability": "{{IconLink|Gorge}}: Gain {{IconLink|Damage Shield|1}}."
+  },
+  {
+    "name": "Morselmaker",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "subtype": "Shroud",
+    "ability": "{{IconLink|Resolve}}: Summon an [[Antumbra Morsel]] and a [[Magma Morsel]]."
+  },
+  {
+    "name": "Morselmaster",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "{{Ember|1}}",
+    "rarity": "Uncommon",
+    "subtype": "Shroud",
+    "ability": "When you summon a [[Morsel]] unit on this floor, create a copy."
+  },
+  {
+    "name": "Shadoweater",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "{{Ember|2}}",
+    "rarity": "Uncommon",
+    "subtype": "Shroud",
+    "ability": "{{IconLink|Gorge}}: Restore '''10''' health. Deal '''20''' damage to enemy units."
+  },
+  {
+    "name": "Morsel-Made",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Construct",
+    "ability": "{{IconLink|Hunger}}: Feed on units with {{IconLink|Eaten}}.<br>{{IconLink|Gorge}}: {{Attack|+4}} and {{Health|+4}}."
+  },
+  {
+    "name": "Overgorger",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Shroud",
+    "ability": "{{IconLink|Gorge}}: {{Attack|+2}} permanently."
+  },
+  {
+    "name": "Shadowsiege",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "4",
+    "rarity": "Rare",
+    "subtype": "Construct",
+    "ability": "{{IconLink|Emberdrain|3}}."
+  },
+  {
+    "name": "Mine Collapse",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "X",
+    "rarity": "Common",
+    "effect": "Deal '''3X''' damage to a unit.<br>{{IconLink|Slay}}: Gain {{Ember|2}}."
+  },
+  {
+    "name": "Prismal Dust",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "X",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Apply '''1X''' {{IconLink|Damage Shield}}."
+  },
+  {
+    "name": "Immortal Trade",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "{{Ember|0}}",
+    "rarity": "Common",
+    "effect": "Apply {{IconLink|Lifesteal|4}} and {{IconLink|Emberdrain|2}} to a friendly unit."
+  },
+  {
+    "name": "Packed Morsels",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Add '''3''' uncommon or rare [[Morsel]] units to your hand."
+  },
+  {
+    "name": "Perils of Production",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "Apply {{IconLink|Rage|3}} and {{IconLink|Emberdrain|2}} to a friendly unit.<br>Gain {{Ember|3}}."
+  },
+  {
+    "name": "Space Prism",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "{{Ember|0}}",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>{{Capacity|+1}} on this floor."
+  },
+  {
+    "name": "Antumbra Assault",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Deal '''5''' damage.<br>{{IconLink|Slay}}: Add '''2''' uncommon or rare Morsel units to your hand."
+  },
+  {
+    "name": "Making of a Morsel",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Add a '''[[Morsel Miner]]''' to your hand."
+  },
+  {
+    "name": "Prism Retrieval",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "X",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Draw a unit and apply {{Attack|+5X}} and {{Ember|-X}}."
+  },
+  {
+    "name": "Feast",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "Trigger feeding on friendly units with {{IconLink|Eaten}}."
+  },
+  {
+    "name": "Cannibalize",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Sacrifice]]'''.<br>Add '''3''' uncommon or rare Morsel units to your hand."
+  },
+  {
+    "name": "Ember Cache",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Add '''3''' '''[[Excavated Ember]]''' cards to your discard pile."
+  },
+  {
+    "name": "Void Binding",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Damage Shield|2}}, {{IconLink|Rage|6}}, and {{IconLink|Emberdrain|3}}."
+  },
+  {
+    "name": "Cave In",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Descend]]''' all units."
+  },
+  {
+    "name": "Grovel",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Damage Shield|1}}. Add '''2''' uncommon or rare Morsel units to your hand."
+  },
+  {
+    "name": "Excavation Eruption",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "Deal '''25''' damage to a random enemy unit, three times.<br>{{IconLink|Slay}}: Gain {{Ember|2}}."
+  },
+  {
+    "name": "Gem Trove",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "{{Ember|3}}",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Damage Shield|1}} to friendly units. Add '''3''' uncommon or rare [[Morsel]] units to your hand."
+  },
+  {
+    "name": "Forever Consumed",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "Deal '''80X''' damage to the front enemy unit."
+  },
+  {
+    "name": "Kindle",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Gain {{Ember|2X}}."
+  },
+  {
+    "name": "Shroud Spike",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]].'''<br>Trigger feeding on a friendly [[Morsel]] unit '''2X''' times."
+  },
+  {
+    "name": "Retch",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Rare",
+    "effect": "Return eaten units to your hand."
+  },
+  {
+    "name": "Shroud Mitosis",
+    "type": "spell",
+    "clan": "Umbra",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "Create '''3''' copies of a friendly [[Morsel]] unit."
+  },
+  {
+    "name": "Furnace Tap",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Multistrike|1}} and {{IconLink|Emberdrain|4}}."
+  },
+  {
+    "name": "Umbra Stone",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Trample}}."
+  },
+  {
+    "name": "Blazing Bolts",
+    "type": "spell",
+    "clan": "[[Umbra]]",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "'''Purge'''.<br>Deal '''60''' damage to the front enemy unit. Add a stronger version of this card to your discard."
+  },
+  {
+    "name": "Glutton's Maw",
+    "type": "unit",
+    "clan": "Umbra",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "",
+    "ability": "{{AbilityBox|Chomp|1|Destroy a friendly unit and gain {{Attack|+15}} and {{Health|+15}}. Triggers {{IconLink|Gorge}} and {{IconLink|Eaten}}.}}"
+  },
+  {
+    "name": "Crucible Extension",
+    "type": "room",
+    "clan": "Umbra",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "{{Capacity|+4}}."
+  },
+  {
+    "name": "Engine Upgrade",
+    "type": "room",
+    "clan": "Umbra",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "{{Capacity|-1}}.<br>{{Ember|+1}} per turn."
+  },
+  {
+    "name": "Rector Flicker",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Little Fade",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "0",
+    "rarity": "Champion",
+    "subtype": "Champion",
+    "ability": ""
+  },
+  {
+    "name": "Dreg",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "0",
+    "rarity": "Common",
+    "subtype": "Waxer",
+    "ability": "{{IconLink|Burnout|2}}."
+  },
+  {
+    "name": "Primitive Mold",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "",
+    "ability": ""
+  },
+  {
+    "name": "Draff",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Waxer",
+    "ability": "{{IconLink|Burnout|1}}. {{IconLink|Multistrike|1}}."
+  },
+  {
+    "name": "Entombed Explosive",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Tomb",
+    "ability": "{{IconLink|Extinguish}}: Deal '''65''' damage to the front enemy unit."
+  },
+  {
+    "name": "Molten Encasement",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Tomb",
+    "ability": "{{IconLink|Extinguish}}: Apply {{IconLink|Stealth|2}} to friendly units."
+  },
+  {
+    "name": "Remnant Host",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "subtype": "Tomb",
+    "ability": "{{IconLink|Extinguish}}: Summon 2 [[Draff]] units."
+  },
+  {
+    "name": "Votivary",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "subtype": "Waxer",
+    "ability": "{{IconLink|Endless}}.<br>{{IconLink|Extinguish}}: Draw '''+2''' next turn."
+  },
+  {
+    "name": "Lady of the House",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Waxer",
+    "ability": "{{IconLink|Burnout|3}}.<br>{{Attack|+5}} for every stack of {{IconLink|Burnout}}."
+  },
+  {
+    "name": "Lady of the Reformed",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Waxer",
+    "ability": "{{IconLink|Burnout|3}}.<br>{{IconLink|Revenge}}: Apply {{IconLink|Burnout|1}} to friendly {{IconLink|Burnout}} units."
+  },
+  {
+    "name": "Paraffin Enforcer",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Wickless",
+    "ability": "{{IconLink|Strike}}: Apply {{IconLink|Rage|3}} to friendly {{IconLink|Burnout}} units."
+  },
+  {
+    "name": "Paraffin Thug",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Wickless",
+    "ability": "{{IconLink|Slay}}: Gain {{Gold|30}}."
+  },
+  {
+    "name": "Wickless Baron",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Wickless",
+    "ability": "{{IconLink|Harvest}}: {{Attack|+5}} and {{Health|+5}}."
+  },
+  {
+    "name": "Wickless Tycoon",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "subtype": "Wickless",
+    "ability": "{{IconLink|Harvest}}: gain {{Gold|+10}}."
+  },
+  {
+    "name": "Devourer of Death",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Wickless",
+    "ability": "{{IconLink|Harvest}}: Gain {{IconLink|Soul|1}}.<br> {{IconLink|Extinguish}}: Deal damage to enemy units equal to 15x the {{IconLink|Soul}} count."
+  },
+  {
+    "name": "Formless Child",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Tomb",
+    "ability": "{{IconLink|Extinguish}}: Return a random defeated unit to your hand and apply {{Attack|+40}}."
+  },
+  {
+    "name": "Big Sludge",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Wickless",
+    "ability": "{{IconLink|Harvest}}: Gain {{IconLink|Rage|5}}."
+  },
+  {
+    "name": "Bounty Stalker",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "Wickless",
+    "ability": "{{IconLink|Burnout|1}}. {{IconLink|Stealth|1}}.<br>{{IconLink|Extinguish}}: {{Attack|+10}} permanently."
+  },
+  {
+    "name": "Legion of Wax",
+    "type": "unit",
+    "clan": "Melting Remnant",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Waxer",
+    "ability": "{{IconLink|Extinguish}}: Summon '''2 Twin of Wax''' and apply this unit's upgrades, equipment, and stat changes."
+  },
+  {
+    "name": "Hallowed Drippings",
+    "type": "spell",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Consume]]'''.<br>Apply {{IconLink|Burnout|5}} and {{Attack|+5}} to friendly {{IconLink|Burnout}} units."
+  },
+  {
+    "name": "Purifying Cleanse",
+    "type": "spell",
+    "clan": "Melting Remnant",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "Restore '''15''' health and apply {{IconLink|Burnout|3}} to a friendly unit."
+  },
+  {
+    "name": "Dripfall",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Descend]]'''. Apply {{IconLink|Dazed|1}}."
+  },
+  {
+    "name": "Molded",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''[[Reform]]''' a unit."
+  },
+  {
+    "name": "Wicklash",
+    "type": "spell",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "Apply {{Attack|+10}} and {{IconLink|Burnout|2}} to a friendly unit."
+  },
+  {
+    "name": "Sacred Wicks",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>'''[[Reform]]''' '''2''' random units."
+  },
+  {
+    "name": "Crushing Demise",
+    "type": "spell",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Kill a random non-boss enemy unit.<br>Kill a random friendly unit."
+  },
+  {
+    "name": "Resin Removal",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "Remove all '''[[Debuff]]''' effects from friendly units and all '''[[Buff]]''' effects from enemy units."
+  },
+  {
+    "name": "A Fatal Melting",
+    "type": "spell",
+    "clan": "Melting Remnant",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "Deal damage to enemy units equal to '''3x''' the number of friendly unit deaths this battle."
+  },
+  {
+    "name": "Engulfed in Smoke",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "Apply {{IconLink|Stealth|2}} to friendly units."
+  },
+  {
+    "name": "Subsuming Blade",
+    "type": "spell",
+    "clan": "Melting Remnant",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''[[Piercing]]'''.<br>Deal '''5''' damage.<br>{{IconLink|Slay}}: Increase damage by '''3''' permanently."
+  },
+  {
+    "name": "Wicked Blaze",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "'''[[Reform]]''' a unit and apply {{Attack|+10}}."
+  },
+  {
+    "name": "Memento Mori",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "Deal damage to the front enemy unit equal to '''10x''' the number of friendly unit deaths this battle."
+  },
+  {
+    "name": "Mortal Entrapment",
+    "type": "spell",
+    "clan": "Melting Remnant",
+    "cost": "3",
+    "rarity": "Uncommon",
+    "effect": "'''[[Attuned]]'''.<br>Deal '''25''' damage and apply {{IconLink|Dazed|3}} to an already damaged unit."
+  },
+  {
+    "name": "Waxen Spike",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "X",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Apply {{Attack|+4X}} and {{IconLink|Burnout|4}} to friendly units."
+  },
+  {
+    "name": "Sacrificial Resurrection",
+    "type": "spell",
+    "clan": "Melting Remnant",
+    "cost": "0",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]''' cards in hand. Add a '''[[Draff]]''' unit to your hand and apply {{Attack|+10}} for each card consumed."
+  },
+  {
+    "name": "Wickless Recruitment",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "0",
+    "rarity": "Rare",
+    "effect": "Remove all {{IconLink|Burnout}} and '''[[Debuff]]''' effects on a unit."
+  },
+  {
+    "name": "Intent on Death",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''[[Consume]]'''.<br>Trigger a unit's {{IconLink|Extinguish}} ability without killing it."
+  },
+  {
+    "name": "Remnant Pact",
+    "type": "unit",
+    "clan": "[[Melting Remnant]]",
+    "cost": "1",
+    "rarity": "Rare",
+    "subtype": "",
+    "ability": ""
+  },
+  {
+    "name": "Hallowed Halls",
+    "type": "spell",
+    "clan": "[[Melting Remnant]]",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Kill friendly units.<br>'''[[Reform]]''' random units to this floor until it exceeds its {{Capacity}}."
+  },
+  {
+    "name": "Resin Blades",
+    "type": "equipment",
+    "clan": "Melting Remnant",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Burnout|1}}.<br>{{IconLink|Multistrike|1}}.<br>Return to hand when equipped unit is destroyed."
+  },
+  {
+    "name": "Memorial for the Melted",
+    "type": "room",
+    "clan": "[[Melting Remnant]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Friendly units have {{IconLink|Endless}}."
+  },
+  {
+    "name": "Shield Steward",
+    "type": "unit",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Steward",
+    "ability": ""
+  },
+  {
+    "name": "Spear Steward",
+    "type": "unit",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Common",
+    "subtype": "Steward",
+    "ability": ""
+  },
+  {
+    "name": "Bone Dog",
+    "type": "unit",
+    "clan": "Clanless",
+    "cost": "0",
+    "rarity": "Common",
+    "subtype": "Dog",
+    "ability": "{{IconLink|Celebrate}}: Your Pyre permanently gains {{PyreHealth|+10}}."
+  },
+  {
+    "name": "Follower",
+    "type": "unit",
+    "clan": "[[Clanless]]",
+    "cost": "0",
+    "rarity": "Common",
+    "subtype": "Cultist",
+    "ability": "{{IconLink|Multistrike|2}}."
+  },
+  {
+    "name": "Jack in the Box",
+    "type": "unit",
+    "clan": "[[Clanless]]",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "subtype": "Box",
+    "ability": ""
+  },
+  {
+    "name": "Dante the Dependable",
+    "type": "unit",
+    "clan": "Clanless",
+    "cost": "2",
+    "rarity": "Rare",
+    "subtype": "Dante",
+    "ability": "{{IconLink|Summon}}: Add a permanent '''[[Dante's Candle]]''' to your deck. Gain a stack of {{IconLink|Multistrike}} for each Blight card in your deck."
+  },
+  {
+    "name": "Beacon's Light",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Apply {{IconLink|Dazed|1}} to enemy units on all floors."
+  },
+  {
+    "name": "Dante's Inferno",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "'''[[Piercing]]'''. '''[[Consume]]'''.<br>Deal damage to enemy units on all floors equal to '''10x''' the number of '''[[Dante's Candle]]''' cards in your deck."
+  },
+  {
+    "name": "Excavated Ember",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "0",
+    "rarity": "Common",
+    "effect": "[[Consume]].<br>Gain '''2'''[[file:Ember.png|15x15px]]. Draw '''1'''."
+  },
+  {
+    "name": "Pyre Light",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Common",
+    "effect": "'''Purge'''. '''[[Ephemeral]]'''.<br>Apply {{Attack|+10}} to the Pyre. The Pyre then attacks immediately."
+  },
+  {
+    "name": "Small Gift Box",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "effect": "'''[[Consume]]'''.<br>Add all '''3''' contained spell cards to your hand."
+  },
+  {
+    "name": "Bloodthirsty Blade",
+    "type": "equipment",
+    "clan": "[[Clanless]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Slay}}: This equipment gains {{Attack|+1}} permanently."
+  },
+  {
+    "name": "Exile's Diadem",
+    "type": "equipment",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{Capacity|-2}}. Cannot reduce {{Capacity}} below 1."
+  },
+  {
+    "name": "Glass Cannon",
+    "type": "equipment",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Fragile}}."
+  },
+  {
+    "name": "Iron-tongue",
+    "type": "equipment",
+    "clan": "Clanless",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Sweep}}.<br>This unit's {{Attack}} is set to '''30''' and cannot be changed."
+  },
+  {
+    "name": "Meat Shield",
+    "type": "equipment",
+    "clan": "[[Clanless]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Resolve}}: Restore '''10''' health."
+  },
+  {
+    "name": "Stoic Platemail",
+    "type": "equipment",
+    "clan": "[[Clanless]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Silence}}. {{IconLink|Armor|60}}."
+  },
+  {
+    "name": "Swiftsteel Dagger",
+    "type": "equipment",
+    "clan": "[[Clanless]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "{{IconLink|Quick}}."
+  },
+  {
+    "name": "Equalizing Rings",
+    "type": "equipment",
+    "clan": "[[Clanless]]",
+    "cost": "0",
+    "rarity": "Rare",
+    "effect": "This unit's {{Attack}} is equal to its max health."
+  },
+  {
+    "name": "Heph's Hammer",
+    "type": "equipment",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Slay}}: {{Capacity|+1}} on this floor."
+  },
+  {
+    "name": "Overgrowth Carapace",
+    "type": "equipment",
+    "clan": "[[Clanless]]",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Resolve}}: Gain {{Capacity|+1}}, {{Attack|+20}}, and {{Health|+20}} if there is {{Capacity}} available."
+  },
+  {
+    "name": "Stasis Crystal",
+    "type": "equipment",
+    "clan": "[[Clanless]]",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Stasis}}.<br>{{IconLink|Resolve}}: Gain {{Attack|+20}}, and {{Health|+20}} while under {{IconLink|Stasis}}.<br>{{AbilityBox|Emerge|1|Remove {{IconLink|Stasis}}. Starts battle on cooldown. Removes ability on use.}}"
+  },
+  {
+    "name": "Void Armament",
+    "type": "equipment",
+    "clan": "Clanless",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "{{IconLink|Multistrike|1}}. {{IconLink|Extinguish}}: Purge this unit from your deck."
+  },
+  {
+    "name": "Boiler Room",
+    "type": "room",
+    "clan": "[[Clanless]]",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Gain {{Ember|1}} when a unit dies."
+  },
+  {
+    "name": "Enchanted Chamber",
+    "type": "room",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "'''+15 [[Magic Power]]'''."
+  },
+  {
+    "name": "Fight Club",
+    "type": "room",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Uncommon",
+    "effect": "Grant friendly units {{Attack|+15}}."
+  },
+  {
+    "name": "Steward's Quarters",
+    "type": "unit",
+    "clan": "[[Clanless]]",
+    "cost": "0",
+    "rarity": "Uncommon",
+    "subtype": "",
+    "ability": ""
+  },
+  {
+    "name": "Weapons Cache",
+    "type": "room",
+    "clan": "Clanless",
+    "cost": "2",
+    "rarity": "Uncommon",
+    "effect": "When you summon a friendly unit, draw an [[Equipment]] and apply {{Ember|-2}}."
+  },
+  {
+    "name": "Echo Vault",
+    "type": "room",
+    "clan": "Clanless",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "At the end of the turn, the last spell played on this floor is played again."
+  },
+  {
+    "name": "Hall of Mirrors",
+    "type": "room",
+    "clan": "Clanless",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "{{Capacity|-2}}. When you play a unit, create a copy of it."
+  },
+  {
+    "name": "Inferno Room",
+    "type": "room",
+    "clan": "[[Clanless]]",
+    "cost": "2",
+    "rarity": "Rare",
+    "effect": "Deal '''50''' damage to all units at the start of combat."
+  },
+  {
+    "name": "Spell Sanctum",
+    "type": "room",
+    "clan": "[[Clanless]]",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Spells cost {{Ember|-1}}."
+  },
+  {
+    "name": "Zone of Silence",
+    "type": "room",
+    "clan": "Clanless",
+    "cost": "3",
+    "rarity": "Rare",
+    "effect": "Grant {{IconLink|Silence}} to non-boss enemy units."
+  },
+  {
+    "name": "Calcified Ember",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "3",
+    "rarity": "N/A",
+    "effect": "'''Purge'''."
+  },
+  {
+    "name": "Dante's Candle",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "Rare",
+    "effect": "'''Unpurgeable'''.<br>'''[[Reserve]]''': Your Pyre takes '''3''' damage."
+  },
+  {
+    "name": "Deadweight",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "N/A",
+    "rarity": "N/A",
+    "effect": "'''Unplayable'''.<br>'''Unpurgeable.'''"
+  },
+  {
+    "name": "Dominion's Eye",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "N/A",
+    "effect": "'''[[Unpurgeable]]'''.<br>Non-Scourge and non-Blight cards in hand cost {{Ember|+1}}."
+  },
+  {
+    "name": "Entropic Crystals",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "2",
+    "rarity": "N/A",
+    "effect": "'''[[Unpurgeable]]'''.<br>'''[[Reserve]]''': Spells in your deck cost {{Ember|+1}}."
+  },
+  {
+    "name": "Savage Shackles",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "N/A",
+    "effect": "'''[[Unpurgeable]]'''.<br>'''[[Deployable]]'''.<br>Units in hand cost {{Ember|+1}}."
+  },
+  {
+    "name": "Vengeful Shard",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "N/A",
+    "effect": "'''[[Unpurgeable]]'''.<br>'''[[Reserve]]''': Your Pyre takes '''1''' damage."
+  },
+  {
+    "name": "Chime of Despair",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "",
+    "effect": "'''Purge'''."
+  },
+  {
+    "name": "Curse of Entropy",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "0",
+    "rarity": "",
+    "effect": "'''[[Ephemeral]]'''.<br>Apply {{IconLink|Sap|4}} to friendly units on all floors.<br>'''[[Reserve]]''': Your Pyre takes '''3''' damage."
+  },
+  {
+    "name": "Discordant Toll",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "",
+    "effect": "'''Purge'''.<br>'''[[Reserve]]''': Your Pyre takes '''3''' damage."
+  },
+  {
+    "name": "Resonant Ruin",
+    "type": "spell",
+    "clan": "Clanless",
+    "cost": "1",
+    "rarity": "",
+    "effect": "'''Purge'''.<br>'''[[Reserve]]''': Your Pyre takes '''5''' damage."
+  },
+  {
+    "name": "Forsaken",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Savage Spearman",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Cowering Sycophant",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Fallen Champion",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Flagellant",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Sloven Knight",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Ominous Acolyte",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Lurking Miscreant",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Energizing Flautist",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Yorael the First-Blessed",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Astreal the Lost",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Elebor the Wall",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Legion",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Arkion, Scion of Savagery",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Fleshweaver",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Undying Wretch",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Misshapen Fiend",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Vicious Axethrower",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Malevolent Hunter",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Sharp-Eye Sniper",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Adamant Shieldbearer",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Fallen Executioner",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Blightbound Guardian",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Scarred Sentinel",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Ravenous Zealot",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Profane Supplicant",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Disciple of Ruin",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Harpist Protector",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Qel the Corruptor",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Korin the Judge",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Ajax the Unyielding",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Quoto the Absolute",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "The Undying One",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Cael, Lord of the Cherubs",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Hallow",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Stryx",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Purified Soul",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Ragewing Assassin",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Deformed Duo",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Celestial Bastion",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Avowed Gladiator",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Terrifying Amalgam",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Discordant Heretic",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Enthralled Ardent",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Deafening Herald",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Athane, Last to Fall",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Rax the Overblessed",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Seraph Aeternus-The Dominant",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Seraph Aeternus-The Entropic",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Seraph Aeternus-The Savage",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Entropy",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Dominion",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Savagery",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Collector",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Skull Collector",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  },
+  {
+    "name": "Penitent Prayerstone",
+    "type": "enemy",
+    "clan": "",
+    "cost": "",
+    "rarity": "",
+    "effect": ""
+  }
+]

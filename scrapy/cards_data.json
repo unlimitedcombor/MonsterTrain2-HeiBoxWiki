@@ -1,0 +1,1856 @@
+[
+  {
+    "type": "unknown",
+    "title": "Clanless",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Clan\n|name = Clanless\n|image = {{Icon|ClanClanless|128px}}\n|cards = [[Template:ClanlessCardNav|Cards]]\n|artifacts = [[Artifacts#Clanless|Artifacts]]\n}}",
+    "source_page": "Clanless"
+  },
+  {
+    "type": "unknown",
+    "title": "Champion",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "Champions are special units in Monster Train 2. Champions are usually some of the strongest units available, though their role varies widely, with some based around dealing damage and others based around support or even permanently scaling your other units. Each clan has two Champions, one primary and one alternate. Primary Champions are available from the start, while alternate Champions are unlocked at level 5.",
+    "source_page": "Champion"
+  },
+  {
+    "type": "unknown",
+    "title": "Starter Cards",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "rowspan=\"2\" | Clan",
+          "colspan=\"2\" | Primary",
+          "colspan=\"2\" | Alternative"
+        ],
+        [
+          "Champion",
+          "Starter Card",
+          "Champion",
+          "Starter Card"
+        ],
+        [
+          "[[File:ClanBanished.png|20x20px]][[Banished]]",
+          "[[Fel]]",
+          "[[Just Cause]]",
+          "[[Talos]]",
+          "[[Inspire (spell)|Inspire]]"
+        ],
+        [
+          "[[File:ClanPyreborne.png|20x20px]][[Pyreborne]]",
+          "[[Lord Fenix]]",
+          "[[Firestarter]]",
+          "[[Lady Gilda]]",
+          "[[Bloated Whelp]]"
+        ],
+        [
+          "[[File:ClanLunaCoven.png|20x20px]][[Luna Coven]]",
+          "[[Ekka]]",
+          "[[Witchweave]]",
+          "[[Arduhn]]",
+          "[[Moon Ritual]]"
+        ],
+        [
+          "[[File:ClanUnderlegion.png|20x20px]][[Underlegion]]",
+          "[[Bolete the Guillotine]]",
+          "[[Eager Conscript]]",
+          "[[Madame Lionsmane]]",
+          "[[Sporetouch]]"
+        ],
+        [
+          "[[File:ClanLazarusLeague.png|20x20px]][[Lazarus League]]",
+          "[[Orechi]]",
+          "[[Secret Ingredient]]",
+          "[[Baron Grael]]",
+          "[[Erratic Assistant]]"
+        ],
+        [
+          "[[File:ClanHellhorned.png|20x20px]][[Hellhorned]]",
+          "[[Hornbreaker Prince]]",
+          "[[Torch]]",
+          "[[Shardtail Queen]]",
+          "[[Queen's Impling]]"
+        ],
+        [
+          "[[File:ClanAwoken.png|20x20px]][[Awoken]]",
+          "[[The Sentient]]",
+          "[[Restore]]",
+          "[[Wyldenten]]",
+          "[[Rootseeds]]"
+        ],
+        [
+          "[[File:ClanStygian.png|20x20px]][[Stygian Guard]]",
+          "[[Tethys Titansbane]]",
+          "[[Frozen Lance]]",
+          "[[Solgard the Martyr]]",
+          "[[Forgone Power]]"
+        ],
+        [
+          "[[File:ClanUmbra.png|20x20px]][[Umbra]]",
+          "[[Penumbra]]",
+          "[[Shadesplitter]]",
+          "[[Primordium]]",
+          "[[Plink]]"
+        ],
+        [
+          "[[File:ClanMeltingRemnant.png|20x20px]][[Melting Remnant]]",
+          "[[Rector Flicker]]",
+          "[[Dreg]]",
+          "[[Little Fade]]",
+          "[[Primitive Mold]]"
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "Each [[Champion]] has an associated Starter Card: an undraftable common card, costing {{Ember|0}} or {{Ember|1}}, that's either a unit or a spell.",
+    "source_page": "Starter Cards"
+  },
+  {
+    "type": "unknown",
+    "title": "Shield Steward",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "style=\"text-align:center;\" | [[file:StrengthStone.png|50x50px]]<br>[[Strengthstone]]<hr>[[file:HeartStone.png|50x50px]]<br>[[Heartstone]]",
+          "'''Strengthstone''' and '''Heartstone''' are cheap upgrades that provide a lot of security into the early game, if you can spare around {{Gold|40}}. They might let you survive [[Legion]] or [[Elebor the Wall]] where you would otherwise die. Most other clan-specific upgrades, like {{IconLink|Bravestone}}, {{IconLink|Mossystone}}, and {{IconLink|Furystone}} will accomplish roughly the same job, so you don't need to reroll the shop."
+        ],
+        [
+          "style=\"text-align:center;\" | [[file:FrenzyStone.png|50x50px]]<br>[[Frenzystone]]",
+          "Assuming you have [[Steward's Quarters]], '''Frenzystone''' gives '''Shield Steward''' {{IconLink|Multistrike|2}}, allowing it to scale quite well with {{Attack}} buffs. Be absolutely certain you don't have a better unit to take this upgrade, though."
+        ],
+        [
+          "style=\"text-align:center;\" | [[file:SmidgeStone.png|50x50px]]<br>[[Smidgestone]]",
+          "Assuming you have [[Steward's Quarters]], '''Smidgestone''' can help you assemble a room full of '''Shield Stewards'''."
+        ],
+        [
+          "style=\"text-align:center;\" | [[file:PurifiedEssence.png|50x50px]]<br>[[Purified Essence]]",
+          "If find the [[Beacon]] event and you do not want to take [[Beacon's Light]], '''Purified Essence''' provides a tremendous stat boost with no downside, since '''Shield Steward''' already has no card text. This can be an especially good choice if this event comes just before the Ring 3 boss, and can let the unit still serve decently into the later game."
+        ]
+      ],
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "[[Demo]]",
+          "Added '''{{PAGENAME}}'''."
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " 3-capacity units",
+        " 1-cost cards",
+        " Clanless units",
+        " Starter cards",
+        " Steward units",
+        " Banner units"
+      ]
+    },
+    "summary": "{{UnitCard\n|name = Shield Steward\n|image = CRD_ShieldSteward.png\n|clan = Clanless\n|rarity = Common\n|type = Steward\n|banner = Yes\n|cost = 1\n|size = 3\n|stats = 8/25\n|flavor = After the Boneshaker disappeared, Heph took it upon herself to build upon her father's work. The bulkier train steward design is one of the results of her efforts.\n|artist = Nicole Anne Alfonso\n}}",
+    "source_page": "Shield Steward"
+  },
+  {
+    "type": "unknown",
+    "title": "Spear Steward",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "style=\"text-align:center;\" | [[file:FrenzyStone.png|50px]]<br>[[Frenzystone]]",
+          "Assuming you have [[Steward's Quarters]], this gives '''Shield Steward''' {{IconLink|Multistrike|2}}, allowing it to scale quite well with {{Attack}} buffs."
+        ],
+        [
+          "style=\"text-align:center;\" | [[file:HeartStone.png|50px]]<br>[[Heartstone]]",
+          "Assuming you have [[Steward's Quarters]], you will need to account for how fragile this unit is against {{IconLink|Sweep}}, {{IconLink|Spikes}} and backline {{IconLink|Corruption}}, and Heartstone can do that."
+        ]
+      ],
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "[[Demo]]",
+          "Added '''{{PAGENAME}}'''."
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " 2-capacity units",
+        " 1-cost cards",
+        " Clanless units",
+        " Starter cards",
+        " Steward units"
+      ]
+    },
+    "summary": "{{UnitCard\n|name = Spear Steward\n|image = CRD SpearSteward.png\n|clan = Clanless\n|rarity = Common\n|type = Steward\n|banner = No\n|cost = 1\n|size = 2\n|stats = 14/5\n|flavor = The original Boneshaker was built during a time of peace. Herzal had the foresight to build several sentient guards should the worst come to happen. In the end, they've proved quite useful.\n|artist = Nicole Anne Alfonso\n}}",
+    "source_page": "Spear Steward"
+  },
+  {
+    "type": "unknown",
+    "title": "Covenant Ranks",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "Covenant Ranks are the difficulty system in Monster Train 2, going from the easiest difficulty at Covenant 0 to the hardest at Covenant 10. Only Covenant Ranks 0 and 1 are initially available, and the rest must be unlocked by beating each Covenant in ascending order. Covenant Ranks 1-9 and Covenant Rank 10 each have their own winstreak counter.",
+    "source_page": "Covenant Ranks"
+  },
+  {
+    "type": "unknown",
+    "title": "Common",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[:Category:Common cards]]",
+    "source_page": "Common"
+  },
+  {
+    "type": "unknown",
+    "title": "Uncommon",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[:Category:Uncommon cards]]",
+    "source_page": "Uncommon"
+  },
+  {
+    "type": "unknown",
+    "title": "Banner Unit",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Unit_Banner#Banner_Units]]",
+    "source_page": "Banner Unit"
+  },
+  {
+    "type": "unknown",
+    "title": "Vengeful Shard",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "[[1.0.0]]",
+          "Added Unpurgeable."
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " 1-cost cards",
+        " Blights",
+        " Clanless cards",
+        " Pyre damage cards",
+        " Starter cards",
+        " Unpurgeable cards"
+      ]
+    },
+    "summary": "{{SpellCard\t\t\n|name = Vengeful Shard\n|image = CRD_VengefulShard.png\n|clan = Clanless\n|rarity = N/A\t\n|cost = 1\n|effect = [[Unpurgeable]].[[Reserve]]: Your Pyre takes 1 damage.\n|flavor = When Hell was frozen, the Pyre itself was largely extinguished. The remains that I was unable to collect have been scattered throughout Hell, with Seraph controlling most of them. Some have been corrupted entirely, lashing out at their previous host if they come into too close of contact.\n|artist = Zihao Luo\n}}",
+    "source_page": "Vengeful Shard"
+  },
+  {
+    "type": "unknown",
+    "title": "Pyre of Dominion",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "[[1.0.0]]",
+          "Added '''{{PAGENAME}}'''."
+        ],
+        [
+          "[[11795]]",
+          "Very slightly decreased health on '''{{PAGENAME}}'''. {{PyreHealth|70}}->{{PyreHealth|65}}"
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": [
+        "Pyre Hearts"
+      ]
+    },
+    "summary": "{{PyreHeart\n|image = PyreOfDominion.png\n|stats = 30/65\n|effects = Remove Train Stewards and starting cards. Immediately draft four packs, and double each card picked.\n|unlock = Defeat the Titans.\n|ring3_stat_increase = +20/+15\n|ring6_stat_increase = +35/+15\n}}\nPyre of Dominion is one of the [[Pyre Hearts]] in Monster Train 2. It immediately removes all Train Stewards and [[starter cards]]. The player then drafts from the following packs, gaining two copies of each card:\n* Primary clan uncommon pack\n* Allied clan uncommon pack\n* Primary clan unit banner\n* Allied clan unit banner\nThe cards cannot be skipped.",
+    "source_page": "Pyre of Dominion"
+  },
+  {
+    "type": "unknown",
+    "title": "Pyre Hearts",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "Pyre Heart",
+          "Base Stats",
+          "Effects",
+          "Unlock Condition",
+          "Act 2 Stat Increase",
+          "Act 3 Stat Increase",
+          "Rounds of Dominion",
+          "RoD (Pyre Light)"
+        ],
+        [
+          "[[file:ProtoHeartcage.png|100x100px|link=Proto Heartcage]] <br> [[Proto Heartcage]]",
+          "style=\"width: 15%\" | {{AttackPyreHealth|45|80}}",
+          "None",
+          "Unlocked by default.",
+          "{{AttackPyreHealth|75(+30)|100(+20)}}",
+          "{{AttackPyreHealth|130(+55)|120(+20)}}",
+          "12/16 Rounds, 36/48 damage",
+          "6/7 Rounds, 18/21 damage"
+        ],
+        [
+          "[[file:HeartOfThePact.png|100x100px|link=Heart of the Pact]] <br> [[Heart of the Pact]]",
+          "{{AttackPyreHealth|35|65}}",
+          "After playing a card from your Primary and Allied clan, draw '''+1''' next turn.",
+          "Win 9 battles with [[Trials]] enabled.",
+          "{{AttackPyreHealth|60(+25)|80(+15)}}",
+          "{{AttackPyreHealth|90(+30)|95(+15)}}",
+          "18/23 rounds, 54/69 damage",
+          "7/9 Rounds, 21/24 damage"
+        ],
+        [
+          "[[file:LifemothersPyre.png|100x100px|link=Lifemother's Pyre]] <br> [[Lifemother's Pyre]]",
+          "{{AttackPyreHealth|35|75}}",
+          "Adds the option to copy cards at the Merchants of Steel, Magic, and Trinkets",
+          "Take a total of 475 Pyre damage.",
+          "{{AttackPyreHealth|60(+25)|92(+17)}}",
+          "{{AttackPyreHealth|100(+40)|109(+17)}}",
+          "16/21 rounds, 48/63 damage",
+          "7/8 Rounds, 18/24 damage"
+        ],
+        [
+          "[[file:MalickasShiftingPyre.png|100x100px|link=Malicka's Shifting Pyre]] <br> [[Malicka's Shifting Pyre]]",
+          "{{AttackPyreHealth|35|60}}",
+          "All drafted cards appear with an upgrade.",
+          "Win a [[Dimensional Challenge]].",
+          "{{AttackPyreHealth|60(+25)|73(+13)}}",
+          "{{AttackPyreHealth|100(+40)|86(+13)}}",
+          "16/21 rounds, 48/63 damage",
+          "7/8 Rounds, 18/24 damage"
+        ],
+        [
+          "[[file:WynghsSpirit.png|100x100px|link=Wyngh's Spirit]] <br> [[Wyngh's Spirit]]",
+          "{{AttackPyreHealth|40|75}}",
+          "Once per battle, select the Heart to restore the front friendly units on all floors to full health.",
+          "'''Shift''' units 225 times.",
+          "{{AttackPyreHealth|70(+30)|92(+17)}}",
+          "{{AttackPyreHealth|115(+45)|109(+17)}}",
+          "14/18 rounds, 42/54 damage",
+          "6/8 Rounds, 18/21 damage"
+        ],
+        [
+          "[[file:FhyrasGreed.png|100x100px|link=Fhyra's Greed]] <br> [[Fhyra's Greed]]",
+          "{{AttackPyreHealth|35|80}}",
+          "When your Pyre takes damage, gain {{Gold|10}}",
+          "Spend 20000 coins.",
+          "{{AttackPyreHealth|60(+25)|100(+20)}}",
+          "{{AttackPyreHealth|100(+40)|120(+20)}}",
+          "16/21 rounds, 48/63 damage",
+          "7/8 Rounds, 18/24 damage"
+        ],
+        [
+          "[[file:AquathsReservation.png|100x100px|link=Aquath's Reservation]] <br> [[Aquath's Reservation]]",
+          "{{AttackPyreHealth|35|65}}",
+          "Once per battle, select the heart to gain {{Ember|3}}.",
+          "Deal 12000 damage with '''Magic Power'''.",
+          "{{AttackPyreHealth|60(+25)|80(+15)}}",
+          "{{AttackPyreHealth|100(+40)|95(+15)}}",
+          "16/21 rounds, 48/63 damage",
+          "7/8 Rounds, 18/24 damage"
+        ],
+        [
+          "[[file:BogwurmsGrowth.png|100x100px|link=Bogwurm's Growth]] <br> [[Bogwurm's Growth]]",
+          "{{AttackPyreHealth|35|70}}",
+          "Permanently add {{Capacity|+1}} to a random floor after battle.",
+          "Inflict 3200 '''Debuff''' effects.",
+          "{{AttackPyreHealth|50(+20)|86(+16)}}",
+          "{{AttackPyreHealth|85(+35)|102(+16)}}",
+          "19/25 rounds, 57/75 damage",
+          "8/9 Rounds, 21/27 damage"
+        ],
+        [
+          "[[file:EchoOfTheTimeFather.png|100x100px|link=Echo of the Time Father]] <br> [[Echo of the Time Father]]",
+          "{{AttackPyreHealth|40|70}}",
+          "Once per battle, select the Heart to apply '''Frozen''' to all non-Blight and non-Scourge cards in hand.",
+          "Hold '''Frozen''' cards in hand 25 times.",
+          "{{AttackPyreHealth|70(+30)|86(+16)}}",
+          "{{AttackPyreHealth|105(+35)|102(+16)}}",
+          "15/20 rounds, 45/60 damage",
+          "7/8 Rounds, 18/24 damage"
+        ],
+        [
+          "[[file:HerzalsHorde.png|100x100px|link=Herzal's Horde]] <br> [[Herzal's Horde]]",
+          "{{AttackPyreHealth|35|65}}",
+          "Gain {{DeploymentEmber|4}}. '''Deployable''' upgrade is '''50'''% cheaper.",
+          "Deal 10000 damage with Train Stewards.",
+          "{{AttackPyreHealth|60(+25)|80(+15)}}",
+          "{{AttackPyreHealth|100(+40)|95(+15)}}",
+          "16/21 rounds, 48/63 damage",
+          "7/8 Rounds, 18/24 damage"
+        ],
+        [
+          "[[file:PyreOfSavagery.png|100x100px|link=Pyre of Savagery]] <br> [[Pyre of Savagery]]",
+          "{{AttackPyreHealth|55|50}}",
+          "Friendly units gain '''Slay''': {{Attack|+1}} permanently.",
+          "Defeat the Titans.",
+          "{{AttackPyreHealth|95(+40)|61(+11)}}",
+          "{{AttackPyreHealth|160(+65)|72(+11)}}",
+          "10/13 rounds, 30/39 damage",
+          "5/6 Rounds, 15/18 damage"
+        ],
+        [
+          "[[file:PyreOfDominion.png|100x100px|link=Pyre of Dominion]] <br> [[Pyre of Dominion]]",
+          "{{AttackPyreHealth|30|65}}",
+          "Remove Train Stewards and starting cards. Immediately draft four packs, and double each card picked.",
+          "Defeat the Titans.",
+          "{{AttackPyreHealth|50(+20)|80(+15)}}",
+          "{{AttackPyreHealth|85(+35)|95(+15)}}",
+          "19/25 rounds, 57/75 damage",
+          "8/9 Rounds, 21/27 damage"
+        ],
+        [
+          "[[file:PyreOfEntropy.png|100x100px|link=Pyre of Entropy]] <br> [[Pyre of Entropy]]",
+          "{{AttackPyreHealth|30|90}}",
+          "Add a [[Vengeful Shard]] to your deck after each battle. Draw 1 extra card for every 2 Blights in your deck.",
+          "Defeat the Titans.",
+          "{{AttackPyreHealth|50(+20)|110(+20)}}",
+          "{{AttackPyreHealth|85(+35)|130(+20)}}",
+          "19/25 rounds, 57/75 damage",
+          "8/9 Rounds, 21/27 damage"
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "Pyre Hearts are the different options which the player can choose for their Pyre. Each has different {{Attack}} and {{PyreHealth}} values, and most have special abilities or provide universal buffs.",
+    "source_page": "Pyre Hearts"
+  },
+  {
+    "type": "unknown",
+    "title": "Spells",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[:Category:Spells]]",
+    "source_page": "Spells"
+  },
+  {
+    "type": "unknown",
+    "title": "Units",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[:Category:Units]]",
+    "source_page": "Units"
+  },
+  {
+    "type": "unknown",
+    "title": "Banner Units",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Unit_Banner#Banner_Units]]",
+    "source_page": "Banner Units"
+  },
+  {
+    "type": "unknown",
+    "title": "Deployment",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Deployment Phase]]",
+    "source_page": "Deployment"
+  },
+  {
+    "type": "unknown",
+    "title": "Equipment",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "Equipment is a card type in Monster Train 2. Equipment cards are attached to units on the train. Once attached, they provide the unit with new abilities, effects, and sometimes {{Attack}} and/or {{Health}}. Equipment can only be played on friendly units, with the exceptions of [[Penitent's Bloodsuit]] and [[Penitent's Deathsuit]].",
+    "source_page": "Equipment"
+  },
+  {
+    "type": "unknown",
+    "title": "Rooms",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        "Rooms"
+      ]
+    },
+    "summary": "#REDIRECT [[Category:Rooms]]",
+    "source_page": "Rooms"
+  },
+  {
+    "type": "unknown",
+    "title": "Blights",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[:Category:Blights]]",
+    "source_page": "Blights"
+  },
+  {
+    "type": "unknown",
+    "title": "Scourges",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[:Category:Scourges]]",
+    "source_page": "Scourges"
+  },
+  {
+    "type": "unknown",
+    "title": "Lazarus League",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Clan\n|name = Lazarus League\n|image = {{Icon|LazarusLeague|128px}}\n|champ1 = [[Orechi]]\n|champ2 = [[Baron Grael]]\n|cards = [[Template:LazarusLeagueCardNav|Cards]]\n|artifacts = [[Artifacts#Lazarus League|Artifacts]]\n|flavor = Mix in powers of the mad scientists and their dangerous experiments. Their power over life and death will lead to victory, and if it doesn't you can always use the pieces they leave behind.\n|cutscenes = [[Lazarus League cutscenes|Cutscenes]]\n}}",
+    "source_page": "Lazarus League"
+  },
+  {
+    "type": "unknown",
+    "title": "Graft",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "[[1.0]]",
+          "Added '''{{PAGENAME}}'''."
+        ],
+        [
+          "[[1.3]]",
+          "Fixed bug where combining the Graft event and Red Crown events could lead to a unit having two equipment on at once."
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": [
+        "Status Effects"
+      ]
+    },
+    "summary": "{{StatusEffect\n|name = Graft\n|image = Graft.png \n|type = Effect\n|stacking = None\n|description = Unit has equipment grafted to their body. When they die, the graft is severed for the rest of combat and the equipment goes into your hand.\n}}",
+    "source_page": "Graft"
+  },
+  {
+    "type": "unknown",
+    "title": "Umbra",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Clan\n|name = Umbra\n|image = {{Icon|umbra|128px}}\n|champ1 = [[Penumbra]]\n|champ2 = [[Primordium]]\n|cards = [[Template:UmbraCardNav|Cards]]\n|artifacts = [[Artifacts#Umbra|Artifacts]]\n|flavor = Commune with the Ancient Umbra Shroud. The original residents of Hell mine the Crucible for precious materials to help in the fight against the Titans.\n}}",
+    "source_page": "Umbra"
+  },
+  {
+    "type": "unknown",
+    "title": "Morsel",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Morsels]]",
+    "source_page": "Morsel"
+  },
+  {
+    "type": "unknown",
+    "title": "Champions",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Champion]]",
+    "source_page": "Champions"
+  },
+  {
+    "type": "unknown",
+    "title": "Spell",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[:Category:Spells]]",
+    "source_page": "Spell"
+  },
+  {
+    "type": "unknown",
+    "title": "Room",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        "Rooms"
+      ]
+    },
+    "summary": "#REDIRECT [[Category:Rooms]]",
+    "source_page": "Room"
+  },
+  {
+    "type": "unknown",
+    "title": "Ability",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{StatusEffect\n|name = Ability\n|image = AbilityActive.png\n|type = Trigger\n}}\nAbility is a unique [[Status_Effects#Triggers|unit trigger]] in Monster Train 2. It is manually activated by clicking on the unit. Each ability has a cooldown; most abilities can only be used once every 2-3 turns.",
+    "source_page": "Ability"
+  },
+  {
+    "type": "unknown",
+    "title": "Tome",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        "Tome"
+      ]
+    },
+    "summary": "#REDIRECT[[Category:Tome]]",
+    "source_page": "Tome"
+  },
+  {
+    "type": "unknown",
+    "title": "Railspike",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        "Railspike"
+      ]
+    },
+    "summary": "#REDIRECT[[Category:Railspike]]",
+    "source_page": "Railspike"
+  },
+  {
+    "type": "unknown",
+    "title": "Rare",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[:Category:Rare cards]]",
+    "source_page": "Rare"
+  },
+  {
+    "type": "unknown",
+    "title": "Ring 1",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Limbo]]",
+    "source_page": "Ring 1"
+  },
+  {
+    "type": "unknown",
+    "title": "Ring 2",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Heaven's Gate]]",
+    "source_page": "Ring 2"
+  },
+  {
+    "type": "unknown",
+    "title": "Ring 3",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[The Wingless Hive]]",
+    "source_page": "Ring 3"
+  },
+  {
+    "type": "unknown",
+    "title": "Ring 6",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[High Heaven]]",
+    "source_page": "Ring 6"
+  },
+  {
+    "type": "unknown",
+    "title": "Ring 4",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Celestial Forge]]",
+    "source_page": "Ring 4"
+  },
+  {
+    "type": "unknown",
+    "title": "Ring 5",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[The Aviary]]",
+    "source_page": "Ring 5"
+  },
+  {
+    "type": "unknown",
+    "title": "Ring 7",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[The Observatory]]",
+    "source_page": "Ring 7"
+  },
+  {
+    "type": "unknown",
+    "title": "Celestial Alcove",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Node\n|name = Celestial Alcove\n|image = CelestialAlcove.png\n|description = Something surprising can be found within the celestial fog.\n|guaranteed = 3, 4, 6 or 7\n|possible = 5\n}}",
+    "source_page": "Celestial Alcove"
+  },
+  {
+    "type": "unknown",
+    "title": "Armory",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Node\n|name = Armory\n|image = Armory.png\n|description = Gain an Equipment or Room Card.\n|guaranteed = 6 or 7\n|possible = 3, 5\n}}\nArmory is a map node in Monster Train 2. It allows you to obtain one of 3 random [[Equipment]] or [[Room]] cards. Cards have an approximate 1.0% chance of being Common, an 87.1% chance of being Uncommon, and an 11.9% chance of being rare.",
+    "source_page": "Armory"
+  },
+  {
+    "type": "unknown",
+    "title": "Merchant of Arms",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Node\n|name = Merchant of Arms\n|image = MerchantOfArms.png\n|description = Offers random equipment and rooms and ways to improve them.\n|guaranteed = 3, 5 or 6\n|possible = 7, 8\n}}",
+    "source_page": "Merchant of Arms"
+  },
+  {
+    "type": "unknown",
+    "title": "Arkion",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Arkion, Scion of Savagery]]",
+    "source_page": "Arkion"
+  },
+  {
+    "type": "unknown",
+    "title": "Light Forge",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "Ring",
+          "Choice 1",
+          "Choice 2"
+        ],
+        [
+          "1",
+          "Upgrade 1 of a random path",
+          "Upgrade 1 of a random path"
+        ],
+        [
+          "4",
+          "Upgrade 2 of your chosen path",
+          "Upgrade 1 of a random path"
+        ],
+        [
+          "7",
+          "'''If Upgrade 2 was chosen:'''</br>Upgrade 3 of your chosen path</br>'''If 2 upgrade 1s were chosen:'''</br>Upgrade 2 of the first path",
+          "'''If Upgrade 2 was chosen:'''</br>Upgrade 1 of a random path</br>'''If 2 upgrade 1s were chosen:'''</br>Upgrade 2 of the second path"
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Node\n|name = Light Forge\n|image = LightForge.png\n|description = Upgrade your Champion.\n|guaranteed = 1, 4, 7\n}}",
+    "source_page": "Light Forge"
+  },
+  {
+    "type": "unknown",
+    "title": "Merchant of Steel",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "+ Clanless Unit Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|HeartStone}} [[Heartstone]]",
+          "Upgrade a unit with {{Health|+20}}."
+        ],
+        [
+          "{{Icon|StrengthStone}} [[Strengthstone]]",
+          "Upgrade a unit with {{Attack|+14}}."
+        ]
+      ],
+      [
+        [
+          "+ Clan-Specific Unit Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description",
+          "Clan"
+        ],
+        [
+          "{{Icon|BraveStone}} [[Bravestone]]",
+          "Upgrade a unit with {{Icon|Valor}} '''[[Valor]] 8'''.",
+          "[[Banished]]"
+        ],
+        [
+          "{{Icon|GreedStone}} [[Greedstone]]",
+          "Upgrade a unit with {{Icon|Avarice}} '''[[Avarice]] 3'''.",
+          "[[Pyreborne]]"
+        ],
+        [
+          "{{Icon|GlimmerStone}} [[Glimmerstone]]",
+          "Upgrade a unit with {{Icon|Conduit}} '''[[Conduit]] 5'''.",
+          "[[Luna Coven]]"
+        ],
+        [
+          "{{Icon|MossyStone}} [[Mossystone]]",
+          "Upgrade a unit with {{Health|+10}} and {{Icon|Regen}} '''[[Regen]] 10'''.",
+          "[[Underlegion]]"
+        ],
+        [
+          "{{Icon|FrankenStone}} [[Frankenstone]]",
+          "Upgrade a unit with {{Icon|Reanimate}} '''[[Reanimate]] 1'''.",
+          "[[Lazarus League]]"
+        ],
+        [
+          "{{Icon|BurstStone}} [[Burststone]]",
+          "Upgrade a unit with {{Icon|Burst}} '''[[Burst]] 2'''.",
+          "[[Railforged]]"
+        ],
+        [
+          "{{Icon|FuryStone}} [[Furystone]]",
+          "Upgrade a unit with {{Icon|Rage}} '''[[Rage]] 12'''.",
+          "[[Hellhorned]]"
+        ],
+        [
+          "{{Icon|ThornStone}} [[Thornstone]]",
+          "Upgrade a unit with {{Health|+10}} and {{Icon|Spikes}} '''[[Spikes]] 3'''.",
+          "[[Awoken]]"
+        ],
+        [
+          "{{Icon|RuneStone}} [[Runestone]]",
+          "Upgrade a unit with {{Icon|Incant}} '''[[Incant]]:''' Gain {{Icon|Armor}} '''Armor 2'''.",
+          "[[Stygian Guard]]"
+        ],
+        [
+          "{{Icon|ShieldStone}} [[Shieldstone]]",
+          "Upgrade a unit with {{Icon|DamageShield}} '''[[Damage Shield]] 3'''.",
+          "[[Umbra]]"
+        ],
+        [
+          "{{Icon|WickStone}} [[Wickstone]]",
+          "Upgrade a unit with {{Attack|+15}}, {{Health|+5}}, and {{Icon|Burnout}} '''[[Burnout]] 1'''.",
+          "[[Melting Remnant]]"
+        ],
+        [
+          "{{Icon|EchoStone}} [[Echostone]]",
+          "Upgrade a unit with {{Attack|+5}} per {{Icon|Echo}}.",
+          "[[Wurmkin]]"
+        ]
+      ],
+      [
+        [
+          "+ Major Unit Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|DualStone}} [[Dualstone]]",
+          "Upgrade a unit with {{Icon|Dualism}} '''[[Dualism]]'''."
+        ],
+        [
+          "{{Icon|FrenzyStone}} [[Frenzystone]]",
+          "Upgrade a unit with {{Icon|Multistrike|15px}} '''[[Multistrike]] 1'''."
+        ],
+        [
+          "{{Icon|ImmortalStone}} [[Immortalstone]]",
+          "Upgrade a unit with {{Icon|Endless}} '''[[Endless]]'''."
+        ],
+        [
+          "{{Icon|LargeStone}} [[Largestone]]",
+          "Upgrade a unit with {{Capacity|+1}}, {{Attack|+15}}, and {{Health|+50}}."
+        ],
+        [
+          "{{Icon|SmidgeStone}} [[Smidgestone]]",
+          "Reduce {{Capacity}} to '''1'''."
+        ],
+        [
+          "{{Icon|SpeedStone}} [[Speedstone]]",
+          "Upgrade a unit with {{Icon|Quick}} '''[[Quick]]''' and {{Attack|+10}}."
+        ],
+        [
+          "{{Icon|TitanStone}} [[Titanstone]]",
+          "Upgrade a unit with {{Icon|Titanite}} '''[[Titanite]]'''."
+        ]
+      ],
+      [
+        [
+          "+ Clanless Unit Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|HeartStone}} [[Heartstone|Heartslab]]",
+          "Upgrade a unit with {{Health|+60}}."
+        ],
+        [
+          "{{Icon|StrengthStone}} [[Strengthstone|Strengthslab]]",
+          "Upgrade a unit with {{Attack|+40}}."
+        ]
+      ],
+      [
+        [
+          "+ Clan-Specific Unit Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description",
+          "Clan"
+        ],
+        [
+          "{{Icon|BraveStone}} [[Bravestone|Braveslab]]",
+          "Upgrade a unit with {{Icon|Valor}} '''[[Valor]] ???'''.",
+          "[[Banished]]"
+        ],
+        [
+          "{{Icon|GreedStone}} [[Greedstone|Greedslab]]",
+          "Upgrade a unit with {{Icon|Avarice}} '''[[Avarice]] ???'''.",
+          "[[Pyreborne]]"
+        ],
+        [
+          "{{Icon|GlimmerStone}} [[Glimmerstone|Glimmerslap]]",
+          "Upgrade a unit with {{Icon|Conduit}} '''[[Conduit]] ???'''.",
+          "[[Luna Coven]]"
+        ],
+        [
+          "{{Icon|MossyStone}} [[Mossystone|Mossyslab]]",
+          "Upgrade a unit with {{Health|+20}} and {{Icon|Regen}} '''[[Regen]] 15'''.",
+          "[[Underlegion]]"
+        ],
+        [
+          "{{Icon|FrankenStone}} [[Frankenstone|Frankenslab]]",
+          "Upgrade a unit with {{Icon|Reanimate}} '''[[Reanimate]] 2'''.",
+          "[[Lazarus League]]"
+        ],
+        [
+          "{{Icon|BurstStone}} [[Burststone|Burstslab]]",
+          "Upgrade a unit with {{Icon|Burst}} '''[[Burst]] 4'''.",
+          "[[Railforged]]"
+        ],
+        [
+          "{{Icon|FuryStone}} [[Furystone|Furyslab]]",
+          "Upgrade a unit with {{Icon|Rage}} '''[[Rage]] ???'''.",
+          "[[Hellhorned]]"
+        ],
+        [
+          "{{Icon|ThornStone}} [[Thornstone|Thornslab]]",
+          "Upgrade a unit with {{Health|+???}} and {{Icon|Spikes}} '''[[Spikes]] ???'''.",
+          "[[Awoken]]"
+        ],
+        [
+          "{{Icon|RuneStone}} [[Runestone|Runeslab]]",
+          "Upgrade a unit with {{Icon|Incant}} '''[[Incant]]:''' Gain {{Icon|Armor}} '''Armor ???'''.",
+          "[[Stygian Guard]]"
+        ],
+        [
+          "{{Icon|ShieldStone}} [[Shieldstone|Shieldslab]]",
+          "Upgrade a unit with {{Icon|DamageShield}} '''[[Damage Shield]] ???'''.",
+          "[[Umbra]]"
+        ],
+        [
+          "{{Icon|WickStone}} [[Wickstone|Wickslab]]",
+          "Upgrade a unit with {{Attack|+??}}, {{Health|+???}}, and {{Icon|Burnout}} '''[[Burnout]] ???'''.",
+          "[[Melting Remnant]]"
+        ],
+        [
+          "{{Icon|EchoStone}} [[Echostone|Echoslab]]",
+          "Upgrade a unit with {{Attack|+???}} per {{Icon|Echo}}.",
+          "[[Wurmkin]]"
+        ]
+      ],
+      [
+        [
+          "+ Major Unit Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|DualStone}} [[Dualstone|Dualslab]]",
+          "Upgrade a unit with {{Icon|Dualism}} '''[[Dualism]]''', '''{{Icon|Rage}} Rage 4''', '''{{Icon|Regen}} Regen 4''' and '''{{Icon|Spikes}} Spikes 4'''."
+        ],
+        [
+          "{{Icon|FrenzyStone}} [[Frenzystone|Frenzyslab]]",
+          "Upgrade a unit with {{Icon|Multistrike|15px}} '''[[Multistrike]] 2'''."
+        ],
+        [
+          "{{Icon|ImmortalStone}} [[Immortalstone|Immortalslab]]",
+          "Upgrade a unit with {{Icon|Endless}} '''[[Endless]]''' and '''-1'''{{Ember}}."
+        ],
+        [
+          "{{Icon|LargeStone}} [[Largestone|Largeslab]]",
+          "Upgrade a unit with {{Capacity|+2}}, {{Attack|+40}}, and {{Health|+120}}."
+        ],
+        [
+          "{{Icon|SmidgeStone}} [[Smidgestone|Smidgeslab]]",
+          "Reduce {{Capacity}} to '''1''' and gain {{Icon|Armor}} '''Armor 30'''."
+        ],
+        [
+          "{{Icon|SpeedStone}} [[Speedstone|Speedslab]]",
+          "Upgrade a unit with {{Icon|Quick}} '''[[Quick]]''' and {{Attack|+30}}."
+        ],
+        [
+          "{{Icon|TitanStone}} [[Titanstone|Titanslab]]",
+          "Upgrade a unit with {{Icon|Titanite}} '''[[Titanite]]''' and {{IconLink|Titanskin}} '''3'''."
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Unfinished}}\n{{Version}}",
+    "source_page": "Merchant of Steel"
+  },
+  {
+    "type": "unknown",
+    "title": "Merchant of Magic",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "+ Minor Magic Power Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|PowerStone}} [[Powerstone]]",
+          "Upgrade a spell with '''+10 [[Card Effects#Magic Power|Magic Power]]'''."
+        ],
+        [
+          "{{Icon|SurgeStone}} [[Surgestone]]",
+          "Upgrade a spell with '''+20 [[Card Effects#Magic Power|Magic Power]]''' and gain '''[[Consume]]'''."
+        ]
+      ],
+      [
+        [
+          "+ Minor Ember Cost Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|EmberStone}} [[Emberstone]]",
+          "Upgrade a spell to cost {{Ember|-1}}."
+        ],
+        [
+          "{{Icon|SmolderStone}} [[Smolderstone]]",
+          "Upgrade a spell to cost {{Ember|-2}} and gain '''[[Consume]]'''."
+        ]
+      ],
+      [
+        [
+          "+ Major Unit Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|EternalStone}} [[Eternalstone]]",
+          "Upgrade a spell to permanently remove '''[[Consume]]'''."
+        ],
+        [
+          "{{Icon|FreezeStone}} [[Freezestone]]",
+          "Upgrade a spell to cost {{Ember|-1}} and gain '''[[Card Effects#Permafrost|Permafrost]]'''."
+        ],
+        [
+          "{{Icon|HolyStone}} [[Holystone]]",
+          "Heal your pyre equal to the spell's {{Ember}} cost."
+        ],
+        [
+          "{{Icon|KeepStone}} [[Keepstone]]",
+          "Upgrade a spell to gain '''[[Card Effects#Holdover|Holdover]]'''."
+        ],
+        [
+          "{{Icon|SeekStone}} [[Seekstone]]",
+          "Upgrade a spell to cost {{Ember|-1}} and gain '''[[Intrinsic]]'''."
+        ],
+        [
+          "{{Icon|StackStone}} [[Stackstone]]",
+          "Upgrade a spell to gain '''[[Card Effects#Doublestack|Doublestack]]'''."
+        ],
+        [
+          "{{Icon|TwinStone}} [[Twinstone]]",
+          "Upgrade a spell to gain '''[[Card Effects#Spellchain|Spellchain]]'''."
+        ]
+      ],
+      [
+        [
+          "+ Minor Magic Power Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|PowerStone}} [[Powerstone]]+",
+          "Upgrade a spell with '''+20 [[Card Effects#Magic Power|Magic Power]]'''."
+        ],
+        [
+          "{{Icon|SurgeStone}} [[Surgestone]]+",
+          "Upgrade a spell with '''+40 [[Card Effects#Magic Power|Magic Power]]''' and gain '''[[Consume]]'''."
+        ]
+      ],
+      [
+        [
+          "+ Minor Ember Cost Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|EmberStone}} [[Emberstone]]+",
+          "Upgrade a spell to cost {{Ember|-2}}."
+        ],
+        [
+          "{{Icon|SmolderStone}} [[Smolderstone]]+",
+          "Upgrade a spell to cost {{Ember|-4}} and gain '''[[Consume]]'''."
+        ]
+      ],
+      [
+        [
+          "+ Major Spell Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "{{Icon|EternalStone}} [[Eternalstone]]",
+          "Upgrade a spell to permanently remove '''[[Consume]]'''."
+        ],
+        [
+          "{{Icon|FreezeStone}} [[Freezestone]]+",
+          "Upgrade a spell to cost {{Ember|-2}} and gain '''[[Card Effects#Permafrost|Permafrost]]'''."
+        ],
+        [
+          "{{Icon|HolyStone}} [[Holystone]]",
+          "Heal your pyre equal to the spell's {{Ember}} cost."
+        ],
+        [
+          "{{Icon|KeepStone}} [[Keepstone]]",
+          "Upgrade a spell to gain '''[[Card Effects#Holdover|Holdover]]'''."
+        ],
+        [
+          "{{Icon|SeekStone}} [[Seekstone]]+",
+          "Upgrade a spell to cost {{Ember|-2}} and gain '''[[Intrinsic]]'''."
+        ],
+        [
+          "{{Icon|StackStone}} [[Stackstone]]",
+          "Upgrade a spell to gain '''[[Card Effects#Doublestack|Doublestack]]'''."
+        ],
+        [
+          "{{Icon|TwinStone}} [[Twinstone]]",
+          "Upgrade a spell to gain '''[[Card Effects#Spellchain|Spellchain]]'''."
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Unfinished}}",
+    "source_page": "Merchant of Magic"
+  },
+  {
+    "type": "unknown",
+    "title": "Upgrades",
+    "image": "",
+    "fields": {},
+    "tables": [
+      [
+        [
+          "+ Unit Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description",
+          "Clan",
+          "Rarity",
+          "Source",
+          "Slab (Soul Savior)"
+        ],
+        [
+          "[[file:HeartStone.png|80x80px]] <br> [[Heartstone]]",
+          "Upgrade a unit with {{Health|+20}}.",
+          "[[Clanless]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{Health|+60}}."
+        ],
+        [
+          "[[file:StrengthStone.png|80x80px]] <br> [[Strengthstone]]",
+          "Upgrade a unit with {{Attack|+14}}.",
+          "[[Clanless]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{Attack|+40}}."
+        ],
+        [
+          "[[file:LargeStone.png|80x80px]] <br> [[Largestone]]",
+          "Upgrade a unit with {{Capacity|+1}}, {{Attack|+15}}, and {{Health|+50}}.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{Capacity|+2}}, {{Attack|+40}}, and {{Health|+120}}."
+        ],
+        [
+          "[[file:SmidgeStone.png|80x80px]] <br> [[Smidgestone]]",
+          "Reduce {{Capacity}} to '''1'''.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Steel]]",
+          "Reduce {{Capacity}} to '''1''' and gain {{IconLink|Armor|30}}."
+        ],
+        [
+          "[[file:DualStone.png|80x80px]] <br> [[Dualstone]]",
+          "Upgrade a unit with {{IconLink|Dualism}}.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Dualism}}, {{IconLink|Rage|4}}, {{IconLink|Regen|4}}, and {{IconLink|Spikes|4}}."
+        ],
+        [
+          "[[file:FrenzyStone.png|80x80px]] <br> [[Frenzystone]]",
+          "Upgrade a unit with {{IconLink|Multistrike|1}}.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Multistrike|2}}."
+        ],
+        [
+          "[[file:ImmortalStone.png|80x80px]] <br> [[Immortalstone]]",
+          "Upgrade a unit with {{IconLink|Endless}}.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Endless}} and {{Ember|-1}}."
+        ],
+        [
+          "[[file:SpeedStone.png|80x80px]] <br> [[Speedstone]]",
+          "Upgrade a unit with {{IconLink|Quick}} and {{Attack|+10}}.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Quick}} and {{Attack|+30}}."
+        ],
+        [
+          "[[file:TitanStone.png|80x80px]] <br> [[Titanstone]]",
+          "Upgrade a unit with {{IconLink|Titanite}}.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Titanite}} and {{IconLink|Titanskin|3}}."
+        ],
+        [
+          "[[file:BraveStone.png|80x80px]] <br> [[Bravestone]]",
+          "Upgrade a unit with {{IconLink|Valor|8}}.",
+          "[[Banished]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Valor|16}}."
+        ],
+        [
+          "[[file:GreedStone.png|80x80px]] <br> [[Greedstone]]",
+          "Upgrade a unit with {{IconLink|Avarice|3}}.",
+          "[[Pyreborne]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Avarice|6}}."
+        ],
+        [
+          "[[file:GlimmerStone.png|80x80px]] <br> [[Glimmerstone]]",
+          "Upgrade a unit with {{IconLink|Conduit|5}}.",
+          "[[Luna Coven]]",
+          "Common",
+          "[[Merchant of Steel]]"
+        ],
+        [
+          "[[file:MossyStone.png|80x80px]] <br> [[Mossystone]]",
+          "Upgrade a unit with {{Health|+10}} and {{IconLink|Regen|10}}.",
+          "[[Underlegion]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{Health|+20}} and {{IconLink|Regen|15}}."
+        ],
+        [
+          "[[file:FrankenStone.png|80x80px]] <br> [[Frankenstone]]",
+          "Upgrade a unit with {{IconLink|Reanimate|1}}.",
+          "[[Lazarus League]]",
+          "Common",
+          "[[Merchant of Steel]]"
+        ],
+        [
+          "[[file:BurstStone.png|80x80px]] <br> [[Burststone]]",
+          "Upgrade a unit with {{IconLink|Burst|2}}.",
+          "[[Railforged]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Burst|4}}."
+        ],
+        [
+          "[[file:FuryStone.png|80x80px]] <br> [[Furystone]]",
+          "Upgrade a unit with {{IconLink|Rage|12}}.",
+          "[[Hellhorned]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Rage|24}}."
+        ],
+        [
+          "[[file:ThornStone.png|80x80px]] <br> [[Thornstone]]",
+          "Upgrade a unit with {{Health|+10}} and {{IconLink|Spikes|3}}.",
+          "[[Awoken]]",
+          "Common",
+          "[[Merchant of Steel]]"
+        ],
+        [
+          "[[file:RuneStone.png|80x80px]] <br> [[Runestone]]",
+          "Upgrade a unit with {{IconLink|Incant}}: Gain {{IconLink|Armor|2}}.",
+          "[[Stygian Guard]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{IconLink|Incant}}: Gain {{IconLink|Armor|4}}."
+        ],
+        [
+          "[[file:ShieldStone.png|80x80px]] <br> [[Shieldstone]]",
+          "Upgrade a unit with {{IconLink|Damage Shield|3}}.",
+          "[[Umbra]]",
+          "Common",
+          "[[Merchant of Steel]]"
+        ],
+        [
+          "[[file:WickStone.png|80x80px]] <br> [[Wickstone]]",
+          "Upgrade a unit with {{Attack|+15}}, {{Health|+5}}, and {{IconLink|Burnout|1}}.",
+          "[[Melting Remnant]]",
+          "Common",
+          "[[Merchant of Steel]]",
+          "Upgrade a unit with {{Attack|+30}}, {{Health|+10}}, and {{IconLink|Burnout|1}}."
+        ],
+        [
+          "[[file:EchoStone.png|80x80px]] <br> [[Echostone]]",
+          "Upgrade a unit with {{Attack|+5}} per {{Icon|Echo}}.",
+          "[[Wurmkin]]",
+          "Common",
+          "[[Merchant of Steel]]"
+        ],
+        [
+          "[[file:DiscardedWings.png|80x80px]] <br> [[Discarded Wings]]",
+          "Upgrade a unit with {{AttackHealth|+5|+10}}. '''Ability''': [[Flight]].",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Clipped Wings]])",
+          "N/A"
+        ],
+        [
+          "[[file:ArchusWings.png|80x80px]] <br> [[Archus' Wings]]",
+          "Upgrade a unit with {{AttackHealth|+8|+15}}. '''Ability''': [[Flight]].",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Clipped Wings]])",
+          "N/A"
+        ],
+        [
+          "[[file:WingsOfLight.png|80x80px]] <br> [[Wings of Light]]",
+          "{{IconLink|Titanite}}. Upgrade a unit with {{AttackHealth|+10|+20}}. '''Ability''': Flying Strike.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Clipped Wings]])",
+          "N/A"
+        ],
+        [
+          "[[file:RedCrown.png|80x80px]] <br> [[Red Crown]]",
+          "{{IconLink|Endless}}. {{IconLink|Summon}}: Equip a random [[equipment]].",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Cult of the Lamb]])",
+          "N/A"
+        ],
+        [
+          "[[file:DominatingPower.png|80x80px]] <br> [[Dominating Power]]",
+          "+10[[file:Attack.png|15x15px]]. {{IconLink|Strike}}: Apply {{IconLink|Corruption|20}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Fountain of Dominion]])",
+          "N/A"
+        ],
+        [
+          "[[file:DominatingAuthority.png|80x80px]] <br> [[Dominating Authority]]",
+          "{{IconLink|Summon}}: Spawn a random friendly unit from your deck.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Fountain of Dominion]])",
+          "N/A"
+        ],
+        [
+          "[[file:DominatingControl.png|80x80px]] <br> [[Dominating Control]]",
+          "{{IconLink|Strike}}: Apply {{IconLink|Melee Weakness|1}} and {{IconLink|Spell Weakness|1}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Fountain of Dominion]])",
+          "N/A"
+        ],
+        [
+          "[[file:WorthySacrifice.png|80x80px]] <br> [[Worthy Sacrifice]]",
+          "'''Ability''': Worthy Sacrifice.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Inscryption]])",
+          "N/A"
+        ],
+        [
+          "[[file:ManyLives.png|80x80px]] <br> [[Many Lives]]",
+          "{{IconLink|Reanimate|3}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Inscryption]])",
+          "N/A"
+        ],
+        [
+          "[[file:Fecundity.png|80x80px]] <br> [[Fecundity]]",
+          "{{IconLink|Summon}}: Add a copy of this unit to your hand without '''Fecundity'''. It costs {{Ember|+1}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Inscryption]])",
+          "N/A"
+        ],
+        [
+          "[[file:Benevolence.png|80x80px]] <br> [[Benevolence]]",
+          "'''Ability''': Benevolence.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Path of the Angel]])",
+          "N/A"
+        ],
+        [
+          "[[file:Courage.png|80x80px]] <br> [[Courage]]",
+          "'''Ability''': Courage.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Path of the Angel]])",
+          "N/A"
+        ],
+        [
+          "[[File:Wrath.png|80x80px]] <br> [[Wrath]]",
+          "'''Ability''': Wrath.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Path of the Angel]])",
+          "N/A"
+        ],
+        [
+          "[[file:FrailtyPenance.png|80x80px]] <br> [[Frailty Penance]]",
+          "{{IconLink|Fragile}}. {{IconLink|Celebrate}}: Permanently gain {{Attack|+10}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Penitent's Suit]])",
+          "N/A"
+        ],
+        [
+          "[[file:AsceticPenance.png|80x80px]] <br> [[Ascetic Penance]]",
+          "{{IconLink|Emberdrain|2}}. {{IconLink|Summon}}: {{Ember|3}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Penitent's Suit]])",
+          "N/A"
+        ],
+        [
+          "[[file:FrailtyAbsolution.png|80x80px]] <br> [[Frailty Absolution]]",
+          "{{IconLink|Celebrate}}: Permanently gain {{Attack|+10}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Penitent's Suit]])",
+          "N/A"
+        ],
+        [
+          "[[file:AsceticAbsolution.png|80x80px]] <br> [[Ascetic Absolution]]",
+          "{{IconLink|Summon}}: Gain {{Ember|3}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Penitent's Suit]])",
+          "N/A"
+        ],
+        [
+          "[[file:SavageSkin.png|80x80px]] <br> [[Savage Skin]]",
+          "{{IconLink|Titanskin|5}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Savagery's Statue]])",
+          "N/A"
+        ],
+        [
+          "[[file:SavageHeart.png|80x80px]] <br> [[Savage Heart]]",
+          "{{IconLink|Rage|5}}. {{IconLink|Revenge}}: Permanently gain {{IconLink|Rage|1}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Savagery's Statue]])",
+          "N/A"
+        ],
+        [
+          "[[file:SavageSpirit.png|80x80px]] <br> [[Savage Spirit]]",
+          "{{Health|+40}}. Gain {{Attack|+2}} for every missing {{Health|1}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Savagery's Statue]])",
+          "N/A"
+        ],
+        [
+          "[[file:PurifiedEssence.png|80x80px]] <br> [[Purified Essence]]",
+          "Erase card text and empty upgrade slots, apply {{Attack|+50}} and {{Health|+50}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Beacon]])",
+          "N/A"
+        ]
+      ],
+      [
+        [
+          "+ Spell Upgrades"
+        ],
+        [
+          "Upgrade",
+          "Description",
+          "Clan",
+          "Rarity",
+          "Source",
+          "+ (Soul Savior)"
+        ],
+        [
+          "[[file:PowerStone.png|80x80px]] <br> [[Powerstone]]",
+          "Upgrade a spell with '''+10 [[Magic Power]]'''.",
+          "[[Clanless]]",
+          "Common",
+          "[[Merchant of Magic]]",
+          "Upgrade a spell with '''+20 Magic Power'''."
+        ],
+        [
+          "[[file:SurgeStone.png|80x80px]] <br> [[Surgestone]]",
+          "Upgrade a spell with '''+20 Magic Power''' and gain '''[[Consume]]'''.",
+          "[[Clanless]]",
+          "Common",
+          "[[Merchant of Magic]]",
+          "Upgrade a spell with '''+40 Magic Power''' and gain '''Consume'''."
+        ],
+        [
+          "[[file:EmberStone.png|80x80px]] <br> [[Emberstone]]",
+          "Upgrade a spell to cost {{Ember|-1}}.",
+          "[[Clanless]]",
+          "Common",
+          "[[Merchant of Magic]]",
+          "Upgrade a spell to cost {{Ember|-2}}."
+        ],
+        [
+          "[[file:SmolderStone.png|80x80px]] <br> [[Smolderstone]]",
+          "Upgrade a spell to cost {{Ember|-2}} and gain '''Consume'''.",
+          "[[Clanless]]",
+          "Common",
+          "[[Merchant of Magic]]",
+          "Upgrade a spell to cost {{Ember|-4}} and gain '''Consume'''."
+        ],
+        [
+          "[[file:EternalStone.png|80x80px]] <br> [[Eternalstone]]",
+          "Upgrade a spell to permanently remove '''Consume'''.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Magic]]",
+          "N/A"
+        ],
+        [
+          "[[file:FreezeStone.png|80x80px]] <br> [[Freezestone]]",
+          "Upgrade a spell to cost {{Ember|-1}} and gain '''Permafrost'''.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Magic]]",
+          "Upgrade a spell to cost {{Ember|-2}} and gain '''Permafrost'''."
+        ],
+        [
+          "[[file:HolyStone.png|80x80px]] <br> [[Holystone]]",
+          "Heal your Pyre equal to the spell's base {{Ember}} cost.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Magic]]",
+          "N/A"
+        ],
+        [
+          "[[file:SeekStone.png|80x80px]] <br> [[Seekstone]]",
+          "Upgrade a spell to cost {{Ember|-1}} and gain '''Intrinsic'''.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Magic]]",
+          "Upgrade a spell to cost {{Ember|-2}} and gain '''Intrinsic'''."
+        ],
+        [
+          "[[file:KeepStone.png|80x80px]] <br> [[Keepstone]]",
+          "Upgrade a spell to gain '''Holdover'''",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Magic]]",
+          "N/A"
+        ],
+        [
+          "[[file:StackStone.png|80x80px]] <br> [[Stackstone]]",
+          "Upgrade a spell to gain '''Doublestack'''.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Magic]]",
+          "N/A"
+        ],
+        [
+          "[[file:TwinStone.png|80x80px]] <br> [[Twinstone]]",
+          "Upgrade a spell to gain '''Spellchain'''.",
+          "[[Clanless]]",
+          "Rare",
+          "[[Merchant of Magic]]",
+          "N/A"
+        ],
+        [
+          "[[file:EntropicStone.png|80x80px]] <br> [[Entropic Stone]]",
+          "Upgrade a spell to gain '''Triplestack'''.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Entropy's Crystals]])",
+          "N/A"
+        ],
+        [
+          "[[file:EntropicGrowth.png|80x80px]] <br> [[Entropic Growth]]",
+          "'''Permafrost'''. '''[[Reserve]]''': Permanently gain '''+5 Magic Power'''.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Entropy's Crystals]])",
+          "N/A"
+        ],
+        [
+          "[[file:EntropicEnergy.png|80x80px]] <br> [[Entropic Energy]]",
+          "Upgrade a spell to cost {{Ember|-4}}.",
+          "[[Clanless]]",
+          "Event",
+          "[[Celestial Alcove]] ([[Entropy's Crystals]])",
+          "N/A"
+        ]
+      ]
+    ],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{Unfinished|Add Purified Essence description, Soul Savior Upgrades missing}}",
+    "source_page": "Upgrades"
+  },
+  {
+    "type": "unknown",
+    "title": "List of cards",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{BanishedCardNav}}\n{{PyreborneCardNav}}\n{{LunaCovenCardNav}}\n{{underlegionCardNav}}\n{{LazarusLeagueCardNav}}\n{{HellhornedCardNav}}\n{{AwokenCardNav}}\n{{StygianGuardCardNav}}\n{{UmbraCardNav}}\n{{MeltingRemnantCardNav}}\n{{ClanlessCardNav}}",
+    "source_page": "List of cards"
+  }
+]

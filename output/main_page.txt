@@ -1,0 +1,26 @@
+{{怪物火车2-主页面
+|unit_count=177
+|unit_clans=Awoken、Banished、Clanless、Hellhorned、Lazarus League、Luna Coven、Melting Remnant、Pyreborn、Pyreborne、Stygian Guard、Umbra、Underlegion、[[Banished]]、[[Clanless]]、[[Lazarus League]]、[[Luna Coven]]、[[Melting Remnant]]、[[Pyreborne]]
+|spell_count=239
+|spell_clans=Awoken、Banished、Clanless、Hellhorned、Lazarus League、Luna Coven、Melting Remnant、Pyreborne、Stygian Guard、Umbra、Underlegion、[[Awoken]]、[[Banished]]、[[Hellhorned]]、[[Luna Coven]]、[[Melting Remnant]]、[[Pyreborne]]、[[Stygian Guard]]、[[Umbra]]、[[Underlegion]]
+|equip_count=39
+|equip_clans=Awoken、Banished、Clanless、Hellhorned、Lazarus League、Luna Coven、Melting Remnant、Pyreborne、Stygian Guard、Underlegion、[[Banished]]、[[Clanless]]、[[Luna Coven]]
+|room_count=21
+|room_clans=Awoken、Banished、Clanless、Hellhorned、Lazarus League、Pyreborne、Stygian Guard、Umbra、[[Clanless]]、[[Melting Remnant]]
+|enemy_count=56
+|enemy_rings=Rings 1-8
+|clans=Awoken
+|clans=Banished
+|clans=Hellhorned
+|clans=Lazarus League
+|clans=Luna Coven
+|clans=Melting Remnant
+|clans=Pyreborne
+|clans=Railforged
+|clans=Stygian Guard
+|clans=Umbra
+|clans=Underlegion
+|clans=Wurmkin
+|clans=Clanless
+|last_updated=2026-06-22
+}}

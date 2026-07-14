@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\.a1b8969e9834d2a062195d14d8ca62fcb8bdffe9-audit.json",
+    "files": [
+        {
+            "date": 1782541599487,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-06-27.log",
+            "hash": "e27ed0f4c603c2b95cde2afd86a7242bf24bbb68eaa135658e9d5c1aed79169e"
+        },
+        {
+            "date": 1782579551869,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-06-28.log",
+            "hash": "41e35215a81ce6a6aa6e84b1ab6a08c312401a5070ddce4ddb79539134386b7b"
+        },
+        {
+            "date": 1782707180098,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-06-29.log",
+            "hash": "7464758db7b872ea0edbd55c46bc6703bf93739f0befdd0493efb8c5e9b15c6c"
+        },
+        {
+            "date": 1782966849420,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-07-02.log",
+            "hash": "8902c49e74594a5d645225a185ad5c4244e54714aa9d0e9e0a7bb5961dc5cb54"
+        },
+        {
+            "date": 1783010614865,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-07-03.log",
+            "hash": "5d688e63e05fe0647bb768bc946afd44c72eb78461964fcee0da856791ef8955"
+        },
+        {
+            "date": 1783094655902,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-07-04.log",
+            "hash": "f7b8481c3410a21594feedf4c7916bd17a89fbef85d9caf40f81e0738882e8c0"
+        },
+        {
+            "date": 1783223123170,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-07-05.log",
+            "hash": "605ed57edd412f331d0c580f35f2747df8579cab56fa9c0848efc467721f680e"
+        },
+        {
+            "date": 1783405550506,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-07-07.log",
+            "hash": "8915265f54c51a0ea3ce67df83caaf33b78ee7db99e12516f339c9546127f5d3"
+        },
+        {
+            "date": 1783492554821,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-07-08.log",
+            "hash": "ddaeaa239281880032d7a02d201e51667b88a431b0895ae31d1435a0f8be88bd"
+        },
+        {
+            "date": 1783704409466,
+            "name": "d:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-07-11.log",
+            "hash": "be99d5488744b030eb6dbef6938064089429d237688af7881f6a1a5a68266c9f"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,320 @@
+[
+  {
+    "title": "Abyssal Prism",
+    "image": "https://static.wikitide.net/monstertrain2wiki/0/08/BSG_AbyssalPrism.png",
+    "fields": {
+      "clan": {
+        "label": "Clan",
+        "value": "Clanless"
+      },
+      "effect": {
+        "label": "Effect",
+        "value": "The first time each turn you target a friendly unit with a spell, non-move effects also hit all other friendly units on the floor."
+      },
+      "flavor": {
+        "label": "Flavor Text",
+        "value": "When I look into the Pyre, I see the monster I have become. Perhaps, if I was to remove my Titanhood from my body, this nightmare might end."
+      }
+    },
+    "stats": null,
+    "tables": [
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "1.3",
+          "Added Abyssal Prism ."
+        ],
+        [
+          "2.0",
+          "Fixed Abyssal Prism incorrectly applying attack from each teammate instead of just the front unit when Cleave is cast. Fixed Abyssal Prism incorrectly scaling X Cost effects on friendly units. Fixed Abyssal Prism targeting units with Stasis ."
+        ],
+        [
+          "2.2",
+          "Fixed an issue where Abyssal Prism + Weaponized Prosthetic did not apply the attack bonus to the non-primary target if other units on the same floor also had equipment removed. Changed Abyssal Prism to only work with cards that directly target a unit. Fixed Magnetic Relay when recast by Abyssal Prism incorrectly returning Champion units to the player's hand."
+        ]
+      ],
+      [
+        [
+          "Clanless Artifacts"
+        ],
+        [
+          "Celestial Alcove"
+        ],
+        [
+          "Boss Artifacts"
+        ]
+      ]
+    ],
+    "meta": {
+      "categories": [
+        "Area of effect artifacts",
+        "Clanless artifacts"
+      ],
+      "og_image": "https://static.wikitide.net/monstertrain2wiki/0/08/BSG_AbyssalPrism.png",
+      "revision_id": 20496
+    },
+    "type": "artifact",
+    "summary": "Abyssal Prism is a Clanless Artifact . It causes the first spell you play each turn targeting a friendly unit to affect all friendly units on the floor, barring movement effects.",
+    "source_file": "Abyssal Prism - Monster Train 2.html"
+  },
+  {
+    "title": "Death's Dancer",
+    "image": "https://static.wikitide.net/monstertrain2wiki/0/02/PLR_DeathsDancer.png",
+    "fields": {
+      "clan": {
+        "label": "Clan",
+        "value": "Banished"
+      },
+      "rarity": {
+        "label": "Rarity",
+        "value": "Rare"
+      },
+      "type": {
+        "label": "Type",
+        "value": "Angel"
+      },
+      "banner": {
+        "label": "Banner unit?",
+        "value": "Yes"
+      },
+      "cost": {
+        "label": "Cost",
+        "value": "1"
+      },
+      "size": {
+        "label": "Size",
+        "value": "2"
+      },
+      "stats": {
+        "label": "Stats",
+        "value": "7 / 14"
+      },
+      "ability": {
+        "label": "Abilities",
+        "value": "Shift : Apply +4 to friendly units."
+      },
+      "flavor": {
+        "label": "Flavor Text",
+        "value": "\"Dance is a poem in which each kill is a step.\""
+      },
+      "artist": {
+        "label": "Artist",
+        "value": "Loy Bouttamy"
+      }
+    },
+    "stats": {
+      "stats": {
+        "attack": 7,
+        "health": 14
+      }
+    },
+    "tables": [
+      [
+        [
+          "Upgrade",
+          "Description"
+        ],
+        [
+          "Frenzystone Speedstone",
+          "Frenzystone grants Multistrike , which can allow Death's Dancer to become your primary damage dealer when duplicated sufficiently. With three Death's Dancers with Frenzystone , each Shift trigger will add 72 to the floor in total, and this increases the more copies you can fit. If this seems likely to be your strategy, Speedstone makes up for the unit's low , but it should not be a priority otherwise."
+        ],
+        [
+          "Smidgestone",
+          "Smidgestone reduces the unit's size, making it easier to fit many copies on the floor in the absence of Ascend and Descend effects."
+        ],
+        [
+          "Heartstone",
+          "Heartstone makes Death's Dancer less fragile."
+        ],
+        [
+          "Discarded Wings",
+          "Discarded Wings grants the Flight ability along with a small stat boost, which is highly useful for Death's Dancer . Archus' Wing is identical, but provides slightly more stats; those extra stats are usually not worth the risk of losing the wings entirely, however. Wings of Light is usually a downgrade, mostly because the Flying Strike ability has Cooldown 4 instead of Cooldown 2 ."
+        ]
+      ],
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "Demo",
+          "Added Death's Dancer."
+        ]
+      ],
+      [
+        [
+          "Banished Cards"
+        ],
+        [
+          "Starters",
+          "Just Cause · Inspire"
+        ],
+        [
+          "Units",
+          "Common",
+          "Upbeat Warbler"
+        ],
+        [
+          "Uncommon",
+          "Lead Songbird · Punk Shredder Avenger · Battle Dancer · Demonic Fledgling · Firebrand · Steadfast Crusader · Swordmaiden"
+        ],
+        [
+          "Rare",
+          "Deathmetal Hymnist Death's Dancer · Divine Dancer · Hostguard"
+        ],
+        [
+          "Spells",
+          "Common",
+          "Challenge · Cleave · Divinity · Rising Rage · Selfless Sacrifice"
+        ],
+        [
+          "Uncommon",
+          "Begone · Benediction · Deadly Plunge · Demonize · Heroic Dive · Liquid Courage"
+        ],
+        [
+          "Rare",
+          "Eagleheart · Heavensward · Sanctuary · Spike of the Banished · Tome of the Lost Path · Wyngh's Radiance"
+        ],
+        [
+          "Equipment",
+          "Penitent's Bloodsuit · Windblade · Everlasting Light · Penitent's Deathsuit · Shield of Wyngh · Cursed Twinblade"
+        ],
+        [
+          "Rooms",
+          "Imprisoned Zephyr · Bloodsoaked Arena"
+        ]
+      ]
+    ],
+    "meta": {
+      "categories": [
+        "1-cost cards",
+        "2-capacity units",
+        "Angel units",
+        "Area of effect cards",
+        "Attack cards",
+        "Banished units",
+        "Banner units",
+        "Rare Banished cards",
+        "Shift cards"
+      ],
+      "og_image": "https://static.wikitide.net/monstertrain2wiki/0/02/PLR_DeathsDancer.png",
+      "revision_id": 20484
+    },
+    "type": "unit",
+    "summary": "The Death's Dancer is a rare Banished banner unit . It grants +4 to friendly units on Shift .",
+    "source_file": "Death's Dancer - Monster Train 2.html"
+  },
+  {
+    "title": "Savage Spearman",
+    "image": "https://static.wikitide.net/monstertrain2wiki/2/2e/ENM_SavageSpearman.png",
+    "fields": {
+      "stats": {
+        "stats0": {
+          "label": "Baseline",
+          "value": "5 / 2"
+        },
+        "stats8": {
+          "label": "Covenant 8",
+          "value": "6 / 2"
+        }
+      },
+      "abilties": {
+        "ability0": {
+          "label": "",
+          "value": "None"
+        }
+      },
+      "combats": {
+        "ring2": {
+          "label": "Ring 2",
+          "value": "Flagellant's March Knights of Entropy March of the Supplicants Quicksilver Cherubs"
+        },
+        "ring3": {
+          "label": "Ring 3",
+          "value": "Furious Frenzy Hard Headed Pyre Hunter Corrupted Mass Spiked Mass"
+        }
+      },
+      "background": {
+        "flavor": {
+          "label": "Flavor Text",
+          "value": "The guards of The Aviary spent centuries to earn their blade, now it will be with them for eternity.\""
+        },
+        "titan": {
+          "label": "Blessed By",
+          "value": "Savagery"
+        },
+        "artist": {
+          "label": "Artist",
+          "value": "Genevieve Bega"
+        }
+      }
+    },
+    "stats": {
+      "baseline": {
+        "attack": 5,
+        "health": 2
+      },
+      "covenant_8": {
+        "attack": 6,
+        "health": 2
+      }
+    },
+    "tables": [
+      [
+        [
+          "Enemies"
+        ],
+        [
+          "Rings 1–3",
+          "Waves",
+          "Forsaken · Savage Spearman · Cowering Sycophant · Fallen Champion · Flagellant · Sloven Knight · Ominous Acolyte · Lurking Miscreant · Energizing Flautist"
+        ],
+        [
+          "Bosses",
+          "Yorael the First-Blessed · Astreal the Lost · Elebor the Wall · Legion · Arkion, Scion of Savagery · Fleshweaver ( Fleshling )"
+        ],
+        [
+          "Rings 4–6",
+          "Waves",
+          "Undying Wretch · Misshapen Fiend · Vicious Axethrower · Malevolent Hunter · Sharp-Eye Sniper · Adamant Shieldbearer · Fallen Executioner · Blightbound Guardian · Scarred Sentinel · Ravenous Zealot · Profane Supplicant · Disciple of Ruin · Harpist Protector"
+        ],
+        [
+          "Bosses",
+          "Qel the Corruptor · Korin the Judge · Ajax the Unyielding · Quoto the Absolute · The Undying One · Cael, Lord of the Cherubs ( Vampiric Cherub · Nourishing Cherub · Holy Cherub ) · Hallow · Stryx"
+        ],
+        [
+          "Rings 7–9",
+          "Waves",
+          "Purified Soul · Ragewing Assassin · Deformed Duo · Celestial Bastion · Avowed Gladiator · Terrifying Amalgam · Discordant Heretic · Enthralled Ardent · Deafening Herald"
+        ],
+        [
+          "Bosses",
+          "Athane, Last to Fall ( Chosen Prayerstone ) · Rax the Overblessed · Seraph Aeternus ( The Dominant · The Entropic · The Savage ) · Entropy · Dominion · Savagery"
+        ],
+        [
+          "Chosen Enemies",
+          "Flagellant · Acolyte · Sniper · Shieldbearer · Zealot · Supplicant · Assassin · Bastion · Ardent · Herald"
+        ],
+        [
+          "Other",
+          "Collector · Skull Collector · Penitent Prayerstone"
+        ]
+      ]
+    ],
+    "meta": {
+      "categories": [
+        "Ring 2 enemies",
+        "Ring 3 enemies",
+        "Attackers"
+      ],
+      "og_image": "https://static.wikitide.net/monstertrain2wiki/2/2e/ENM_SavageSpearman.png",
+      "revision_id": 20124
+    },
+    "type": "enemy",
+    "summary": "The Savage Spearman is an enemy in Monster Train 2. It is a basic backline enemy in Rings 2-3.",
+    "source_file": "Savage Spearman - Monster Train 2.html"
+  }
+]

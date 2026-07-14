@@ -1,0 +1,230 @@
+{{怪物火车2-房间
+|name=Awakening Thicket
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Awakening Thicket.png
+|clan=Awoken
+|cost=2
+|rarity=Uncommon
+|effect=Friendly units have '''+20''' max health and restore '''10''' health on {{IconLink&#124;Resolve}}.
+|flavor=A soul, once put to sleep by spores, is trapped by the vines of the Wildwood only to become Awoken. It's not a very pleasant event to witness, but there is a certain beauty in it all.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-房间
+|name=Bloodsoaked Arena
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BloodsoakedArena.png
+|clan=Banished
+|cost=1
+|rarity=Rare
+|effect=Friendly units gain {{IconLink&#124;Valor&#124;6}} on {{IconLink&#124;Slay}}.
+|flavor=The Crimson Arena claimed many disobedient angels, whether by combat or by fall. Those who proved their worth became useful champions, but always held under a tight leash.<br>—Tome of the Lost Path
+|artist=Luke Banke
+}}
+
+{{怪物火车2-房间
+|name=Boiler Room
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_BoilerRoom.png
+|clan=[[Clanless]]
+|cost=1
+|rarity=Uncommon
+|effect=Gain {{Ember&#124;1}} when a unit dies.
+|flavor=Herzal's original design was for the trains to be fueled only by the Pyre. Heph's updated design allows the train to be fueled by traditional methods as well, making the system more efficient overall.
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-房间
+|name=Crucible Extension
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Crucible_Extension_LA.png
+|clan=Umbra
+|cost=2
+|rarity=Uncommon
+|effect={{Capacity&#124;+4}}.
+|flavor=The number of Morsels within the Crucible seems to be endless, making the work they accomplish proceed near instantaneously. Should I need to do future work on the Boneshaker, I will remember to take this into account.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-房间
+|name=Echo Vault
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Echo Vault.png
+|clan=Clanless
+|cost=2
+|rarity=Rare
+|effect=At the end of the turn, the last spell played on this floor is played again.
+|flavor="Any good spell is one that repeats itself," she murmured. The Stone before her hand seemed to drain, no, absorb her magic. The wall trembled, just like a bowstring being pulled back.
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-房间
+|name=Electricity Chamber
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ElectricityChamber.png
+|clan=Lazarus League
+|cost=1
+|rarity=Rare
+|effect=Friendly units gain {{IconLink&#124;Spikes&#124;8}} on {{IconLink&#124;Summon}} and {{IconLink&#124;Reanimate}}.
+|flavor="When an assistant has fallen, take them to the chamber so that their bodies can be reawakened with a little zap."<br>—OHELL Safety Regulations and Guidelines
+|artist=Luke Banke
+}}
+
+{{怪物火车2-房间
+|name=Enchanted Chamber
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_EnchantedChamber.png
+|clan=Clanless
+|cost=1
+|rarity=Uncommon
+|effect='''+15 [[Magic Power]]'''.
+|flavor=Building the train was a true test of engineering. But not all solutions could be hammered away. Sometimes it's useful to know a thing or two about magic.
+|artist=Rithyra Bin
+}}
+
+{{怪物火车2-房间
+|name=Engine Upgrade
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Engine_Upgrade_LA.png
+|clan=Umbra
+|cost=0
+|rarity=Uncommon
+|effect={{Capacity&#124;-1}}.<br>{{Ember&#124;+1}} per turn.
+|flavor=A substantial upgrade to the furnaces in the Boneshaker will eventually be necessary to ensure more efficient energy output. These upgrades will require considerable room to function, though.
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-房间
+|name=Fight Club
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_FightClub.png
+|clan=Clanless
+|cost=1
+|rarity=Uncommon
+|effect=Grant friendly units {{Attack&#124;+15}}.
+|flavor=First rule: don't talk about it.
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-房间
+|name=Hall of Mirrors
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_HallOfMirrors.png
+|clan=Clanless
+|cost=2
+|rarity=Rare
+|effect={{Capacity&#124;-2}}. When you play a unit, create a copy of it.
+|flavor="This one took a bit of creative engineering. Anything you put in here, you get another one back. Neat trick, eh?"<br>—Heph
+|artist=Hannah Lim
+}}
+
+{{怪物火车2-房间
+|name=Hellfurnace
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Hellfurnace.png
+|clan=Pyreborne
+|cost=1
+|rarity=Rare
+|effect=When a unit gains '''Pyregel''', it gains '''+3''' stacks.
+|flavor=''"We're behind schedule! Pick it up, double-time!" Fenix's voice blared from the forge speaker. The dragonsmiths hammered away, determined to meet their quota.''
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-房间
+|name=Imprisoned Zephyr
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ImprisonedZephyr.png
+|clan=Banished
+|cost=0
+|rarity=Uncommon
+|effect=Friendly units '''[[Advance]]''' on {{IconLink&#124;Strike}}.
+|flavor="Before they were corrupted, many angels were sent to the dungeons of Heaven to test their loyalty to Seraph. Many did not survive."
+|artist=Luke Banke
+}}
+
+{{怪物火车2-房间
+|name=Inferno Room
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_InfernoRoom.png
+|clan=[[Clanless]]
+|cost=2
+|rarity=Rare
+|effect=Deal '''50''' damage to all units at the start of combat.
+|flavor=Let's just say that if you spray Pyregel everywhere, things tend to get a bit... 'fiery'.
+|artist=Leonardo Dionisi
+}}
+
+{{怪物火车2-房间
+|name=Memorial for the Melted
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Memorial_for_the_Melted.png
+|clan=[[Melting Remnant]]
+|cost=1
+|rarity=Uncommon
+|effect=Friendly units have {{IconLink&#124;Endless}}.
+|flavor=The Reformed, a group of Waxers dedicated to the melting of others, believe in respecting the already melted. The Reformed keep the wicks of each Waxer they've helped to melt, burning the wicks briefly to remind themselves of their own impermanence, but extinguishing the wicks quickly to remember that their purpose is not yet fulfilled.
+|artist=Anita Tung
+}}
+
+{{怪物火车2-房间
+|name=Rage Room
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Rage Room.png
+|clan=Hellhorned
+|cost=1
+|rarity=Rare
+|effect=Friendly units gain {{IconLink&#124;Rage&#124;2}} on {{IconLink&#124;Strike}} and {{IconLink&#124;Revenge}}.
+|flavor=On the rare night when the flames of Hell have dwindled to no more than smoldering embers, the Hellhorned tradition is to rekindle them by using their rage and destroying everything in sight.
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-房间
+|name=Reanimation Lab
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ReanimationLab.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|effect=Friendly units gain {{Attack&#124;+7}} and {{Health&#124;+7}} on {{IconLink&#124;Summon}} and {{IconLink&#124;Reanimate}}.
+|flavor=The deeper and most secretive part os Orechi's lab. Only a few of his most trusted assistants are allowed inside and seem happy for the privilege. His other employees pray they never go there.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-房间
+|name=Sacrificial Chamber
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SacrificialChamber.png
+|clan=Pyreborne
+|cost=1
+|rarity=Uncommon
+|effect=Gain {{Gold&#124;10}} when a unit dies.
+|flavor="If a dragon cannot pay their yearly tribute, they will pay their tithe with their life."<br>—The Rules of Fhyra, Rule #2
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-房间
+|name=Siren's Song
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Siren's_Song_LA.png
+|clan=Stygian Guard
+|cost=2
+|rarity=Rare
+|effect='''[[Pyrebound]].'''<br>At the start of combat, '''[[Ascend]]''' non-boss enemy units on this floor and apply {{IconLink&#124;Dazed&#124;3}}.
+|flavor=I've heard no song as beautiful or as deadly as that of the Sirens of the Stygian. Their luring voices can disarm even the most hardened of hearts.
+|artist=Adam Lee
+}}
+
+{{怪物火车2-房间
+|name=Spell Sanctum
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_SpellSanctum.png
+|clan=[[Clanless]]
+|cost=3
+|rarity=Rare
+|effect=Spells cost {{Ember&#124;-1}}.
+|flavor="Carved these runes myself. A bit of magic here, and some engineerin' there."<br>—Heph
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-房间
+|name=Weapons Cache
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Weapons Cache.png
+|clan=Clanless
+|cost=2
+|rarity=Uncommon
+|effect=When you summon a friendly unit, draw an [[Equipment]] and apply {{Ember&#124;-2}}.
+|flavor="Although I do not know who forged these weapons, I do know the Skull Crusher's armory always seemed to know when I needed them most."<br>—Tales of the Inferno
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-房间
+|name=Zone of Silence
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ZoneOfSilence.png
+|clan=Clanless
+|cost=3
+|rarity=Rare
+|effect=Grant {{IconLink&#124;Silence}} to non-boss enemy units.
+|flavor=A space made for silent meditation.
+|artist=Hannah Lim
+}}

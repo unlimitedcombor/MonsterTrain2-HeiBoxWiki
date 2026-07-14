@@ -1,0 +1,37 @@
+{{怪物火车2-神器
+|name=Abyssal Prism
+|image=https://static.wikitide.net/monstertrain2wiki/0/08/BSG_AbyssalPrism.png
+|clan=Clanless
+|effect=The first time each turn you target a friendly unit with a spell, non-move effects also hit all other friendly units on the floor.
+|flavor=When I look into the Pyre, I see the monster I have become. Perhaps, if I was to remove my Titanhood from my body, this nightmare might end.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Death's Dancer
+|image=https://static.wikitide.net/monstertrain2wiki/0/02/PLR_DeathsDancer.png
+|clan=Banished
+|rarity=Rare
+|type=Angel
+|banner=Yes
+|cost=1
+|size=2
+|ability=Shift : Apply +4 to friendly units.
+|flavor="Dance is a poem in which each kill is a step."
+|artist=Loy Bouttamy
+|attack=7
+|health=14
+}}
+
+{{怪物火车2-敌方单位
+|name=Savage Spearman
+|image=https://static.wikitide.net/monstertrain2wiki/2/2e/ENM_SavageSpearman.png
+|baseline_attack=5
+|baseline_health=2
+|covenant8_attack=6
+|covenant8_health=2
+|ring2=Flagellant's March Knights of Entropy March of the Supplicants Quicksilver Cherubs
+|ring3=Furious Frenzy Hard Headed Pyre Hunter Corrupted Mass Spiked Mass
+|flavor=The guards of The Aviary spent centuries to earn their blade, now it will be with them for eternity."
+|titan=Savagery
+|artist=Genevieve Bega
+}}

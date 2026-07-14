@@ -1,0 +1,39 @@
+{{Infobox
+|name = Death's Dancer
+|image = PLR_DeathsDancer.png
+|clan = Banished
+|rarity = Rare
+|type = Angel
+|banner unit? = Yes
+|cost = 1
+|size = 2
+|stats = 7 / 14
+|ability = Shift: Apply +4 attack to friendly units.
+|flavor = "Dance is a poem in which each kill is a step."
+|artist = Loy Bouttamy
+}}
+
+The '''Death's Dancer''' is a rare Banished banner unit.
+
+== Strategy ==
+Some strategy text.
+
+== Recommended Upgrades ==
+{| class="wikitable"
+! Upgrade !! Description
+|-
+| Frenzystone || Grants Multistrike
+|-
+| Heartstone || Makes Death's Dancer less fragile
+|}
+
+== History ==
+{| class="wikitable"
+! Version !! Changes
+|-
+| Demo || Added Death's Dancer.
+|}
+
+[[Category:1-cost cards]]
+[[Category:Banished units]]
+[[Category:Rare Banished cards]]

@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\.a1fa1b84694532b57c9ea19491f4e4138dfa48cb-audit.json",
+    "files": [
+        {
+            "date": 1782466266539,
+            "name": "D:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-06-26.log",
+            "hash": "1d619f4b1df98b0bc54fed7ffca7394a6654e3e8705b7a04949115eb58b153d7"
+        },
+        {
+            "date": 1782542352524,
+            "name": "D:\\文档\\GitHub\\HeyboxWiki-Template-master\\logs\\mcp-puppeteer-2026-06-27.log",
+            "hash": "e133d020013a05ce116d52a55fe67799a8f30ec9128ea3e165c0976120fe845f"
+        }
+    ],
+    "hashType": "sha256"
+}

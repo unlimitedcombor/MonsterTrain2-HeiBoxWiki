@@ -1,0 +1,827 @@
+<!-- 未知类型: Destiny of the Railforged -->
+
+<!-- 未知类型: Enemies (Soul Savior) -->
+
+<!-- 未知类型: Waves -->
+
+{{怪物火车2-敌方单位
+|name=Forsaken
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM Forsaken.png
+|baseline_attack=3
+|baseline_health=1
+|ring1=[[Trials#Mark_of_Invasion&#124;Mark of Invasion]] [[Limbo#Forsaken_Few&#124;Forsaken Few]]
+|ring2=[[Trials#Mark_of_Invasion&#124;Mark of Invasion]]
+|ring3=[[The Wingless Hive#More Mass&#124;More Mass]]
+|flavor=''One of the few not blessed by the Titans, these lost souls throw themselves into battle in hopes of finding favor.''
+|titan=None
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-敌方单位
+|name=Savage Spearman
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM SavageSpearman.png
+|baseline_attack=5
+|baseline_health=2
+|covenant8_attack=6
+|covenant8_health=2
+|ring2=[[Heaven's Gate#Flagellant's March&#124;Flagellant's March]]</br> [[Heaven's Gate#Knights of Entropy&#124;Knights of Entropy]]</br> [[Heaven's Gate#March of the Supplicants&#124;March of the Supplicants]]</br> [[Heaven's Gate#Quicksilver Cherubs&#124;Quicksilver Cherubs]]
+|ring3=[[The Wingless Hive#Furious Frenzy&#124;Furious Frenzy]]<br>[[The Wingless Hive#Hard Headed&#124;Hard Headed]]<br>[[The Wingless Hive#Pyre Hunter&#124;Pyre Hunter]]<br>[[The Wingless Hive#Corrupted Mass&#124;Corrupted Mass]]<br>[[The Wingless Hive#Spiked Mass&#124;Spiked Mass]]
+|flavor=''The guards of The Aviary spent centuries to earn their blade, now it will be with them for eternity."
+|titan=[[Savagery]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Cowering Sycophant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM CoweringSycophant.png
+|ring1=[[Limbo#Heavenly Toll&#124;Heavenly Toll]]
+|ring3=[[The Wingless Hive#Furious Frenzy&#124;Furious Frenzy]]</br> [[The Wingless Hive#Hard Headed&#124;Hard Headed]]</br> [[The Wingless Hive#Pyre Hunter&#124;Pyre Hunter]]</br> [[The Wingless Hive#Spiked Mass&#124;Spiked Mass]]
+|ability={{IconLink&#124;Spikes&#124;2}}.
+|flavor=''The Forsaken are occasionally put to use by their compatriots, but still rarely find favor.''
+|titan=None
+|artist=Lauren Russo
+}}
+
+{{怪物火车2-敌方单位
+|name=Fallen Champion
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM FallenChampion.png
+|baseline_attack=4
+|baseline_health=45
+|covenant8_attack=4
+|covenant8_health=65
+|ring1=[[Limbo#Dominion's Preservation&#124;Dominion's Preservation]]</br> [[Limbo#Forsaken Few&#124;Forsaken Few]]</br> [[Limbo#Heavenly Toll&#124;Heavenly Toll]]</br>
+|ring2=[[Heaven's Gate#March of the Supplicants&#124;March of the Supplicants]]</br> [[Heaven's Gate#Quicksilver Cherubs&#124;Quicksilver Cherubs]]
+|ring3=[[The Wingless Hive#Furious Frenzy&#124;Furious Frenzy]]<br>[[The Wingless Hive#Hard Headed&#124;Hard Headed]]<br>[[The Wingless Hive#Pyre Hunter&#124;Pyre Hunter]]<br>[[The Wingless Hive#Corrupted Mass&#124;Corrupted Mass]]<br>[[The Wingless Hive#More Mass&#124;More Mass]]
+|flavor=''Heavenly brutes whose purpose is to defend Heaven from demons below. They did not anticipate that their true intruders would come from above.''
+|titan=[[Savagery]]
+|artist=Michael Sanchez
+}}
+
+{{怪物火车2-敌方单位
+|name=Flagellant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM Flagellant.png
+|baseline_attack=3
+|baseline_health=90
+|covenant8_attack=3
+|covenant8_health=110
+|ring2=[[Heaven's Gate#Flagellant's March&#124;Flagellant's March]]
+|ring3=[[The Wingless Hive#Furious Frenzy&#124;Furious Frenzy]]<br>[[The Wingless Hive#Hard Headed&#124;Hard Headed]]<br>[[The Wingless Hive#Pyre Hunter&#124;Pyre Hunter]]<br>[[The Wingless Hive#Corrupted Mass&#124;Corrupted Mass]]<br>[[The Wingless Hive#Spiked Mass&#124;Spiked Mass]]
+|ability={{IconLink&#124;Resolve}}: {{Attack&#124;+4}} and take '''20''' damage.
+|flavor=''Dominion saw an opportunity in the Flagellants and granted them strength in their misery.''
+|titan=[[Dominion]]
+|artist=Herrick Ong
+}}
+
+{{怪物火车2-敌方单位
+|name=Sloven Knight
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM SlovenKnight.png
+|baseline_attack=2
+|baseline_health=50
+|covenant8_attack=2
+|covenant8_health=70
+|ring2=[[Heaven's Gate#Knights of Entropy&#124;Knights of Entropy]]
+|ring3=[[The Wingless Hive#More Mass&#124;More Mass]]
+|ability={{IconLink&#124;Vanguard}}: {{Attack&#124;+8}}.
+|flavor=''Though Entropy weighs them down, if their blow finds purchase it is often devastating.''
+|titan=[[Entropy]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Ominous Acolyte
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM OminousAcolyte.png
+|ring1=[[Limbo#Dominion's Preservation&#124;Dominion's Preservation]]
+|ring2=[[Heaven's Gate#Flagellant's March&#124;Flagellant's March]]</br>
+|ring3=[[The Wingless Hive#Furious Frenzy&#124;Furious Frenzy]]</br> [[The Wingless Hive#Hard Headed&#124;Hard Headed]]</br> [[The Wingless Hive#Pyre Hunter&#124;Pyre Hunter]]</br> [[The Wingless Hive#Corrupted Mass&#124;Corrupted Mass]]</br> [[The Wingless Hive#More Mass&#124;More Mass]]
+|ability=[[file:Rejuvenate.png&#124;15x15px]] '''Recover''': Restore {{Health&#124;15}} to enemy units after combat.
+|flavor=''To the Titans go the glory, and these worshippers keep their flock in line.''
+|titan=[[Dominion]]
+|artist=Katherine Bartlett
+}}
+
+{{怪物火车2-敌方单位
+|name=Lurking Miscreant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM LurkingMiscreant.png
+|baseline_attack=1
+|baseline_health=1
+|covenant8_attack=2
+|covenant8_health=1
+|ring1=[[Limbo#Heavenly Toll&#124;Heavenly Toll]]
+|ring2=[[Heaven's Gate#March of the Supplicants&#124;March of the Supplicants]]
+|ring3=Any combat titled '''The Fleshweaver'''
+|ability={{IconLink&#124;Resolve}}: Add a [[Chime of Despair]] card to the top of your draw pile.
+|flavor=''Though once they had a beautiful ring, their tone is now hollow and discordant. Perhaps only the corrupted can find beauty in it.''
+|titan=[[Dominion]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Energizing Flautist
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM EnergizingFlautist.png
+|baseline_health=1
+|ring2=[[Heaven's Gate#Quicksilver Cherubs&#124;Quicksilver Cherubs]]
+|ring6=[[High Heaven#Inevitability&#124;Inevitability]]
+|ability={{IconLink&#124;Haste}}. {{IconLink&#124;Enchant}}: Grant enemy units {{IconLink&#124;Haste}}.
+|flavor=''Cherubs aren't merely Heaven's workers, they're also keepers of the Celestial Chorus, ensuring divine music always fills the Heavens. Even under the Titan's corruption, their music's never wavered.''
+|titan=[[Dominion]]
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-敌方单位
+|name=Yorael the First-Blessed
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM YoraelTheFirstBlessed.png
+|baseline_attack=7
+|baseline_health=125
+|ring1=Any combat
+|ability={{IconLink&#124;Relentless}}. &#124; {{IconLink&#124;Rage&#124;3}}. {{IconLink&#124;Slay}}: Gain {{IconLink&#124;Rage&#124;1}}.
+|flavor=''Yorael was a mighty warrior and first champion to be blessed by Savagery. Future blessings would prove more successful.''
+|titan=[[Savagery]]
+|artist=Loy Bouttamy
+}}
+
+{{怪物火车2-敌方单位
+|name=Astreal the Lost
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM AstraelTheLost.png
+|baseline_attack=8
+|baseline_health=180
+|covenant8_attack=9
+|covenant8_health=380
+|ring1=Any combat
+|ability={{IconLink&#124;Relentless}}. {{IconLink&#124;Sap&#124;6}}. &#124; {{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Sap&#124;1}} and restore {{Health&#124;30}}.
+|flavor=''One of the Lost Souls, Astreal aimlessly wandered Heaven and Hell until Seraph took him in. But memories of Astreal's past still lingered in his soul, memories that Entropy could help him to forget...''
+|titan=[[Entropy]]
+|artist=Aaron Lovett
+}}
+
+{{怪物火车2-敌方单位
+|name=Elebor the Wall
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM EleborTheWall.png
+|baseline_attack=7
+|baseline_health=260
+|covenant8_attack=8
+|covenant8_health=460
+|ring2=Any combat
+|ability={{IconLink&#124;Relentless}}.</br>{{IconLink&#124;Action}}: Gain {{IconLink&#124;Armor&#124;5}}. &#124; {{IconLink&#124;Titanskin&#124;2}}.</br>{{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Damage Shield&#124;1}}.
+|flavor=''Elebor once mocked the Clipped, whose flight was forcefully taken from them. Now he too knows their pain.''
+|titan=[[Entropy]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Legion
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM Legion.png
+|baseline_attack=4
+|baseline_health=260
+|covenant8_attack=5
+|covenant8_health=460
+|ring2=Any combat
+|ability={{IconLink&#124;Relentless}}. {{IconLink&#124;Spikes&#124;3}}. &#124; {{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Spikes&#124;1}}.
+|flavor=''Dominion created something new from the willingness of the Forsaken to accept any power.''
+|titan=[[Dominion]]
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-敌方单位
+|name=Arkion, Scion of Savagery
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM ArkionScionOfSavagery.png
+|baseline_attack=7
+|baseline_health=425
+|covenant8_attack=7
+|covenant8_health=825
+|ring3=Any combat titled '''Arkion, Scion of Savagery'''
+|ability='''Furious Frenzy''':</br>{{IconLink&#124;Siphon}}: Gain {{IconLink&#124;Rage&#124;2}}.<hr> '''Hard Headed''':</br>{{IconLink&#124;Strike}}: Push the attacked unit to the back.<hr> '''Pyre Hunter''':</br>{{IconLink&#124;Multistrike&#124;1}}.</br>{{IconLink&#124;Resolve}}: If you have no units on the floor, deals 5 damage to the Pyre.</br>
+|flavor=''"You might call me 'chicken' but I've done what I had to survive. Why do you think I am one of the few Angels who still has his wings?"''
+|titan=[[Savagery]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Fleshweaver
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM Fleshweaver.png
+|baseline_attack=6
+|baseline_health=500
+|covenant8_attack=7
+|covenant8_health=700
+|ring3=Any combat titled '''The Fleshweaver'''
+|ability={{IconLink&#124;Mass&#124;5}}. {{IconLink&#124;Revenge}}: Create a Fleshling and lose {{IconLink&#124;Mass&#124;1}}.<hr> Corrupted Mass: -<hr> Spiked Mass: -<hr> More Mass: {{IconLink&#124;Mass&#124;3}}.
+|flavor=''Dominion's blessing is a relentless pull that does not end with death. When Heaven's soldiers fall, they become the raw material for the next warrior. Cutting away one part of this monster only reveals more bodies feeding on the Titan's power.''
+|titan=[[Dominion]]
+|artist=Loy Bouttamy
+}}
+
+<!-- 未知类型: Fleshling -->
+
+{{怪物火车2-敌方单位
+|name=Undying Wretch
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM UndyingWretch.png
+|baseline_attack=4
+|baseline_health=4
+|ring5=[[The Aviary#Undying Minions&#124;Undying Minions]]
+|ability={{IconLink&#124;Reanimate&#124;1}}.
+|flavor=''Dominion's blessing has for some meant renewed life, each worse than the last.''
+|titan=[[Dominion]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Misshapen Fiend
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM MisshapenFiend.png
+|baseline_attack=3
+|baseline_health=3
+|ring3=[[The_Wingless_Hive&#124;Corrupted Mass]]
+|ring4=[[Trials#Mark_of_Invasion&#124;Mark of Invasion]]</br> [[Celestial Forge#Hordes of Heaven&#124;Hordes of Heaven]]
+|ring5=[[Trials#Mark_of_Invasion&#124;Mark of Invasion]]
+|ring6=[[High Heaven#Nourishing Feed&#124;Nourishing Feed]]
+|ring8=[[Heaven's Maw#Chosen of Dominion&#124;Chosen of Dominion]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Extinguish}}: Apply {{IconLink&#124;Corruption&#124;3}} to your front unit.
+|flavor=''These disciples were one of the first to be corrupted, for they welcomed Dominion's blessings too readily. Now, they have paid the ample price.''
+|titan=[[Dominion]]
+|artist=Mikhael Cang
+}}
+
+{{怪物火车2-敌方单位
+|name=Vicious Axethrower
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM ViciousAxethrower.png
+|baseline_attack=6
+|baseline_health=3
+|covenant8_attack=8
+|covenant8_health=3
+|ring4=[[Celestial_Forge#Dire_Defenses&#124;Dire Defenses]]<br>[[Celestial_Forge#Savagery's_Hunters&#124;Savagery's Hunters]]
+|ring5=[[The Aviary#Corrupted Crusade&#124;Relentless Zealots]]
+|ring6=[[High Heaven#Vampiric Feed&#124;Vampiric Feed]]<br>[[High Heaven#Bloody Harvest&#124;Bloody Harvest]]<br>[[High Heaven#Inevitability&#124;Inevitability]]
+|flavor=''Heaven's army was well-accustomed to violence, even during the peaceful age of the first Covenant. Not with Demons, but with other Angels. It was their main way of enforcing Heaven's strict hierarchy.''
+|titan=[[Savagery]]
+|artist=Michael Sanchez
+}}
+
+{{怪物火车2-敌方单位
+|name=Malevolent Hunter
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM MalevolentHunter.png
+|baseline_attack=4
+|baseline_health=2
+|covenant8_attack=6
+|covenant8_health=2
+|ring4=[[Celestial Forge#Hordes of Heaven&#124;Hordes of Heaven]]
+|ring5=[[The Aviary#Unholy Alliances&#124;Unholy Alliances]]
+|ring6=[[High Heaven#Holy Feed&#124;Holy Feed]]<br>[[High Heaven#Bloody Harvest&#124;Bloody Harvest]]
+|ability={{IconLink&#124;Haste}}.
+|flavor=''Fast moving scouts, their connection to Savagery has made them only more deadly.''
+|titan=[[Savagery]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Sharp-Eye Sniper
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM SharpEyeSniper.png
+|baseline_attack=7
+|baseline_health=3
+|covenant8_attack=9
+|covenant8_health=3
+|ring4=[[Celestial Forge#Savagery's Hunters&#124;Savagery's Hunters]]
+|ring5=[[The Aviary#Corrupted Crusade&#124;Corrupted Crusade]]
+|ring6=[[High Heaven#Holy Feed&#124;Holy Feed]]<br>[[High Heaven#Doombringers&#124;Doombringers]]<br>[[High Heaven#Inevitability&#124;Inevitability]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Slay}}: Gain {{IconLink&#124;Rage&#124;3}}.
+|flavor=''Spiteful and always looking for the next kill to appear in their sight.''
+|titan=[[Dominion]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Adamant Shieldbearer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM AdamantShieldbearer.png
+|ring4=[[Celestial Forge#Penance Seekers&#124;Penance Seekers]]
+|ring5=[[The Aviary#Corrupted Crusade&#124;Corrupted Crusade]]</br> [[The Aviary#Relentless Zealots&#124;Relentless Zealots]]</br> [[The Aviary#Undying Minions&#124;Undying Minions]]
+|ring6=[[High Heaven#Doombringers&#124;Doombringers]]
+|ability={{IconLink&#124;Incant}}: Apply {{IconLink&#124;Sap&#124;2}} to your units.
+|flavor=''These disciples have guarded the palaces of Heaven for eons. They require no weapon, for their massive wall of a shield, along with Entropy's blessing, have made them an impenetrable bastion.''
+|titan=[[Entropy]]
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-敌方单位
+|name=Fallen Executioner
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM FallenExecutioner.png
+|baseline_attack=6
+|baseline_health=120
+|covenant8_attack=6
+|covenant8_health=180
+|ring4=[[Celestial Forge#Hordes of Heaven&#124;Hordes of Heaven]]</br> [[Celestial Forge#Penance Seekers&#124;Penance Seekers]]
+|ring5=[[The Aviary#Unholy Alliances&#124;Unholy Alliances]]
+|ring6=[[High Heaven#Holy Feed&#124;Holy Feed]]<br>[[High Heaven#Doombringers&#124;Doombringers]]
+|flavor=''Clipped wings were not the only form of punishment for disobedient angels.''
+|titan=[[Savagery]]
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-敌方单位
+|name=Blightbound Guardian
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM BlightboundGuardian.png
+|baseline_attack=3
+|baseline_health=70
+|covenant8_attack=3
+|covenant8_health=130
+|ring5=[[The Aviary#Corrupted Crusade&#124;Corrupted Crusade]]
+|ring6=[[High Heaven#Nourishing Feed&#124;Nourishing Feed]]
+|ring8=[[Heaven%27s_Maw#Chosen_of_Dominion&#124;Chosen of Dominion]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Strike}}: Apply {{IconLink&#124;Corruption&#124;3}}.
+|flavor=''Dominion's whisper is most susceptible to those with a yearning heart. Even the most silent and obedient angels have desires buried deep beneath their stoic gaze.''
+|titan=[[Dominion]]
+|artist=Katherine Bartlett
+}}
+
+{{怪物火车2-敌方单位
+|name=Scarred Sentinel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM ScarredSentinel.png
+|baseline_attack=6
+|baseline_health=80
+|covenant8_attack=6
+|covenant8_health=140
+|ring4=[[Celestial_Forge#Dire_Defenses&#124;Dire Defenses]]
+|ring6=[[High Heaven#Vampiric Feed&#124;Vampiric Feed]]<br>[[High Heaven#Inevitability&#124;Inevitability]]
+|ring8=[[Heaven's Maw#Harbinger of Entropy&#124;Harbinger of Entropy]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Titanskin&#124;5}}.
+|flavor=''These steadfast knights defend the upper reaches of Heaven. Forged through relentless trials, they bear their training scars with pride. No enemy's strike can match the pain they've already received.''
+|titan=[[Entropy]]
+|artist=Daniel Sarmiento Chuquisengo
+}}
+
+{{怪物火车2-敌方单位
+|name=Ravenous Zealot
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM RavenousZealot.png
+|baseline_attack=3
+|baseline_health=110
+|covenant8_attack=3
+|covenant8_health=170
+|ring4=[[Celestial Forge#Savagery's Hunters&#124;Savagery's Hunters]]
+|ring5=[[The Aviary#Relentless Zealots&#124;Relentless Zealots]]<br>[[The Aviary#Undying Minions&#124;Undying Minions]]
+|ring6=[[High Heaven#Vampiric Feed&#124;Vampiric Feed]]<br>[[High Heaven#Bloody Harvest&#124;Bloody Harvest]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Multistrike&#124;1}}.</br> {{IconLink&#124;Harvest}}: {{Attack&#124;+1}}.
+|flavor=''These angels that once used their bloodlust for power were the natural fit for Savagery's blessing.''
+|titan=[[Savagery]]
+|artist=Michael Sanchez
+}}
+
+{{怪物火车2-敌方单位
+|name=Profane Supplicant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM ProfaneSupplicant.png
+|baseline_attack=3
+|baseline_health=4
+|covenant8_attack=5
+|covenant8_health=4
+|ring4=[[Celestial Forge#Penance Seekers&#124;Penance Seekers]]
+|ring6=[[High Heaven#Nourishing Feed&#124;Nourishing Feed]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Resolve}}: Add a '''[[Discordant Toll]]''' card to the top of your draw pile.
+|flavor=''Heaven's bellringers, wielding a symbol of faith as their weapon, now toll their church bells as harbingers of Dominion.''
+|titan=[[Dominion]]
+|artist=Michaela Nienaber
+}}
+
+{{怪物火车2-敌方单位
+|name=Disciple of Ruin
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM DiscipleOfRuin.png
+|ring4=[[Celestial_Forge#Dire_Defenses&#124;Dire Defenses]]
+|ring6=[[High Heaven#Bloody Harvest&#124;Bloody Harvest]]
+|ability=[[file:Rejuvenate.png&#124;15x15px]] '''Recover''': Restore {{Health&#124;25}} to enemy units after combat.
+|flavor=''These worshippers deliver the blessings of Dominion directly to the masses, reviving their spirits and their limbs.''
+|titan=[[Dominion]]
+|artist=Ishmael E. Hoover
+}}
+
+{{怪物火车2-敌方单位
+|name=Harpist Protector
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM HarpistProtector.png
+|baseline_health=10
+|ring5=[[The Aviary#Unholy Alliances&#124;Unholy Alliances]]
+|ring6=[[High Heaven#Doombringers&#124;Doombringers]]
+|ring8=[[Heaven's Maw#Champion of Savagery&#124;Champion of Savagery]]
+|ability={{IconLink&#124;Enchant}}: Grant enemy units {{IconLink&#124;Titanskin&#124;5}}.
+|flavor=''The Celestial Chorus is an eternal melody, a celebration of the divine. Even demons of Hell cannot deny its beauty.''
+|titan=[[Dominion]]
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-敌方单位
+|name=Qel the Corruptor
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM QelTheCorruptor.png
+|baseline_attack=12
+|baseline_health=700
+|covenant8_attack=15
+|covenant8_health=1150
+|ring4=Any combat
+|ability={{IconLink&#124;Relentless}}.<br> {{IconLink&#124;Incant}}: Apply {{IconLink&#124;Corruption&#124;3}} to your units. &#124; {{IconLink&#124;Summon}}: Apply {{IconLink&#124;Corruption&#124;5}} to all your units.
+|flavor=''Qel rose among Heaven's disciples, but a disciple can only go so far. He accepted Dominion's blessing, dreaming of wings of his own. But, Dominion had other plans.''
+|titan=[[Dominion]]
+|artist=Ron Kee
+}}
+
+{{怪物火车2-敌方单位
+|name=Korin the Judge
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM KorinTheJudge.png
+|baseline_attack=8
+|baseline_health=600
+|covenant8_attack=11
+|covenant8_health=1050
+|ring4=Any combat
+|ability={{IconLink&#124;Relentless}}. {{IconLink&#124;Summon}}: '''[[Descend]]''' all friendly units to this floor and '''[[Retreat]]'''. &#124; {{IconLink&#124;Summon}}: Apply {{IconLink&#124;Multistrike&#124;1}} to all enemy units.
+|flavor=''Korin has seen ages of order and ages of chaos. For her, only her sense of justice has remained unwavering. Now even that has been perverted by the Titan's will.''
+|titan=[[Savagery]]
+|artist=Merilliza Chan
+}}
+
+{{怪物火车2-敌方单位
+|name=Ajax the Unyielding
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM AjaxTheUnyielding.png
+|baseline_attack=9
+|baseline_health=550
+|covenant8_attack=12
+|covenant8_health=1000
+|ring4=Any combat
+|ability={{IconLink&#124;Relentless}}. {{IconLink&#124;Action}}: Apply {{IconLink&#124;Sap&#124;3}} to your units. &#124; {{IconLink&#124;Strike}}: Apply {{IconLink&#124;Sap&#124;3}}.
+|flavor=''Ajax believed that the greatest sins were the ones that rippled through generations. This made him an easy target for Entropy, who has a similarly single minded view on the power of time.''
+|titan=[[Entropy]]
+|artist=Herrick Ong
+}}
+
+{{怪物火车2-敌方单位
+|name=Quoto the Absolute
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM QuotoTheAbsolute.png
+|baseline_attack=16
+|baseline_health=900
+|covenant8_attack=19
+|covenant8_health=1350
+|ring5=Any combat
+|ability={{IconLink&#124;Relentless}}.</br> {{IconLink&#124;Titanskin&#124;40}}.</br> {{IconLink&#124;Revenge}}: Lose {{IconLink&#124;Titanskin&#124;1}}. &#124; {{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Titanskin&#124;5}}.
+|flavor=''Quoto believed in the beauty of Heaven above all else. And now he believes in the beauty of something beyond it.''
+|titan=[[Entropy]]
+|artist=Ishmael E. Hoover
+}}
+
+{{怪物火车2-敌方单位
+|name=The Undying One
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM TheUndyingOne.png
+|baseline_attack=17
+|baseline_health=500
+|covenant8_attack=20
+|covenant8_health=950
+|ring5=Any combat
+|ability={{IconLink&#124;Relentless}}. {{IconLink&#124;Reanimate&#124;8}}. &#124; {{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Reanimate&#124;6}}.
+|flavor=''Dominion has cursed this angel with an undying life. With every resurrection, more with their mind fades, leaving only a hollow echo of what once was.''
+|titan=[[Dominion]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Cael, Lord of the Cherubs
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM CaelLordOfTheCherubs.png
+|baseline_attack=22
+|baseline_health=1800
+|covenant8_attack=22
+|covenant8_health=3100
+|ring6=Any combat titled '''Cael, Lord of the Cherubs'''
+|ability='''Holy Feed''':</br>{{IconLink&#124;Resolve}}: Grant {{IconLink&#124;Damage Shield&#124;1}} to the front non-boss enemy unit.<hr> '''Nourishing Feed''':</br>{{IconLink&#124;Resolve}}: Grant {{Health&#124;+35}} and {{IconLink&#124;Spikes&#124;4}} to the front non-boss enemy unit.<hr> '''Vampiric Feed''':</br>{{IconLink&#124;Resolve}}: Grant {{Attack&#124;+7}} and {{IconLink&#124;Lifesteal&#124;1}} to the front non-boss enemy unit.
+|flavor=''Cael, the eldest of Heaven's cherubs calls upon his kin with his illustrious horn. Now, it is Dominion that truly wields the horn.''
+|titan=[[Dominion]]
+|artist=Genevieve Bega
+}}
+
+<!-- 未知类型: Vampiric Cherub -->
+
+<!-- 未知类型: Nourishing Cherub -->
+
+<!-- 未知类型: Holy Cherub -->
+
+{{怪物火车2-敌方单位
+|name=Hallow
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM Hallow.png
+|baseline_attack=11
+|baseline_health=1250
+|covenant8_attack=14
+|covenant8_health=1700
+|ring6=Any combat titled '''Stryx & Hallow'''
+|ability={{IconLink&#124;Titanskin&#124;10}}. {{IconLink&#124;Extinguish}}: [[Stryx]] gains {{IconLink&#124;Titanskin&#124;10}}. {{IconLink&#124;Relentless}} begins next turn.<hr> Bloody Harvest: {{IconLink&#124;Siphon}}: [[Stryx]] gains {{Health&#124;+50}}.<hr> Doombringers: {{IconLink&#124;Incant}}: [[Stryx]] gains {{Health&#124;+30}}.<hr> Inevitability: {{IconLink&#124;Resolve}}: [[Stryx]] gains {{Health&#124;+60}}.
+|flavor=''Fire and stone, impulse and consideration—one twin embraced the Titan's corruption while the other resisted. In the end, [[Entropy]]'s touch claimed Hallow, drawn by his yearning for stability. He accepted. For although he feared the Titan's power, he feared losing his sister even more.''
+|titan=[[Entropy]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Stryx
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM Stryx.png
+|baseline_attack=13
+|baseline_health=1100
+|covenant8_attack=16
+|covenant8_health=1550
+|ring6=Any combat titled '''Stryx & Hallow'''
+|ability={{IconLink&#124;Multistrike&#124;1}}. {{IconLink&#124;Live to Fight&#124;png=LiveToFight}}. {{IconLink&#124;Extinguish}}: [[Hallow]] gains {{IconLink&#124;Multistrike&#124;1}}. {{IconLink&#124;Relentless}} begins next turn.<hr> Bloody Harvest: {{IconLink&#124;Revenge}}: Hallow gains {{Attack&#124;+1}}.<hr> Doombringers: {{IconLink&#124;Slay}}: Hallow gains {{Attack&#124;+3}}.<hr> Inevitability: {{IconLink&#124;Loop}}: Hallow gains {{Attack&#124;+8}}.
+|flavor=''Her mind might be consumed by the bloodthirsty delirium of [[Savagery]]'s corruption, but she has never forgotten her promise to protect her younger brother. Wherever Hallow flies, Stryx is always close by.''
+|titan=[[Savagery]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Purified Soul
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM PurifiedSoul.png
+|baseline_attack=12
+|baseline_health=1
+|ring7=[[Trials#Mark_of_Invasion&#124;Mark of Invasion]]</br> [[The Observatory#Purified Hordes&#124;Purified Hordes]]
+|ring8=[[Heaven's Maw#Harbinger of Entropy&#124;Harbinger of Entropy]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Spell Shield&#124;2}}.
+|flavor=''These souls have been burned and purified by the Light of Seraph. Unfortunately for them, their pure form has now been tainted by the Titans.''
+|titan=[[Entropy]]
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-敌方单位
+|name=Ragewing Assassin
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM RagewingAssassin.png
+|baseline_attack=5
+|baseline_health=5
+|covenant8_attack=7
+|covenant8_health=5
+|ring7=[[The Observatory#Savagery's Final Assault&#124;Savagery's Final Assault]]
+|ring8=[[Heaven's Maw#Champion of Savagery&#124;Champion of Savagery]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Sweep}}.
+|flavor=''Once one of Heaven's elite task force, Savagery has graced them with new powers and unleashed their urge to kill.''
+|titan=[[Savagery]]
+|artist=Ishmael E. Hoover
+}}
+
+{{怪物火车2-敌方单位
+|name=Deformed Duo
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM DeformedDuo.png
+|baseline_attack=7
+|baseline_health=10
+|covenant8_attack=9
+|covenant8_health=10
+|ring7=[[The Observatory#Dominion's Disdain&#124;Dominion's Disdain]]
+|ring8=[[Heaven's Maw#Chosen of Dominion&#124;Chosen of Dominion]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Reanimate&#124;2}}.<br>{{IconLink&#124;Strike}}: Apply {{IconLink&#124;Corruption&#124;6}}.
+|flavor=''A bond forged through combat has turned into a twisted codependency, their permanent bond fueling an onslaught of corruption.''
+|titan=[[Dominion]]
+|artist=Mikhail Cang
+}}
+
+{{怪物火车2-敌方单位
+|name=Celestial Bastion
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM CelestialBastion.png
+|ring7=[[The Observatory#Dominion's Disdain&#124;Dominion's Disdain]]
+|ring8=[[Heaven's Maw#Harbinger of Entropy&#124;Harbinger of Entropy]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Titanskin&#124;10}}.
+|flavor=''It is somewhat poetic, in a way, that the very unwavering faith these soldiers had in Heaven was taken and transformed into a gruesome shell, forever encapsulating their bodies.''
+|titan=[[Entropy]]
+|artist=Rithyra Bin
+}}
+
+{{怪物火车2-敌方单位
+|name=Avowed Gladiator
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM AvowedGladiator.png
+|baseline_attack=8
+|baseline_health=325
+|covenant8_attack=9
+|covenant8_health=500
+|ring7=[[The Observatory#Dominion's Disdain&#124;Dominion's Disdain]]</br> [[The Observatory#Purified Hordes&#124;Purified Hordes]]</br> [[The Observatory#Savagery's Final Assault&#124;Savagery's Final Assault]]
+|ring8=[[Heaven's Maw#Champion of Savagery&#124;Champion of Savagery]]</br> [[Heaven's Maw#Chosen of Dominion&#124;Chosen of Dominion]]</br> [[Heaven's Maw#Harbinger of Entropy&#124;Harbinger of Entropy]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|flavor=''Angels facing serious punishment were given one way to avoid banishment or execution: trial by combat. These Gladiators fought brutally to earn their place back in Heaven, but under a tight leash.''
+|titan=[[Savagery]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Terrifying Amalgam
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM TerrifyingAmalgam.png
+|baseline_attack=5
+|baseline_health=250
+|covenant8_attack=6
+|covenant8_health=425
+|ring7=[[The Observatory#Savagery's Final Assault&#124;Savagery's Final Assault]]
+|ring8=[[Heaven's Maw#Champion of Savagery&#124;Champion of Savagery]]
+|ability={{IconLink&#124;Resolve}}: If you have no units on the floor, deals '''5''' damage to the Pyre.
+|flavor=''Wyngh made their fair share of winged heavenly creatures, not just angels. Even before the Titans came, these riders were inseparable from their mounts. Savagery merely made their bonds permanent.''
+|titan=[[Savagery]]
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-敌方单位
+|name=Discordant Heretic
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM DiscordantHeretic.png
+|baseline_attack=4
+|baseline_health=20
+|covenant8_attack=6
+|covenant8_health=20
+|ring7=[[The Observatory#Dominion's Disdain&#124;Dominion's Disdain]]
+|ring8=[[Heaven's Maw#Chosen of Dominion&#124;Chosen of Dominion]]
+|ability={{IconLink&#124;Resolve}}: Add a '''[[Resonant Ruin]]''' card to the top of your draw pile.
+|flavor=''Fervent worshippers of Dominion can deliver devastating curses to their foes, bringing them to their knees without delivering a single blow.''
+|titan=[[Dominion]]
+|artist=Michaela Nienaber
+}}
+
+{{怪物火车2-敌方单位
+|name=Enthralled Ardent
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM EnthralledArdent.png
+|ring7=[[The Observatory#Purified Hordes&#124;Purified Hordes]]
+|ring8=[[Heaven's Maw#Harbinger of Entropy&#124;Harbinger of Entropy]]
+|ring9=[[The_Great_Abyss#Clash_with_the_Titans&#124;Clash with the Titans]]
+|ability=[[file:Rejuvenate.png&#124;15x15px]] '''Recover''': Restore {{Health&#124;40}} to enemy units after combat.<br> {{IconLink&#124;Incant}}: Grant non-boss enemy units {{Attack&#124;5}}.
+|flavor=''The highest rank of Heaven's disciples, these ardents once helped steward Seraph's Light. They now wield it against us.''
+|titan=[[Dominion]]
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-敌方单位
+|name=Deafening Herald
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM DeafeningHerald.png
+|baseline_health=8
+|covenant8_attack=1
+|covenant8_health=8
+|ring7=[[The Observatory#Purified Hordes&#124;Purified Hordes]]
+|ring8=[[Heaven's Maw#Harbinger of Entropy&#124;Harbinger of Entropy]]
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Enchant}}: Grant your units {{IconLink&#124;Silence}}.
+|flavor=''The Celestial Chorus can captivate even the fiercest foes. Those who hear its notes find themselves silenced, unable to resist listening to its deft notes.''
+|titan=[[Dominion]]
+|artist=Samuel Lim
+}}
+
+{{怪物火车2-敌方单位
+|name=Athane, Last to Fall
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM AthaneLastToFall.png
+|baseline_attack=12
+|baseline_health=1100
+|covenant8_attack=17
+|covenant8_health=2125
+|ring7=Any combat
+|ability={{IconLink&#124;Relentless}}.</br> {{IconLink&#124;Incant}}: Apply {{IconLink&#124;Spikes&#124;1}} to enemy units.</br> {{Icon&#124;Summon}} '''[[Ascension]]''': Spawn a '''[[Chosen Prayerstone]]'''.
+|flavor=''The last of Heaven's champions to fall in battle. Athane was stoic and unyielding, prime qualities for Entropy. She was also Seraph's right hand, as a more obedient and powerful counterpart to Fel.''
+|titan=[[Entropy]]
+|artist=Taylor Bray
+}}
+
+<!-- 未知类型: Chosen Prayerstone -->
+
+{{怪物火车2-敌方单位
+|name=Rax the Overblessed
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM RaxTheOverblessed.png
+|baseline_attack=9
+|baseline_health=1100
+|covenant8_attack=14
+|covenant8_health=2125
+|ring7=Any combat
+|ability={{IconLink&#124;Multistrike&#124;1}}.</br> {{IconLink&#124;Rage&#124;8}}</br> {{IconLink&#124;Regen&#124;20}}.</br> {{IconLink&#124;Spell Shield&#124;2}}.</br> {{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Rage&#124;8}}, {{IconLink&#124;Regen&#124;20}}, and {{IconLink&#124;Spell Shield&#124;2}}. &#124; {{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Multistrike&#124;1}}.
+|flavor=''One by one, the Three tried and failed to defeat him. Each time they battled, Rax took on their powers until, without a fight, he was corrupted by their magic.''
+|titan=[[Entropy]], [[Dominion]], [[Savagery]]
+|artist=Taylor Bray
+}}
+
+{{怪物火车2-敌方单位
+|name=Seraph Aeternus-The Dominant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM SeraphAeternusDominion.png
+|baseline_attack=20
+|baseline_health=2800
+|covenant8_attack=20
+|covenant8_health=6300
+|ring8=[[Heaven%27s_Maw#Champion_of_Savagery&#124;Chosen of Dominion]]
+|ability={{IconLink&#124;Relentless}}.</br> {{IconLink&#124;Strike}}: Double {{IconLink&#124;Corruption}} on the attacked unit.</br> {{IconLink&#124;Action}}: Apply {{IconLink&#124;Corruption&#124;2}} to your units.
+|flavor=''Order, control, obedience. Dominion's promises of power were those which Seraph valued the most. It is no coincidence that of the Three, Seraph and Dominion are the most alike.''
+|titan=[[Dominion]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Seraph Aeternus-The Entropic
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM SeraphAeternusEntropy.png
+|baseline_attack=35
+|baseline_health=3800
+|covenant8_attack=35
+|covenant8_health=7300
+|ring8=[[Heaven%27s_Maw#Harbinger of Entropy&#124;Harbinger of Entropy]]
+|ability={{IconLink&#124;Relentless}}.</br> {{IconLink&#124;Resolve}}: Add a '''[[Curse of Entropy]]''' card to your deck.</br>{{IconLink&#124;Enchant}}: Grant your units {{IconLink&#124;Sap&#124;5}}.
+|flavor=''Seraph feared his own demise above all else. Eons of rule weren't long enough, he craved eternity. Entropy gave him the solution he longed for.''
+|titan=[[Entropy]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Seraph Aeternus-The Savage
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM SeraphAeternusSavagery.png
+|baseline_attack=30
+|baseline_health=3000
+|covenant8_attack=30
+|covenant8_health=6500
+|ring8=[[Heaven%27s_Maw#Champion_of_Savagery&#124;Champion of Savagery]]
+|ability={{IconLink&#124;Relentless}}.</br> {{IconLink&#124;Enchant}}: Grant enemy units {{IconLink&#124;Rage&#124;3}}.
+|flavor=''Seraph saw himself as righteous, but those he punished knew of his true nature. Savagery's blessing was an excuse to finally allow himself to give into his lesser impulses.''
+|titan=[[Savagery]]
+|artist=Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Entropy
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM TitanOfEntropy.png
+|baseline_attack=15
+|baseline_health=3500
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Fate Link}}.<br> {{IconLink&#124;Immobile}}.<br> {{IconLink&#124;Resolve}}: Add a '''[[Curse of Entropy]]''' to your deck.
+|flavor=''Everything moves towards the inevitable. Entropy is neither fury, nor command, but is instead an unyielding, unfeeling force of nature.''
+|titan=N/A
+|artist=William Smith/Genevieve Bega
+}}
+
+{{怪物火车2-敌方单位
+|name=Dominion
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM TitanOfDominion.png
+|baseline_attack=3
+|baseline_health=1555
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Fate Link}}. {{IconLink&#124;Immobile}}. {{IconLink&#124;Pyre Bound}}. {{IconLink&#124;Spell Shield&#124;4}}.<br>{{IconLink&#124;Resolve}}: Add '''[[Pyre Light]]''' to your hand. Apply {{IconLink&#124;Corruption&#124;5}} to your front unit on all floors.
+|flavor=Dominion does not command by strength alone. Instead, he twists one's will to his own. Under Dominion, you are not just compelled to obey, you are reshaped to want it.
+|titan=N/A
+|artist=Luke Banke
+}}
+
+{{怪物火车2-敌方单位
+|name=Savagery
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM TitanOfSavagery.png
+|baseline_attack=10
+|baseline_health=2750
+|ring9=[[The Great Abyss#Clash with the Titans&#124;Clash with the Titans]]
+|ability={{IconLink&#124;Fate Link}}.<br> {{Icon&#124;LiveToFight}} '''[[Live to Fight]]'''.<br> {{IconLink&#124;Trample}}.<br> {{IconLink&#124;Resolve}}: Gain {{IconLink&#124;Rage&#124;2}}. If you have no units on the floor, deals 5 damage to the Pyre.</br> {{IconLink&#124;Loop}}: Gain {{IconLink&#124;Multistrike&#124;1}}.
+|flavor=''Savagery is the embodiment of unbridled fury. He knows no restraint, only the overwhelming instinct to conquer. Those who follow him share his thirst for destruction.''
+|titan=N/A
+|artist=Luke Banke
+}}
+
+<!-- 未知类型: Chosen Flagellant -->
+
+<!-- 未知类型: Chosen Acolyte -->
+
+<!-- 未知类型: Chosen Sniper -->
+
+<!-- 未知类型: Chosen Shieldbearer -->
+
+<!-- 未知类型: Chosen Zealot -->
+
+<!-- 未知类型: Chosen Supplicant -->
+
+<!-- 未知类型: Chosen Assassin -->
+
+<!-- 未知类型: Chosen Bastion -->
+
+<!-- 未知类型: Chosen Ardent -->
+
+<!-- 未知类型: Chosen Herald -->
+
+{{怪物火车2-敌方单位
+|name=Collector
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM Collector.png
+|baseline_health=1
+|ring1=All combats
+|ring2=All combats
+|ring4=All combats
+|ring5=All combats
+|ring7=All combats
+|ability={{IconLink&#124;Resolve}}: Flees from battle if not {{IconLink&#124;Rooted}} or {{IconLink&#124;Dazed}}.</br> Rings 1-2: {{IconLink&#124;Extinguish}}: Gain {{Gold&#124;50}}.</br> Rings 4-5: {{IconLink&#124;Extinguish}}: Gain {{Gold&#124;75}}.</br> Ring 7: {{IconLink&#124;Extinguish}}: Gain {{Gold&#124;100}}.</br>
+|flavor=Cael's scavenger cherubs are constantly at work, searching for anything gold and shiny they can get their hands on. As for where these Cherubs stash Heaven's treasure, no one knows.
+|titan=None
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-敌方单位
+|name=Skull Collector
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM SkullCollector.png
+|baseline_attack=5
+|baseline_health=11
+|ring1=All combats
+|ring2=All combats
+|ring4=All combats
+|ring5=All combats
+|ring7=All combats
+|ability=Rings 1-2: {{IconLink&#124;Extinguish}}: Gain {{Gold&#124;50}}.</br> Rings 4-5: {{IconLink&#124;Extinguish}}: Gain {{Gold&#124;75}}.</br> Ring 7: {{IconLink&#124;Extinguish}}: Gain {{Gold&#124;100}}.</br>
+|flavor=''Cael's scavenger cherubs are constantly at work, searching for anything gold and shiny they can get their hands on. As for where these Cherubs stash Heaven's treasure, no one knows.''
+|titan=None
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-敌方单位
+|name=Penitent Prayerstone
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/ENM PenitentPrayerstone.png
+|baseline_health=100
+|ring4=[[Trials#Thorn Guard&#124;Thorn Guard]]
+|ring5=[[Trials#Thorn Guard&#124;Thorn Guard]]
+|ring7=[[Trials#Thorn Guard&#124;Thorn Guard]]
+|ability={{IconLink&#124;Immobile}}.<br>Rings 4-5: {{Icon&#124;Spikes}} '''[[Spikes]] 4'''.</br> Ring 7: {{Icon&#124;Spikes}} '''[[Spikes]] 6'''.</br>
+|flavor=''These statues were around long before the Titans came. No one knows what made them, or who these angels once were...''
+|titan=None
+|artist=Lauren Russo
+}}

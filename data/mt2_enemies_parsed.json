@@ -1,0 +1,4038 @@
+[
+  {
+    "type": "unknown",
+    "title": "Destiny of the Railforged",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "{{DOTRBanner}}\n{{Unfinished}}",
+    "source_page": "Destiny of the Railforged"
+  },
+  {
+    "type": "unknown",
+    "title": "Enemies (Soul Savior)",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Soul Savior#Enemies]]",
+    "source_page": "Enemies (Soul Savior)"
+  },
+  {
+    "type": "unknown",
+    "title": "Waves",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Battles]]",
+    "source_page": "Waves"
+  },
+  {
+    "type": "enemy",
+    "title": "Forsaken",
+    "image": "ENM Forsaken.png",
+    "fields": {
+      "name": {
+        "value": "Forsaken"
+      },
+      "image": {
+        "value": "ENM Forsaken.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|3/1}}"
+      },
+      "ability0": {
+        "value": "None"
+      },
+      "ring1": {
+        "value": "[[Trials#Mark_of_Invasion|Mark of Invasion]] [[Limbo#Forsaken_Few|Forsaken Few]]"
+      },
+      "ring2": {
+        "value": "[[Trials#Mark_of_Invasion|Mark of Invasion]]"
+      },
+      "ring3": {
+        "value": "[[The Wingless Hive#More Mass|More Mass]]"
+      },
+      "flavor": {
+        "value": "''One of the few not blessed by the Titans, these lost souls throw themselves into battle in hopes of finding favor.''"
+      },
+      "titan": {
+        "value": "None"
+      },
+      "artist": {
+        "value": "Loy Bouttamy"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 3,
+        "health": 1
+      }
+    },
+    "meta": {
+      "categories": [
+        " Hordes",
+        " Ring 1 enemies",
+        " Ring 3 enemies",
+        " Trial spawns"
+      ]
+    },
+    "summary": "The Forsaken is an enemy in Monster Train 2. It is a weak early-game enemy that can appear in the [[Trials#Mark_of_Invasion|Mark of Invasion]] trial in Rings 1 and 2.",
+    "source_page": "Forsaken"
+  },
+  {
+    "type": "enemy",
+    "title": "Savage Spearman",
+    "image": "ENM SavageSpearman.png",
+    "fields": {
+      "name": {
+        "value": "Savage Spearman"
+      },
+      "image": {
+        "value": "ENM SavageSpearman.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|5|2}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|6|2}}"
+      },
+      "ring2": {
+        "value": "[[Heaven's Gate#Flagellant's March|Flagellant's March]]</br> [[Heaven's Gate#Knights of Entropy|Knights of Entropy]]</br> [[Heaven's Gate#March of the Supplicants|March of the Supplicants]]</br> [[Heaven's Gate#Quicksilver Cherubs|Quicksilver Cherubs]]"
+      },
+      "ring3": {
+        "value": "[[The Wingless Hive#Furious Frenzy|Furious Frenzy]]<br>[[The Wingless Hive#Hard Headed|Hard Headed]]<br>[[The Wingless Hive#Pyre Hunter|Pyre Hunter]]<br>[[The Wingless Hive#Corrupted Mass|Corrupted Mass]]<br>[[The Wingless Hive#Spiked Mass|Spiked Mass]]"
+      },
+      "ability0": {
+        "value": "None"
+      },
+      "flavor": {
+        "value": "''The guards of The Aviary spent centuries to earn their blade, now it will be with them for eternity.\""
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 5,
+        "health": 2
+      },
+      "stats8": {
+        "attack": 6,
+        "health": 2
+      }
+    },
+    "meta": {
+      "categories": [
+        " Ring 2 enemies",
+        " Ring 3 enemies",
+        " Attackers"
+      ]
+    },
+    "summary": "The Savage Spearman is an enemy in Monster Train 2. It is a basic backline enemy in Rings 2-3.",
+    "source_page": "Savage Spearman"
+  },
+  {
+    "type": "enemy",
+    "title": "Cowering Sycophant",
+    "image": "ENM CoweringSycophant.png",
+    "fields": {
+      "name": {
+        "value": "Cowering Sycophant"
+      },
+      "image": {
+        "value": "ENM CoweringSycophant.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealthArmor|0/5/25}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Spikes|2}}."
+      },
+      "ring1": {
+        "value": "[[Limbo#Heavenly Toll|Heavenly Toll]]"
+      },
+      "ring3": {
+        "value": "[[The Wingless Hive#Furious Frenzy|Furious Frenzy]]</br> [[The Wingless Hive#Hard Headed|Hard Headed]]</br> [[The Wingless Hive#Pyre Hunter|Pyre Hunter]]</br> [[The Wingless Hive#Spiked Mass|Spiked Mass]]"
+      },
+      "flavor": {
+        "value": "''The Forsaken are occasionally put to use by their compatriots, but still rarely find favor.''"
+      },
+      "titan": {
+        "value": "None"
+      },
+      "artist": {
+        "value": "Lauren Russo"
+      }
+    },
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " Ring 1 enemies",
+        " Ring 3 enemies",
+        " Shieldguards",
+        " Spikes enemies",
+        " Armor enemies"
+      ]
+    },
+    "summary": "The Cowering Sycophant is an enemy in Monster Train 2. It does not attack, but starts with high {{IconLink|Armor}} and {{IconLink|Spikes}} which damage your units when attacked.",
+    "source_page": "Cowering Sycophant"
+  },
+  {
+    "type": "enemy",
+    "title": "Fallen Champion",
+    "image": "ENM FallenChampion.png",
+    "fields": {
+      "name": {
+        "value": "Fallen Champion"
+      },
+      "image": {
+        "value": "ENM FallenChampion.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|4/45}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|4/60}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|4/65}}"
+      },
+      "ability0": {
+        "value": "None"
+      },
+      "ring1": {
+        "value": "[[Limbo#Dominion's Preservation|Dominion's Preservation]]</br> [[Limbo#Forsaken Few|Forsaken Few]]</br> [[Limbo#Heavenly Toll|Heavenly Toll]]</br>"
+      },
+      "ring2": {
+        "value": "[[Heaven's Gate#March of the Supplicants|March of the Supplicants]]</br> [[Heaven's Gate#Quicksilver Cherubs|Quicksilver Cherubs]]"
+      },
+      "ring3": {
+        "value": "[[The Wingless Hive#Furious Frenzy|Furious Frenzy]]<br>[[The Wingless Hive#Hard Headed|Hard Headed]]<br>[[The Wingless Hive#Pyre Hunter|Pyre Hunter]]<br>[[The Wingless Hive#Corrupted Mass|Corrupted Mass]]<br>[[The Wingless Hive#More Mass|More Mass]]"
+      },
+      "flavor": {
+        "value": "''Heavenly brutes whose purpose is to defend Heaven from demons below. They did not anticipate that their true intruders would come from above.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Michael Sanchez"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 4,
+        "health": 45
+      },
+      "stats1": {
+        "attack": 4,
+        "health": 60
+      },
+      "stats8": {
+        "attack": 4,
+        "health": 65
+      }
+    },
+    "meta": {
+      "categories": [
+        " Ring 1 enemies",
+        " Ring 2 enemies",
+        " Ring 3 enemies",
+        " Heavies"
+      ]
+    },
+    "summary": "The Fallen Champion is an enemy in Monster Train 2. It is the basic frontline enemy in Rings 1-3.",
+    "source_page": "Fallen Champion"
+  },
+  {
+    "type": "enemy",
+    "title": "Flagellant",
+    "image": "ENM Flagellant.png",
+    "fields": {
+      "name": {
+        "value": "Flagellant"
+      },
+      "image": {
+        "value": "ENM Flagellant.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|3/90}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|3/105}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|3/110}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Resolve}}: {{Attack|+4}} and take '''20''' damage."
+      },
+      "ring2": {
+        "value": "[[Heaven's Gate#Flagellant's March|Flagellant's March]]"
+      },
+      "ring3": {
+        "value": "[[The Wingless Hive#Furious Frenzy|Furious Frenzy]]<br>[[The Wingless Hive#Hard Headed|Hard Headed]]<br>[[The Wingless Hive#Pyre Hunter|Pyre Hunter]]<br>[[The Wingless Hive#Corrupted Mass|Corrupted Mass]]<br>[[The Wingless Hive#Spiked Mass|Spiked Mass]]"
+      },
+      "flavor": {
+        "value": "''Dominion saw an opportunity in the Flagellants and granted them strength in their misery.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Herrick Ong"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 3,
+        "health": 90
+      },
+      "stats1": {
+        "attack": 3,
+        "health": 105
+      },
+      "stats8": {
+        "attack": 3,
+        "health": 110
+      }
+    },
+    "meta": {
+      "categories": [
+        " Heavies",
+        " Resolve enemies",
+        " Ring 2 enemies",
+        " Multistrike enemies",
+        " Ring 3 enemies",
+        " Attack enemies"
+      ]
+    },
+    "summary": "The Flagellant is an enemy in Monster Train 2. It grows stronger as it ascends, but it also deals constant damage to itself.",
+    "source_page": "Flagellant"
+  },
+  {
+    "type": "enemy",
+    "title": "Sloven Knight",
+    "image": "ENM SlovenKnight.png",
+    "fields": {
+      "name": {
+        "value": "Sloven Knight"
+      },
+      "image": {
+        "value": "ENM SlovenKnight.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|2/50}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|2/65}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|2/70}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Vanguard}}: {{Attack|+8}}."
+      },
+      "ring2": {
+        "value": "[[Heaven's Gate#Knights of Entropy|Knights of Entropy]]"
+      },
+      "ring3": {
+        "value": "[[The Wingless Hive#More Mass|More Mass]]"
+      },
+      "flavor": {
+        "value": "''Though Entropy weighs them down, if their blow finds purchase it is often devastating.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 2,
+        "health": 50
+      },
+      "stats1": {
+        "attack": 2,
+        "health": 65
+      },
+      "stats8": {
+        "attack": 2,
+        "health": 70
+      }
+    },
+    "meta": {
+      "categories": [
+        " Heavies",
+        " Ring 2 enemies",
+        " Ring 3 enemies",
+        " Vanguard enemies",
+        " Attack enemies"
+      ]
+    },
+    "summary": "The Sloven Knight is an enemy in Monster Train 2. It is weak, but has high {{Health}} and gains {{Attack|+8}} if no other enemies are in front of it.",
+    "source_page": "Sloven Knight"
+  },
+  {
+    "type": "enemy",
+    "title": "Ominous Acolyte",
+    "image": "ENM OminousAcolyte.png",
+    "fields": {
+      "name": {
+        "value": "Ominous Acolyte"
+      },
+      "image": {
+        "value": "ENM OminousAcolyte.png"
+      },
+      "stats0": {
+        "value": "'''15'''[[file:Rejuvenate.png|15x15px]]/{{Health|1}}"
+      },
+      "ability0": {
+        "value": "[[file:Rejuvenate.png|15x15px]] '''Recover''': Restore {{Health|15}} to enemy units after combat."
+      },
+      "ring1": {
+        "value": "[[Limbo#Dominion's Preservation|Dominion's Preservation]]"
+      },
+      "ring2": {
+        "value": "[[Heaven's Gate#Flagellant's March|Flagellant's March]]</br>"
+      },
+      "ring3": {
+        "value": "[[The Wingless Hive#Furious Frenzy|Furious Frenzy]]</br> [[The Wingless Hive#Hard Headed|Hard Headed]]</br> [[The Wingless Hive#Pyre Hunter|Pyre Hunter]]</br> [[The Wingless Hive#Corrupted Mass|Corrupted Mass]]</br> [[The Wingless Hive#More Mass|More Mass]]"
+      },
+      "flavor": {
+        "value": "''To the Titans go the glory, and these worshippers keep their flock in line.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Katherine Bartlett"
+      }
+    },
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " Clerics",
+        " Recover enemies",
+        " Ring 1 enemies",
+        " Ring 2 enemies",
+        " Ring 3 enemies"
+      ]
+    },
+    "summary": "The Ominous Acolyte is an enemy in Monster Train 2. It is a backline healer in Rings 1-3.",
+    "source_page": "Ominous Acolyte"
+  },
+  {
+    "type": "enemy",
+    "title": "Lurking Miscreant",
+    "image": "ENM LurkingMiscreant.png",
+    "fields": {
+      "name": {
+        "value": "Lurking Miscreant"
+      },
+      "image": {
+        "value": "ENM LurkingMiscreant.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|1/1}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|2/1}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Resolve}}: Add a [[Chime of Despair]] card to the top of your draw pile."
+      },
+      "ring1": {
+        "value": "[[Limbo#Heavenly Toll|Heavenly Toll]]"
+      },
+      "ring2": {
+        "value": "[[Heaven's Gate#March of the Supplicants|March of the Supplicants]]"
+      },
+      "ring3": {
+        "value": "Any combat titled '''The Fleshweaver'''"
+      },
+      "flavor": {
+        "value": "''Though once they had a beautiful ring, their tone is now hollow and discordant. Perhaps only the corrupted can find beauty in it.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 1,
+        "health": 1
+      },
+      "stats8": {
+        "attack": 2,
+        "health": 1
+      }
+    },
+    "meta": {
+      "categories": [
+        " Mages",
+        " Resolve enemies",
+        " Ring 1 enemies",
+        " Ring 2 enemies",
+        " Scourge enemies"
+      ]
+    },
+    "summary": "The Lurking Miscreant is an enemy in Monster Train 2. It is a backline enemy in Rings 1-3 that pollutes your draw with [[Chime of Despair]].",
+    "source_page": "Lurking Miscreant"
+  },
+  {
+    "type": "enemy",
+    "title": "Energizing Flautist",
+    "image": "ENM EnergizingFlautist.png",
+    "fields": {
+      "name": {
+        "value": "Energizing Flautist"
+      },
+      "image": {
+        "value": "ENM EnergizingFlautist.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|0/1}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Haste}}. {{IconLink|Enchant}}: Grant enemy units {{IconLink|Haste}}."
+      },
+      "ring2": {
+        "value": "[[Heaven's Gate#Quicksilver Cherubs|Quicksilver Cherubs]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Inevitability|Inevitability]]"
+      },
+      "flavor": {
+        "value": "''Cherubs aren't merely Heaven's workers, they're also keepers of the Celestial Chorus, ensuring divine music always fills the Heavens. Even under the Titan's corruption, their music's never wavered.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Samuel Lim"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 0,
+        "health": 1
+      }
+    },
+    "meta": {
+      "categories": [
+        " Enchant enemies",
+        " Enchanters",
+        " Haste enemies",
+        " Ring 2 enemies"
+      ]
+    },
+    "summary": "The Energizing Flautist is an enemy in Monster Train 2. It grants allied enemies {{IconLink|Haste}}, causing them to move from the bottom floor directly to the top floor.",
+    "source_page": "Energizing Flautist"
+  },
+  {
+    "type": "enemy",
+    "title": "Yorael the First-Blessed",
+    "image": "ENM YoraelTheFirstBlessed.png",
+    "fields": {
+      "name": {
+        "value": "Yorael the First-Blessed"
+      },
+      "image": {
+        "value": "ENM YoraelTheFirstBlessed.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|7|125}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|8|305}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|8|325}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}."
+      },
+      "ability4": {
+        "value": "{{IconLink|Rage|3}}. {{IconLink|Slay}}: Gain {{IconLink|Rage|1}}."
+      },
+      "ring1": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''Yorael was a mighty warrior and first champion to be blessed by Savagery. Future blessings would prove more successful.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Loy Bouttamy"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 7,
+        "health": 125
+      },
+      "stats1": {
+        "attack": 8,
+        "health": 305
+      },
+      "stats4": {
+        "attack": 8,
+        "health": 325
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Rage enemies",
+        " Relentless enemies",
+        " Ring 1 enemies",
+        " Slay enemies"
+      ]
+    },
+    "summary": "Yorael the First-Blessed is one of the possible [[Ring 1]] Bosses. He is a simple, no-frills boss with high immediate damage output.",
+    "source_page": "Yorael the First-Blessed"
+  },
+  {
+    "type": "enemy",
+    "title": "Astreal the Lost",
+    "image": "ENM AstraelTheLost.png",
+    "fields": {
+      "name": {
+        "value": "Astreal the Lost"
+      },
+      "image": {
+        "value": "ENM AstraelTheLost.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|8|180}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|9|360}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|9|380}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}. {{IconLink|Sap|6}}."
+      },
+      "ability4": {
+        "value": "{{IconLink|Resolve}}: Gain {{IconLink|Sap|1}} and restore {{Health|30}}."
+      },
+      "ring1": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''One of the Lost Souls, Astreal aimlessly wandered Heaven and Hell until Seraph took him in. But memories of Astreal's past still lingered in his soul, memories that Entropy could help him to forget...''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Aaron Lovett"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 8,
+        "health": 180
+      },
+      "stats1": {
+        "attack": 9,
+        "health": 360
+      },
+      "stats8": {
+        "attack": 9,
+        "health": 380
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Resolve enemies",
+        " Relentless enemies",
+        " Ring 1 enemies",
+        " Sap enemies"
+      ]
+    },
+    "summary": "Astreal the Lost is one of the possible [[Ring 1]] Bosses. He cannot attack at first due to his {{IconLink|Sap|6}}, but as combat is dragged out he will quickly become deadly.",
+    "source_page": "Astreal the Lost"
+  },
+  {
+    "type": "enemy",
+    "title": "Elebor the Wall",
+    "image": "ENM EleborTheWall.png",
+    "fields": {
+      "name": {
+        "value": "Elebor the Wall"
+      },
+      "image": {
+        "value": "ENM EleborTheWall.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|7|260}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|8|440}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|8|460}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}.</br>{{IconLink|Action}}: Gain {{IconLink|Armor|5}}."
+      },
+      "ability4": {
+        "value": "{{IconLink|Titanskin|2}}.</br>{{IconLink|Resolve}}: Gain {{IconLink|Damage Shield|1}}."
+      },
+      "ring2": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''Elebor once mocked the Clipped, whose flight was forcefully taken from them. Now he too knows their pain.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 7,
+        "health": 260
+      },
+      "stats1": {
+        "attack": 8,
+        "health": 440
+      },
+      "stats8": {
+        "attack": 8,
+        "health": 460
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Damage Shield enemies",
+        " Relentless enemies",
+        " Ring 2 enemies",
+        " Action enemies",
+        " Armor enemies",
+        " Titanskin enemies"
+      ]
+    },
+    "summary": "Elebor the Wall is one of the possible [[Ring 2]] Bosses. He continually gains {{IconLink|Armor}} while battled, making high damage output paramount.",
+    "source_page": "Elebor the Wall"
+  },
+  {
+    "type": "enemy",
+    "title": "Legion",
+    "image": "ENM Legion.png",
+    "fields": {
+      "name": {
+        "value": "Legion"
+      },
+      "image": {
+        "value": "ENM Legion.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|4|260}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|5|440}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|5|460}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}. {{IconLink|Spikes|3}}."
+      },
+      "ability4": {
+        "value": "{{IconLink|Resolve}}: Gain {{IconLink|Spikes|1}}."
+      },
+      "ring2": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''Dominion created something new from the willingness of the Forsaken to accept any power.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Nicole Anne Alfonso"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 4,
+        "health": 260
+      },
+      "stats1": {
+        "attack": 5,
+        "health": 440
+      },
+      "stats8": {
+        "attack": 5,
+        "health": 460
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Spikes enemies",
+        " Relentless enemies",
+        " Ring 2 enemies",
+        " Resolve enemies"
+      ]
+    },
+    "summary": "Legion is one of the possible [[Ring 2]] Bosses. He starts with {{IconLink|Spikes}}, and gains more of them as he ascends the train, making him very dangerous to fragile backline units.",
+    "source_page": "Legion"
+  },
+  {
+    "type": "enemy",
+    "title": "Arkion, Scion of Savagery",
+    "image": "ENM ArkionScionOfSavagery.png",
+    "fields": {
+      "name": {
+        "value": "Arkion, Scion of Savagery"
+      },
+      "image": {
+        "value": "ENM ArkionScionOfSavagery.png"
+      },
+      "stats0": {
+        "value": "Furious Frenzy: {{AttackHealth|7/425}}</br> Hard Headed: {{AttackHealth|13/425}}</br> Pyre Hunter: {{AttackHealth|4/425}}"
+      },
+      "stats1": {
+        "value": "Furious Frenzy: {{AttackHealth|7/625}}</br> Hard Headed: {{AttackHealth|13/625}}</br> Pyre Hunter: {{AttackHealth|4/625}}"
+      },
+      "stats4": {
+        "value": "Furious Frenzy: {{AttackHealth|7/725}}</br> Hard Headed: {{AttackHealth|13/725}}</br> Pyre Hunter: {{AttackHealth|4/725}}"
+      },
+      "stats8": {
+        "value": "Furious Frenzy: {{AttackHealth|7/825}}</br> Hard Headed: {{AttackHealth|13/825}}</br> Pyre Hunter: {{AttackHealth|4/825}}"
+      },
+      "ability0": {
+        "value": "'''Furious Frenzy''':</br>{{IconLink|Siphon}}: Gain {{IconLink|Rage|2}}.<hr> '''Hard Headed''':</br>{{IconLink|Strike}}: Push the attacked unit to the back.<hr> '''Pyre Hunter''':</br>{{IconLink|Multistrike|1}}.</br>{{IconLink|Resolve}}: If you have no units on the floor, deals 5 damage to the Pyre.</br>"
+      },
+      "ring3": {
+        "value": "Any combat titled '''Arkion, Scion of Savagery'''"
+      },
+      "flavor": {
+        "value": "''\"You might call me 'chicken' but I've done what I had to survive. Why do you think I am one of the few Angels who still has his wings?\"''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [
+      [
+        [
+          "+ Stats"
+        ],
+        [
+          "Covenant",
+          "Attack [[file:Attack.png|15x15px]]",
+          "Health [[file:Health.png|15x15px]]"
+        ],
+        [
+          "0",
+          "7",
+          "425"
+        ],
+        [
+          "1",
+          "7",
+          "625"
+        ],
+        [
+          "4",
+          "7",
+          "725"
+        ],
+        [
+          "8",
+          "7",
+          "825"
+        ]
+      ],
+      [
+        [
+          "+ Stats"
+        ],
+        [
+          "Covenant",
+          "Attack [[file:Attack.png|15x15px]]",
+          "Health [[file:Health.png|15x15px]]"
+        ],
+        [
+          "0",
+          "13",
+          "425"
+        ],
+        [
+          "1",
+          "13",
+          "625"
+        ],
+        [
+          "4",
+          "13",
+          "725"
+        ],
+        [
+          "8",
+          "13",
+          "825"
+        ]
+      ],
+      [
+        [
+          "+ Stats"
+        ],
+        [
+          "Covenant",
+          "Attack [[file:Attack.png|15x15px]]",
+          "Health [[file:Health.png|15x15px]]"
+        ],
+        [
+          "0",
+          "4",
+          "425"
+        ],
+        [
+          "1",
+          "4",
+          "625"
+        ],
+        [
+          "4",
+          "4",
+          "725"
+        ],
+        [
+          "8",
+          "4",
+          "825"
+        ]
+      ]
+    ],
+    "stats": {
+      "stats0": {
+        "attack": 7,
+        "health": 425
+      },
+      "stats1": {
+        "attack": 7,
+        "health": 625
+      },
+      "stats4": {
+        "attack": 7,
+        "health": 725
+      },
+      "stats8": {
+        "attack": 7,
+        "health": 825
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Multistrike enemies",
+        " Pyre damage enemies",
+        " Rage enemies",
+        " Relentless enemies",
+        " Resolve enemies",
+        " Ring 3 enemies",
+        " Siphon enemies",
+        " Strike enemies"
+      ]
+    },
+    "summary": "Arkion, Scion of Savagery is a [[Flying Bosses|major boss]] of [[The Wingless Hive|Ring 3]]. He appears as one of three variants.",
+    "source_page": "Arkion, Scion of Savagery"
+  },
+  {
+    "type": "enemy",
+    "title": "Fleshweaver",
+    "image": "ENM Fleshweaver.png",
+    "fields": {
+      "name": {
+        "value": "Fleshweaver"
+      },
+      "image": {
+        "value": "ENM Fleshweaver.png"
+      },
+      "stats0": {
+        "value": "Corrupted Mass: {{AttackHealth|6/500}}</br> Spiked Mass: {{AttackHealth|6/500}}</br> More Mass: {{AttackHealth|6/600}}"
+      },
+      "stats1": {
+        "value": "Corrupted Mass: {{AttackHealth|7/680}}</br> Spiked Mass: {{AttackHealth|7/680}}</br> More Mass: {{AttackHealth|7/780}}"
+      },
+      "stats4": {
+        "value": "Corrupted Mass: {{AttackHealth|7/680}}</br> Spiked Mass: {{AttackHealth|7/680}}</br> More Mass: {{AttackHealth|7/780}}"
+      },
+      "stats8": {
+        "value": "Corrupted Mass: {{AttackHealth|7/700}}</br> Spiked Mass: {{AttackHealth|7/700}}</br> More Mass: {{AttackHealth|7/800}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Mass|5}}. {{IconLink|Revenge}}: Create a Fleshling and lose {{IconLink|Mass|1}}.<hr> Corrupted Mass: -<hr> Spiked Mass: -<hr> More Mass: {{IconLink|Mass|3}}."
+      },
+      "ring3": {
+        "value": "Any combat titled '''The Fleshweaver'''"
+      },
+      "flavor": {
+        "value": "''Dominion's blessing is a relentless pull that does not end with death. When Heaven's soldiers fall, they become the raw material for the next warrior. Cutting away one part of this monster only reveals more bodies feeding on the Titan's power.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Loy Bouttamy"
+      }
+    },
+    "tables": [
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "[[1.3]]",
+          "Added '''{{PAGENAME}}'''."
+        ],
+        [
+          "[[1.3.1]]",
+          "Fixed an issue where the Titan [[Trial]] \"More Mass\" variant of [[Fleshweaver]] had fewer stacks of {{IconLink|Mass}} then intended. All Trial versions gain an additional 4 stacks of {{IconLink|Mass}}, which is now correctly added to the additional 3 stacks that this variant gains, putting it at 12 stacks of {{IconLink|Mass}} with the Trial enabled. Changed [[Fleshweaver]]'s {{IconLink|Mass}} status so that it is no longer removable via effects that remove Buffs."
+        ]
+      ]
+    ],
+    "stats": {
+      "stats0": {
+        "attack": 6,
+        "health": 500
+      },
+      "stats1": {
+        "attack": 7,
+        "health": 680
+      },
+      "stats4": {
+        "attack": 7,
+        "health": 680
+      },
+      "stats8": {
+        "attack": 7,
+        "health": 700
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Corruption enemies",
+        " Extinguish enemies",
+        " Relentless enemies",
+        " Revenge enemies",
+        " Ring 3 enemies",
+        " Spikes enemies"
+      ]
+    },
+    "summary": "Fleshweaver is a [[Flying Bosses|major boss]] of [[The Wingless Hive|Ring 3]]. He starts with many stacks of {{IconLink|Mass}}, which raise his {{Attack}}, and which are lost on taking damage to spawn Fleshlings. He appears as one of three variants.",
+    "source_page": "Fleshweaver"
+  },
+  {
+    "type": "unknown",
+    "title": "Fleshling",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Fleshweaver]]",
+    "source_page": "Fleshling"
+  },
+  {
+    "type": "enemy",
+    "title": "Undying Wretch",
+    "image": "ENM UndyingWretch.png",
+    "fields": {
+      "name": {
+        "value": "Undying Wretch"
+      },
+      "image": {
+        "value": "ENM UndyingWretch.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|4/4}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Reanimate|1}}."
+      },
+      "ring5": {
+        "value": "[[The Aviary#Undying Minions|Undying Minions]]"
+      },
+      "flavor": {
+        "value": "''Dominion's blessing has for some meant renewed life, each worse than the last.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 4,
+        "health": 4
+      }
+    },
+    "meta": {
+      "categories": [
+        " Hordes",
+        " Reanimate enemies",
+        " Ring 5 enemies"
+      ]
+    },
+    "summary": "The Undying Wretch is an enemy in Monster Train 2. It cannot be killed in a single hit due to {{IconLink|Reanimate}}.",
+    "source_page": "Undying Wretch"
+  },
+  {
+    "type": "enemy",
+    "title": "Misshapen Fiend",
+    "image": "ENM MisshapenFiend.png",
+    "fields": {
+      "name": {
+        "value": "Misshapen Fiend"
+      },
+      "image": {
+        "value": "ENM MisshapenFiend.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|3/3}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Extinguish}}: Apply {{IconLink|Corruption|3}} to your front unit."
+      },
+      "ring3": {
+        "value": "[[The_Wingless_Hive|Corrupted Mass]]"
+      },
+      "ring4": {
+        "value": "[[Trials#Mark_of_Invasion|Mark of Invasion]]</br> [[Celestial Forge#Hordes of Heaven|Hordes of Heaven]]"
+      },
+      "ring5": {
+        "value": "[[Trials#Mark_of_Invasion|Mark of Invasion]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Nourishing Feed|Nourishing Feed]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Chosen of Dominion|Chosen of Dominion]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''These disciples were one of the first to be corrupted, for they welcomed Dominion's blessings too readily. Now, they have paid the ample price.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Mikhael Cang"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 3,
+        "health": 3
+      }
+    },
+    "meta": {
+      "categories": [
+        " Corruption enemies",
+        " Extinguish enemies",
+        " Hordes",
+        " Ring 3 enemies",
+        " Ring 4 enemies",
+        " Ring 6 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Trial spawns"
+      ]
+    },
+    "summary": "The Misshapen Fiend is an enemy in Monster Train 2. They always spawn in groups, and apply {{IconLink|Corruption|3}} to your front unit on death. They appear in the [[Trials#Mark_of_Invasion|Mark of Invasion]] trial in Rings 4 and 5.",
+    "source_page": "Misshapen Fiend"
+  },
+  {
+    "type": "enemy",
+    "title": "Vicious Axethrower",
+    "image": "ENM ViciousAxethrower.png",
+    "fields": {
+      "name": {
+        "value": "Vicious Axethrower"
+      },
+      "image": {
+        "value": "ENM ViciousAxethrower.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|6/3}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|7/3}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|8/3}}"
+      },
+      "ability0": {
+        "value": "None"
+      },
+      "ring4": {
+        "value": "[[Celestial_Forge#Dire_Defenses|Dire Defenses]]<br>[[Celestial_Forge#Savagery's_Hunters|Savagery's Hunters]]"
+      },
+      "ring5": {
+        "value": "[[The Aviary#Corrupted Crusade|Relentless Zealots]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Vampiric Feed|Vampiric Feed]]<br>[[High Heaven#Bloody Harvest|Bloody Harvest]]<br>[[High Heaven#Inevitability|Inevitability]]"
+      },
+      "flavor": {
+        "value": "''Heaven's army was well-accustomed to violence, even during the peaceful age of the first Covenant. Not with Demons, but with other Angels. It was their main way of enforcing Heaven's strict hierarchy.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Michael Sanchez"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 6,
+        "health": 3
+      },
+      "stats1": {
+        "attack": 7,
+        "health": 3
+      },
+      "stats8": {
+        "attack": 8,
+        "health": 3
+      }
+    },
+    "meta": {
+      "categories": [
+        " Attackers",
+        " Ring 4 enemies",
+        " Ring 5 enemies",
+        " Ring 6 enemies"
+      ]
+    },
+    "summary": "The Vicious Axethrower is an enemy in Monster Train 2. It is a basic backline enemy in Rings 4-6.",
+    "source_page": "Vicious Axethrower"
+  },
+  {
+    "type": "enemy",
+    "title": "Malevolent Hunter",
+    "image": "ENM MalevolentHunter.png",
+    "fields": {
+      "name": {
+        "value": "Malevolent Hunter"
+      },
+      "image": {
+        "value": "ENM MalevolentHunter.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|4/2}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|5/2}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|6/2}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Haste}}."
+      },
+      "ring4": {
+        "value": "[[Celestial Forge#Hordes of Heaven|Hordes of Heaven]]"
+      },
+      "ring5": {
+        "value": "[[The Aviary#Unholy Alliances|Unholy Alliances]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Holy Feed|Holy Feed]]<br>[[High Heaven#Bloody Harvest|Bloody Harvest]]"
+      },
+      "flavor": {
+        "value": "''Fast moving scouts, their connection to Savagery has made them only more deadly.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 4,
+        "health": 2
+      },
+      "stats1": {
+        "attack": 5,
+        "health": 2
+      },
+      "stats8": {
+        "attack": 6,
+        "health": 2
+      }
+    },
+    "meta": {
+      "categories": [
+        " Attackers",
+        " Haste enemies",
+        " Ring 4 enemies",
+        " Ring 5 enemies",
+        " Ring 6 enemies"
+      ]
+    },
+    "summary": "The Malevolent Hunter is an enemy in Monster Train 2. It is a backline enemy that enters with {{IconLink|Haste}}.",
+    "source_page": "Malevolent Hunter"
+  },
+  {
+    "type": "enemy",
+    "title": "Sharp-Eye Sniper",
+    "image": "ENM SharpEyeSniper.png",
+    "fields": {
+      "name": {
+        "value": "Sharp-Eye Sniper"
+      },
+      "image": {
+        "value": "ENM SharpEyeSniper.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|7/3}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|8/3}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|9/3}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Slay}}: Gain {{IconLink|Rage|3}}."
+      },
+      "ring4": {
+        "value": "[[Celestial Forge#Savagery's Hunters|Savagery's Hunters]]"
+      },
+      "ring5": {
+        "value": "[[The Aviary#Corrupted Crusade|Corrupted Crusade]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Holy Feed|Holy Feed]]<br>[[High Heaven#Doombringers|Doombringers]]<br>[[High Heaven#Inevitability|Inevitability]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''Spiteful and always looking for the next kill to appear in their sight.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 7,
+        "health": 3
+      },
+      "stats1": {
+        "attack": 8,
+        "health": 3
+      },
+      "stats8": {
+        "attack": 9,
+        "health": 3
+      }
+    },
+    "meta": {
+      "categories": [
+        " Attackers",
+        " Rage enemies",
+        " Ring 4 enemies",
+        " Ring 5 enemies",
+        " Ring 6 enemies",
+        " Ring 9 enemies",
+        " Slay enemies"
+      ]
+    },
+    "summary": "The Sharp-Eye Sniper is an enemy in Monster Train 2. It is a backline enemy that gets stronger on {{IconLink|Slay}}.",
+    "source_page": "Sharp-Eye Sniper"
+  },
+  {
+    "type": "enemy",
+    "title": "Adamant Shieldbearer",
+    "image": "ENM AdamantShieldbearer.png",
+    "fields": {
+      "name": {
+        "value": "Adamant Shieldbearer"
+      },
+      "image": {
+        "value": "ENM AdamantShieldbearer.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealthArmor|0/30/50}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealthArmor|1/30/50}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Incant}}: Apply {{IconLink|Sap|2}} to your units."
+      },
+      "ring4": {
+        "value": "[[Celestial Forge#Penance Seekers|Penance Seekers]]"
+      },
+      "ring5": {
+        "value": "[[The Aviary#Corrupted Crusade|Corrupted Crusade]]</br> [[The Aviary#Relentless Zealots|Relentless Zealots]]</br> [[The Aviary#Undying Minions|Undying Minions]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Doombringers|Doombringers]]"
+      },
+      "flavor": {
+        "value": "''These disciples have guarded the palaces of Heaven for eons. They require no weapon, for their massive wall of a shield, along with Entropy's blessing, have made them an impenetrable bastion.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Daniel Sarmiento Chuquisengo"
+      }
+    },
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " Area of effect enemies",
+        " Incant enemies",
+        " Ring 4 enemies",
+        " Ring 5 enemies",
+        " Ring 6 enemies",
+        " Sap enemies",
+        " Shieldguards",
+        " Armor enemies"
+      ]
+    },
+    "summary": "The Adamant Shieldbearer is an enemy in Monster Train 2. They are tanky enemies that appear in the frontlines, and apply {{IconLink|Sap}} to your units if you {{IconLink|Incant}} on their floor.",
+    "source_page": "Adamant Shieldbearer"
+  },
+  {
+    "type": "enemy",
+    "title": "Fallen Executioner",
+    "image": "ENM FallenExecutioner.png",
+    "fields": {
+      "name": {
+        "value": "Fallen Executioner"
+      },
+      "image": {
+        "value": "ENM FallenExecutioner.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|6/120}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|6/150}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|6/180}}"
+      },
+      "ability0": {
+        "value": "None"
+      },
+      "ring4": {
+        "value": "[[Celestial Forge#Hordes of Heaven|Hordes of Heaven]]</br> [[Celestial Forge#Penance Seekers|Penance Seekers]]"
+      },
+      "ring5": {
+        "value": "[[The Aviary#Unholy Alliances|Unholy Alliances]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Holy Feed|Holy Feed]]<br>[[High Heaven#Doombringers|Doombringers]]"
+      },
+      "flavor": {
+        "value": "''Clipped wings were not the only form of punishment for disobedient angels.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Nicole Anne Alfonso"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 6,
+        "health": 120
+      },
+      "stats1": {
+        "attack": 6,
+        "health": 150
+      },
+      "stats8": {
+        "attack": 6,
+        "health": 180
+      }
+    },
+    "meta": {
+      "categories": [
+        " Heavies",
+        " Ring 4 enemies",
+        " Ring 5 enemies",
+        " Ring 6 enemies"
+      ]
+    },
+    "summary": "The Fallen Executioner is an enemy in Monster Train 2. It is a basic tank enemy in Rings 4-6.",
+    "source_page": "Fallen Executioner"
+  },
+  {
+    "type": "enemy",
+    "title": "Blightbound Guardian",
+    "image": "ENM BlightboundGuardian.png",
+    "fields": {
+      "name": {
+        "value": "Blightbound Guardian"
+      },
+      "image": {
+        "value": "ENM BlightboundGuardian.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|3/70}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|3/100}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|3/130}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Strike}}: Apply {{IconLink|Corruption|3}}."
+      },
+      "ring5": {
+        "value": "[[The Aviary#Corrupted Crusade|Corrupted Crusade]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Nourishing Feed|Nourishing Feed]]"
+      },
+      "ring8": {
+        "value": "[[Heaven%27s_Maw#Chosen_of_Dominion|Chosen of Dominion]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''Dominion's whisper is most susceptible to those with a yearning heart. Even the most silent and obedient angels have desires buried deep beneath their stoic gaze.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Katherine Bartlett"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 3,
+        "health": 70
+      },
+      "stats1": {
+        "attack": 3,
+        "health": 100
+      },
+      "stats8": {
+        "attack": 3,
+        "health": 130
+      }
+    },
+    "meta": {
+      "categories": [
+        " Corruption enemies",
+        " Heavies",
+        " Ring 5 enemies",
+        " Ring 6 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Strike enemies"
+      ]
+    },
+    "summary": "The Blightbound Guardian is an enemy in Monster Train 2. It is a relatively tanky enemy that applies {{IconLink|Corruption}} to your front unit on {{IconLink|Strike}}.",
+    "source_page": "Blightbound Guardian"
+  },
+  {
+    "type": "enemy",
+    "title": "Scarred Sentinel",
+    "image": "ENM ScarredSentinel.png",
+    "fields": {
+      "name": {
+        "value": "Scarred Sentinel"
+      },
+      "image": {
+        "value": "ENM ScarredSentinel.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|6/80}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|6/110}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|6/140}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Resolve}}: Gain {{IconLink|Titanskin|5}}."
+      },
+      "ring4": {
+        "value": "[[Celestial_Forge#Dire_Defenses|Dire Defenses]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Vampiric Feed|Vampiric Feed]]<br>[[High Heaven#Inevitability|Inevitability]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Harbinger of Entropy|Harbinger of Entropy]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''These steadfast knights defend the upper reaches of Heaven. Forged through relentless trials, they bear their training scars with pride. No enemy's strike can match the pain they've already received.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Daniel Sarmiento Chuquisengo"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 6,
+        "health": 80
+      },
+      "stats1": {
+        "attack": 6,
+        "health": 110
+      },
+      "stats8": {
+        "attack": 6,
+        "health": 140
+      }
+    },
+    "meta": {
+      "categories": [
+        " Heavies",
+        " Resolve enemies",
+        " Ring 4 enemies",
+        " Ring 6 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Titanskin enemies"
+      ]
+    },
+    "summary": "The Scarred Sentinel is an enemy in Monster Train 2. It is a tanky enemy that gains {{IconLink|Titanskin}} as it ascends the train.",
+    "source_page": "Scarred Sentinel"
+  },
+  {
+    "type": "enemy",
+    "title": "Ravenous Zealot",
+    "image": "[[File:ENM RavenousZealot.png]]",
+    "fields": {
+      "name": {
+        "value": "Ravenous Zealot"
+      },
+      "image": {
+        "value": "[[File:ENM RavenousZealot.png]]"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|3/110}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|3/140}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|3/170}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Multistrike|1}}.</br> {{IconLink|Harvest}}: {{Attack|+1}}."
+      },
+      "ring4": {
+        "value": "[[Celestial Forge#Savagery's Hunters|Savagery's Hunters]]"
+      },
+      "ring5": {
+        "value": "[[The Aviary#Relentless Zealots|Relentless Zealots]]<br>[[The Aviary#Undying Minions|Undying Minions]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Vampiric Feed|Vampiric Feed]]<br>[[High Heaven#Bloody Harvest|Bloody Harvest]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''These angels that once used their bloodlust for power were the natural fit for Savagery's blessing.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Michael Sanchez"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 3,
+        "health": 110
+      },
+      "stats1": {
+        "attack": 3,
+        "health": 140
+      },
+      "stats8": {
+        "attack": 3,
+        "health": 170
+      }
+    },
+    "meta": {
+      "categories": [
+        " Heavies",
+        " Attack enemies",
+        " Harvest enemies",
+        " Multistrike enemies",
+        " Ring 4 enemies",
+        " Ring 5 enemies",
+        " Ring 6 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies"
+      ]
+    },
+    "summary": "The Ravenous Zealot is an enemy in Monster Train 2 that primarily appears in Rings 4-6. It is a tanky enemy that can deal very high damage if allowed to {{IconLink|Harvest}}.",
+    "source_page": "Ravenous Zealot"
+  },
+  {
+    "type": "enemy",
+    "title": "Profane Supplicant",
+    "image": "ENM ProfaneSupplicant.png",
+    "fields": {
+      "name": {
+        "value": "Profane Supplicant"
+      },
+      "image": {
+        "value": "ENM ProfaneSupplicant.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|3/4}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|4/4}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|5/4}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Resolve}}: Add a '''[[Discordant Toll]]''' card to the top of your draw pile."
+      },
+      "ring4": {
+        "value": "[[Celestial Forge#Penance Seekers|Penance Seekers]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Nourishing Feed|Nourishing Feed]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''Heaven's bellringers, wielding a symbol of faith as their weapon, now toll their church bells as harbingers of Dominion.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Michaela Nienaber"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 3,
+        "health": 4
+      },
+      "stats1": {
+        "attack": 4,
+        "health": 4
+      },
+      "stats8": {
+        "attack": 5,
+        "health": 4
+      }
+    },
+    "meta": {
+      "categories": [
+        " Mages",
+        " Resolve enemies",
+        " Ring 4 enemies",
+        " Ring 6 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Scourge enemies"
+      ]
+    },
+    "summary": "The Profane Supplicant is an enemy in Monster Train 2. It is a backline enemy that pollutes your draw with [[Discordant Toll]].",
+    "source_page": "Profane Supplicant"
+  },
+  {
+    "type": "enemy",
+    "title": "Disciple of Ruin",
+    "image": "ENM DiscipleOfRuin.png",
+    "fields": {
+      "name": {
+        "value": "Disciple of Ruin"
+      },
+      "image": {
+        "value": "ENM DiscipleOfRuin.png"
+      },
+      "stats0": {
+        "value": "'''25'''[[file:Rejuvenate.png|15x15px]]/{{Health|5}}"
+      },
+      "ability0": {
+        "value": "[[file:Rejuvenate.png|15x15px]] '''Recover''': Restore {{Health|25}} to enemy units after combat."
+      },
+      "ring4": {
+        "value": "[[Celestial_Forge#Dire_Defenses|Dire Defenses]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Bloody Harvest|Bloody Harvest]]"
+      },
+      "flavor": {
+        "value": "''These worshippers deliver the blessings of Dominion directly to the masses, reviving their spirits and their limbs.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Ishmael E. Hoover"
+      }
+    },
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " Clerics",
+        " Recover enemies",
+        " Ring 4 enemies",
+        " Ring 6 enemies"
+      ]
+    },
+    "summary": "The Disciple of Ruin is an enemy in Monster Train 2. It is a backline healer, essentially a more powerful [[Ominous Acolyte]].",
+    "source_page": "Disciple of Ruin"
+  },
+  {
+    "type": "enemy",
+    "title": "Harpist Protector",
+    "image": "ENM HarpistProtector.png",
+    "fields": {
+      "name": {
+        "value": "Harpist Protector"
+      },
+      "image": {
+        "value": "ENM HarpistProtector.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|0/10}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Enchant}}: Grant enemy units {{IconLink|Titanskin|5}}."
+      },
+      "ring5": {
+        "value": "[[The Aviary#Unholy Alliances|Unholy Alliances]]"
+      },
+      "ring6": {
+        "value": "[[High Heaven#Doombringers|Doombringers]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Champion of Savagery|Champion of Savagery]]"
+      },
+      "flavor": {
+        "value": "''The Celestial Chorus is an eternal melody, a celebration of the divine. Even demons of Hell cannot deny its beauty.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Samuel Lim"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 0,
+        "health": 10
+      }
+    },
+    "meta": {
+      "categories": [
+        " Enchant enemies",
+        " Enchanters",
+        " Ring 5 enemies",
+        " Ring 6 enemies",
+        " Ring 8 enemies",
+        " Titanskin enemies"
+      ]
+    },
+    "summary": "The Harpist Protector is an enemy in Monster Train 2. It grants enemy units {{IconLink|Titanskin|5}}.",
+    "source_page": "Harpist Protector"
+  },
+  {
+    "type": "enemy",
+    "title": "Qel the Corruptor",
+    "image": "ENM QelTheCorruptor.png",
+    "fields": {
+      "name": {
+        "value": "Qel the Corruptor"
+      },
+      "image": {
+        "value": "ENM QelTheCorruptor.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|12|700}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|15|950}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|15|1050}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|15|1150}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}.<br> {{IconLink|Incant}}: Apply {{IconLink|Corruption|3}} to your units."
+      },
+      "ability4": {
+        "value": "{{IconLink|Summon}}: Apply {{IconLink|Corruption|5}} to all your units."
+      },
+      "ring4": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''Qel rose among Heaven's disciples, but a disciple can only go so far. He accepted Dominion's blessing, dreaming of wings of his own. But, Dominion had other plans.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Ron Kee"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 12,
+        "health": 700
+      },
+      "stats1": {
+        "attack": 15,
+        "health": 950
+      },
+      "stats4": {
+        "attack": 15,
+        "health": 1050
+      },
+      "stats8": {
+        "attack": 15,
+        "health": 1150
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Area of effect enemies",
+        " Summon enemies",
+        " Relentless enemies",
+        " Ring 4 enemies",
+        " Incant enemies",
+        " Corruption enemies"
+      ]
+    },
+    "summary": "Qel the Corruptor is one of the possible [[Ring 4]] Bosses. He applies {{IconLink|Corruption}} to your units on {{IconLink|Incant}}. At Covenant 4 and above, he also applies {{IconLink|Corruption}} to all of your units on all floors as soon as he enters the train.",
+    "source_page": "Qel the Corruptor"
+  },
+  {
+    "type": "enemy",
+    "title": "Korin the Judge",
+    "image": "ENM KorinTheJudge.png",
+    "fields": {
+      "name": {
+        "value": "Korin the Judge"
+      },
+      "image": {
+        "value": "ENM KorinTheJudge.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|8|600}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|11|850}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|11|950}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|11|1050}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}. {{IconLink|Summon}}: '''[[Descend]]''' all friendly units to this floor and '''[[Retreat]]'''."
+      },
+      "ability4": {
+        "value": "{{IconLink|Summon}}: Apply {{IconLink|Multistrike|1}} to all enemy units."
+      },
+      "ring4": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''Korin has seen ages of order and ages of chaos. For her, only her sense of justice has remained unwavering. Now even that has been perverted by the Titan's will.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Merilliza Chan"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 8,
+        "health": 600
+      },
+      "stats1": {
+        "attack": 11,
+        "health": 850
+      },
+      "stats4": {
+        "attack": 11,
+        "health": 950
+      },
+      "stats8": {
+        "attack": 11,
+        "health": 1050
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Summon enemies",
+        " Relentless enemies",
+        " Ring 4 enemies",
+        " Multistrike enemies"
+      ]
+    },
+    "summary": "Korin the Judge is one of the possible [[Ring 4]] Bosses. When she appears, all enemies still alive on the train will come to her defense.",
+    "source_page": "Korin the Judge"
+  },
+  {
+    "type": "enemy",
+    "title": "Ajax the Unyielding",
+    "image": "ENM AjaxTheUnyielding.png",
+    "fields": {
+      "name": {
+        "value": "Ajax the Unyielding"
+      },
+      "image": {
+        "value": "ENM AjaxTheUnyielding.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|9|550}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|12|800}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|12|900}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|12|1000}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}. {{IconLink|Action}}: Apply {{IconLink|Sap|3}} to your units."
+      },
+      "ability4": {
+        "value": "{{IconLink|Strike}}: Apply {{IconLink|Sap|3}}."
+      },
+      "ring4": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''Ajax believed that the greatest sins were the ones that rippled through generations. This made him an easy target for Entropy, who has a similarly single minded view on the power of time.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Herrick Ong"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 9,
+        "health": 550
+      },
+      "stats1": {
+        "attack": 12,
+        "health": 800
+      },
+      "stats4": {
+        "attack": 12,
+        "health": 900
+      },
+      "stats8": {
+        "attack": 12,
+        "health": 1000
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Sap enemies",
+        " Relentless enemies",
+        " Ring 4 enemies",
+        " Action enemies",
+        " Strike enemies",
+        " Area of effect enemies"
+      ]
+    },
+    "summary": "Ajax the Unyielding is one of the possible [[Ring 4]] Bosses. He applies significant amounts of {{IconLink|Sap}} to your units in combat.",
+    "source_page": "Ajax the Unyielding"
+  },
+  {
+    "type": "enemy",
+    "title": "Quoto the Absolute",
+    "image": "ENM QuotoTheAbsolute.png",
+    "fields": {
+      "name": {
+        "value": "Quoto the Absolute"
+      },
+      "image": {
+        "value": "ENM QuotoTheAbsolute.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|16|900}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|19|1150}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|19|1250}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|19|1350}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}.</br> {{IconLink|Titanskin|40}}.</br> {{IconLink|Revenge}}: Lose {{IconLink|Titanskin|1}}."
+      },
+      "ability4": {
+        "value": "{{IconLink|Resolve}}: Gain {{IconLink|Titanskin|5}}."
+      },
+      "ring5": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''Quoto believed in the beauty of Heaven above all else. And now he believes in the beauty of something beyond it.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Ishmael E. Hoover"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 16,
+        "health": 900
+      },
+      "stats1": {
+        "attack": 19,
+        "health": 1150
+      },
+      "stats4": {
+        "attack": 19,
+        "health": 1250
+      },
+      "stats8": {
+        "attack": 19,
+        "health": 1350
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Revenge enemies",
+        " Relentless enemies",
+        " Ring 5 enemies",
+        " Resolve enemies",
+        " Titanskin enemies"
+      ]
+    },
+    "summary": "Quoto the Absolute is one of the possible [[Ring 5]] Bosses. He is a tanky boss with a huge amount of {{IconLink|Titanskin}}, but he loses a stack each time he's hit.",
+    "source_page": "Quoto the Absolute"
+  },
+  {
+    "type": "enemy",
+    "title": "The Undying One",
+    "image": "ENM TheUndyingOne.png",
+    "fields": {
+      "name": {
+        "value": "The Undying One"
+      },
+      "image": {
+        "value": "ENM TheUndyingOne.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|17|500}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|20|750}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|20|850}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|20|950}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}. {{IconLink|Reanimate|8}}."
+      },
+      "ability4": {
+        "value": "{{IconLink|Resolve}}: Gain {{IconLink|Reanimate|6}}."
+      },
+      "ring5": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''Dominion has cursed this angel with an undying life. With every resurrection, more with their mind fades, leaving only a hollow echo of what once was.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 17,
+        "health": 500
+      },
+      "stats1": {
+        "attack": 20,
+        "health": 750
+      },
+      "stats4": {
+        "attack": 20,
+        "health": 850
+      },
+      "stats8": {
+        "attack": 20,
+        "health": 950
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Reanimate enemies",
+        " Relentless enemies",
+        " Ring 5 enemies",
+        " Resolve enemies"
+      ]
+    },
+    "summary": "The Undying One is one of the possible [[Ring 5]] Bosses. They enter with 8 stacks of {{IconLink|Reanimate}}, prolonging the fight even after they have been \"killed.\"",
+    "source_page": "The Undying One"
+  },
+  {
+    "type": "enemy",
+    "title": "Cael, Lord of the Cherubs",
+    "image": "ENM CaelLordOfTheCherubs.png",
+    "fields": {
+      "name": {
+        "value": "Cael, Lord of the Cherubs"
+      },
+      "image": {
+        "value": "ENM CaelLordOfTheCherubs.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|22/1800}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|22/2500}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|22/2800}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|22/3100}}"
+      },
+      "ability0": {
+        "value": "'''Holy Feed''':</br>{{IconLink|Resolve}}: Grant {{IconLink|Damage Shield|1}} to the front non-boss enemy unit.<hr> '''Nourishing Feed''':</br>{{IconLink|Resolve}}: Grant {{Health|+35}} and {{IconLink|Spikes|4}} to the front non-boss enemy unit.<hr> '''Vampiric Feed''':</br>{{IconLink|Resolve}}: Grant {{Attack|+7}} and {{IconLink|Lifesteal|1}} to the front non-boss enemy unit."
+      },
+      "ring6": {
+        "value": "Any combat titled '''Cael, Lord of the Cherubs'''"
+      },
+      "flavor": {
+        "value": "''Cael, the eldest of Heaven's cherubs calls upon his kin with his illustrious horn. Now, it is Dominion that truly wields the horn.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 22,
+        "health": 1800
+      },
+      "stats1": {
+        "attack": 22,
+        "health": 2500
+      },
+      "stats4": {
+        "attack": 22,
+        "health": 2800
+      },
+      "stats8": {
+        "attack": 22,
+        "health": 3100
+      }
+    },
+    "meta": {
+      "categories": [
+        " Attack enemies",
+        " Bosses",
+        " Damage Shield enemies",
+        " Health enemies",
+        " Lifesteal enemies",
+        " Relentless enemies",
+        " Resolve enemies",
+        " Ring 6 enemies",
+        " Spell Shield enemies",
+        " Spikes enemies",
+        " Eaten enemies",
+        " Buffet enemies"
+      ]
+    },
+    "summary": "Cael, Lord of the Cherubs is a [[Flying Bosses|major boss]] in Monster Train 2, and can be fought in [[Ring 6]]. He summons Cherubs which cannot attack, but provide buffs to other units by being {{IconLink|Eaten}}, similar to [[Morsels]]. Cael himself can both eat Cherubs and provide buffs to other units.",
+    "source_page": "Cael, Lord of the Cherubs"
+  },
+  {
+    "type": "unknown",
+    "title": "Vampiric Cherub",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Cael,_Lord_of_the_Cherubs#Vampiric Feed]]",
+    "source_page": "Vampiric Cherub"
+  },
+  {
+    "type": "unknown",
+    "title": "Nourishing Cherub",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Cael,_Lord_of_the_Cherubs#Nourishing Feed]]",
+    "source_page": "Nourishing Cherub"
+  },
+  {
+    "type": "unknown",
+    "title": "Holy Cherub",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Cael,_Lord_of_the_Cherubs#Holy Feed]]",
+    "source_page": "Holy Cherub"
+  },
+  {
+    "type": "enemy",
+    "title": "Hallow",
+    "image": "ENM Hallow.png",
+    "fields": {
+      "name": {
+        "value": "Hallow"
+      },
+      "image": {
+        "value": "ENM Hallow.png"
+      },
+      "stats0": {
+        "value": "Bloody Harvest: {{AttackHealth|11/1250}}</br> Doombringers: {{AttackHealth|11/1250}}</br> Inevitability: {{AttackHealth|11/1250}}"
+      },
+      "stats1": {
+        "value": "Bloody Harvest: {{AttackHealth|14/1500}}</br> Doombringers: {{AttackHealth|14/1500}}</br> Inevitability: {{AttackHealth|14/1500}}"
+      },
+      "stats4": {
+        "value": "Bloody Harvest: {{AttackHealth|14/1600}}</br> Doombringers: {{AttackHealth|14/1600}}</br> Inevitability: {{AttackHealth|14/1600}}"
+      },
+      "stats8": {
+        "value": "Bloody Harvest: {{AttackHealth|14/1700}}</br> Doombringers: {{AttackHealth|14/1700}}</br> Inevitability: {{AttackHealth|14/1700}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Titanskin|10}}. {{IconLink|Extinguish}}: [[Stryx]] gains {{IconLink|Titanskin|10}}. {{IconLink|Relentless}} begins next turn.<hr> Bloody Harvest: {{IconLink|Siphon}}: [[Stryx]] gains {{Health|+50}}.<hr> Doombringers: {{IconLink|Incant}}: [[Stryx]] gains {{Health|+30}}.<hr> Inevitability: {{IconLink|Resolve}}: [[Stryx]] gains {{Health|+60}}."
+      },
+      "ring6": {
+        "value": "Any combat titled '''Stryx & Hallow'''"
+      },
+      "flavor": {
+        "value": "''Fire and stone, impulse and consideration—one twin embraced the Titan's corruption while the other resisted. In the end, [[Entropy]]'s touch claimed Hallow, drawn by his yearning for stability. He accepted. For although he feared the Titan's power, he feared losing his sister even more.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "[[1.3]]",
+          "Added '''{{PAGENAME}}'''."
+        ],
+        [
+          "[[1.3.1]]",
+          "Fixed bug where killing [[Stryx]] or [[Hallow]] would sometimes give the other boss double status effects.<br><br>Fixed bug where you could not Ascend [[Stryx]] or [[Hallow]] after the other is defeated."
+        ],
+        [
+          "[[2.0]]",
+          "Fixed bug where boss rush score would not be calculated correctly when [[Stryx]] and [[Hallow]] are killed early. Fixed a rare bug where the game could softlock if [[Stryx]] and [[Hallow]] were killed under certain conditions."
+        ]
+      ]
+    ],
+    "stats": {
+      "stats0": {
+        "attack": 11,
+        "health": 1250
+      },
+      "stats1": {
+        "attack": 14,
+        "health": 1500
+      },
+      "stats4": {
+        "attack": 14,
+        "health": 1600
+      },
+      "stats8": {
+        "attack": 14,
+        "health": 1700
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Extinguish enemies",
+        " Health enemies",
+        " Relentless enemies",
+        " Ring 6 enemies",
+        " Siphon enemies",
+        " Incant enemies",
+        " Resolve enemies",
+        " Titanskin enemies"
+      ]
+    },
+    "summary": "Hallow is a [[Flying Bosses|major boss]] of [[Ring 6]]. He appears as one of three variants, always together with [[Stryx]].",
+    "source_page": "Hallow"
+  },
+  {
+    "type": "enemy",
+    "title": "Stryx",
+    "image": "ENM Stryx.png",
+    "fields": {
+      "name": {
+        "value": "Stryx"
+      },
+      "image": {
+        "value": "ENM Stryx.png"
+      },
+      "stats0": {
+        "value": "Bloody Harvest: {{AttackHealth|13/1100}}</br> Doombringers: {{AttackHealth|13/1100}}</br> Inevitability: {{AttackHealth|13/1100}}"
+      },
+      "stats1": {
+        "value": "Bloody Harvest: {{AttackHealth|16/1350}}</br> Doombringers: {{AttackHealth|16/1350}}</br> Inevitability: {{AttackHealth|16/1350}}"
+      },
+      "stats4": {
+        "value": "Bloody Harvest: {{AttackHealth|16/1450}}</br> Doombringers: {{AttackHealth|16/1450}}</br> Inevitability: {{AttackHealth|16/1450}}"
+      },
+      "stats8": {
+        "value": "Bloody Harvest: {{AttackHealth|16/1550}}</br> Doombringers: {{AttackHealth|16/1550}}</br> Inevitability: {{AttackHealth|16/1550}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Multistrike|1}}. {{IconLink|Live to Fight|png=LiveToFight}}. {{IconLink|Extinguish}}: [[Hallow]] gains {{IconLink|Multistrike|1}}. {{IconLink|Relentless}} begins next turn.<hr> Bloody Harvest: {{IconLink|Revenge}}: Hallow gains {{Attack|+1}}.<hr> Doombringers: {{IconLink|Slay}}: Hallow gains {{Attack|+3}}.<hr> Inevitability: {{IconLink|Loop}}: Hallow gains {{Attack|+8}}."
+      },
+      "ring6": {
+        "value": "Any combat titled '''Stryx & Hallow'''"
+      },
+      "flavor": {
+        "value": "''Her mind might be consumed by the bloodthirsty delirium of [[Savagery]]'s corruption, but she has never forgotten her promise to protect her younger brother. Wherever Hallow flies, Stryx is always close by.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [
+      [
+        [
+          "Version",
+          "Changes"
+        ],
+        [
+          "[[1.3]]",
+          "Added '''{{PAGENAME}}'''."
+        ],
+        [
+          "[[1.3.1]]",
+          "Fixed bug where killing [[Stryx]] or [[Hallow]] would sometimes give the other boss double status effects. Fixed bug where you could not Ascend [[Stryx]] or [[Hallow]] after the other is defeated.",
+          "[[2.0]]",
+          "Fixed bug where boss rush score would not be calculated correctly when [[Stryx]] and [[Hallow]] are killed early. Fixed a rare bug where the game could softlock if [[Stryx]] and [[Hallow]] were killed under certain conditions."
+        ]
+      ]
+    ],
+    "stats": {
+      "stats0": {
+        "attack": 13,
+        "health": 1100
+      },
+      "stats1": {
+        "attack": 16,
+        "health": 1350
+      },
+      "stats4": {
+        "attack": 16,
+        "health": 1450
+      },
+      "stats8": {
+        "attack": 16,
+        "health": 1550
+      }
+    },
+    "meta": {
+      "categories": [
+        " Attack enemies",
+        " Bosses",
+        " Extinguish enemies",
+        " Relentless enemies",
+        " Ring 6 enemies",
+        " Revenge enemies",
+        " Slay enemies",
+        " Loop enemies",
+        " Multistrike enemies"
+      ]
+    },
+    "summary": "Stryx is a [[Flying Bosses|major boss]] of [[Ring 6]]. She appears as one of three variants, always together with [[Hallow]]. Unlike most major bosses, she does not fly and instead moves around the train cycling back to the first floor due to having the status effect {{IconLink|Live to Fight|png=LiveToFight}}.",
+    "source_page": "Stryx"
+  },
+  {
+    "type": "enemy",
+    "title": "Purified Soul",
+    "image": "ENM PurifiedSoul.png",
+    "fields": {
+      "name": {
+        "value": "Purified Soul"
+      },
+      "image": {
+        "value": "ENM PurifiedSoul.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|12|1}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Spell Shield|2}}."
+      },
+      "ring7": {
+        "value": "[[Trials#Mark_of_Invasion|Mark of Invasion]]</br> [[The Observatory#Purified Hordes|Purified Hordes]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Harbinger of Entropy|Harbinger of Entropy]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''These souls have been burned and purified by the Light of Seraph. Unfortunately for them, their pure form has now been tainted by the Titans.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Nicole Anne Alfonso"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 12,
+        "health": 1
+      }
+    },
+    "meta": {
+      "categories": [
+        " Hordes",
+        " Ring 7 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Spell Shield enemies",
+        " Trial spawns"
+      ]
+    },
+    "summary": "The Purified Soul is an enemy in Monster Train 2. They always spawn in groups and appear in the [[Trials#Mark_of_Invasion|Mark of Invasion]] trial in Ring 7. Despite being extremely fragile at only {{Health|1}}, their {{IconLink|Spell Shield|2}} greatly limits your options for killing them.",
+    "source_page": "Purified Soul"
+  },
+  {
+    "type": "enemy",
+    "title": "Ragewing Assassin",
+    "image": "ENM RagewingAssassin.png",
+    "fields": {
+      "name": {
+        "value": "Ragewing Assassin"
+      },
+      "image": {
+        "value": "ENM RagewingAssassin.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|5|5}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|6|5}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|7|5}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Sweep}}."
+      },
+      "ring7": {
+        "value": "[[The Observatory#Savagery's Final Assault|Savagery's Final Assault]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Champion of Savagery|Champion of Savagery]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''Once one of Heaven's elite task force, Savagery has graced them with new powers and unleashed their urge to kill.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Ishmael E. Hoover"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 5,
+        "health": 5
+      },
+      "stats1": {
+        "attack": 6,
+        "health": 5
+      },
+      "stats8": {
+        "attack": 7,
+        "health": 5
+      }
+    },
+    "meta": {
+      "categories": [
+        " Attackers",
+        " Ring 7 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Sweep enemies",
+        " Rage enemies",
+        " Multistrike enemies"
+      ]
+    },
+    "summary": "The Ragewing Assassin is an enemy in Monster Train 2. It is a backline enemy notable for its {{IconLink|Sweep}} ability.",
+    "source_page": "Ragewing Assassin"
+  },
+  {
+    "type": "enemy",
+    "title": "Deformed Duo",
+    "image": "ENM DeformedDuo.png",
+    "fields": {
+      "name": {
+        "value": "Deformed Duo"
+      },
+      "image": {
+        "value": "ENM DeformedDuo.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|7/10}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|8/10}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|9/10}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Reanimate|2}}.<br>{{IconLink|Strike}}: Apply {{IconLink|Corruption|6}}."
+      },
+      "ring7": {
+        "value": "[[The Observatory#Dominion's Disdain|Dominion's Disdain]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Chosen of Dominion|Chosen of Dominion]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''A bond forged through combat has turned into a twisted codependency, their permanent bond fueling an onslaught of corruption.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Mikhail Cang"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 7,
+        "health": 10
+      },
+      "stats1": {
+        "attack": 8,
+        "health": 10
+      },
+      "stats8": {
+        "attack": 9,
+        "health": 10
+      }
+    },
+    "meta": {
+      "categories": [
+        " Attackers",
+        " Corruption enemies",
+        " Reanimate enemies",
+        " Ring 7 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Strike enemies"
+      ]
+    },
+    "summary": "The Deformed Duo is an enemy in Monster Train 2. It is a resilient backline enemy with {{IconLink|Reanimate}} that applies {{IconLink|Corruption}} on {{IconLink|Strike}}.",
+    "source_page": "Deformed Duo"
+  },
+  {
+    "type": "enemy",
+    "title": "Celestial Bastion",
+    "image": "ENM CelestialBastion.png",
+    "fields": {
+      "name": {
+        "value": "Celestial Bastion"
+      },
+      "image": {
+        "value": "ENM CelestialBastion.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealthArmor|0|30|120}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Titanskin|10}}."
+      },
+      "ring7": {
+        "value": "[[The Observatory#Dominion's Disdain|Dominion's Disdain]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Harbinger of Entropy|Harbinger of Entropy]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''It is somewhat poetic, in a way, that the very unwavering faith these soldiers had in Heaven was taken and transformed into a gruesome shell, forever encapsulating their bodies.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Rithyra Bin"
+      }
+    },
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " Ring 6 enemies",
+        " Ring 7 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Shieldguards",
+        " Titanskin enemies",
+        " Armor enemies",
+        " Enchant enemies"
+      ]
+    },
+    "summary": "The Celestial Bastion is an enemy in Monster Train 2. It is a tanky frontline enemy with {{IconLink|Titanskin|10}}, making low-damage units and spells ineffective.",
+    "source_page": "Celestial Bastion"
+  },
+  {
+    "type": "enemy",
+    "title": "Avowed Gladiator",
+    "image": "ENM AvowedGladiator.png",
+    "fields": {
+      "name": {
+        "value": "Avowed Gladiator"
+      },
+      "image": {
+        "value": "ENM AvowedGladiator.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|8|325}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|8|375}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|9|500}}"
+      },
+      "ability0": {
+        "value": "None"
+      },
+      "ring7": {
+        "value": "[[The Observatory#Dominion's Disdain|Dominion's Disdain]]</br> [[The Observatory#Purified Hordes|Purified Hordes]]</br> [[The Observatory#Savagery's Final Assault|Savagery's Final Assault]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Champion of Savagery|Champion of Savagery]]</br> [[Heaven's Maw#Chosen of Dominion|Chosen of Dominion]]</br> [[Heaven's Maw#Harbinger of Entropy|Harbinger of Entropy]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''Angels facing serious punishment were given one way to avoid banishment or execution: trial by combat. These Gladiators fought brutally to earn their place back in Heaven, but under a tight leash.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 8,
+        "health": 325
+      },
+      "stats1": {
+        "attack": 8,
+        "health": 375
+      },
+      "stats8": {
+        "attack": 9,
+        "health": 500
+      }
+    },
+    "meta": {
+      "categories": [
+        " Heavies",
+        " Ring 7 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies"
+      ]
+    },
+    "summary": "The Avowed Gladiator is an enemy in Monster Train 2. They are a common tank enemy in Rings 7-9, and have the highest {{Health}} of any non-boss enemy in the game.",
+    "source_page": "Avowed Gladiator"
+  },
+  {
+    "type": "enemy",
+    "title": "Terrifying Amalgam",
+    "image": "ENM TerrifyingAmalgam.png",
+    "fields": {
+      "name": {
+        "value": "Terrifying Amalgam"
+      },
+      "image": {
+        "value": "ENM TerrifyingAmalgam.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|5|250}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|5|300}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|6|425}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Resolve}}: If you have no units on the floor, deals '''5''' damage to the Pyre."
+      },
+      "ring7": {
+        "value": "[[The Observatory#Savagery's Final Assault|Savagery's Final Assault]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Champion of Savagery|Champion of Savagery]]"
+      },
+      "flavor": {
+        "value": "''Wyngh made their fair share of winged heavenly creatures, not just angels. Even before the Titans came, these riders were inseparable from their mounts. Savagery merely made their bonds permanent.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Taylor Bray"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 5,
+        "health": 250
+      },
+      "stats1": {
+        "attack": 5,
+        "health": 300
+      },
+      "stats8": {
+        "attack": 6,
+        "health": 425
+      }
+    },
+    "meta": {
+      "categories": [
+        " Heavies",
+        " Pyre damage enemies",
+        " Resolve enemies",
+        " Ring 7 enemies",
+        " Ring 8 enemies"
+      ]
+    },
+    "summary": "The Terrifying Amalgam is an enemy in Monster Train 2. It is a tanky enemy that unavoidably deals 5 damage to the Pyre on {{IconLink|Resolve}} if no friendly units survive on the floor.",
+    "source_page": "Terrifying Amalgam"
+  },
+  {
+    "type": "enemy",
+    "title": "Discordant Heretic",
+    "image": "ENM DiscordantHeretic.png",
+    "fields": {
+      "name": {
+        "value": "Discordant Heretic"
+      },
+      "image": {
+        "value": "ENM DiscordantHeretic.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|4|20}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|5|20}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|6|20}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Resolve}}: Add a '''[[Resonant Ruin]]''' card to the top of your draw pile."
+      },
+      "ring7": {
+        "value": "[[The Observatory#Dominion's Disdain|Dominion's Disdain]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Chosen of Dominion|Chosen of Dominion]]"
+      },
+      "flavor": {
+        "value": "''Fervent worshippers of Dominion can deliver devastating curses to their foes, bringing them to their knees without delivering a single blow.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Michaela Nienaber"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 4,
+        "health": 20
+      },
+      "stats1": {
+        "attack": 5,
+        "health": 20
+      },
+      "stats8": {
+        "attack": 6,
+        "health": 20
+      }
+    },
+    "meta": {
+      "categories": [
+        " Mages",
+        " Resolve enemies",
+        " Ring 7 enemies",
+        " Ring 8 enemies",
+        " Scourge enemies"
+      ]
+    },
+    "summary": "The Discordant Heretic is an enemy in Monster Train 2. It is a backline enemy that pollutes your draw with [[Resonant Ruin]].",
+    "source_page": "Discordant Heretic"
+  },
+  {
+    "type": "enemy",
+    "title": "Enthralled Ardent",
+    "image": "ENM EnthralledArdent.png",
+    "fields": {
+      "name": {
+        "value": "Enthralled Ardent"
+      },
+      "image": {
+        "value": "ENM EnthralledArdent.png"
+      },
+      "stats0": {
+        "value": "'''40'''[[file:Rejuvenate.png|15x15px]]/{{Health|15}}"
+      },
+      "ability0": {
+        "value": "[[file:Rejuvenate.png|15x15px]] '''Recover''': Restore {{Health|40}} to enemy units after combat.<br> {{IconLink|Incant}}: Grant non-boss enemy units {{Attack|5}}."
+      },
+      "ring7": {
+        "value": "[[The Observatory#Purified Hordes|Purified Hordes]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Harbinger of Entropy|Harbinger of Entropy]]"
+      },
+      "ring9": {
+        "value": "[[The_Great_Abyss#Clash_with_the_Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''The highest rank of Heaven's disciples, these ardents once helped steward Seraph's Light. They now wield it against us.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Nicole Anne Alfonso"
+      }
+    },
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": [
+        " Attack enemies",
+        " Area of effect enemies",
+        " Clerics",
+        " Recover enemies",
+        " Ring 7 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Incant enemies"
+      ]
+    },
+    "summary": "The Enthralled Ardent is an enemy in Monster Train 2. It is a backline healer that applies {{Attack}} to enemy units when you {{IconLink|Incant}} on its floor.",
+    "source_page": "Enthralled Ardent"
+  },
+  {
+    "type": "enemy",
+    "title": "Deafening Herald",
+    "image": "ENM DeafeningHerald.png",
+    "fields": {
+      "name": {
+        "value": "Deafening Herald"
+      },
+      "image": {
+        "value": "ENM DeafeningHerald.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|0|8}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|1|8}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Enchant}}: Grant your units {{IconLink|Silence}}."
+      },
+      "ring7": {
+        "value": "[[The Observatory#Purified Hordes|Purified Hordes]]"
+      },
+      "ring8": {
+        "value": "[[Heaven's Maw#Harbinger of Entropy|Harbinger of Entropy]]"
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''The Celestial Chorus can captivate even the fiercest foes. Those who hear its notes find themselves silenced, unable to resist listening to its deft notes.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Samuel Lim"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 0,
+        "health": 8
+      },
+      "stats8": {
+        "attack": 1,
+        "health": 8
+      }
+    },
+    "meta": {
+      "categories": [
+        " Enchant enemies",
+        " Enchanters",
+        " Ring 7 enemies",
+        " Ring 8 enemies",
+        " Ring 9 enemies",
+        " Silence enemies",
+        " Stealth enemies"
+      ]
+    },
+    "summary": "The Deafening Herald is an enemy in Monster Train 2. It is a backline unit that applies {{IconLink|Silence}} to your units on its floor, preventing them from using [[Status_Effects#Triggers|Triggers]], [[Abilities]], and {{IconLink|Enchant}} effects.",
+    "source_page": "Deafening Herald"
+  },
+  {
+    "type": "enemy",
+    "title": "Athane, Last to Fall",
+    "image": "ENM AthaneLastToFall.png",
+    "fields": {
+      "name": {
+        "value": "Athane, Last to Fall"
+      },
+      "image": {
+        "value": "ENM AthaneLastToFall.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|12|1100}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|17|1475}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|17|1725}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|17|2125}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}.</br> {{IconLink|Incant}}: Apply {{IconLink|Spikes|1}} to enemy units.</br> {{Icon|Summon}} '''[[Ascension]]''': Spawn a '''[[Chosen Prayerstone]]'''."
+      },
+      "ring7": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''The last of Heaven's champions to fall in battle. Athane was stoic and unyielding, prime qualities for Entropy. She was also Seraph's right hand, as a more obedient and powerful counterpart to Fel.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Taylor Bray"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 12,
+        "health": 1100
+      },
+      "stats1": {
+        "attack": 17,
+        "health": 1475
+      },
+      "stats4": {
+        "attack": 17,
+        "health": 1725
+      },
+      "stats8": {
+        "attack": 17,
+        "health": 2125
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Revenge enemies",
+        " Relentless enemies",
+        " Ring 7 enemies",
+        " Spikes enemies",
+        " Resolve enemies",
+        " Incant enemies",
+        " Immobile enemies",
+        " Area of effect enemies",
+        " Armor enemies",
+        " Ascension enemies"
+      ]
+    },
+    "summary": "Athane, Last to Fall is one of the possible [[Ring 7]] Bosses. She protects herself with a [[Chosen Prayerstone]] and grants {{IconLink|Spikes}} to enemy units on {{IconLink|Incant}}.",
+    "source_page": "Athane, Last to Fall"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Prayerstone",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Athane, Last to Fall#Chosen Prayerstone]]",
+    "source_page": "Chosen Prayerstone"
+  },
+  {
+    "type": "enemy",
+    "title": "Rax the Overblessed",
+    "image": "ENM RaxTheOverblessed.png",
+    "fields": {
+      "name": {
+        "value": "Rax the Overblessed"
+      },
+      "image": {
+        "value": "ENM RaxTheOverblessed.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|9|1100}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|14|1475}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|14|1725}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|14|2125}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Multistrike|1}}.</br> {{IconLink|Rage|8}}</br> {{IconLink|Regen|20}}.</br> {{IconLink|Spell Shield|2}}.</br> {{IconLink|Resolve}}: Gain {{IconLink|Rage|8}}, {{IconLink|Regen|20}}, and {{IconLink|Spell Shield|2}}."
+      },
+      "ability4": {
+        "value": "{{IconLink|Resolve}}: Gain {{IconLink|Multistrike|1}}."
+      },
+      "ring7": {
+        "value": "Any combat"
+      },
+      "flavor": {
+        "value": "''One by one, the Three tried and failed to defeat him. Each time they battled, Rax took on their powers until, without a fight, he was corrupted by their magic.''"
+      },
+      "titan": {
+        "value": "[[Entropy]], [[Dominion]], [[Savagery]]"
+      },
+      "artist": {
+        "value": "Taylor Bray"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 9,
+        "health": 1100
+      },
+      "stats1": {
+        "attack": 14,
+        "health": 1475
+      },
+      "stats4": {
+        "attack": 14,
+        "health": 1725
+      },
+      "stats8": {
+        "attack": 14,
+        "health": 2125
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Relentless enemies",
+        " Ring 7 enemies",
+        " Resolve enemies",
+        " Rage enemies",
+        " Multistrike enemies",
+        " Spell Shield enemies",
+        " Regen enemies"
+      ]
+    },
+    "summary": "Rax the Overblessed is one of the possible [[Ring 7]] Bosses. He deals very high damage, strikes twice, and gets even stronger if allowed to {{IconLink|Resolve}}.",
+    "source_page": "Rax the Overblessed"
+  },
+  {
+    "type": "enemy",
+    "title": "Seraph Aeternus-The Dominant",
+    "image": "ENM SeraphAeternusDominion.png",
+    "fields": {
+      "name": {
+        "value": "Seraph Aeternus-The Dominant"
+      },
+      "image": {
+        "value": "ENM SeraphAeternusDominion.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|20|2800}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|20|3800}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|20|5300}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|20|6300}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}.</br> {{IconLink|Strike}}: Double {{IconLink|Corruption}} on the attacked unit.</br> {{IconLink|Action}}: Apply {{IconLink|Corruption|2}} to your units."
+      },
+      "ring8": {
+        "value": "[[Heaven%27s_Maw#Champion_of_Savagery|Chosen of Dominion]]"
+      },
+      "flavor": {
+        "value": "''Order, control, obedience. Dominion's promises of power were those which Seraph valued the most. It is no coincidence that of the Three, Seraph and Dominion are the most alike.''"
+      },
+      "titan": {
+        "value": "[[Dominion]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 20,
+        "health": 2800
+      },
+      "stats1": {
+        "attack": 20,
+        "health": 3800
+      },
+      "stats4": {
+        "attack": 20,
+        "health": 5300
+      },
+      "stats8": {
+        "attack": 20,
+        "health": 6300
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Action enemies",
+        " Area of effect enemies",
+        " Corruption enemies",
+        " Strike enemies",
+        " Ring 8 enemies",
+        " Relentless enemies"
+      ]
+    },
+    "summary": "Seraph Aeternus-The Dominant is the [[flying boss]] of the Ring 8 [[Heaven%27s_Maw#Chosen_of_Dominion|Chosen of Dominion]] fight. He applies {{IconLink|Corruption|2}} to your units on {{IconLink|Action}} and doubles {{IconLink|Corruption}} on {{IconLink|Strike}}. If the [[Trials#Boss_Variants|Titan Trial]] is activated, his {{IconLink|Action}} instead applies {{IconLink|Corruption|4}}.",
+    "source_page": "Seraph Aeternus-The Dominant"
+  },
+  {
+    "type": "enemy",
+    "title": "Seraph Aeternus-The Entropic",
+    "image": "ENM SeraphAeternusEntropy.png",
+    "fields": {
+      "name": {
+        "value": "Seraph Aeternus-The Entropic"
+      },
+      "image": {
+        "value": "ENM SeraphAeternusEntropy.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|35|3800}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|35|4800}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|35|6300}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|35|7300}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}.</br> {{IconLink|Resolve}}: Add a '''[[Curse of Entropy]]''' card to your deck.</br>{{IconLink|Enchant}}: Grant your units {{IconLink|Sap|5}}."
+      },
+      "ring8": {
+        "value": "[[Heaven%27s_Maw#Harbinger of Entropy|Harbinger of Entropy]]"
+      },
+      "flavor": {
+        "value": "''Seraph feared his own demise above all else. Eons of rule weren't long enough, he craved eternity. Entropy gave him the solution he longed for.''"
+      },
+      "titan": {
+        "value": "[[Entropy]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 35,
+        "health": 3800
+      },
+      "stats1": {
+        "attack": 35,
+        "health": 4800
+      },
+      "stats4": {
+        "attack": 35,
+        "health": 6300
+      },
+      "stats8": {
+        "attack": 35,
+        "health": 7300
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Sap enemies",
+        " Enchant enemies",
+        " Resolve enemies",
+        " Relentless enemies",
+        " Scourge enemies"
+      ]
+    },
+    "summary": "Seraph Aeternus-The Entropic is the [[flying boss]] of the Ring 8 [[Heaven%27s_Maw#Harbinger of Entropy|Harbinger of Entropy]] fight. He pollutes your draw with [[Curse of Entropy]] and applies {{IconLink|Sap}} to your units on his floor.",
+    "source_page": "Seraph Aeternus-The Entropic"
+  },
+  {
+    "type": "enemy",
+    "title": "Seraph Aeternus-The Savage",
+    "image": "ENM SeraphAeternusSavagery.png",
+    "fields": {
+      "name": {
+        "value": "Seraph Aeternus-The Savage"
+      },
+      "image": {
+        "value": "ENM SeraphAeternusSavagery.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|30|3000}}"
+      },
+      "stats1": {
+        "value": "{{AttackHealth|30|4000}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|30|5500}}"
+      },
+      "stats8": {
+        "value": "{{AttackHealth|30|6500}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Relentless}}.</br> {{IconLink|Enchant}}: Grant enemy units {{IconLink|Rage|3}}."
+      },
+      "ring8": {
+        "value": "[[Heaven%27s_Maw#Champion_of_Savagery|Champion of Savagery]]"
+      },
+      "flavor": {
+        "value": "''Seraph saw himself as righteous, but those he punished knew of his true nature. Savagery's blessing was an excuse to finally allow himself to give into his lesser impulses.''"
+      },
+      "titan": {
+        "value": "[[Savagery]]"
+      },
+      "artist": {
+        "value": "Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 30,
+        "health": 3000
+      },
+      "stats1": {
+        "attack": 30,
+        "health": 4000
+      },
+      "stats4": {
+        "attack": 30,
+        "health": 5500
+      },
+      "stats8": {
+        "attack": 30,
+        "health": 6500
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Rage enemies",
+        " Melee weakness enemies",
+        " Enchant enemies",
+        " Relentless enemies"
+      ]
+    },
+    "summary": "Seraph Aeternus-The Savage is the [[flying boss]] of the Ring 8 [[Heaven%27s_Maw#Champion_of_Savagery|Champion of Savagery]] fight. He grants {{IconLink|Rage|3}} to enemy units on his floor. Additionally, your units enter with {{IconLink|Melee Weakness|1}}.  If the [[Trials#Boss_Variants|Titan Trial]] is activated, he instead grants {{IconLink|Rage|6}} and your units enter with {{IconLink|Melee Weakness|2}}.",
+    "source_page": "Seraph Aeternus-The Savage"
+  },
+  {
+    "type": "enemy",
+    "title": "Entropy",
+    "image": "ENM TitanOfEntropy.png",
+    "fields": {
+      "name": {
+        "value": "Entropy"
+      },
+      "image": {
+        "value": "ENM TitanOfEntropy.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|15|3500}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|20|4500}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Fate Link}}.<br> {{IconLink|Immobile}}.<br> {{IconLink|Resolve}}: Add a '''[[Curse of Entropy]]''' to your deck."
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''Everything moves towards the inevitable. Entropy is neither fury, nor command, but is instead an unyielding, unfeeling force of nature.''"
+      },
+      "titan": {
+        "value": "N/A"
+      },
+      "artist": {
+        "value": "William Smith/Genevieve Bega"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 15,
+        "health": 3500
+      },
+      "stats4": {
+        "attack": 20,
+        "health": 4500
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Resolve enemies",
+        " Sap enemies",
+        " Scourge enemies",
+        " Fate Link enemies",
+        " Immobile enemies"
+      ]
+    },
+    "summary": "Entropy is one of the three Titans battled in [[Ring 9]], and one of the main antagonists of the game. It is themed around inevitability and the void. Entropy and the enemies it blesses feature purple crystals, grey stone or metal elements, and depictions of voids surrounded by accretion disks.",
+    "source_page": "Entropy"
+  },
+  {
+    "type": "enemy",
+    "title": "Dominion",
+    "image": "ENM TitanOfDominion.png",
+    "fields": {
+      "name": {
+        "value": "Dominion"
+      },
+      "image": {
+        "value": "ENM TitanOfDominion.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|3|1555}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|3|2055}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Fate Link}}. {{IconLink|Immobile}}. {{IconLink|Pyre Bound}}. {{IconLink|Spell Shield|4}}.<br>{{IconLink|Resolve}}: Add '''[[Pyre Light]]''' to your hand. Apply {{IconLink|Corruption|5}} to your front unit on all floors."
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "Dominion does not command by strength alone. Instead, he twists one's will to his own. Under Dominion, you are not just compelled to obey, you are reshaped to want it."
+      },
+      "titan": {
+        "value": "N/A"
+      },
+      "artist": {
+        "value": "Luke Banke"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 3,
+        "health": 1555
+      },
+      "stats4": {
+        "attack": 3,
+        "health": 2055
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Resolve enemies",
+        " Immobile enemies",
+        " Fate Link enemies",
+        " Corruption enemies",
+        " Spell Shield enemies"
+      ]
+    },
+    "summary": "Dominion is one of the three Titans battled in [[Ring 9]], and one of the main antagonists of the game. He is themed around control and manipulation. Dominion and the enemies he blesses feature numerous eyes and many green arms. Unlike most major bosses, he does not fly and instead stays within the Pyre Room due to having the status effect {{IconLink|Pyre Bound}}.",
+    "source_page": "Dominion"
+  },
+  {
+    "type": "enemy",
+    "title": "Savagery",
+    "image": "ENM TitanOfSavagery.png",
+    "fields": {
+      "name": {
+        "value": "Savagery"
+      },
+      "image": {
+        "value": "ENM TitanOfSavagery.png"
+      },
+      "stats0": {
+        "value": "{{AttackHealth|10|2750}}"
+      },
+      "stats4": {
+        "value": "{{AttackHealth|15|3250}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Fate Link}}.<br> {{Icon|LiveToFight}} '''[[Live to Fight]]'''.<br> {{IconLink|Trample}}.<br> {{IconLink|Resolve}}: Gain {{IconLink|Rage|2}}. If you have no units on the floor, deals 5 damage to the Pyre.</br> {{IconLink|Loop}}: Gain {{IconLink|Multistrike|1}}."
+      },
+      "ring9": {
+        "value": "[[The Great Abyss#Clash with the Titans|Clash with the Titans]]"
+      },
+      "flavor": {
+        "value": "''Savagery is the embodiment of unbridled fury. He knows no restraint, only the overwhelming instinct to conquer. Those who follow him share his thirst for destruction.''"
+      },
+      "titan": {
+        "value": "N/A"
+      },
+      "artist": {
+        "value": "Luke Banke"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 10,
+        "health": 2750
+      },
+      "stats4": {
+        "attack": 15,
+        "health": 3250
+      }
+    },
+    "meta": {
+      "categories": [
+        " Bosses",
+        " Resolve enemies",
+        " Trample enemies",
+        " Rage enemies",
+        " Multistrike enemies",
+        " Loop enemies",
+        " Pyre damage enemies",
+        " Fate Link enemies"
+      ]
+    },
+    "summary": "Savagery is one of the three Titans battled in [[Ring 9]], and one of the main antagonists of the game. He is themed around rage and combat. Savagery and the enemies he blesses feature heavy armor and fleshy appendages, often with weapons attached. Unlike most major bosses, he does not fly between different floors. Instead, he has {{Icon|LiveToFight}} [[Live to Fight]] and moves like a normal enemy, moving back down to the bottom floor rather than entering the Pyre room in the same way as [[Stryx]].",
+    "source_page": "Savagery"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Flagellant",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Flagellant#Chosen Flagellant]]",
+    "source_page": "Chosen Flagellant"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Acolyte",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Ominous Acolyte#Chosen Acolyte]]",
+    "source_page": "Chosen Acolyte"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Sniper",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Sharp-Eye Sniper#Chosen Sniper]]",
+    "source_page": "Chosen Sniper"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Shieldbearer",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Adamant Shieldbearer#Chosen Shieldbearer]]",
+    "source_page": "Chosen Shieldbearer"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Zealot",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Ravenous Zealot#Chosen Zealot]]",
+    "source_page": "Chosen Zealot"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Supplicant",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Profane_Supplicant#Chosen_Supplicant]]",
+    "source_page": "Chosen Supplicant"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Assassin",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Ragewing Assassin#Chosen Assassin]]",
+    "source_page": "Chosen Assassin"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Bastion",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Celestial Bastion#Chosen Bastion]]",
+    "source_page": "Chosen Bastion"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Ardent",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Enthralled Ardent#Chosen Ardent]]",
+    "source_page": "Chosen Ardent"
+  },
+  {
+    "type": "unknown",
+    "title": "Chosen Herald",
+    "image": "",
+    "fields": {},
+    "tables": [],
+    "stats": null,
+    "meta": {
+      "categories": []
+    },
+    "summary": "#REDIRECT [[Deafening Herald#Chosen Herald]]",
+    "source_page": "Chosen Herald"
+  },
+  {
+    "type": "enemy",
+    "title": "Collector",
+    "image": "ENM Collector.png",
+    "fields": {
+      "name": {
+        "value": "Collector"
+      },
+      "image": {
+        "value": "ENM Collector.png"
+      },
+      "stats0": {
+        "value": "Rings 1-2: {{AttackHealth|0/1}}</br> Rings 4-5: {{AttackHealth|0/3}}</br> Ring 7: {{AttackHealth|0/5}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Resolve}}: Flees from battle if not {{IconLink|Rooted}} or {{IconLink|Dazed}}.</br> Rings 1-2: {{IconLink|Extinguish}}: Gain {{Gold|50}}.</br> Rings 4-5: {{IconLink|Extinguish}}: Gain {{Gold|75}}.</br> Ring 7: {{IconLink|Extinguish}}: Gain {{Gold|100}}.</br>"
+      },
+      "ring1": {
+        "value": "All combats"
+      },
+      "ring2": {
+        "value": "All combats"
+      },
+      "ring4": {
+        "value": "All combats"
+      },
+      "ring5": {
+        "value": "All combats"
+      },
+      "ring7": {
+        "value": "All combats"
+      },
+      "flavor": {
+        "value": "Cael's scavenger cherubs are constantly at work, searching for anything gold and shiny they can get their hands on. As for where these Cherubs stash Heaven's treasure, no one knows."
+      },
+      "titan": {
+        "value": "None"
+      },
+      "artist": {
+        "value": "Nicole Anne Alfonso"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 0,
+        "health": 1
+      }
+    },
+    "meta": {
+      "categories": [
+        " Resolve enemies",
+        " Extinguish enemies",
+        " Ring 1 enemies",
+        " Ring 2 enemies",
+        " Ring 4 enemies",
+        " Ring 5 enemies",
+        " Ring 7 enemies"
+      ]
+    },
+    "summary": "The Collector is a special enemy that always appears in [[Rings]] 1, 2, 4, 5, and 7. At the start of turn 2 or turn 3 of combat, he spawns at the back of a random enemy floor. Killing him grants between 50 and 100 {{Gold}} depending on the Ring. Otherwise, he disappears from combat at the end of the turn. He can also be {{IconLink|Rooted}} or {{IconLink|Dazed}} to prevent him from fleeing. If {{IconLink|Dazed}}, he will not ascend and will instead end up in the front of the floor.",
+    "source_page": "Collector"
+  },
+  {
+    "type": "enemy",
+    "title": "Skull Collector",
+    "image": "ENM SkullCollector.png",
+    "fields": {
+      "name": {
+        "value": "Skull Collector"
+      },
+      "image": {
+        "value": "ENM SkullCollector.png"
+      },
+      "stats0": {
+        "value": "Rings 1-2: {{AttackHealth|5/11}}</br> Rings 4-5: {{AttackHealth|10/23}}</br> Ring 7: {{AttackHealth|15/35}}"
+      },
+      "ability0": {
+        "value": "Rings 1-2: {{IconLink|Extinguish}}: Gain {{Gold|50}}.</br> Rings 4-5: {{IconLink|Extinguish}}: Gain {{Gold|75}}.</br> Ring 7: {{IconLink|Extinguish}}: Gain {{Gold|100}}.</br>"
+      },
+      "ring1": {
+        "value": "All combats"
+      },
+      "ring2": {
+        "value": "All combats"
+      },
+      "ring4": {
+        "value": "All combats"
+      },
+      "ring5": {
+        "value": "All combats"
+      },
+      "ring7": {
+        "value": "All combats"
+      },
+      "flavor": {
+        "value": "''Cael's scavenger cherubs are constantly at work, searching for anything gold and shiny they can get their hands on. As for where these Cherubs stash Heaven's treasure, no one knows.''"
+      },
+      "titan": {
+        "value": "None"
+      },
+      "artist": {
+        "value": "Nicole Anne Alfonso"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 5,
+        "health": 11
+      }
+    },
+    "meta": {
+      "categories": [
+        " Extinguish enemies",
+        " Ring 1 enemies",
+        " Ring 2 enemies",
+        " Ring 4 enemies",
+        " Ring 5 enemies",
+        " Ring 7 enemies"
+      ]
+    },
+    "summary": "The Skull Collector is a special enemy that replaces the [[Collector]] when the Skull Collectors [[Mutators|Mutator]] is enabled. Its behavior is identical to the Collector, but it never retreats from combat and it has increased stats.",
+    "source_page": "Skull Collector"
+  },
+  {
+    "type": "enemy",
+    "title": "Penitent Prayerstone",
+    "image": "ENM PenitentPrayerstone.png",
+    "fields": {
+      "name": {
+        "value": "Penitent Prayerstone"
+      },
+      "image": {
+        "value": "ENM PenitentPrayerstone.png"
+      },
+      "stats0": {
+        "value": "Rings 4-5: {{AttackHealth|0/100}}</br> Ring 7: {{AttackHealth|0/200}}"
+      },
+      "ability0": {
+        "value": "{{IconLink|Immobile}}.<br>Rings 4-5: {{Icon|Spikes}} '''[[Spikes]] 4'''.</br> Ring 7: {{Icon|Spikes}} '''[[Spikes]] 6'''.</br>"
+      },
+      "ring4": {
+        "value": "[[Trials#Thorn Guard|Thorn Guard]]"
+      },
+      "ring5": {
+        "value": "[[Trials#Thorn Guard|Thorn Guard]]"
+      },
+      "ring7": {
+        "value": "[[Trials#Thorn Guard|Thorn Guard]]"
+      },
+      "flavor": {
+        "value": "''These statues were around long before the Titans came. No one knows what made them, or who these angels once were...''"
+      },
+      "titan": {
+        "value": "None"
+      },
+      "artist": {
+        "value": "Lauren Russo"
+      }
+    },
+    "tables": [],
+    "stats": {
+      "stats0": {
+        "attack": 0,
+        "health": 100
+      }
+    },
+    "meta": {
+      "categories": [
+        " Spikes enemies",
+        " Immobile enemies",
+        " Trial spawns"
+      ]
+    },
+    "summary": "The Penitent Prayerstone is a special enemy featured in the [[Trials#Thorn Guard|Thorn Guard]] trial on [[Rings]] 4, 5, and 7. At the start of combat, a Prayerstone spawns at the front of each floor. The Prayerstones have high {{Health}} and {{IconLink|Spikes}}. Most units will be forced to fight through them before being reaching the enemy waves, taking {{IconLink|Spikes}} damage in the process.",
+    "source_page": "Penitent Prayerstone"
+  }
+]

@@ -1,0 +1,189 @@
+<!-- 怪物火车2 - 房间卡片 -->
+<!-- 用于: 所有房间卡牌 -->
+<div class="mt2-room">
+    <div class="mt2-room-header">
+        <div class="mt2-room-title">Death's Dancer</div>
+        <div class="mt2-room-type">房间</div>
+        <div class="mt2-room-rarity mt2-rarity-Rare">Rare</div>
+    </div>
+
+    
+    <div class="mt2-room-image">
+        <img src="res/preview_card.png" alt="Death's Dancer">
+    </div>
+    
+
+    <div class="mt2-room-info">
+        <div class="mt2-room-attr">
+            <span class="mt2-room-attr-label">氏族</span>
+            <span class="mt2-room-attr-value">Banished</span>
+        </div>
+        <div class="mt2-room-attr">
+            <span class="mt2-room-attr-label">费用</span>
+            <span class="mt2-room-attr-value mt2-room-cost"><img src="res/ui/Ember.png" class="mt2-icon"> 1</span>
+        </div>
+    </div>
+
+    
+    <div class="mt2-room-effect">
+        <div class="mt2-room-effect-label">效果</div>
+        <div class="mt2-room-effect-text">Advance. Apply Valor 2.</div>
+    </div>
+    
+
+    
+    <div class="mt2-room-flavor">
+        <i>"Dance is a poem..."</i>
+    </div>
+    
+
+    
+    <div class="mt2-room-artist">画师: Loy Bouttamy</div>
+    
+</div>
+
+<style>
+    .mt2-room {
+        width: 100%;
+        max-width: 420px;
+        background: linear-gradient(180deg, #0a1a10 0%, #0a0d1a 100%);
+        border: 2px solid #40a060;
+        border-radius: 8px;
+        overflow: hidden;
+        font-family: "Microsoft YaHei", sans-serif;
+        color: #b0d0b0;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+        margin: 10px auto;
+    }
+
+    .mt2-room-header {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 14px;
+        background: linear-gradient(180deg, #102a18, #0a1a10);
+        border-bottom: 1px solid #1a4020;
+    }
+
+    .mt2-room-title {
+        flex: 1;
+        font-size: 18px;
+        font-weight: bold;
+        color: #80d0a0;
+    }
+
+    .mt2-room-type {
+        font-size: 10px;
+        padding: 2px 8px;
+        border-radius: 3px;
+        background: #1a3020;
+        color: #50a060;
+        font-weight: bold;
+    }
+
+    .mt2-room-rarity {
+        font-size: 11px;
+        padding: 2px 8px;
+        border-radius: 3px;
+        font-weight: bold;
+    }
+    .mt2-rarity-Common { background: #2a3a20; color: #90a080; }
+    .mt2-rarity-Uncommon { background: #3a3050; color: #a0b0e0; }
+    .mt2-rarity-Rare { background: #4a2a10; color: #f0c040; }
+
+    .mt2-room-image {
+        text-align: center;
+        padding: 12px 0;
+        background: radial-gradient(ellipse, #0a1a10, #0a0d1a);
+    }
+    .mt2-room-image img {
+        max-height: 200px;
+        margin: 0 !important;
+    }
+
+    .mt2-room-info {
+        display: flex;
+        padding: 6px 8px;
+        background: rgba(0,0,0,0.3);
+        border-top: 1px solid #1a3018;
+        gap: 4px;
+    }
+
+    .mt2-room-attr {
+        flex: 1;
+        text-align: center;
+        padding: 4px 6px;
+    }
+
+    .mt2-room-attr-label {
+        display: block;
+        font-size: 10px;
+        color: #5a7a50;
+        letter-spacing: 1px;
+    }
+
+    .mt2-room-attr-value {
+        display: block;
+        font-size: 14px;
+        color: #b0d0b0;
+        font-weight: bold;
+    }
+
+    .mt2-room-cost {
+        color: #f0a030;
+    }
+
+    .mt2-room-effect {
+        padding: 12px 14px;
+        background: rgba(64,160,96,0.06);
+        border-top: 1px solid #1a3018;
+        border-left: 3px solid #40a060;
+    }
+
+    .mt2-room-effect-label {
+        font-size: 11px;
+        color: #50a060;
+        font-weight: bold;
+        margin-bottom: 6px;
+        letter-spacing: 2px;
+    }
+
+    .mt2-room-effect-text {
+        font-size: 13px;
+        color: #a0c8a0;
+        line-height: 1.6;
+    }
+
+    .mt2-room-flavor {
+        padding: 10px 14px;
+        font-size: 12px;
+        color: #5a7a50;
+        text-align: center;
+        font-style: italic;
+        border-top: 1px solid #121a12;
+    }
+
+    .mt2-room-artist {
+        padding: 6px 14px;
+        font-size: 10px;
+        color: #3a5a30;
+        text-align: right;
+        border-top: 1px solid #121a12;
+    }
+
+    a { color: inherit !important; }
+
+    .mt2-icon {
+        width: 15px;
+        height: 15px;
+        vertical-align: middle;
+        margin-right: 2px;
+    }
+
+    .mt2-stat-icon-small {
+        width: 18px;
+        height: 18px;
+        vertical-align: middle;
+        margin-right: 2px;
+    }
+</style>

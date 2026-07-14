@@ -1,0 +1,2431 @@
+{{怪物火车2-卡牌名片
+|name=Alloyed Construct
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_AlloyedConstruct.png
+|clan=Umbra
+|cost=1
+|rarity=Uncommon
+|flavor=As their understanding of the world around them grew, the Umbra were able to create autonomous machines to do the work of one thousand Morsels. They've since served the additional roles of Crucible defender and my personal guard into the depths of Hell.
+|artist=Cameron Archer
+|type=Construct
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Inert}}. {{IconLink&#124;Multistrike&#124;1}}. {{IconLink&#124;Fuel&#124;2}}.<br>{{IconLink&#124;Gorge}}: Gain {{IconLink&#124;Fuel&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Alpha Fiend
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR AlphaFiend.png
+|clan=Hellhorned
+|cost=2
+|rarity=Uncommon
+|flavor=These ancient demons of the Hellhorned live a reclusive life on the edge of the Scorched Plains. Their isolated existence has made them even more difficult to communicate with, but they seem to understand the peril their clan is in since they've joined me on this perilous journey.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Demon
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Strike}}: {{Attack&#124;+15}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Amorous Enoki
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_AmorousEnoki.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|flavor=A lover of love and all things lovely, this mushroom can charm the bark off a tree.
+|artist=Hung Bui
+|type=Shroom
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Rally}}: Apply {{IconLink&#124;Regen&#124;1}} and {{Health&#124;+1}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Animus of Speed
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_AnimusOfWill.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|flavor=Newly formed, this Animus is no longer protected by its steel armor, making it quicker and deadlier. It is possessed by the soul of the Wildwood and the Channelers who guard it, often making my conversations with it obtuse and pointless.
+|artist=Taylor Bray
+|type=Animus
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Quick}}.<br>{{AbilityBox&#124;Swiftshot&#124;2&#124;Attack any enemy immediately.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Animus of Will
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_AnimusOfSpeed.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|flavor=These Animus have grown to see beyond their Ring. Preternaturally aware of the actions of their enemies, they can predict their movements and strike accordingly. I've learned that they are rarely created by Channelers since their gift of sight can expose them to the reality of their imprisonment.
+|artist=Taylor Bray
+|type=Animus
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Multistrike&#124;2}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Antumbra Morsel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_AntumbraMorsel.png
+|clan=Umbra
+|cost=0
+|rarity=Uncommon
+|flavor=These precursors of the souls of Hell, called Antumbra, are fragments of the Umbra Shroud. Their friendly personalities make them my constant companions anytime I travel to the Crucible.
+|artist=Anita Tung
+|type=Morsel
+|banner=No
+|size=1
+|ability={{IconLink&#124;Eaten}}: Eater gains {{Health&#124;+9}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Apex Imp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ApexImp.png
+|clan=Hellhorned
+|cost=1
+|rarity=Rare
+|flavor=As I have recorded at great length, the cycling of Imps to Demons and back again is an often observed phenomenon. Their existence in a sort of "transition state," however, is rarely seen. These Imps, almost Demons, exhibit reserved behavior and a sort of misplaced confidence that I've only seen in human adolescents on their way to adulthood. I can understand the Hellhorned's hesitance to make these Imps known...
+|artist=Jordan Thomas
+|type=Demon Imp
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Armored}}: Gain {{IconLink&#124;Rage}} equal to gained {{IconLink&#124;Armor}}.<br>{{IconLink&#124;Summon}}: Gain {{IconLink&#124;Armor&#124;5}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Arduhn
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Arduhn.png
+|clan=Luna Coven
+|cost=0
+|rarity=Champion
+|flavor=As head of the Silent Guard, Arduhn is the keeper of the Coven's darkest secrets. Perhaps had he gone against his oath and revealed the prophecy, he could have saved his family and home.
+|artist=Taylor Bray
+|type=Champion
+|banner=No
+|size=2
+|ability={{IconLink&#124;Mageblade&#124;2}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Astrologer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Astrologer.png
+|clan=[[Luna Coven]]
+|cost=1
+|rarity=Uncommon
+|flavor="Let me look at your star chart. I see you were born under the Blessed Moon? Oh dear, that's no good..."
+|artist=Mary Ngai-Virgo
+|type=Selene
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Mooncycle}}: {{Attack&#124;+5}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Aurora Weaver
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_AuroraWeaver.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|flavor="Oh, your aura! It feels so... malevolent! Do not worry, I'll cut away the negative energy with my blade!"
+|artist=Luke Banke
+|type=Selene
+|banner=No
+|size=1
+|ability={{IconLink&#124;Mooncycle}}: Gain {{IconLink&#124;Conduit&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Avenger
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Avenger.png
+|clan=Banished
+|cost=2
+|rarity=Uncommon
+|flavor=Once the keepers of Heaven's Walls, their flails now protect Fel's army from their former allies.
+|artist=Loy Bouttamy
+|type=Angel
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Revenge}}: Apply {{IconLink&#124;Melee Weakness&#124;1}} to the attacker.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Awoken Hollow
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_AwokenHollow.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|flavor=These souls, imprisoned in steel, try to break free before they lose their minds to the Wildwood. I had no idea of this until the Channelers told me. It took me some time to trust them again after that revelation.
+|artist=Evan Yovaisis
+|type=Hollow
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Summon}}: Gain 60 max {{Health}}.<br>{{IconLink&#124;Rejuvenate}}: '''[[Cultivate]] 3'''.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Balmabello
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Balmabello.png
+|clan=Underlegion
+|cost=3
+|rarity=Rare
+|flavor="On victory, you deserve a glass of my special Spore-brew. Upon defeat, you'll need it."
+|artist=Taylor Bray
+|type=Shroom
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Regen&#124;6}}. {{IconLink&#124;Spikes&#124;6}}.<br>{{IconLink&#124;Extinguish}}: Apply this unit's '''[[Buff]]''' stacks to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Baron Grael
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_BaronGrael.png
+|clan=[[Lazarus League]]
+|cost={{Ember&#124;0}}
+|rarity=Champion
+|flavor=He has no noble lineage yet calls himself 'Baron' and forever pursues a cure to a disease he does not suffer from. Some assistants believe his work is not for his sake, but for one he holds very dear.
+|artist=Luke Banke
+|type=Champion
+|banner=No
+|size={{Capacity&#124;2}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Battle Dancer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_BattleDancer.png
+|clan=Banished
+|cost=1
+|rarity=Uncommon
+|flavor="I used to say, 'dance is for everybody.' Now, I say the same of death."
+|artist=Loy Bouttamy
+|type=Angel
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Shift}}: Gain {{IconLink&#124;Valor&#124;3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Big Sludge
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_BigSludge.png
+|clan=Melting Remnant
+|cost=2
+|rarity=Rare
+|flavor=Even wax dripping has its limits. While it makes the target incredibly large and near unkillable, it also forces them into an eternal state of dripping. Wick or no, this compels them to continue to gutter more and more wax if their wish to retain this power.
+|artist=Aaron Lovett
+|type=Wickless
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Harvest}}: Gain {{IconLink&#124;Rage&#124;5}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Bloated Whelp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_BloatedWhelp.png
+|clan=Pyreborn
+|cost=1
+|rarity=Common
+|flavor="Look, I know I'm gold-intolerant, but I'm not going to stop eating coins."
+|artist=Loy Bouttamy
+|type=Whelp
+|banner=No
+|size=1
+|ability={{AbilityBox&#124;Indigestion&#124;1&#124;'''[[Sacrifice]]'''. Deal '''1''' damage to enemy units.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Bolete the Guillotine
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/[[PLR BoletetheGuillotine.png&#124;thumb]]
+|clan=Underlegion
+|cost=0
+|rarity=Champion
+|flavor=A polymath from the Wild Woods, Bolete would settle against the roots of the Fatal Elm with his books, a few old friends, and a flask of sap. Those dreams will have to wait. For now, caps must roll.
+|artist=Genevieve Bega
+|type=Champion
+|banner=No
+|size=3
+}}
+
+{{怪物火车2-卡牌名片
+|name=Bone Dog
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/BoneDog.png
+|clan=Clanless
+|cost=0
+|rarity=Common
+|flavor=This cute pup appeared when I hammered the Covenant Outpost's first nail. I could not leave him behind. Also, his [[Bone Dog's Pendant&#124;collar]] seemed familiar... It looked like the work of a certain forger I once knew.
+|artist=Loy Bouttamy
+|type=Dog
+|banner=No
+|size=1
+|ability={{IconLink&#124;Celebrate}}: Your Pyre permanently gains {{PyreHealth&#124;+10}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Bounty Stalker
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_BountyStalker.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Rare
+|flavor=Contracted assassins often employed by the Wickless to accomplish what even they cannot. Their incredible prowess in hunting Waxers has made them feared across the entire Ring, from Reformed to Wickless alike. I can't say I much like them myself.
+|artist=Taylor Bray
+|type=Wickless
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Burnout&#124;1}}. {{IconLink&#124;Stealth&#124;1}}.<br>{{IconLink&#124;Extinguish}}: {{Attack&#124;+10}} permanently.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Branded Warrior
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR BrandedWarrior.png
+|clan=Hellhorned
+|cost=1
+|rarity=Uncommon
+|flavor=It is said that no one can match a fully matured Hellhorned Demon in combat. I have yet to see this proven false. Though I can't say I'm seeking out that opportunity...
+|artist=Loy Bouttamy
+|type=Demon
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Rage&#124;5}}.<br>{{IconLink&#124;Slay}}: Apply {{IconLink&#124;Rage&#124;5}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Cheery Deathcap
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_CheeryDeathcap.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|flavor="In a world of mulch and rot, I've learned to put on a happy face."
+|artist=Daniel Sarmiento Chuquisengo
+|type=Shroom
+|banner=No
+|size=1
+|ability={{IconLink&#124;Summon}}: Apply {{IconLink&#124;Decay&#124;7}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Cluster Colonel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ClusterColonel.png
+|clan=Underlegion
+|cost=2
+|rarity=Uncommon
+|flavor="I would be willing—no, happy—to lead these Caps to battle every day!"
+|artist=Daniel Sarmiento Chuquisengo
+|type=Shroom
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Armor&#124;10}}.<br>{{IconLink&#124;Resolve}}: '''[[Spawn]] 4'''.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Coldcaelia
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Coldcaelia.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|flavor=These Sirens have used the freezing of Hell to their advantage, enchanting their blades with ice to damage their enemies more deeply. They lack formal training in classical combat, but make up for it in their magical prowess.
+|artist=Jordan Thomas
+|type=Siren
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Sweep}}.<br>{{IconLink&#124;Strike}}: Apply {{IconLink&#124;Frostbite&#124;6}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Consumer of Crowns
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ConsumerOfCrowns.png
+|clan=Hellhorned
+|cost=4
+|rarity=Rare
+|flavor=Truly a behemoth among beasts, this demon is the most decorated warrior in the Ring, having collected more horns than any living demon. It is highly respected amongst the Hellhorned and frequently avoided by me.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Demon
+|banner=Yes
+|size=3
+|ability={{AbilityBox&#124;Warlord's Tithe&#124;0&#124;[[Sacrifice]] [[Imp]]. Attack immediately.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Crucible Collector
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_CrucibleCollector.png
+|clan=Umbra
+|cost=1
+|rarity=Uncommon
+|flavor=These former Wardens have left their post as an overseer of Morsel workers to become a collector of all variety of gems. They've found that ingesting the metals of the Crucible gives them strength they've never known otherwise. The rest of the Umbra Shroud, however, does not seem to appreciate their newfound independence as much as I do.
+|artist=Tammy Chang
+|type=Shroud
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Gorge}}: Gain {{IconLink&#124;Lifesteal&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Crucible Warden
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_CrucibleWarden.png
+|clan=Umbra
+|cost=1
+|rarity=Uncommon
+|flavor=The dreaded patrols of the Crucible Mines, wandering the long pathways in search of slacking Morsels and idle researchers. Though originally a mark of their lowly status, the Void that protudes from their shadowed torso serves as a useful guard against worker uprisings.
+|artist=Tammy Chang
+|type=Shroud
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Gorge}}: Gain {{IconLink&#124;Damage Shield&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Cuttlehex
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Cuttlehex.png
+|clan=Stygian Guard
+|cost=0
+|rarity=Common
+|flavor=Together with the Cold Sirens, these Stygian were among the first to embrace the freeze, becoming crucial in the Ring's survival post-Armageddon and our mounting resistance.
+|artist=Aaron Lovett
+|type=Mage
+|banner=No
+|size=1
+|ability={{AbilityBox&#124;Freeze Ray&#124;2&#124;Apply [[Frozen]] to a card in hand.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Dante the Dependable
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/DanteTheDependable.png
+|clan=Clanless
+|cost=2
+|rarity=Rare
+|flavor=Dante, the only man who can sip tea with an angel at noon and share a pint with a demon by dusk. Heaven and Hell are just stops on his cultural itinerary, each with its own charms to savor.
+|artist=Loy Bouttamy
+|type=Dante
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Summon}}: Add a permanent '''[[Dante's Candle]]''' to your deck. Gain a stack of {{IconLink&#124;Multistrike}} for each Blight card in your deck.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Death's Dancer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_DeathsDancer.png
+|clan=Banished
+|cost=1
+|rarity=Rare
+|flavor="Dance is a poem in which each kill is a step."
+|artist=Loy Bouttamy
+|type=Angel
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Shift}}: Apply {{Attack&#124;+4}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Deathcapped Prophet
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR DeathCappedProphet.png
+|clan=Underlegion
+|cost=1
+|rarity=Rare
+|flavor="Don't listen to those other so-called 'prophets.' I'm the real seer around here!"
+|artist=Ron Kee
+|type=Shroom
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Rally}}: Draw '''+1''' next turn.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Deathmetal Hymnist
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_DeathmetalHymnist.png
+|clan=Banished
+|cost=4
+|rarity=Rare
+|flavor="We're all a flash in the abyss, a song in the void. Dust will be our legacy!"
+|artist=Genevieve Bega
+|type=Hymnist
+|banner=No
+|size=1
+|ability={{IconLink&#124;Enchant}}: Grant {{IconLink&#124;Multistrike&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Demon Fiend
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR DemonFiend.png
+|clan=Hellhorned
+|cost=4
+|rarity=Uncommon
+|flavor=These demons, rumored to be the most ancient among the Hellhorned, do not speak in any known tongue. They don't appear to understand much, either, making any sort of relationship with them tricky to establish. Thankfully, they have a natural proclivity for fighting making communication unnecessary.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Demon
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Trample}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Demonic Fledgling
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_DemonicFledgling.png
+|clan=Banished
+|cost=1
+|rarity=Uncommon
+|flavor="Is it time for a break yet?"
+|artist=Taylor Bray
+|type=Angel
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Strike}}: Gain {{IconLink&#124;Valor&#124;1}}. {{IconLink&#124;Shift}}: Gain {{IconLink&#124;Rage&#124;2}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Deranged Brute
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_DerangedBrute.png
+|clan=Hellhorned
+|cost={{Ember&#124;1}}
+|rarity=Rare
+|flavor=For a race that is bred on violence, even the Hellhorned have limits to the amount of aggression that is acceptable. But desperate times have forced the Hellhorned to agree to release their most dangerous prisoners.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Demon
+|banner=Yes
+|size={{Capacity&#124;2}}
+|ability={{IconLink&#124;Rage}} on friendly units adds {{Attack&#124;+3}} per stack.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Devourer of Death
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_DevourerOfDeath.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Rare
+|flavor=The unfortunate souls who are unable to melt must instead feed off the deaths of those around them. They accumulate more energy as others souls are freed from their waxen forms, but they are doomed to never be able to free their own.
+|artist=Tammy Chang
+|type=Wickless
+|banner=No
+|size=1
+|ability={{IconLink&#124;Harvest}}: Gain {{IconLink&#124;Soul&#124;1}}.<br> {{IconLink&#124;Extinguish}}: Deal damage to enemy units equal to 15x the {{IconLink&#124;Soul}} count.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Divine Dancer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR DivineDancer.png
+|clan=Banished
+|cost=1
+|rarity=Rare
+|flavor="They clipped our wings, made us believe we were worthless. But I learned to dance in Hell, and even Heaven now fears my steps."
+|artist=Loy Bouttamy
+|type=Angel
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Shift}}: Apply {{IconLink&#124;Armor&#124;5}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Double-Edged Bearer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_DoubleEdgedBearer.png
+|clan=Lazarus League
+|cost=1
+|rarity=Rare
+|flavor="Why not be entirely machine, you ask? Trust me, Dr. Orechi tried. Turns out a body's much easier to manage with a soul inside."
+|artist=Ron Kee
+|type=Assistant
+|banner=No
+|size=1
+|ability={{IconLink&#124;Graft}}: [[Double-Edged Arms]].
+}}
+
+{{怪物火车2-卡牌名片
+|name=Draff
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Draff.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Common
+|flavor=When wax has been melted and reapplied over and over again, it can turn into fragile resin. This makes the edges of a Waxer sharper and more dangerous, but much more brittle.
+|artist=Andrew Vera
+|type=Waxer
+|banner=No
+|size=1
+|ability={{IconLink&#124;Burnout&#124;1}}. {{IconLink&#124;Multistrike&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Dreg
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR Dreg.png
+|clan=Melting Remnant
+|cost=0
+|rarity=Common
+|flavor=Waxers believe that once they've melted away their bodies, they will be released from Hell. Unfortunately, there seems to be little evidence to support this belief, though I will not be the one to tell them that.
+|artist=Andrew Vera
+|type=Waxer
+|banner=No
+|size=1
+|ability={{IconLink&#124;Burnout&#124;2}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Edge Prior
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_EdgePrior.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|flavor=A Channeler cannot die, but it can fade away, though I've yet to see this firsthand. Many choose to spend their fading time at the secluded edge of the Wildwood as part of the Edge Priory, crafting the armor that will protect new Awoken in their infancy.
+|artist=Anita Tung
+|type=Channeler
+|banner=No
+|size=1
+|ability=Healing and {{IconLink&#124;Regen}} spells cost {{Ember&#124;-1}} on this floor.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Eel Gorgon
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_EelGorgon.png
+|clan=Stygian Guard
+|cost=2
+|rarity=Rare
+|flavor=The Titan's name has been lost to time, the Titan now trapped and harmless. But the name's power has lingered within the Sea and seeped into the life of all those around it.  Creatures that once listened only to the needs of their survival have now become intelligent guardians of the Ring. The Power of the Name has not faded, only found new owners. It is a cycle unlike I've seen elsewhere.
+|artist=Taylor Bray
+|type=Mage
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Incant}}: Gain {{IconLink&#124;Multistrike&#124;1}}.<br>{{IconLink&#124;Resolve}}: Remove all status effects.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Ekka
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Ekka.png
+|clan=Luna Coven
+|cost=0
+|rarity=Champion
+|flavor=The High Witch of the Luna coven, Lady Ekka led the Selene in both ritual and life. Though even she did not know of the prophecy looming over the coven until it was far too late.
+|artist=Genevieve Bega
+|type=Champion
+|banner=No
+|size=2
+}}
+
+{{怪物火车2-卡牌名片
+|name=Ember Forge
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_EmberForge.png
+|clan=Umbra
+|cost=1
+|rarity=Uncommon
+|flavor=Both for improved construction and visibility, forges were built throughout the Crucible, but the Shroud was soon mining faster than they could build them. Instead of building new ones. Penumbra tasked Morsels with adding mobility. The technology is crude, but is the first mobile engine I have on record.
+|artist=Andrew Vera
+|type=Construct
+|banner=No
+|size=2
+|ability={{Ember&#124;+2}} per turn.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Enchantrelle
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Enchantrelle.png
+|clan=Underlegion
+|cost=3
+|rarity=Rare
+|flavor="I know a mushroom has fallen in love with me when they fear to sleep. My lovely spores give them nightmares of their heart's greatest fear: being away from me."
+|artist=Hung Bui
+|type=Shroom
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Rally}}: Apply {{IconLink&#124;Sap&#124;1}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Entombed Explosive
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_EntombedExplosive.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Common
+|flavor=A common, but unfortunate, occurence for the Melting Remnant is the entrapment of inanimate objects within their melting wax. While often considered an inconvenience, the Wickless have utilized this phenomenon for more combat focused applications.
+|artist=Andrew Vera
+|type=Tomb
+|banner=No
+|size=1
+|ability={{IconLink&#124;Extinguish}}: Deal '''65''' damage to the front enemy unit.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Erratic Assistant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLRErraticAssistant.png
+|clan=Lazarus League
+|cost=0
+|rarity=Common
+|flavor="I traded my hands with the doctor's topiary trimming monstrosity. I think I got the better end of that deal."
+|artist=Nicole Anne Alfonso
+|type=Assistant
+|banner=No
+|size=1
+|ability={{IconLink&#124;Graft}}: [[Scissor Hands]].
+}}
+
+{{怪物火车2-卡牌名片
+|name=Ethereal Seelie
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_EtherealSeelie.png
+|clan=Luna Coven
+|cost=1
+|rarity=Rare
+|flavor=When the seelie sing their duets, misfortune is said to be near. However, it is when they are silent that true calamity is feared.
+|artist=Samuel Lim
+|type=Fae
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Conduit&#124;5}}. <br> Apply '''+1''' stack of {{IconLink&#124;Conduit}} each time it is applied.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Fel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Fel.png
+|clan=Banished
+|cost=0
+|rarity=Champion
+|flavor=The brilliant and resourceful commander of the Banished, Fel vows to free Heaven from her brother's tyranny. Whether or not her wounded heart will ever heal, however, is yet to be seen.
+|artist=Genevieve Bega
+|type=Champion
+|banner=No
+|size=2
+|ability={{IconLink&#124;Multistrike&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Firebrand
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Firebrand.png
+|clan=Banished
+|cost=2
+|rarity=Uncommon
+|flavor=They were once tasked with dousing the flames along the Rail. Now, they set the rails aflame.
+|artist=Luke Banke
+|type=Angel
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Revenge}}: Gain {{IconLink&#124;Valor&#124;2}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Fledgling Imp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR FledglingImp.png
+|clan=Hellhorned
+|cost=1
+|rarity=Common
+|flavor=These impish Hellhorned have just molted into their new forms, as evidenced by their tiny wings and heavy tail. Their horns will continue to grow each molting cycle, as will their love of their volcanic homelands.
+|artist=Loy Bouttamy
+|type=Imp
+|banner=No
+|size=1
+|ability={{IconLink&#124;Summon}}: Apply {{IconLink&#124;Rage&#124;5}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Follower
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Follower.png
+|clan=[[Clanless]]
+|cost=0
+|rarity=Common
+|flavor=Every cult needs its leader and a loyal flock of followers. The devotees of this cult pledge their devotion to whoever bears the Red Crown.
+|artist=Luke Banke
+|type=Cultist
+|size=1
+|ability={{IconLink&#124;Multistrike&#124;2}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Formless Child
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_FormlessChild.png
+|clan=Melting Remnant
+|cost=2
+|rarity=Rare
+|flavor=Children are rarely seen in the Melting Remnant, but they're easy to spot by their transparent wax and inner glow. However, this unusual phenomenon makes these children less mobile, as this glass-like wax isn't very flexible.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Tomb
+|banner=No
+|size=1
+|ability={{IconLink&#124;Extinguish}}: Return a random defeated unit to your hand and apply {{Attack&#124;+40}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Funguy
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/File:PLR_FunGuy.png
+|clan=Underlegion
+|cost=N/A
+|rarity=N/A
+|flavor=N/A
+|artist=TBD
+|type=Shroom
+|banner=N/A
+|size=1
+}}
+
+{{怪物火车2-卡牌名片
+|name=Gildmonger
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Gildmonger.png
+|clan=Pyreborne
+|cost=1
+|rarity=Uncommon
+|flavor=To protect their eggs, dragons encase them in gold and give them to the care of Gildmongers until they are ready to hatch. Whether or not they are good caretakers, that is more of a toss-up.
+|artist=Samuel Lim
+|type=Dragon
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Extinguish}}: Gain {{DragonsHoard&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Glacial Seal
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_GlacialSeal.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|flavor=Enchanted granite pegs were used in the sealing of the Titan's tomb. When the Sea froze, ice formed around each bolt, prying it loose to drift through the open water.
+|artist=Jordan Thomas
+|type=Totem
+|banner=No
+|size=1
+|ability={{IconLink&#124;Incant}}: Apply {{IconLink&#124;Frostbite&#124;2}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Glutton's Maw
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD Glutton's Maw.png
+|clan=Umbra
+|cost=2
+|rarity=Rare
+|flavor=The Shroud's hunger will push the Umbra towards innovation to satisfy its unending hunger. With this contraption, each creature of the Shroud can consume shards and armor as easily as flesh.
+|artist=Genevieve Bega
+|ability={{AbilityBox&#124;Chomp&#124;1&#124;Destroy a friendly unit and gain {{Attack&#124;+15}} and {{Health&#124;+15}}. Triggers {{IconLink&#124;Gorge}} and {{IconLink&#124;Eaten}}.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Goldtooth
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Goldtooth.png
+|clan=[[Pyreborne]]
+|cost=2
+|rarity=Rare
+|flavor="Do I have gold in my teeth?"
+|artist=Loy Bouttamy
+|type=Dragon
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Avarice&#124;5}}.<br>{{Attack&#124;+15}} per {{Gold&#124;100}} you started the turn with.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Greed Dragon
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_GreedDragon.png
+|clan=[[Pyreborne]]
+|cost=2
+|rarity=Uncommon
+|flavor=These Master Keepers of the Coin tend to take their job to the literal conclusion and hoard every small gold flake they can find.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Dragon
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Summon}}: {{Attack&#124;+10}} and {{Health&#124;+10}} for each {{DragonsHoard}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Green Recruit
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_GreenRecruit.png
+|clan=Underlegion
+|cost=0
+|rarity=Common
+|flavor="One day, I'll command the soldiers of the Fatal Elm and be the greatest warrior in all of Limbo!"<br>—unnamed soldier now deceased
+|artist=Genevieve Bega
+|type=Shroom
+|banner=No
+|size=1
+|ability={{IconLink&#124;Extinguish}}: '''[[Spawn]]''' '''4'''.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Guard of the Unnamed
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_GuardOfTheUnnamed.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|flavor=Original captors and protectors of the titan, these Sirens have existed almost since the creation of the sea itself. They were the first to follow Tethys in recognizing the importance of the Titan's survival and that its imprisonment would be the only way to ensure it.
+|artist=Luke Banke
+|type=Siren
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Incant}}: Gain {{IconLink&#124;Armor&#124;3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Guardian Stone
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_GuardianStone.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|flavor=I've been told these stones predate even the Guard. They have been etched by its various members, marking the only true record of each Stygian who has been inducted.
+|artist=Daniel Sarmiento Chiquisengo
+|type=Totem
+|banner=No
+|size=1
+|ability={{IconLink&#124;Incant}}: Apply {{IconLink&#124;Armor&#124;1}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Hornbreaker Prince
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_HornbreakerPrince.png
+|clan=Hellhorned
+|cost=0
+|rarity=Champion
+|flavor=Cursed with no horns, the only son of Grrrg has taken to collecting the horns of his opponents, dispelling any doubt of his fighting prowess and convincing me of his rightful place as champion of the Hellhorned.
+|artist=Loy Bouttamy
+|type=Champion
+|banner=No
+|size=2
+}}
+
+{{怪物火车2-卡牌名片
+|name=Horned Warrior
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR HornedWarrior.png
+|clan=Hellhorned
+|cost=1
+|rarity=Uncommon
+|flavor=Though slightly unwieldy with the recent loss of their tails, these maturing demons have grown into their horns, making them valuable soldiers of the Hellhorned and of our Rail.
+|artist=Loy Bouttamy
+|type=Demon
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Multistrike&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Hostguard
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Hostguard.png
+|clan=Banished
+|cost=3
+|rarity=Rare
+|flavor="Seraph ripped the wings from my back. That pain will be dealt back tenfold."
+|artist=Taylor Bray
+|type=Angel
+|banner=Yes
+|size=3
+|ability={{AbilityBox&#124;Heavenly Slam&#124;3&#124;Move to a targeted location on any floor. Deal damage to the front enemy unit equal to this unit's {{Health}} and {{IconLink&#124;Armor}}.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Hot Head
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_HotHead.png
+|clan=[[Pyreborne]]
+|cost={{Ember&#124;2}}
+|rarity=Uncommon
+|flavor=The guard dragons for Lady Gilda chew magma all day, just in case they ever have to give a special spew to a tax collector.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Dragon
+|banner=Yes
+|size={{Capacity&#124;2}}
+|ability={{AbilityBox&#124;Fire Breathing&#124;2&#124;Deal damage equal to this unit's attack to enemy units, twice.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Hulking Mass
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_HulkingMass.png
+|clan=Lazarus League
+|cost=2
+|rarity=Uncommon
+|flavor="Don't judge a book by its cover. I might not look like it but I have dancer's feet. Literally."
+|artist=Ron Kee
+|type=Monstrosity
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Armor&#124;40}}.<br>{{IconLink&#124;Reanimated}}: Gain {{IconLink&#124;Armor&#124;40}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Husk Hermit
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_HuskHermit.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|flavor=Using Wildwood sap to expedite the growth of their vines, these Animus inhabit the remains of their armor. Their larger vines allow them to strike multiple enemies at once, while still being able to retreat into their shell if necessary.
+|artist=Brian Mutschler
+|type=Animus
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Sweep}}.<br>{{IconLink&#124;Revenge}}: {{Attack&#124;+3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Hydra Armed Horror
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_HydraArmedHorror.png
+|clan=Lazarus League
+|cost=2
+|rarity=Rare
+|flavor="Look, I needed someone to hold all my tools while I worked!"<br>—from Dr. Orechi's notebook
+|artist=Ron Kee
+|type=Monstrosity
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Equipped}}: The equipment is removed. Gain {{IconLink&#124;Multistrike&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Icy Cilophyte
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_IcyCilophyte.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|flavor=Even further communion with the ice has allowed these Sirens to master its freezing nature. This leads me to believe that the Stygian may be the only clan that has benefited from the Freeze.
+|artist=Jordan Thomas
+|type=Siren
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Sweep}}.<br>{{IconLink&#124;Strike}}: Apply {{IconLink&#124;Spell Weakness&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Impish Scholar
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR ImpishScholar.png
+|clan=Hellhorned
+|cost=1
+|rarity=Common
+|flavor=Having chosen to mature in knowledge rather than strength, these imps decided not to molt and instead to travel between the Rings as ambassadors of the Scorched Plains and advocates of our Covenant with Heaven. Now with no home to return to, they've helped to advance our research of more efficient defensive techniques.
+|artist=Loy Bouttamy
+|type=Imp
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Summon}}: Return a random consumed spell to your hand.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Inspire (spell)
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Inspire.png
+|clan=[[Banished]]
+|cost=1
+|rarity=Common
+|effect=Apply {{IconLink&#124;Valor&#124;1}} to friendly units.
+|flavor=To the surprise of all, it was Talos who stood before her fellow soldiers and urged them to continue fighting. "For our homes, for our lives, and for a united future!" she cried.
+|artist=Luke Banke
+}}
+
+{{怪物火车2-卡牌名片
+|name=Jack in the Box
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_JackInTheBox.png
+|clan=[[Clanless]]
+|cost=0
+|rarity=Uncommon
+|effect={{IconLink&#124;Resolve}}: Summon a boxed unit.
+|flavor=A well-crafted music box with a surprise inside!
+|artist=Hannah Lim
+|type=Box
+|size=1
+}}
+
+{{怪物火车2-卡牌名片
+|name=Lady Gilda
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_LadyGilda.png
+|clan=Pyreborne
+|cost=0
+|rarity=Champion
+|flavor=Heiress to the Pyregel fortune, she might have been born with a golden spoon in her mouth but this dragon has a vicious business acumen. Entire circles of Hell have fallen due to her machinations.
+|artist=Taylor Bray
+|type=Champion
+|banner=No
+|size=3
+}}
+
+{{怪物火车2-卡牌名片
+|name=Lady of the House
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_LadyOfTheHouse.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Uncommon
+|flavor=In a cruel joke, the souls trapped as Remnants retained their wealth, or lack of it, from their previous life, making Hell either very comfortable or very punishing. Some of the more generous Remnants decide to fund the Votive Houses scattered throughout the Ring, though I have long suspected that their motives are less than selfless.
+|artist=Tammy Chang
+|type=Waxer
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Burnout&#124;3}}.<br>{{Attack&#124;+5}} for every stack of {{IconLink&#124;Burnout}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Lady of the Reformed
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_LadyOfTheReformed.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Uncommon
+|flavor=In a move towards self fulfillment, these Waxers have become part of the Reformed, seeking wealth in the spirit. Despite their high spiritual ranking. I can't say that they are the most welcoming of Hellborne.
+|artist=Tammy Chang
+|type=Waxer
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Burnout&#124;3}}.<br>{{IconLink&#124;Revenge}}: Apply {{IconLink&#124;Burnout&#124;1}} to friendly {{IconLink&#124;Burnout}} units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Lead Songbird
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_LeadSongbird.png
+|clan=[[Banished]]
+|cost=1
+|rarity=Uncommon
+|flavor="Holding the mic in my feet, Destroying the enemies to my beat, Won't ever admit defeat!"
+|artist=Genevieve Bega
+|type=Hymnist
+|banner=No
+|size=1
+|ability={{IconLink&#124;Valor}} on friendly units adds {{Attack&#124;+1}} per stack.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Legion of Wax
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_LegionOfWax.png
+|clan=Melting Remnant
+|cost=2
+|rarity=Rare
+|flavor=When Waxers are reduced to almost nothing, but still cling to what life is left within, they will sometimes band together for protection. This creates a new form that is collectively controlled by this collection of dying Waxers.
+|artist=Aaron Lovett
+|type=Waxer
+|banner=Yes
+|size=4
+|ability={{IconLink&#124;Extinguish}}: Summon '''2 Twin of Wax''' and apply this unit's upgrades, equipment, and stat changes.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Little Fade
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_LittleFade.png
+|clan=Melting Remnant
+|cost=0
+|rarity=Champion
+|flavor=For all that I've learned of these Exiles, it should be no surprise to me that the Exile of the Melting Remnant is a thieving child. My visions with her have been brief, but she looks to be free of the wax for which her Ring is known. Perhaps her sacrifice, and the sacrifice of each Exile, granted immortality to the clans.
+|artist=Taylor Bray
+|type=Champion
+|banner=No
+|size=1
+}}
+
+{{怪物火车2-卡牌名片
+|name=Lodestone Totem
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_LodestoneTotem.png
+|clan=Stygian Guard
+|cost=3
+|rarity=Rare
+|flavor=Of the totems that the founding Guardian built, the Lodestones are possibly the most important. They provide energy for the Stygian Guard by siphoning power from those around them using some ancient technology that's eluded my understanding.
+|artist=Zihao Luo
+|type=Totem
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Incant}}: Apply {{IconLink&#124;Sap&#124;1}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Lord Fenix
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR Fenix.png
+|clan=Pyreborne
+|cost=0
+|rarity=Champion
+|flavor=Lord Fenix once dreamed that his prose would live on in the hearts of dragons to come and inspire them to look beyond the gleam of the coin. Those dreams are long gone, replaced by the love for gold.
+|artist=Genevieve Bega
+|type=Champion
+|banner=No
+|size=3
+|ability={{AbilityBox&#124;Fenix Fire&#124;3&#124;Deal damage equal to this unit's attack. <br> Apply {{IconLink&#124;Pyregel&#124;4}} to enemy units.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Lunar Priestess
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_LunarPriestess.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|flavor="One day we will return to the space beyond the skies and I will resume my duties. Until then, I will keep the rituals alive in my memory."
+|artist=Luke Banke
+|type=Selene
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Resolve}}: Add a '''[[Moon Ritual]]''' spell with '''[[Ephemeral]]''' to your hand.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Madame Lionsmane
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MadameLionsmane.png
+|clan=Underlegion
+|cost=0
+|rarity=Champion
+|flavor=She is the Mistress of the Scent, the Rot Perfumer. Her concoctions will make you fall in love as they melt your heart.
+|artist=Genevieve Bega
+|type=Champion
+|banner=No
+|size=2
+}}
+
+{{怪物火车2-卡牌名片
+|name=Magma Cultist
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MagmaCultist.png
+|clan=[[Pyreborne]]
+|cost=2
+|rarity=Uncommon
+|flavor=''"One day Fhyra will rise again. When she does, she will coat us in gold, and we will shine like magma in the gloom."''
+|artist=Aaron Lovett
+|type=Dragon
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Incant}}: Apply {{IconLink&#124;Pyregel&#124;1}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Magma Mauler
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MagmaMauler.png
+|clan=[[Pyreborne]]
+|cost=1
+|rarity=Uncommon
+|flavor="You better pay what you owe to Lady Gilda, or I'll squash your toes!"
+|artist=Aaron Lovett
+|type=Dragon
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Strike}}: Apply {{IconLink&#124;Pyregel&#124;8}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Magma Morsel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MagmaMorsel.png
+|clan=Umbra
+|cost=0
+|rarity=Uncommon
+|flavor=Originally heated by the nearby Pyre, molten rock can be found throughout the Crucible. Morsels excavate it like anything else, but there was no use for it until I showed them how to use the residual energy to strengthen themselves.
+|artist=Anita Tung
+|type=Morsel
+|banner=No
+|size=1
+|ability={{IconLink&#124;Eaten}}: Eater gains {{Attack&#124;+9}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Makeshift Golem
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/MakeshiftGolemPLR.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|flavor="I am made of mud but I have a heart of gold."
+|artist=Loy Bouttamy
+|type=Monstrosity
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Armor&#124;12}}.<br>{{IconLink&#124;Extinguish}}: Apply {{IconLink&#124;Armor&#124;12}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Meathook
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Meathook.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|flavor="One day, he just dragged himself to the lab and never left. Nobody knows where he came from. And honestly, I don't want to know."<br>—Baron Grael
+|artist=Daniel Sarmiento Chuquisengo
+|type=Monstrosity
+|banner=Yes
+|size=2
+|ability={{AbilityBox&#124;Hookhand&#124;2&#124;'''[[Advance]]'''. Apply {{IconLink&#124;Dazed&#124;1}}.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Meddler
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Meddler.png
+|clan=Luna Coven
+|cost=1
+|rarity=Common
+|flavor="You can't take the dust out of stardust just as you can't take the meddle out of the meddler."
+|artist=Genevieve Bega
+|type=Fae
+|banner=No
+|size=1
+|ability={{IconLink&#124;Summon}}: '''[[Phase]]'''. {{AbilityBox&#124;Moonipulate&#124;2&#124;'''[[Phase]]'''.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Miser
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Miser.png
+|clan=[[Pyreborne]]
+|cost={{Ember&#124;1}}
+|rarity=Uncommon
+|flavor=To be a Miser is the highest honor amongst the Pyreborne and is only given to those who have shown such love of coin that they refuse to spend it for anything.
+|artist=Aaron Lovett
+|type=Dragon
+|banner=Yes
+|size={{Capacity&#124;1}}
+|ability={{IconLink&#124;Avarice&#124;10}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Molluscmage
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Molluscmage.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Common
+|flavor=These dark mages have made themselves known through their control of the power that radiates from the Titan. Though small in nature, these mages have a striking resemblance to the Titan itself, which has resulted in the spread of many unproven theories of their origin.
+|artist=Aaron Lovett
+|type=Mage
+|banner=No
+|size=1
+|ability={{IconLink&#124;Conduit&#124;10}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Molten Encasement
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MoltenEncasement.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Common
+|flavor=If a Waxer gutters too quickly, a rare phenomenon can occur where the wax trapped inside is still molten. Over time, the heat generates an enormous amount of pressure and steam. When the host's exterior has finally cracked, the steam bursts out and engulfs all those around it.
+|artist=Andrew Vera
+|type=Tomb
+|banner=No
+|size=1
+|ability={{IconLink&#124;Extinguish}}: Apply {{IconLink&#124;Stealth&#124;2}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Molting Imp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MoltingImp.png
+|clan=Hellhorned
+|cost=1
+|rarity=Common
+|flavor=''With each molting cycle comes a new body, one that inches the Imp closer to fully mutating into the more mature Horned Demons. After witnessing the process, it is not something for the faint of heart.''
+|artist=Loy Boutammy
+|type=Imp
+|banner=No
+|size=1
+|ability={{IconLink&#124;Summon}}: Deal '''10''' damage to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Moon Pixie
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MoonPixie.png
+|clan=[[Luna Coven]]
+|cost=1
+|rarity=Common
+|flavor="These sands of Limbo are no moon rock. They will have to do for my night blooms."
+|artist=Samuel Lim
+|type=Fae
+|banner=No
+|size=1
+|ability={{IconLink&#124;Conduit&#124;3}}. {{IconLink&#124;Enchant}}: Grant {{IconLink&#124;Conduit&#124;3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Mooncaller
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Mooncaller.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|flavor="I used to sing to the moon as one voice of thousands. Now, my voice is alone among their spirits."
+|artist=Leonardo Dionisi
+|type=Selene
+|banner=No
+|size=1
+|ability={{IconLink&#124;Mooncycle}} triggers an additional time.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Moonguard
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Moonguard.png
+|clan=Luna Coven
+|cost=2
+|rarity=Rare
+|flavor=Although a gentle folk, the Moonguard had to put aside their love for learning and defend the coven during desperate times.
+|artist=Genevieve Bega
+|type=Silent
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Mageblade&#124;3}}. {{IconLink&#124;New Moon}}: {{IconLink&#124;Mageblade&#124;3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Morel Mistress
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MorelMistress.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|flavor="A mushroom's rotting scent tells you all you need to know about them."
+|artist=Genevieve Bega
+|type=Shroom
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Etch}}: Apply {{IconLink&#124;Decay&#124;8}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Morsel Excavator
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MorselExcavator.png
+|clan=Umbra
+|cost=0
+|rarity=Uncommon
+|flavor=Before the Pyre was extinguished, it had rooted itself throughout the edges of the Crucible, creating volatile shards of crystal that were bursting with violent energy. The Shroud had no use for these Void Shards and chose to remove them to gain access to whatever they concealed.
+|artist=Anita Tung
+|type=Morsel
+|banner=No
+|size=1
+|ability={{IconLink&#124;Eaten}}: Eater gains {{Attack&#124;+6}} and {{IconLink&#124;Lifesteal&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Morsel Jeweler
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MorselJeweler.png
+|clan=Umbra
+|cost=0
+|rarity=Uncommon
+|flavor=At the very bottom of the mines, the rock has been compressed into beautiful gems. These gems are valued above all else by the Shroud for their allure as well as their mystical abilities. I've been able to hoard a few for myself, conveniently forgetting to notify the Umbra.
+|artist=Anita Tung
+|type=Morsel
+|banner=No
+|size=1
+|ability={{IconLink&#124;Eaten}}: Eater gains {{Health&#124;+6}} and {{IconLink&#124;Damage Shield&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Morsel Miner
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_MorselMiner.png
+|clan=Umbra
+|cost=0
+|rarity=Rare
+|flavor=Antumbra Morsels are tasked with the bulk of the physical labor throughout the mines of the Crucible, collecting precious metals and returning them to the main stockpile for smelting and smithing. They don't say much, but they've been quite friendly during my time in the Crucible.
+|artist=Anita Tung
+|type=Morsel
+|banner=No
+|size=1
+|ability={{IconLink&#124;Eaten}}: Eater gains {{Attack&#124;+9}} and {{Health&#124;+9}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Morsel-Made
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/File: PLR_Morsel-Made.png
+|clan=Umbra
+|cost=2
+|rarity=Rare
+|flavor=As the mines of the Crucible twist farther into the depths of Hell, Morsels find themselves safe from the Shroud in their solitude. In the furthest reaches of the Crucible, the Morsels have banded together to create singular entities that further increase their collective chances of survival.
+|artist=Andrew Vera
+|type=Construct
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Hunger}}: Feed on units with {{IconLink&#124;Eaten}}.<br>{{IconLink&#124;Gorge}}: {{Attack&#124;+4}} and {{Health&#124;+4}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Morselmaker
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/File:PLR_MorselMaker.png
+|clan=Umbra
+|cost=2
+|rarity=Uncommon
+|flavor=Neither Umbra nor Antumbra, these in-between shades roam the mines as independent troublemakers, often splitting their own Morsels to undo the work done in the Crucible. I've been unable to decipher any sort of motive other than spite.
+|artist=Adam Lee
+|type=Shroud
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Resolve}}: Summon an [[Antumbra Morsel]] and a [[Magma Morsel]].
+}}
+
+{{怪物火车2-卡牌名片
+|name=Morselmaster
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/File:PLR_MorselMaster.png
+|clan=Umbra
+|cost={{Ember&#124;1}}
+|rarity=Uncommon
+|flavor=These Umbra rogues no longer have the need to create new Morsels of their own flesh. Instead, they attract existing ones to their nefarious calling by disrupting their connection to the hivemind. I have little other information on these creatures as i prefer not to spend any more time with them than necessary.
+|artist=Adam Lee
+|type=Shroud
+|banner=Yes
+|size={{Capacity&#124;1}}
+|ability=When you summon a [[Morsel]] unit on this floor, create a copy.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Nameless Siren
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_NamelessSiren.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|flavor=Those that enter the resting place of the Titan rarely emerge. But those that do are permanently imbued with some of its power, relinquishing their names as part of this new communion. While I've tried to wring an account from them on their time with the Titan, their minds seem to have expelled any contact with this Unnamed power.
+|artist=Zihao Luo
+|type=Siren
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Incant}}: Gain {{IconLink&#124;Rage&#124;3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Nightingale
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Nightingale.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|flavor=''"I don't need magic to disappear into the night."''
+|artist=Daniel Sarmiento Chuquisengo
+|type=Silent
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Stealth&#124;2}}. {{IconLink&#124;New Moon}}: {{IconLink&#124;Multistrike&#124;2}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Nine-Lived Nightmare
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_NineLivedNightmare.png
+|clan=Lazarus League
+|cost=2
+|rarity=Rare
+|flavor="Inga's cat still looks for her in the lab. She keeps looking at Dr. Orechi with feline hate. I think she knows something."<br>—Baron Grael
+|artist=Ishmael E. Hoover
+|type=Monstrosity
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Reanimate&#124;8}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Offering Monument
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_OfferingMonument.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Rare
+|flavor=I created monuments as signposts for the offering sites across the seafloor. But my shoddy work has made them vulnerable to the energy from the Unnamed below, destabilizing them entirely.
+|artist=Zihao Luo
+|type=Totem
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Incant}}: Draw '''+1''' next turn.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Orechi
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Orechi.png
+|clan=[[Lazarus League]]
+|cost=0
+|rarity=Champion
+|flavor=Fired from academia, Dr. Orechi returned to his family's estate in Trans-HELL-vania and set up a private laboratory. No one in Hell quite knows what he does, but many know not to set foot inside.
+|artist=Luke Banke
+|type=Champion
+|banner=No
+|size=2
+}}
+
+{{怪物火车2-卡牌名片
+|name=Overgorger
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Overgorger.png
+|clan=Umbra
+|cost=2
+|rarity=Rare
+|flavor=A seasoned collector of Antumbra Morsels to the detriment of its own well-being. I've learned to steer clear of these creatures, as each new morsel they eat is a danger to all around them.
+|artist=Brian Mutschler
+|type=Shroud
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Gorge}}: {{Attack&#124;+2}} permanently.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Overworked Assistant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_OverworkedAssistant.png
+|clan=Lazarus League
+|cost=0
+|rarity=Common
+|flavor="After The Incident, I followed Dr. Orechi to Trans-HELL-vania to continue my research. Maybe I should have stayed at the university. Even as a PhD student I wasn't given so much work."
+|artist=Loy Bouttamy
+|type=Assistant
+|banner=No
+|size=1
+|ability={{IconLink&#124;Reanimate&#124;1}}.<br>{{IconLink&#124;Incant}}: Gain {{IconLink&#124;Unstable&#124;4}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Paraffin Enforcer
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ParaffinEnforcer.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Uncommon
+|flavor=Once a footsoldier has been promoted to an Enforcer, they are no longer considered the punching bags of the Wickless Remains. But that doesn't mean that they won't haze new recruits the same way they were.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Wickless
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Strike}}: Apply {{IconLink&#124;Rage&#124;3}} to friendly {{IconLink&#124;Burnout}} units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Paraffin Thug
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ParaffinThug.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Uncommon
+|flavor=A part of the Wickless Remains who have shaped themselves into lowly foot soldiers. They collect the remains of those they slay to add to their own, and they'll pick a fight with you to get it. Even though I am without wax, I've still been the target of many Wickless hasslings.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Wickless
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Slay}}: Gain {{Gold&#124;30}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Penumbra
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Penumbra.png
+|clan=Umbra
+|cost=0
+|rarity=Champion
+|flavor=I have no hard facts on its origin, but it is rumored to be the beginning of the Shroud itself, formed in the long forgotten depths of the Crucible and giving life to the rest of Hell. This would make it the first being of Hell. It has yet to confirm or deny my questioning on the matter.
+|artist=Zihao Luo
+|type=Champion
+|banner=No
+|size=3
+}}
+
+{{怪物火车2-卡牌名片
+|name=Pincushion
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Pincushion.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|flavor="Greeeeeeegh!"
+|artist=Luke Banke
+|type=Monstrosity
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Equipped}}: {{Attack&#124;+3}} and {{Health&#124;+3}} permanently.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Plague Doctor
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_PlagueDoctor.png
+|clan=Lazarus League
+|cost=2
+|rarity=Uncommon
+|flavor="Nothing is quite so poetic as an ancient plague. For some reason, no one wants to hear about my research at dinner parties."
+|artist=Genevieve Bega
+|type=Assistant
+|banner=Yes
+|size=1
+|ability={{IconLink&#124;Strike}}: Apply {{IconLink&#124;Unstable}} equal to the damage dealt.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Prickly Puffball
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_PricklyPuffball.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|flavor=Although they do not possess much dangerous strength, they are hard to defeat as the Puffballs were born and raised in the burls of the Fatal Elm itself.
+|artist=Leonardo Dionisi
+|type=Shroom
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Revenge}}: Apply {{IconLink&#124;Decay&#124;5}} to the attacker.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Primitive Mold
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_PrimitiveMold.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Common
+|effect='''[[Reform]]''' a random unit.
+|flavor=Fade brought me to the site of a rock split in two. The shape reminded me of the molds used by the Melting Remnant, and the drips of wax made this theory more plausible. Fade says she split the rock because she was bored, but her subsequent silence seems to suggest a more altruistic purpose. Why are they showing me these things?
+|artist=Andrew Vera
+}}
+
+{{怪物火车2-卡牌名片
+|name=Primordium
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR Primordium.png
+|clan=Umbra
+|cost=0
+|rarity=Champion
+|flavor=I can feel the end of my days loom near as these visions become more frequent and more confusing. It seems even the Umbra Shroud has origins beyond my prior knowledge. This Primordial shadow rumbles with the weight of the entire Shroud under its cloak. But what happened to this ancient creature?
+|artist=Adam Lee
+|type=Champion
+|banner=No
+|size=2
+|ability={{IconLink&#124;Buffet&#124;3}}. </br> {{IconLink&#124;Eaten}}: Add this unit's {{Attack}} and {{Health}} to the eater.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Pufferflesh
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Pufferflesh.png
+|clan=Lazarus League
+|cost=1
+|rarity=Uncommon
+|flavor="Dr. Inga had an aquarium filled with the most devilish fish. When she got hurt, I promised her I would take care of her pets. I think Dr. Orechi heard me because the next day I looked like this."
+|artist=Genevieve Bega
+|type=Assistant
+|banner=No
+|size=1
+|ability={{IconLink&#124;Graft}}: [[Spiky Skin]].
+}}
+
+{{怪物火车2-卡牌名片
+|name=Punk Shredder
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_PunkShredder.png
+|clan=[[Banished]]
+|cost=1
+|rarity=Uncommon
+|flavor="Punk rock will always be there for you when nothing else is."
+|artist=Luke Banke
+|type=Hymnist
+|banner=No
+|size=1
+|ability={{IconLink&#124;Enchant}}: Grant {{IconLink&#124;Trample}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Pyre Chomper
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR PyreChomper.png
+|clan=Hellhorned
+|cost=1
+|rarity=Uncommon
+|flavor=These imps have taken a rather strong liking to the Pyre as a snack food, making them horrible pests aboard my train. Though the sharp crystals don't digest well...
+|artist=Loy Bouttamy
+|type=Imp
+|banner=No
+|size=1
+|ability={{IconLink&#124;Summon}}: Gain {{Ember&#124;4}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Pyreblooded
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Pyreblooded.png
+|clan=[[Pyreborne]]
+|cost=1
+|rarity=Rare
+|flavor=Some dragons take their obsession with gold to a new level. Entranced by the golden hues of the Pyre, these dragons insert pyregel directly into their veins. Somehow, they survive the process.
+|artist=Mary Ngai-Virgo
+|type=Dragon
+|banner=Yes
+|size=1
+|ability={{AbilityBox&#124;Empower&#124;3&#124;Gain {{Attack}} equal to {{IconLink&#124;Pyregel}} stacks on all units.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Queen's Impling
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Queen'sImpling.png
+|clan=Hellhorned
+|cost={{Ember&#124;1}}
+|rarity=Common
+|flavor=In these dreams, the Shardtail has shown me the result of her Exodus: the first cycling imps in the Scorched Plains. I've never encountered these sharded imps in Hell, but their resemblance to those I have met is uncanny. Perhaps these dreams are something more...
+|artist=Loy Bouttamy
+|type=Imp
+|banner=No
+|size={{Capacity&#124;1}}
+|ability={{IconLink&#124;Summon}}: Deal '''16''' damage to the front enemy unit.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Railbeater
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR Railbeater.png
+|clan=Hellhorned
+|cost=1
+|rarity=Uncommon
+|flavor=These Hellhorned are some of the most respected blacksmiths in Hell from spending several cycles on steelwork. Not to mention, they're a fantastic help in the construction of our Rail.
+|artist=Gary Laib
+|type=Demon
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Armor&#124;30}}.<br>{{IconLink&#124;Strike}}: Apply {{IconLink&#124;Melee Weakness&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Rector Flicker
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_RectorFlicker.png
+|clan=Melting Remnant
+|cost=0
+|rarity=Champion
+|flavor=Both priest and gang leader, Rector Flicker has taken advantage of the Armageddon at hand and played the Reformed and the Wickless off each other, creating an endless cycle of profit through deceit. I don't agree much with his methods, but his charm is hard to ignore.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Champion
+|banner=No
+|size=2
+}}
+
+{{怪物火车2-卡牌名片
+|name=Reforming Ooze
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ReformingOoze.png
+|clan=Lazarus League
+|cost=1
+|rarity=Rare
+|flavor="I found it cowering amongst some broken beakers. I think I'll keep it and one day give it to my darling as a pet. If she ever awakens, that is."<br>—Baron Grael
+|artist=Genevieve Bega
+|type=Monstrosity
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Reanimate&#124;1}}.<br>{{IconLink&#124;Reanimated}}: {{Attack&#124;+6}} permanently.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Remnant Host
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_RemnantHost.png
+|clan=Melting Remnant
+|cost=0
+|rarity=Uncommon
+|flavor=Tombs are usually formed as a consequence of some horrible accident when guttering. If a Waxer happens to be caught in the wax drip of another, they can be trapped inside until their host melts away.
+|artist=Andrew Vera
+|type=Tomb
+|banner=No
+|size=1
+|ability={{IconLink&#124;Extinguish}}: Summon 2 [[Draff]] units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Remnant Pact
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_RemnantPact.png
+|clan=[[Melting Remnant]]
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''.<br>Apply {{IconLink&#124;Endless}} to a friendly unit for the rest of the battle.
+|flavor=Despite their age-long feud, the Wickless and the Reformed were able to come to an armistice when the Covenant was formed. That doesn't mean that the rules put in place for their peace were easy to follow.
+|artist=Tammy Chang
+}}
+
+{{怪物火车2-卡牌名片
+|name=Rootseeds
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Rootseeds.png
+|clan=Awoken
+|cost=1
+|rarity=Common
+|effect=Apply {{Attack&#124;+3}}.<br>Draw '''+1''' next turn.
+|flavor=In one of these dreams, that I'm beginning to believe are visions of the past, Wyldenten showed me the creation of the Wildwood itself: seeds taken from Wyldenten's own body. His final gift before his Exile.
+|artist=Brian Mutschler
+}}
+
+{{怪物火车2-卡牌名片
+|name=Rubble Morsel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_RubbleMorsel.png
+|clan=Umbra
+|cost=0
+|rarity=Common
+|flavor=These low ranking Morsels are tasked with clearing out the Crucible of wreck and rubble. As such, there are many of them throughout the Crucible. Slowly, they've taken a liking to me.
+|artist=Anita Tung
+|type=Morsel
+|banner=No
+|size=1
+|ability={{IconLink&#124;Eaten}}: Gain {{Ember&#124;1}}. Eater gains {{Attack&#124;+3}} and {{Health&#124;+3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Sanguine Assistant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_SanguineAssistant.png
+|clan=Lazarus League
+|cost=1
+|rarity=Common
+|flavor="Have you seen the new implants in my teeth? Now, with just a nibble here and there, my body feels as good as new!"
+|artist=Genevieve Bega
+|type=Assistant
+|banner=No
+|size=1
+|ability={{IconLink&#124;Graft}}: [[Vampire's Tooth]].
+}}
+
+{{怪物火车2-卡牌名片
+|name=Scrivener
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Scrivener.png
+|clan=Luna Coven
+|cost=2
+|rarity=Rare
+|flavor="All my books, lost in the Fall. It will take me centuries to rewrite them. I just hope my memory is correct..."
+|artist=Genevieve Bega
+|type=Selene
+|banner=Yes
+|size=1
+|ability={{AbilityBox&#124;Spellweave&#124;2&#124;Draw a non-starter spell and apply {{Ember&#124;-1}}.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Selene Acolyte
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_SeleneAcolyte.png
+|clan=Luna Coven
+|cost=2
+|rarity=Uncommon
+|flavor="During the Plenilune I asked the moon about your fate. Her answer was clear: you will be defeated."
+|artist=Leonardo Dionisi
+|type=Selene
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Mageblade&#124;2}}.<br>{{IconLink&#124;Full Moon}}: {{IconLink&#124;Sweep}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Shadeguard
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Shadeguard.png
+|clan=Luna Coven
+|cost=2
+|rarity=Uncommon
+|flavor=''"When the fighting was done, when we had stopped falling through the skies, I lit my lantern and looked around. All of it, the temple walls, the home I called my own, it was all gone."''
+|artist=Ron Kee
+|type=Silent
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Resolve}}: If it is {{IconLink&#124;New Moon}}, gain {{Attack&#124;+10}} and {{Health&#124;+15}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Shadoweater
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Shadoweater.png
+|clan=Umbra
+|cost={{Ember&#124;2}}
+|rarity=Uncommon
+|flavor=A piece of the Umbra Shroud, blindly searching for morsels and metals to collect, returning them to the collective Shroud consciousness. Though when I say collect, I really mean eat them whole.
+|artist=Brian Mutschler
+|type=Shroud
+|banner=Yes
+|size={{Capacity&#124;3}}
+|ability={{IconLink&#124;Gorge}}: Restore '''10''' health. Deal '''20''' damage to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Shadowsiege
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Shadowsiege.png
+|clan=Umbra
+|cost=4
+|rarity=Rare
+|flavor=I was told that the first Constructs were made of discarded stone and a coordinated Antumbra effort. It is considered a prestigious position among Morsels. These were able to speed up the excavation of the Crucible tenfold.
+|artist=Cameron Archer
+|type=Construct
+|banner=Yes
+|size=6
+|ability={{IconLink&#124;Emberdrain&#124;3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Shard Channeler
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ShardChanneler.png
+|clan=Awoken
+|cost=1
+|rarity=Rare
+|flavor=Rather than nurture and care for the growth of the Wildwood, some Channelers choose to defend and protect it by channeling the power of the Pyre shards embedded throughout the forest, using a method I developed for them.
+|artist=Loy Bouttamy
+|type=Channeler
+|banner=No
+|size=1
+|ability={{IconLink&#124;Spikes}} on friendly units deal '''+1''' damage per stack.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Shardtail Queen
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ShardtailQueen.png
+|clan=Hellhorned
+|cost=0
+|rarity=Champion
+|flavor=In my dreams, I see a demon more powerful than any of the Hellhorned. One with sharded tail and control over all imps. Did she save the Hellhorned from total destruction, this forgotten Queen?
+|artist=Daniel Sarmiento Chuquisengo
+|type=Champion
+|banner=No
+|size=2
+}}
+
+{{怪物火车2-卡牌名片
+|name=Shattered Shell
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ShatteredShell.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|flavor=When Husk Hermits grow too large for their already restrictive shell, they keep the shattered steel pieces for offensive use. Against my wishes, the Channelers have hoarded Pyre shards to further enhance the power of these creatures.
+|artist=Brian Mutschler
+|type=Animus
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Sweep}}.<br>{{IconLink&#124;Slay}}: {{Attack&#124;+3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Shield Steward
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_ShieldSteward.png
+|clan=Clanless
+|cost=1
+|rarity=Common
+|flavor=''After the Boneshaker disappeared, Heph took it upon herself to build upon her father's work. The bulkier train steward design is one of the results of her efforts.''
+|artist=Nicole Anne Alfonso
+|type=Steward
+|banner=Yes
+|size=3
+}}
+
+{{怪物火车2-卡牌名片
+|name=Silent Sentinel
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_SilentSentinel.png
+|clan=Luna Coven
+|cost=1
+|rarity=Uncommon
+|flavor="..."
+|artist=Ron Kee
+|type=Silent
+|banner=Yes
+|size=2
+|ability={{AbilityBox&#124;Spell Slam&#124;3&#124;Restore to full health. Apply {{IconLink&#124;Spell Weakness&#124;1}} to enemy units.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Siren of the Sea
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_SirenOfTheSea.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|flavor=While most of the Stygian Guard is magic focused, these Sirens form a melee contingent of the clan. I've still helped them enchant their blades to reap the benefits of the Titan's power.
+|artist=Zihao Luo
+|type=Siren
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Incant}}: {{Attack&#124;+3}} and {{Health&#124;+3}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Snotty Whelp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_SnottyWhelp.png
+|clan=[[Pyreborne]]
+|cost=1
+|rarity=Common
+|flavor=The carrier whelps are excellent at delivering important materials quickly, just so long as you don't mind a little mucus.
+|artist=Genevieve Bega
+|type=Whelp
+|banner=No
+|size=1
+|ability={{AbilityBox&#124;Gellysneeze&#124;2&#124;Deal '''1''' damage then apply {{IconLink&#124;Pyregel&#124;12}} to the front enemy unit.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Solgard the Martyr
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/Solgard_the_Martyr.webp
+|clan=Stygian Guard
+|cost=0
+|rarity=Champion
+|flavor=For the first time, I've spoken with these dream beings! Solgard, the priest of the Stygian's Titan, spoke of a mass Exodus of martyrs. Martyrs who gave up their souls for the sake of Heaven and Hell. But why does no one living know of this great sacrifice? These answers only create more questions...
+|artist=Aaron Lovett
+|type=Champion
+|banner=No
+|size=2
+|ability={{IconLink&#124;Incant}}: Gain {{IconLink&#124;Shard&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Spear Steward
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD SpearSteward.png
+|clan=Clanless
+|cost=1
+|rarity=Common
+|flavor=The original Boneshaker was built during a time of peace. Herzal had the foresight to build several sentient guards should the worst come to happen. In the end, they've proved quite useful.
+|artist=Nicole Anne Alfonso
+|type=Steward
+|banner=No
+|size=2
+}}
+
+{{怪物火车2-卡牌名片
+|name=Spore Launcher
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_SporeLauncher.png
+|clan=Underlegion
+|cost=2
+|rarity=Uncommon
+|flavor=Pulled into war after the Fatal Elm's destruction, the Spore Launchers never desired weapons and war. All these gentle shroomfolk desired was to reintroduce the native Hell Inferno Mushroom to Hell.
+|artist=Ron Kee
+|type=Shroom
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Rally}}: Apply {{IconLink&#124;Decay&#124;2}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Squad Leader
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_SquadLeader.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|flavor="Come on you sorry sprouts! Get those gills in gear and fight!"
+|artist=Daniel Sarmiento Chuquisengo
+|type=Shroom
+|banner=Yes
+|size=1
+|ability=Grant {{IconLink&#124;Trample}} to [[Funguy]]. {{IconLink&#124;Troop}} adds {{Attack&#124;+2}} per stack.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Stardust Invocation
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_StardustInvocation.png
+|clan=Luna Coven
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''. '''[[Distinct]]'''.<br>'''[[Phase]]'''. Create an '''[[Ephemeral]]''' copy of a spell in your hand.
+|flavor="Take a handful of stardust and whisper an incantation over it. Your spell's power will be doubled."<br>—The Ritual Tome
+|artist=Nicole Anne Alfonso
+}}
+
+{{怪物火车2-卡牌名片
+|name=Steadfast Crusader
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_SteadfastCrusader.png
+|clan=Banished
+|cost=1
+|rarity=Uncommon
+|flavor=Heaven lost their most loyal soldiers when they cast the Crusaders from the Maw's gate.
+|artist=Loy Bouttamy
+|type=Angel
+|banner=Yes
+|size=2
+|ability={{AbilityBox&#124;Slam&#124;2&#124;'''[[Advance]]'''. Deal damage to the front enemy unit equal to this unit's current {{Health}} and {{IconLink&#124;Armor}}.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Steelsinger
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Steelsinger.png
+|clan=Awoken
+|cost=3
+|rarity=Rare
+|flavor="Not of us, but of the Mother," as the Edge Priory says of Steelsingers. I often just nod at their rambling words, accepting them for the insanity they are, but their strange mention of the Mother — a Divinity no doubt — adds an air of validity to this crazy claim.
+|artist=Adam Lee
+|type=Hollow
+|banner=Yes
+|size=4
+|ability={{IconLink&#124;Summon}}: Gain 80 max {{Health}}.<br>{{IconLink&#124;Rejuvenate}}: {{Attack&#124;+3}} permanently.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Steelworker
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR Steelworker.png
+|clan=Hellhorned
+|cost=1
+|rarity=Uncommon
+|flavor=Along with a team of imps, these demons are responsible for the creation of all Hellhorned armor and weapons. While not usually on the front lines, their centuries of working metal gives them a comfortable tendency towards combat.
+|artist=Gary Laib
+|type=Demon
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Resolve}}: Apply {{IconLink&#124;Armor&#124;6}} to friendly units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Steward's Quarters
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_StewardsQuarters.png
+|clan=[[Clanless]]
+|cost=0
+|rarity=Uncommon
+|effect={{Capacity&#124;+1}}. '''[[Shield Steward]]''' and '''[[Spear Steward]]''' units gain {{IconLink&#124;Multistrike&#124;1}} and {{Attack&#124;+20}}.
+|flavor=Once the train car where Herzal kept his creations, Heph now tinkers deep into the night on her father's Stewards.
+|artist=Rithyra Bin
+}}
+
+{{怪物火车2-卡牌名片
+|name=Stuck Up Whelp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_StuckUpWhelp.png
+|clan=[[Pyreborne]]
+|cost=1
+|rarity=Uncommon
+|flavor="I'm not stuck up, I just know you're not worth my time."
+|artist=Loy Bouttamy
+|type=Whelp
+|banner=No
+|size=1
+|ability={{AbilityBox&#124;Expensive Taste&#124;3&#124;Apply {{IconLink&#124;Avarice&#124;2}} to friendly units.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Swordmaiden
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Swordmaiden.png
+|clan=Banished
+|cost=1
+|rarity=Uncommon
+|flavor=When they begin their training, the Swordmaidens chain themselves to their swords. They grow and live with their weapons until it is as much a part of themselves as a limb.
+|artist=Genevieve Bega
+|type=Angel
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Summon}}: Draw an equipment card from your deck. {{IconLink&#124;Artificer}}: Gain {{IconLink&#124;Valor&#124;8}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Talos
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Talos.png
+|clan=Banished
+|cost=0
+|rarity=Champion
+|flavor=Talos has a personal score to settle with Heaven for casting her out. Loyal, passionate, and often terrifying, she is the fearsome right-hand angel and friend to Fel.
+|artist=Luke Banke
+|type=Champion
+|banner=No
+|size=2
+|ability={{AbilityBox&#124;Flight&#124;2&#124;Move to a targeted location on any floor.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Test Subject Alpha
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_TestSubjectAlpha.png
+|clan=Lazarus League
+|cost=3
+|rarity=Uncommon
+|flavor=The first subject of <nowiki>'Operation Pecan'</nowiki> and the only one to have survived the series of experiments to create a fully functional, non-aggressive zombie soldier.
+|artist=Loy Bouttamy
+|type=Monstrosity
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Quick}}. {{IconLink&#124;Sweep}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Tethys Titansbane
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/Tethys Titansbane.webp
+|clan=Stygian Guard
+|cost=0
+|rarity=Champion
+|flavor=Do not be fooled by her harmless demeanor. Tethys was the first to agree to the containment of the Titan for our Covenant's sake. She has since become the most revered member of the Stygian Guard and my most helpful supporter in the defense of Hell.
+|artist=Tammy Chang
+|type=Champion
+|banner=No
+|size=1
+}}
+
+{{怪物火车2-卡牌名片
+|name=The Sentient
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_TheSentient.png
+|clan=Awoken
+|cost=0
+|rarity=Champion
+|flavor=This Hollow was able to sever her connection to the Wildwood, slowly awakening to the prison her soul was trapped in, but still agreeing to champion our Covenant. Now she has repurposed her armor as makeshift shields to keep the rest of the vines at bay, becoming more aggressive with each attempt at recapture.
+|artist=Gary Laib
+|type=Champion
+|banner=No
+|size=2
+}}
+
+{{怪物火车2-卡牌名片
+|name=Thorned Hollow
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_ThornedHollow.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|flavor=There is a clearing in the Wildwood where the vines turn brittle and become covered in thorns. While impossible for me to visit, I've heard that the Hollows that root there are afflicted with a similar transformation.
+|artist=Evan Yovaisis
+|type=Hollow
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Summon}}: Gain 60 max {{Health}}.<br>{{IconLink&#124;Rejuvenate}}: Gain {{IconLink&#124;Spikes&#124;4}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Titan Sentry
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_TitanSentry.png
+|clan=Stygian Guard
+|cost=1
+|rarity=Uncommon
+|flavor=Stationed all across the Sea floor, generations of these Guardians have been tasked with the protection of the Unnamed Titan. Their role was entirely ceremonial until now.
+|artist=Luke Banke
+|type=Siren
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Revenge}}: Apply {{IconLink&#124;Frostbite&#124;3}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Torch
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_Torch.png
+|clan=Hellhorned
+|cost=1
+|rarity=Common
+|effect=Deal '''3''' damage.
+|flavor=The Hellhorned have learned to live with the unpredictability of the Scorched Plains, even going so far as to retain some of the flaming boulders for themselves, despite my attempts to dissuade them.
+|artist=Loy Bouttamy''
+}}
+
+{{怪物火车2-卡牌名片
+|name=Transcendimp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR Transcendimp.png
+|clan=Hellhorned
+|cost={{Ember&#124;2}}
+|rarity=Rare
+|flavor=''When a demon dies under the weight of their horns, they are reborn as impish infants, restarting their molting cycle. These imps are quite possibly the most powerful Hellhorned in existence -  seeing all that has come before and all that will come after. While this power is lost upon their first molting, they've been crucial in my research of their Ring.''
+|artist=Loy Bouttamy
+|type=Imp
+|banner=No
+|size={{Capacity&#124;1}}
+|ability=When played, repeat all {{IconLink&#124;Summon}} effects triggered so far this battle.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Truffles
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Truffles.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|flavor="Mush-woof!"
+|artist=Mary Ngai-Virgo
+|type=Shroom
+|banner=No
+|size=1
+|ability={{AbilityBox&#124;Fetch&#124;2&#124;Add a random [[Equipment]] with '''[[Ephemeral]]''' to your hand and apply {{Ember&#124;-1}}.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Twisted Assistant
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_TwistedAssistant.png
+|clan=Lazarus League
+|cost=1
+|rarity=Common
+|flavor="Dr. Inga was the only one who would look at me like a human, not a creation."
+|artist=Loy Bouttamy
+|type=Assistant
+|banner=No
+|size=1
+|ability={{IconLink&#124;Graft}}: [[Twisted Back]].
+}}
+
+{{怪物火车2-卡牌名片
+|name=Unearth Treasure
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/CRD_UnearthTreasure.png
+|clan=Underlegion
+|cost=1
+|rarity=Rare
+|effect='''[[Consume]]'''. '''[[Distinct]]'''.<br>Return '''1''' random spell from your consume pile that isn't Unearth Treasure. If there are at least '''5''' cards in the consume pile, return '''1''' more.
+|flavor=Beneath the mulch in the Wild Woods, treasure from before the Covenant can be found.
+|artist=Herrick Ong
+}}
+
+{{怪物火车2-卡牌名片
+|name=Upbeat Warbler
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_UpbeatWarbler.png
+|clan=Banished
+|cost=1
+|rarity=Common
+|flavor="Some souls live with rage in their hearts, others with a song. Anyway, does anyone know what this brass thing is? It sure does make a groovy sound."
+|artist=Luke Banke
+|type=Hymnist
+|banner=No
+|size=1
+|ability={{IconLink&#124;Enchant}}: Grant {{IconLink&#124;Quick}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Vinemother
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Vinemother.png
+|clan=Awoken
+|cost=1
+|rarity=Rare
+|flavor=These Awoken focus solely on the reproduction of the Wildwood, shedding their steel armor to further spread their thorns with each new surge of life. The Mothers are quite small in stature, but the shell around them provides immense natural protection. Along with the Channelers, they've been indispensable guides during my time in the Wildwood.
+|artist=Tammy Chang
+|type=Hollow
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;End of Turn&#124;png=EndOfTurn}}: '''[[Sting]]''' spells in your deck gain '''+4 [[Magic Power]]'''.<br>{{AbilityBox&#124;Vinewrath&#124;2&#124;Add 2 [[Sting]] spells to hand.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Votivary
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Votivary.png
+|clan=Melting Remnant
+|cost=0
+|rarity=Uncommon
+|flavor=These Reformed attendants of the Votive Houses are some of my closest allies throughout the Ring. Their reduced stature gives them a natural affinity for the weak, finding them to be kindred spirits of sorts. Their sharp resin hands, however, make their embrace of these fellow souls considerably more dangerous.
+|artist=Anita Tung
+|type=Waxer
+|banner=No
+|size=1
+|ability={{IconLink&#124;Endless}}.<br>{{IconLink&#124;Extinguish}}: Draw '''+2''' next turn.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Waxcap
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR WaxCap.png
+|clan=Underlegion
+|cost=1
+|rarity=Uncommon
+|flavor="Why is it so sticky everywhere I go?"
+|artist=Daniel Sarmiento Chuquisengo
+|type=Shroom
+|banner=No
+|size=1
+|ability={{IconLink&#124;Summon}}: Apply {{IconLink&#124;Sap&#124;3}} to enemy units.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Wealthy Whelp
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_WealthyWhelp.png
+|clan=[[Pyreborne]]
+|cost={{Ember&#124;1}}
+|rarity=Uncommon
+|flavor=Keen business dragons with an eye for all that sparkle. They hold their coins close to their chest.
+|artist=Loy Bouttamy
+|type=Whelp
+|banner=No
+|size={{Capacity&#124;1}}
+|ability={{AbilityBox&#124;Moneymaker&#124;2&#124;Gain {{Gold&#124;5}} for each {{DragonsHoard}}.}}
+}}
+
+{{怪物火车2-卡牌名片
+|name=Welder Helper
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR WelderHelper.png
+|clan=Hellhorned
+|cost=1
+|rarity=Common
+|flavor=''It was a surprise to learn that even the imps craft weapons and armor for the Hellhorned. Instead of hammers, they use their innate control of fire.''
+|artist=Loy Bouttamy
+|type=Imp
+|banner=No
+|size=1
+|ability={{IconLink&#124;Summon}}: Apply '''[[Armor]] 20''' to the front friendly unit.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Wickless Baron
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_WicklessBaron.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Uncommon
+|flavor=Some Waxers would prefer to stay in this Ring of Hell, finding their current predicament to be rather comfortable. Even fewer will decide to make that choice more permanent by removing their wicks entirely.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Wickless
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Harvest}}: {{Attack&#124;+5}} and {{Health&#124;+5}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Wickless Tycoon
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_WicklessTycoon.png
+|clan=Melting Remnant
+|cost=1
+|rarity=Uncommon
+|flavor=These wealthy residents of Hell are considered among the few to reside in the upper echelon of Remnant Society. They pay the bills for the endeavors of the Wickless, partial to the benefits it allows them. And since the Rail has brought them much business, some of that coin has made its way to our train.
+|artist=Daniel Sarmiento Chuquisengo
+|type=Wickless
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Harvest}}: gain {{Gold&#124;+10}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Wildwood Custodian
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_WildwoodCustodian.png
+|clan=Awoken
+|cost=1
+|rarity=Uncommon
+|flavor=Once a soul has been transformed and released again from the vines, they are forever bound as a caretaker to the Wildwood. From my time with them it is clear that these Channelers take pride in aiding souls who have yet to be released.
+|artist=Loy Bouttamy
+|type=Channeler
+|banner=No
+|size=1
+|ability=Draw +1 each turn.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Wilting Sapwood
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_WiltingSapwood.png
+|clan=Awoken
+|cost=2
+|rarity=Rare
+|flavor=As an Awoken prepares to leave its physical being to become a custodian of the Wildwood, they harden their bark for ensured protection. I've observed that they also put down more roots with each step towards death, strengthening the entire Wildwood in the process.
+|artist=Evan Yovaisis
+|type=Hollow
+|banner=Yes
+|size=3
+|ability={{IconLink&#124;Revenge}}: Gain {{Ember&#124;1}}.
+}}
+
+{{怪物火车2-卡牌名片
+|name=Wyldenten
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Wyldenten.png
+|clan=Awoken
+|cost=0
+|rarity=Champion
+|flavor=Something in the Wildwood unsettles my mind, granting me visions of its very Roots when I rest there. But these Roots form a creature predating both Hollows and Channelers. Was there some soul before the Wildwood?
+|artist=Brian Mutschler
+|type=Champion
+|banner=No
+|size=3
+}}
+
+{{怪物火车2-卡牌名片
+|name=Zealot
+|image=https://monstertrain2.miraheze.org/wiki/Special:FilePath/PLR_Zealot.png
+|clan=[[Pyreborne]]
+|cost=3
+|rarity=Rare
+|flavor=Debtors to the Pyreborne imprisoned in The Pit learn that the Zealot's tongue is just as harsh as their whip.
+|artist=Luke Banke
+|type=Dragon
+|banner=Yes
+|size=2
+|ability={{IconLink&#124;Sweep}}.<br>{{IconLink&#124;Action}}: Apply {{IconLink&#124;Pyregel&#124;5}} to enemy units.
+}}

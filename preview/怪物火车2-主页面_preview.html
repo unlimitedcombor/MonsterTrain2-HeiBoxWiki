@@ -1,0 +1,225 @@
+<!-- 怪物火车2 - 数据库主页面 -->
+<div class="mt2-home">
+    <!-- 顶部 -->
+    <div class="mt2-home-hero">
+        <div class="mt2-home-title">怪物火车 2 数据库</div>
+        <div class="mt2-home-subtitle">Monster Train 2 Wiki Database</div>
+    </div>
+
+    <!-- 搜索 -->
+    <div class="mt2-home-search">
+        <div class="mt2-search-hint">在本百科中搜索卡牌/敌人/神器名称即可快速定位</div>
+    </div>
+
+    <!-- 分类卡片 -->
+    <div class="mt2-home-grid">
+
+        
+        <div class="mt2-home-card mt2-type-unit">
+            <div class="mt2-home-card-icon">⚔</div>
+            <div class="mt2-home-card-title">单位</div>
+            <div class="mt2-home-card-count">177 张</div>
+            <div class="mt2-home-card-clans"></div>
+        </div>
+        
+
+        
+        <div class="mt2-home-card mt2-type-spell">
+            <div class="mt2-home-card-icon">📜</div>
+            <div class="mt2-home-card-title">法术</div>
+            <div class="mt2-home-card-count">239 张</div>
+            <div class="mt2-home-card-clans"></div>
+        </div>
+        
+
+        
+        <div class="mt2-home-card mt2-type-equip">
+            <div class="mt2-home-card-icon">🗡</div>
+            <div class="mt2-home-card-title">装备</div>
+            <div class="mt2-home-card-count">39 张</div>
+            <div class="mt2-home-card-clans"></div>
+        </div>
+        
+
+        
+        <div class="mt2-home-card mt2-type-room">
+            <div class="mt2-home-card-icon">🏠</div>
+            <div class="mt2-home-card-title">房间</div>
+            <div class="mt2-home-card-count">21 张</div>
+            <div class="mt2-home-card-clans"></div>
+        </div>
+        
+
+        
+        <div class="mt2-home-card mt2-type-enemy">
+            <div class="mt2-home-card-icon">💀</div>
+            <div class="mt2-home-card-title">敌方单位</div>
+            <div class="mt2-home-card-count">56 个</div>
+            <div class="mt2-home-card-clans"></div>
+        </div>
+        
+
+        
+
+    </div>
+
+    <!-- 氏族浏览 -->
+    <div class="mt2-home-section">
+        <div class="mt2-section-title">按氏族浏览</div>
+        <div class="mt2-clan-list">
+            <span class="mt2-clan-tag">Awoken</span>
+            <span class="mt2-clan-tag">Banished</span>
+            <span class="mt2-clan-tag">Hellhorned</span>
+            <span class="mt2-clan-tag">Lazarus League</span>
+            <span class="mt2-clan-tag">Luna Coven</span>
+            <span class="mt2-clan-tag">Melting Remnant</span>
+            <span class="mt2-clan-tag">Pyreborne</span>
+            <span class="mt2-clan-tag">Railforged</span>
+            <span class="mt2-clan-tag">Stygian Guard</span>
+            <span class="mt2-clan-tag">Umbra</span>
+            <span class="mt2-clan-tag">Underlegion</span>
+            <span class="mt2-clan-tag">Wurmkin</span>
+            <span class="mt2-clan-tag">Clanless</span>
+        </div>
+    </div>
+
+    <!-- 页脚 -->
+    <div class="mt2-home-footer">
+        数据来源: <a href="https://monstertrain2.miraheze.org">Monster Train 2 Wiki</a> | 最后更新: 2026-06-22
+    </div>
+</div>
+
+<style>
+    .mt2-home {
+        max-width: 800px;
+        margin: 0 auto;
+        font-family: "Microsoft YaHei", sans-serif;
+        color: #d0c8b0;
+    }
+
+    /* === Hero === */
+    .mt2-home-hero {
+        text-align: center;
+        padding: 30px 20px 20px;
+        background: linear-gradient(180deg, #1a1020, #0d0d1a);
+        border-radius: 8px;
+        margin-bottom: 16px;
+    }
+
+    .mt2-home-title {
+        font-size: 28px;
+        font-weight: bold;
+        color: #f0c060;
+        text-shadow: 0 0 16px rgba(200,150,50,0.3);
+    }
+
+    .mt2-home-subtitle {
+        font-size: 14px;
+        color: #8a7a6a;
+        margin-top: 4px;
+    }
+
+    /* === 搜索提示 === */
+    .mt2-home-search {
+        text-align: center;
+        padding: 14px;
+        background: rgba(200,150,50,0.06);
+        border: 1px solid #2a1a30;
+        border-radius: 6px;
+        margin-bottom: 20px;
+    }
+
+    .mt2-search-hint {
+        font-size: 13px;
+        color: #a09080;
+    }
+
+    /* === 分类卡片网格 === */
+    .mt2-home-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 14px;
+        margin-bottom: 24px;
+    }
+
+    .mt2-home-card {
+        background: linear-gradient(180deg, #1a1020, #0d0d1a);
+        border: 2px solid #3a2a40;
+        border-radius: 8px;
+        padding: 18px 16px;
+        text-align: center;
+        transition: border-color 0.2s;
+    }
+
+    .mt2-type-unit  { border-color: #c8a96e; }
+    .mt2-type-spell { border-color: #4070c0; }
+    .mt2-type-equip { border-color: #c8a040; }
+    .mt2-type-room  { border-color: #40a060; }
+    .mt2-type-enemy { border-color: #a04030; }
+    .mt2-type-artifact { border-color: #5080c0; }
+
+    .mt2-home-card-icon {
+        font-size: 36px;
+        margin-bottom: 6px;
+    }
+
+    .mt2-home-card-title {
+        font-size: 18px;
+        font-weight: bold;
+        color: #e0d5c0;
+    }
+
+    .mt2-home-card-count {
+        font-size: 24px;
+        font-weight: bold;
+        color: #f0c060;
+        margin: 4px 0;
+    }
+
+    .mt2-home-card-clans {
+        font-size: 11px;
+        color: #6a5a4a;
+        line-height: 1.5;
+    }
+
+    /* === 氏族标签 === */
+    .mt2-home-section {
+        margin-bottom: 20px;
+    }
+
+    .mt2-section-title {
+        font-size: 16px;
+        font-weight: bold;
+        color: #c8a96e;
+        margin-bottom: 10px;
+        padding-left: 10px;
+        border-left: 3px solid #c8a96e;
+    }
+
+    .mt2-clan-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    .mt2-clan-tag {
+        padding: 4px 14px;
+        background: rgba(200,150,50,0.1);
+        border: 1px solid #3a2a20;
+        border-radius: 4px;
+        font-size: 12px;
+        color: #c8a960;
+    }
+
+    /* === 页脚 === */
+    .mt2-home-footer {
+        text-align: center;
+        padding: 16px;
+        font-size: 11px;
+        color: #4a3a2a;
+    }
+
+    .mt2-home-footer a {
+        color: #6a5a40;
+    }
+</style>

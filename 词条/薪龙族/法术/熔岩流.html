@@ -1,0 +1,173 @@
+<!-- 怪物火车2 - 法术卡片 -->
+<div class="mt2-card">
+    <div class="mt2-card-header">
+        <div class="mt2-card-title">熔岩流</div>
+        <div class="mt2-card-rarity mt2-rarity-Common">普通</div>
+    </div>
+
+    <div class="mt2-card-image">
+        <img src="https://cdn.max-c.com/wiki/2742830/CRD_LavaFlow.png?v=1" alt="熔岩流">
+    </div>
+
+    <div class="mt2-card-attributes">
+        <div class="mt2-attr">
+            <span class="mt2-attr-label">费用</span>
+            <span class="mt2-attr-value mt2-ember"><img src="https://cdn.max-c.com/wiki/2742830/Ember.png?v=1" class="mt2-icon"> 
+                0
+            </span>
+        </div>
+    </div>
+
+    <div class="mt2-card-ability">
+        <span class="mt2-ability-text">
+            <b>消耗</b>. 对所有敌方单位施加<img src="https://cdn.max-c.com/wiki/2742830/Pyregel.png?v=1">薪火熔胶4
+        </span>
+    </div>
+
+    <div class="mt2-card-flavor">
+        <i>"当地狱结冰时，薪龙族洞六下的熔岩河也冻住了。薪龙族融化来自天上的冰后，这条河也恢复了往日的活力。"</i>
+    </div>
+
+    <div class="mt2-card-artist">
+        画师: Luke Banke
+    </div>
+</div>
+
+<style>
+    .mt2-card img { display: inline !important; vertical-align: middle !important; }
+    .mt2-card {
+        width: 100%;
+        max-width: 400px;
+        background: linear-gradient(180deg, #1a1020 0%, #0d0d1a 100%);
+        border: 2px solid #dc0051;
+        border-radius: 8px;
+        overflow: hidden;
+        font-family: "Microsoft YaHei", sans-serif;
+        color: #e0d5c0;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+        margin: 10px auto;
+    }
+
+    .mt2-card-header {
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        padding: 8px 14px;
+        background: linear-gradient(180deg, #2a1a30, #1a1020);
+        border-bottom: 1px solid #3a2a40;
+    }
+
+    .mt2-card-title {
+        font-size: 18px;
+        font-weight: bold;
+        color: #f0e0c0;
+        text-shadow: 0 0 8px rgba(220,0,81,0.3);
+    }
+
+    .mt2-card-rarity {
+        margin-left: auto;
+        font-size: 11px;
+        padding: 2px 10px;
+        border-radius: 3px;
+        font-weight: bold;
+        letter-spacing: 1px;
+    }
+    .mt2-rarity-Common { background: #4a5a4a; color: #b0c0b0; }
+    .mt2-rarity-Uncommon { background: #1a3050; color: #60a0f0; }
+    .mt2-rarity-Rare { background: #2a1040; color: #c080f0; }
+    .mt2-rarity-Champion { background: #4a1a1a; color: #f06040; }
+
+    .mt2-card-image {
+        text-align: center;
+        padding: 12px 0;
+        background: radial-gradient(ellipse, #1a1a30 0%, #0d0d1a 100%);
+    }
+    .mt2-card-image img { display: block !important; margin: 0 auto !important; max-height: 280px; }
+
+    .mt2-card-attributes {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 6px 8px;
+        background: rgba(0,0,0,0.3);
+        border-top: 1px solid #2a1a30;
+        gap: 4px;
+    }
+
+    .mt2-attr {
+        flex: 1 1 auto;
+        min-width: 60px;
+        text-align: center;
+        padding: 4px 6px;
+    }
+
+    .mt2-attr-label {
+        display: block;
+        font-size: 10px;
+        color: #986070;
+        letter-spacing: 1px;
+    }
+
+    .mt2-attr-value {
+        display: block;
+        font-size: 14px;
+        color: #e0d5c0;
+        font-weight: bold;
+    }
+
+    .mt2-ember { color: #f0a030; }
+
+    .mt2-icon { width: 15px; height: 15px; vertical-align: middle; margin-right: 2px; }
+
+    .mt2-card-ability {
+        padding: 10px 14px;
+        background: rgba(220,0,81,0.08);
+        border-top: 1px solid #2a1a30;
+        border-left: 3px solid #dc0051;
+    }
+
+    .mt2-ability-text {
+        font-size: 13px;
+        color: #d0c8b0;
+        line-height: 1.8;
+    }
+
+    .mt2-card-flavor {
+        padding: 10px 14px;
+        font-size: 12px;
+        color: #805060;
+        text-align: center;
+        font-style: italic;
+        border-top: 1px solid #1a1a2a;
+    }
+
+    .mt2-card-artist {
+        padding: 6px 14px;
+        font-size: 10px;
+        color: #909090;
+        text-align: right;
+        border-top: 1px solid #1a1a2a;
+    }
+
+    a { color: inherit !important; }
+</style>
+<script>
+    function changeRarity(newRarity) {
+        const rarityElement = document.querySelector('.mt2-card-rarity');
+        const oldRarity = rarityElement.innerText;
+
+        const rarityMap = {
+            "普通": "mt2-rarity-Common",
+            "高级": "mt2-rarity-Uncommon",
+            "稀有": "mt2-rarity-Rare",
+            "初始卡": "mt2-rarity-Champion",
+        };
+
+        if (rarityMap[oldRarity]) {
+            rarityElement.classList.remove(rarityMap[oldRarity]);
+        }
+        rarityElement.classList.add(rarityMap[newRarity]);
+        rarityElement.innerText = newRarity;
+    }
+
+    changeRarity('普通');
+</script>

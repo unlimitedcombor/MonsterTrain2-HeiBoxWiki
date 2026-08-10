@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "f:\\MonsterTrain2-HeiBoxWiki\\logs\\.4f7d5da09556a5bca981d6f8ffb1997312ced8eb-audit.json",
+    "files": [
+        {
+            "date": 1785758789675,
+            "name": "f:\\MonsterTrain2-HeiBoxWiki\\logs\\mcp-puppeteer-2026-08-03.log",
+            "hash": "18240d9ec454f44bc0673dabbaa3332d078e55a52dd2b392d48eaaec8f5fb6a5"
+        },
+        {
+            "date": 1786377272336,
+            "name": "f:\\MonsterTrain2-HeiBoxWiki\\logs\\mcp-puppeteer-2026-08-10.log",
+            "hash": "88de883ff9bf6a2d09e880d60246214cc87bdaa68687f47d1ae1e6527b368cf9"
+        },
+        {
+            "date": 1786379678213,
+            "name": "f:\\MonsterTrain2-HeiBoxWiki\\logs\\mcp-puppeteer-2026-08-11.log",
+            "hash": "cdaf74e6d30d66246a0091f66625d6720dbc6b4906b561b7614c3c0914c69621"
+        }
+    ],
+    "hashType": "sha256"
+}

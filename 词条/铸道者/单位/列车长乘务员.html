@@ -1,25 +1,25 @@
 <div class="mt2-card">
     <!-- 卡牌头部 -->
     <div class="mt2-card-header">
-        <div class="mt2-card-title">狂热者</div>
+        <div class="mt2-card-title">列车长乘务员</div>
         <div class="mt2-card-rarity mt2-rarity-Common">普通</div>
     </div>
 
     <!-- 卡牌图片 -->
     <div class="mt2-card-image">
-        <img src="https://cdn.max-c.com/wiki/2742830/PLR_Zealot.png?v=1" alt="狂热者">
+        <img src="https://cdn.max-c.com/wiki/2742830/PLR_ConductorSteward.png?v=1" alt="列车长乘务员">
     </div>
 
     <!-- 基础属性行 -->
     <div class="mt2-card-attributes">    
         <div class="mt2-attr">
             <span class="mt2-attr-label">类型</span>
-            <span class="mt2-attr-value">龙</span>
+            <span class="mt2-attr-value">机器人</span>
         </div>
         <div class="mt2-attr">
             <span class="mt2-attr-label">费用</span>
-            <span class="mt2-attr-value mt2-ember"><img src="https://cdn.max-c.com/wiki/2742830/Ember.png?v=1" class="mt2-icon"> 
-                3
+            <span class="mt2-attr-value mt2-ember"><img src="https://cdn.max-c.com/wiki/2742830/Ember.png?v=1" class="mt2-icon">
+                2
             </span>
         </div>
         <div class="mt2-attr">
@@ -44,34 +44,24 @@
         <div class="mt2-stat-divider"></div>
         <div class="mt2-stat">
             <img src="https://cdn.max-c.com/wiki/2742830/Health.png?v=1" class="mt2-stat-icon">
-            <div class="mt2-stat-num">20</div>
+            <div class="mt2-stat-num">10</div>
             <div class="mt2-stat-label">生命值</div>
         </div>
     </div>
-
-    <!-- 能力 -->
     
     <div class="mt2-card-ability">
         <span class="mt2-ability-text">
-            <img src="https://cdn.max-c.com/wiki/2742830/Sweep.png?v=1">横扫. <br>
-            <img src="https://cdn.max-c.com/wiki/2742830/Action.png?v=1">行动，对所有敌方单位施加<img src="https://cdn.max-c.com/wiki/2742830/Pyregel.png?v=1">薪火熔胶5
+            <img src="https://cdn.max-c.com/wiki/2742830/Rally.png?v=1">集结：使被召唤的单位获得+5<img src="https://cdn.max-c.com/wiki/2742830/Attack.png?v=1">和+5<img src="https://cdn.max-c.com/wiki/2742830/Health.png?v=1">. <br>
+            <img src="https://cdn.max-c.com/wiki/2742830/AbilityActive.png?v=1">能力：火车汽笛. 冷却3. 友方单位立即发动攻击.
         </span>
     </div>
     
-
-
-
-    <!-- 风味文字 -->
-    
     <div class="mt2-card-flavor">
-        <i>"被薪龙族囚禁在深渊的欠债人知道，狂热者的舌头和鞭子一样无情。"</i>
+        <i>"这些列车长并没有接收到指令，却本能地知道火车何时停靠，何时发车。它们还有一项独特的本领，就是通过汽笛声交流，从而更高效地协调火车上的部队。"</i>
     </div>
     
-
-    <!-- 画师 -->
-    
     <div class="mt2-card-artist">
-        画师: Luke Banke
+        画师: Ron Kee
     </div>
     
 </div>
@@ -83,7 +73,7 @@
         width: 100%;
         max-width: 400px;
         background: linear-gradient(180deg, #1a1020 0%, #0d0d1a 100%);
-        border: 2px solid #dc0051;
+        border: 2px solid #c6b19c;
         border-radius: 8px;
         overflow: hidden;
         font-family: "Microsoft YaHei", sans-serif;
@@ -96,8 +86,7 @@
     .mt2-card-header {
         display: flex !important;
         justify-content: space-between !important;
-        align-items: center !important;
-        padding: 8px 14px;
+        align-items: center !important;padding: 8px 14px;
         background: linear-gradient(180deg, #2a1a30, #1a1020);
         border-bottom: 1px solid #3a2a40;
     }
@@ -106,7 +95,7 @@
         font-size: 18px;
         font-weight: bold;
         color: #f0e0c0;
-        text-shadow: 0 0 8px rgba(220,0,81,0.3);
+        text-shadow: 0 0 8px rgba(198,177,156,0.3);
     }
 
     /* 稀有度标签 */
@@ -151,7 +140,7 @@
     .mt2-attr-label {
         display: block;
         font-size: 10px;
-        color: #986070;
+        color: #8a7a6a;
         text-transform: uppercase;
         letter-spacing: 1px;
     }
@@ -168,7 +157,7 @@
     }
 
     .mt2-capacity {
-        color: #986070;
+        color: #8a7a6a;
     }
 
     /* 战斗属性 */
@@ -207,14 +196,14 @@
 
     .mt2-stat-label {
         font-size: 10px;
-        color: #986070;
+        color: #8a7a6a;
         letter-spacing: 1px;
     }
 
     .mt2-stat-divider {
         width: 1px;
         height: 50px;
-        background: linear-gradient(0deg, transparent, #dc0051, transparent);
+        background: linear-gradient(0deg, transparent, #c6b19c, transparent);
     }
 
     /* 能力 */
@@ -222,16 +211,18 @@
         display: flex;
         align-items: center;
         padding: 10px 14px;
-        background: rgba(220,0,81,0.08);
+        background: rgba(198,177,156,0.08);
         border-top: 1px solid #2a1a30;
-        border-left: 3px solid #dc0051;
+        border-left: 3px solid #c6b19c;
     }
+
     .mt2-ability-label {
         font-size: 13px;
-        color: #dc0051;
+        color: #c6b19c;
         font-weight: bold;
         margin-right: 6px;
         flex-shrink: 0;
+        line-height: 1.8;
     }
 
     .mt2-ability-text {
@@ -244,7 +235,7 @@
     .mt2-card-flavor {
         padding: 10px 14px;
         font-size: 12px;
-        color: #805060;
+        color: #6a5a4a;
         text-align: center;
         font-style: italic;
         border-top: 1px solid #1a1a2a;
@@ -282,5 +273,5 @@
         rarityElement.innerText = newRarity;
     }
 
-    changeRarity('稀有');
+    changeRarity('高级');
 </script>
